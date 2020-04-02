@@ -1,0 +1,463 @@
+{
+    "13150": {
+        "id": "13150",
+        "name": "Branch",
+        "displayName": "Branch [3]",
+        "aegisName": "branch",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "RIFLE",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 9,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 3000,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            }
+        }
+    },
+    "13151": {
+        "id": "13151",
+        "name": "Ciclone",
+        "displayName": "Ciclone [1]",
+        "aegisName": "the_cyclone",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "RIFLE",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 9,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 17500,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 24
+            }
+        }
+    },
+    "13152": {
+        "id": "13152",
+        "name": "Ciclone",
+        "displayName": "Ciclone [2]",
+        "aegisName": "the_cyclone_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "RIFLE",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 9,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 17500,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 24
+            }
+        }
+    },
+    "13153": {
+        "id": "13153",
+        "name": "Crepúsculo",
+        "displayName": "Crepúsculo [1]",
+        "aegisName": "dusk",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "RIFLE",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 9,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 23500,
+        "weight": 75,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 56
+            }
+        }
+    },
+    "13163": {
+        "id": "13163",
+        "name": "Rifle de Alcance",
+        "displayName": "Rifle de Alcance",
+        "aegisName": "long_barrel",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "RIFLE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 40000,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "13164": {
+        "id": "13164",
+        "name": "Rifle de Alcance",
+        "displayName": "Rifle de Alcance [1]",
+        "aegisName": "long_barrel_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "RIFLE",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 40000,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "13165": {
+        "id": "13165",
+        "name": "Carabina",
+        "displayName": "Carabina",
+        "aegisName": "jungle_carbine",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "RIFLE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 170,
+            "refinable": true
+        },
+        "price": 56000,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "13166": {
+        "id": "13166",
+        "name": "Carabina",
+        "displayName": "Carabina [1]",
+        "aegisName": "jungle_carbine_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "RIFLE",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 170,
+            "refinable": true
+        },
+        "price": 56000,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "13170": {
+        "id": "13170",
+        "name": "Rifle Calibre 12",
+        "displayName": "Rifle Calibre 12 [2]",
+        "aegisName": "lever_action_rifle",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "RIFLE",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 138,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 77,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "13171": {
+        "id": "13171",
+        "name": "Rifle do Soldado",
+        "displayName": "Rifle do Soldado",
+        "aegisName": "bf_rifle1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "RIFLE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13175": {
+        "id": "13175",
+        "name": "Lever Action Rifle",
+        "displayName": "Lever Action Rifle",
+        "aegisName": "lever_action_rifle_c",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "RIFLE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 170,
+            "refinable": false
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            }
+        }
+    },
+    "13176": {
+        "id": "13176",
+        "name": "Rifle Glorioso",
+        "displayName": "Rifle Glorioso",
+        "aegisName": "krieger_rifle1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "RIFLE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 9,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13180": {
+        "id": 13180,
+        "name": "Rifle para Iniciantes",
+        "displayName": "Rifle para Iniciantes [3]",
+        "aegisName": "novice_rifle",
+        "equipData": {
+            "slots": 3,
+            "class": "RIFLE",
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 9,
+            "atk": 50,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 0,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            }
+        }
+    },
+    "13184": {
+        "id": 13184,
+        "name": "Rifle TE",
+        "displayName": "Rifle TE",
+        "aegisName": "te_woe_rifle",
+        "type": "WEAPON",
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            },
+            "level": {
+                "min": 40
+            }
+        },
+        "equipData": {
+            "class": "RIFLE",
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 80,
+            "refinable": false
+        }
+    },
+    "13189": {
+        "id": 13189,
+        "name": "Rifle de Precisão",
+        "displayName": "Rifle de Precisão [2]",
+        "aegisName": "colorscope",
+        "equipData": {
+            "slots": 2,
+            "class": "RIFLE",
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 240,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 1350000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Rebellion": true
+            },
+            "level": {
+                "min": 105
+            }
+        }
+    },
+    "13190": {
+        "id": 13190,
+        "name": "Rifle de Atraso",
+        "displayName": "Rifle de Atraso [1]",
+        "aegisName": "rag203_",
+        "equipData": {
+            "slots": 1,
+            "class": "RIFLE",
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 260,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 1800000,
+        "weight": 130,
+        "restrictions": {
+            "job": {
+                "Rebellion": true
+            },
+            "level": {
+                "min": 140
+            }
+        }
+    },
+    "13195": {
+        "id": 13195,
+        "name": "Rifle de Atraso",
+        "displayName": "Rifle de Atraso",
+        "aegisName": "rag203",
+        "type": "WEAPON",
+        "price": 1800000,
+        "weight": 130,
+        "restrictions": {
+            "job": {
+                "Rebellion": true
+            },
+            "level": {
+                "min": 140
+            }
+        },
+        "equipData": {
+            "class": "RIFLE",
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 260,
+            "refinable": true
+        }
+    },
+    "28255": {
+        "id": "28255",
+        "name": "Rifle Ancestral",
+        "displayName": "Rifle Ancestral [2]",
+        "aegisName": "master_soul_rifle",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "RIFLE",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "atk": 150,
+            "refinable": true
+        },
+        "weight": 100
+    }
+}

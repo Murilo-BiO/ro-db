@@ -1,0 +1,7381 @@
+{
+    "2601": {
+        "id": "2601",
+        "name": "Anel",
+        "displayName": "Anel",
+        "aegisName": "ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 30000,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 20
+            }
+        }
+    },
+    "2602": {
+        "id": "2602",
+        "name": "Brinco",
+        "displayName": "Brinco",
+        "aegisName": "earring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 30000,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 20
+            }
+        }
+    },
+    "2603": {
+        "id": "2603",
+        "name": "Colar",
+        "displayName": "Colar",
+        "aegisName": "necklace",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 30000,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 20
+            }
+        }
+    },
+    "2604": {
+        "id": "2604",
+        "name": "Luvas",
+        "displayName": "Luvas",
+        "aegisName": "glove",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 30000,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 20
+            }
+        }
+    },
+    "2605": {
+        "id": "2605",
+        "name": "Broche",
+        "displayName": "Broche",
+        "aegisName": "brooch",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 30000,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 20
+            }
+        }
+    },
+    "2607": {
+        "id": "2607",
+        "name": "Presilha",
+        "displayName": "Presilha [1]",
+        "aegisName": "clip",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 30000,
+        "weight": 10
+    },
+    "2608": {
+        "id": "2608",
+        "name": "Rosário",
+        "displayName": "Rosário",
+        "aegisName": "rosary",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 15000,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 20
+            }
+        }
+    },
+    "2609": {
+        "id": "2609",
+        "name": "Anel de Caveira",
+        "displayName": "Anel de Caveira",
+        "aegisName": "skul_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 10000,
+        "weight": 10
+    },
+    "2610": {
+        "id": 2610,
+        "name": "Anel de Ouro",
+        "displayName": "Anel de Ouro",
+        "aegisName": "gold_ring",
+        "price": 30000,
+        "weight": 10,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        }
+    },
+    "2611": {
+        "id": 2611,
+        "name": "Anel de Prata",
+        "displayName": "Anel de Prata",
+        "aegisName": "silver_ring",
+        "price": 20000,
+        "weight": 10,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        }
+    },
+    "2612": {
+        "id": "2612",
+        "name": "Anel de Flor",
+        "displayName": "Anel de Flor",
+        "aegisName": "flower_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 1500,
+        "weight": 10
+    },
+    "2613": {
+        "id": "2613",
+        "name": "Anel de Diamante",
+        "displayName": "Anel de Diamante",
+        "aegisName": "diamond_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 45000,
+        "weight": 10
+    },
+    "2614": {
+        "id": "2614",
+        "name": "Olho de Dullahan",
+        "displayName": "Olho de Dullahan",
+        "aegisName": "an_eye_of_dullahan",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 90000,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "2615": {
+        "id": "2615",
+        "name": "Anel de Defesa",
+        "displayName": "Anel de Defesa",
+        "aegisName": "safety_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 5
+        },
+        "price": 75000,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2616": {
+        "id": "2616",
+        "name": "Anel Certeiro",
+        "displayName": "Anel Certeiro",
+        "aegisName": "critical_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 75000,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2617": {
+        "id": "2617",
+        "name": "Luva Sacra",
+        "displayName": "Luva Sacra",
+        "aegisName": "mitten_of_presbyter",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 2,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 35
+            }
+        }
+    },
+    "2618": {
+        "id": "2618",
+        "name": "Coleira de Matyr",
+        "displayName": "Coleira de Matyr",
+        "aegisName": "matyrs_flea_guard",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 2,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 35
+            }
+        }
+    },
+    "2619": {
+        "id": "2619",
+        "name": "Luva de Puxada",
+        "displayName": "Luva de Puxada",
+        "aegisName": "thimble_of_archer",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 10000,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "2620": {
+        "id": "2620",
+        "name": "Anel dos Gatunos",
+        "displayName": "Anel dos Gatunos",
+        "aegisName": "ring_of_rogue",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 10000,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Thief": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "2621": {
+        "id": "2621",
+        "name": "Anel",
+        "displayName": "Anel [1]",
+        "aegisName": "ring_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 30000,
+        "weight": 20,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 90
+            }
+        }
+    },
+    "2622": {
+        "id": "2622",
+        "name": "Brinco",
+        "displayName": "Brinco [1]",
+        "aegisName": "earring_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 30000,
+        "weight": 20,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 90
+            }
+        }
+    },
+    "2623": {
+        "id": "2623",
+        "name": "Colar",
+        "displayName": "Colar [1]",
+        "aegisName": "necklace_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 30000,
+        "weight": 20,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 90
+            }
+        }
+    },
+    "2624": {
+        "id": "2624",
+        "name": "Luva",
+        "displayName": "Luva [1]",
+        "aegisName": "glove_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 30000,
+        "weight": 20,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 90
+            }
+        }
+    },
+    "2625": {
+        "id": "2625",
+        "name": "Broche",
+        "displayName": "Broche [1]",
+        "aegisName": "brooch_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 30000,
+        "weight": 20,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 90
+            }
+        }
+    },
+    "2626": {
+        "id": "2626",
+        "name": "Rosário",
+        "displayName": "Rosário [1]",
+        "aegisName": "rosary_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 15000,
+        "weight": 20,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 90
+            }
+        }
+    },
+    "2627": {
+        "id": "2627",
+        "name": "Cinto",
+        "displayName": "Cinto [1]",
+        "aegisName": "belt",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20000,
+        "weight": 120,
+        "restrictions": {
+            "level": {
+                "min": 25
+            }
+        }
+    },
+    "2628": {
+        "id": "2628",
+        "name": "Bracelete de Aprendiz",
+        "displayName": "Bracelete de Aprendiz [1]",
+        "aegisName": "novice_armlet",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 400,
+        "weight": 20,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            }
+        }
+    },
+    "2629": {
+        "id": "2629",
+        "name": "Megingjard",
+        "displayName": "Megingjard",
+        "aegisName": "magingiorde",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 2
+        },
+        "price": 20,
+        "weight": 800
+    },
+    "2630": {
+        "id": "2630",
+        "name": "Brisingamen",
+        "displayName": "Brisingamen",
+        "aegisName": "brysinggamen",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "level": {
+                "min": 94
+            }
+        }
+    },
+    "2631": {
+        "id": "2631",
+        "name": "Anel de Aniversário",
+        "displayName": "Anel de Aniversário",
+        "aegisName": "first_age_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 1,
+        "weight": 1
+    },
+    "2634": {
+        "id": "2634",
+        "name": "Anel do Noivo",
+        "displayName": "Anel do Noivo",
+        "aegisName": "bridegroom_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "2635": {
+        "id": "2635",
+        "name": "Anel da Noiva",
+        "displayName": "Anel da Noiva",
+        "aegisName": "bride_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "2636": {
+        "id": 2636,
+        "name": "Anel de Ouro",
+        "displayName": "Anel de Ouro",
+        "aegisName": "gold_ring_",
+        "price": 30000,
+        "weight": 10,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        }
+    },
+    "2637": {
+        "id": 2637,
+        "name": "Anel de Prata",
+        "displayName": "Anel de Prata",
+        "aegisName": "silver_ring_",
+        "price": 20000,
+        "weight": 10,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        }
+    },
+    "2640": {
+        "id": "2640",
+        "name": "Anel de Kafra",
+        "displayName": "Anel de Kafra",
+        "aegisName": "kafra_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 40000,
+        "weight": 20,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2641": {
+        "id": "2641",
+        "name": "Bolsa de Mercador",
+        "displayName": "Bolsa de Mercador",
+        "aegisName": "fashionable_sack",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Merchant": true,
+                "Blacksmith": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "2642": {
+        "id": 2642,
+        "name": "Anel de Ouro de Serin",
+        "displayName": "Anel de Ouro de Serin",
+        "aegisName": "serins_gold_ring",
+        "price": 20,
+        "weight": 0,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        }
+    },
+    "2643": {
+        "id": 2643,
+        "name": "Anel de Ouro de Serin",
+        "displayName": "Anel de Ouro de Serin",
+        "aegisName": "serins_gold_ring_",
+        "price": 45000,
+        "weight": 10,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        }
+    },
+    "2644": {
+        "id": 2644,
+        "name": "O Sinal",
+        "displayName": "O Sinal",
+        "aegisName": "the_sign_",
+        "price": 2,
+        "weight": 0,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        }
+    },
+    "2645": {
+        "id": "2645",
+        "name": "Anel do Luar",
+        "displayName": "Anel do Luar",
+        "aegisName": "moonlight_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 40000,
+        "weight": 20,
+        "restrictions": {
+            "job": {
+                "Thief": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "2647": {
+        "id": 2647,
+        "name": "Rosa do Nilo",
+        "displayName": "Rosa do Nilo [1]",
+        "aegisName": "nile_rose",
+        "price": 2,
+        "weight": 10,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        }
+    },
+    "2648": {
+        "id": "2648",
+        "name": "Anel de Morpheus",
+        "displayName": "Anel de Morpheus",
+        "aegisName": "morpheuss_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 30000,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "2649": {
+        "id": "2649",
+        "name": "Bracelete de Morpheus",
+        "displayName": "Bracelete de Morpheus",
+        "aegisName": "morpheuss_armlet",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 30000,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "2650": {
+        "id": "2650",
+        "name": "Cinto de Morrigane",
+        "displayName": "Cinto de Morrigane",
+        "aegisName": "morriganes_belt",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 30000,
+        "weight": 20,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 61
+            }
+        }
+    },
+    "2651": {
+        "id": "2651",
+        "name": "Pingente de Morrigane",
+        "displayName": "Pingente de Morrigane",
+        "aegisName": "morriganes_pendant",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 30000,
+        "weight": 20,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 61
+            }
+        }
+    },
+    "2652": {
+        "id": "2652",
+        "name": "Broche Amald. Deusa Fortuna",
+        "displayName": "Broche Amald. Deusa Fortuna",
+        "aegisName": "cursed_lucky_brooch",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2653": {
+        "id": "2653",
+        "name": "Anel do Sacrifício",
+        "displayName": "Anel do Sacrifício",
+        "aegisName": "sacrifice_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 90
+            }
+        }
+    },
+    "2654": {
+        "id": "2654",
+        "name": "Cinto Shinobi",
+        "displayName": "Cinto Shinobi",
+        "aegisName": "shinobis_sash",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 20000,
+        "weight": 30,
+        "restrictions": {
+            "job": {
+                "Thief": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "2655": {
+        "id": "2655",
+        "name": "Bola de Ferro Ensanguentada",
+        "displayName": "Bola de Ferro Ensanguentada",
+        "aegisName": "bloody_iron_ball",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 50000,
+        "weight": 400,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2656": {
+        "id": "2656",
+        "name": "Talismã da Armadura",
+        "displayName": "Talismã da Armadura",
+        "aegisName": "hyper_changer",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            }
+        }
+    },
+    "2657": {
+        "id": "2657",
+        "name": "Passe do Laboratório",
+        "displayName": "Passe do Laboratório",
+        "aegisName": "lab_passport",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10
+    },
+    "2658": {
+        "id": 2658,
+        "name": "Rosa do Nilo",
+        "displayName": "Rosa do Nilo [1]",
+        "aegisName": "nile_rose_",
+        "price": 2,
+        "weight": 10,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        }
+    },
+    "2659": {
+        "id": "2659",
+        "name": "Núcleo Vesper 01",
+        "displayName": "Núcleo Vesper 01",
+        "aegisName": "vesper_core01",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2660": {
+        "id": "2660",
+        "name": "Núcleo Vesper 02",
+        "displayName": "Núcleo Vesper 02",
+        "aegisName": "vesper_core02",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2661": {
+        "id": "2661",
+        "name": "Núcleo Vesper 03",
+        "displayName": "Núcleo Vesper 03",
+        "aegisName": "vesper_core03",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2662": {
+        "id": "2662",
+        "name": "Núcleo Vesper 04",
+        "displayName": "Núcleo Vesper 04",
+        "aegisName": "vesper_core04",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2663": {
+        "id": "2663",
+        "name": "Manopla Certeira",
+        "displayName": "Manopla Certeira",
+        "aegisName": "gauntlet_of_accuracy",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "2664": {
+        "id": "2664",
+        "name": "Estola",
+        "displayName": "Estola",
+        "aegisName": "scarf_belt",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "2665": {
+        "id": "2665",
+        "name": "Anel do Exorcismo",
+        "displayName": "Anel do Exorcismo",
+        "aegisName": "ring_of_exorcism",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "2666": {
+        "id": "2666",
+        "name": "Lanterna da Fé",
+        "displayName": "Lanterna da Fé",
+        "aegisName": "lamp_of_hope",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10
+    },
+    "2667": {
+        "id": "2667",
+        "name": "Luva do Arqueiro",
+        "displayName": "Luva do Arqueiro",
+        "aegisName": "glove_of_archer",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "2671": {
+        "id": "2671",
+        "name": "Luva de Puxada",
+        "displayName": "Luva de Puxada [1]",
+        "aegisName": "thimble_of_archer_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 10000,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "2677": {
+        "id": "2677",
+        "name": "Anel Espiritual",
+        "displayName": "Anel Espiritual",
+        "aegisName": "spiritual_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10
+    },
+    "2678": {
+        "id": "2678",
+        "name": "Anel do Senhor das Chamas",
+        "displayName": "Anel do Senhor das Chamas",
+        "aegisName": "ring_of_flame_lord",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2679": {
+        "id": "2679",
+        "name": "Anel da Ressonância",
+        "displayName": "Anel da Ressonância",
+        "aegisName": "ring_of_resonance",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 2
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2680": {
+        "id": "2680",
+        "name": "Anel Elemental Menor",
+        "displayName": "Anel Elemental Menor",
+        "aegisName": "lesser_elemental_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10
+    },
+    "2682": {
+        "id": "2682",
+        "name": "Anel da Água",
+        "displayName": "Anel da Água",
+        "aegisName": "ring_of_water",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 20
+            }
+        }
+    },
+    "2683": {
+        "id": "2683",
+        "name": "Anel do Fogo",
+        "displayName": "Anel do Fogo",
+        "aegisName": "ring_of_fire",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 20
+            }
+        }
+    },
+    "2684": {
+        "id": "2684",
+        "name": "Anel do Vento",
+        "displayName": "Anel do Vento",
+        "aegisName": "ring_of_wind",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 20
+            }
+        }
+    },
+    "2685": {
+        "id": "2685",
+        "name": "Anel da Terra",
+        "displayName": "Anel da Terra",
+        "aegisName": "ring_of_earth",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 20
+            }
+        }
+    },
+    "2688": {
+        "id": "2688",
+        "name": "Anel Certeiro [A]",
+        "displayName": "Anel Certeiro [A]",
+        "aegisName": "critical_ring_c",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2689": {
+        "id": "2689",
+        "name": "Brinco [A]",
+        "displayName": "Brinco [A]",
+        "aegisName": "earring_c",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2690": {
+        "id": "2690",
+        "name": "Anel [A]",
+        "displayName": "Anel [A]",
+        "aegisName": "ring_c",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2691": {
+        "id": "2691",
+        "name": "Colar [A]",
+        "displayName": "Colar [A]",
+        "aegisName": "necklace_c",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2692": {
+        "id": "2692",
+        "name": "Luvas [A]",
+        "displayName": "Luvas [A]",
+        "aegisName": "glove_c",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2693": {
+        "id": "2693",
+        "name": "Broche [A]",
+        "displayName": "Broche [A]",
+        "aegisName": "brooch_c",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2694": {
+        "id": "2694",
+        "name": "Rosário [A]",
+        "displayName": "Rosário [A]",
+        "aegisName": "rosary_c",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2695": {
+        "id": "2695",
+        "name": "Anel de Defesa [A]",
+        "displayName": "Anel de Defesa [A]",
+        "aegisName": "safety_ring_c",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 8
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2696": {
+        "id": "2696",
+        "name": "Núcleo Vesper 01 [A]",
+        "displayName": "Núcleo Vesper 01 [A]",
+        "aegisName": "vesper_core01_c",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2697": {
+        "id": "2697",
+        "name": "Núcleo Vesper 02 [A]",
+        "displayName": "Núcleo Vesper 02 [A]",
+        "aegisName": "vesper_core02_c",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2698": {
+        "id": "2698",
+        "name": "Núcleo Vesper 03 [A]",
+        "displayName": "Núcleo Vesper 03 [A]",
+        "aegisName": "vesper_core03_c",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2699": {
+        "id": "2699",
+        "name": "Núcleo Vesper 04 [A]",
+        "displayName": "Núcleo Vesper 04 [A]",
+        "aegisName": "vesper_core04_c",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2700": {
+        "id": "2700",
+        "name": "Brasão de Seda Vermelha",
+        "displayName": "Brasão de Seda Vermelha",
+        "aegisName": "red_silk_seal",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "2701": {
+        "id": "2701",
+        "name": "Luvas de Orleans",
+        "displayName": "Luvas de Orleans [1]",
+        "aegisName": "orleans_glove",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 90
+            }
+        }
+    },
+    "2702": {
+        "id": "2702",
+        "name": "Chifre de Bisão",
+        "displayName": "Chifre de Bisão [1]",
+        "aegisName": "bison_horn",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 90
+            }
+        }
+    },
+    "2703": {
+        "id": "2703",
+        "name": "Anel do Especialista",
+        "displayName": "Anel do Especialista [1]",
+        "aegisName": "expert_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 15,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "2707": {
+        "id": "2707",
+        "name": "Gusli",
+        "displayName": "Gusli",
+        "aegisName": "gusli",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10
+    },
+    "2710": {
+        "id": "2710",
+        "name": "Bola de Ferro Ensangüentada [A]",
+        "displayName": "Bola de Ferro Ensangüentada [A]",
+        "aegisName": "bloody_iron_ball_c",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2715": {
+        "id": "2715",
+        "name": "Anel de Caveira",
+        "displayName": "Anel de Caveira [1]",
+        "aegisName": "skul_ring_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 10000,
+        "weight": 10
+    },
+    "2716": {
+        "id": "2716",
+        "name": "Luva de Bibliotecário",
+        "displayName": "Luva de Bibliotecário [1]",
+        "aegisName": "librarian_glove",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2717": {
+        "id": 2717,
+        "name": "Relógio de Bolso",
+        "displayName": "Relógio de Bolso",
+        "aegisName": "pocket_watch_",
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 80
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        }
+    },
+    "2718": {
+        "id": "2718",
+        "name": "Broche Lunático",
+        "displayName": "Broche Lunático [1]",
+        "aegisName": "lunatic_brooch",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "2719": {
+        "id": "2719",
+        "name": "Pulso de Ferro",
+        "displayName": "Pulso de Ferro",
+        "aegisName": "iron_wrist",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "2720": {
+        "id": 2720,
+        "name": "Medalha de Honra",
+        "displayName": "Medalha de Honra",
+        "aegisName": "medal_swordman",
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 70
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        }
+    },
+    "2721": {
+        "id": 2721,
+        "name": "Medalha de Honra",
+        "displayName": "Medalha de Honra",
+        "aegisName": "medal_thief",
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Thief": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 70
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        }
+    },
+    "2722": {
+        "id": 2722,
+        "name": "Medalha de Honra",
+        "displayName": "Medalha de Honra",
+        "aegisName": "medal_acolyte",
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 70
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        }
+    },
+    "2723": {
+        "id": 2723,
+        "name": "Medalha de Honra",
+        "displayName": "Medalha de Honra",
+        "aegisName": "medal_mage",
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 70
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        }
+    },
+    "2724": {
+        "id": 2724,
+        "name": "Medalha de Honra",
+        "displayName": "Medalha de Honra",
+        "aegisName": "medal_archer",
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 70
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        }
+    },
+    "2725": {
+        "id": 2725,
+        "name": "Medalha de Honra",
+        "displayName": "Medalha de Honra",
+        "aegisName": "medal_merchant",
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Merchant": true,
+                "Blacksmith": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 70
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        }
+    },
+    "2726": {
+        "id": "2726",
+        "name": "Asas de Ícaro",
+        "displayName": "Asas de Ícaro",
+        "aegisName": "icarus_wing",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Hunter": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "2727": {
+        "id": "2727",
+        "name": "Xale do Arqueiro",
+        "displayName": "Xale do Arqueiro",
+        "aegisName": "bowman_scarf",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Hunter": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "2728": {
+        "id": "2728",
+        "name": "Mão Maldita",
+        "displayName": "Mão Maldita [1]",
+        "aegisName": "cursed_hand",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 5,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2729": {
+        "id": "2729",
+        "name": "Anel de Diabolus",
+        "displayName": "Anel de Diabolus [1]",
+        "aegisName": "diabolus_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 5,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2730": {
+        "id": "2730",
+        "name": "Selo da Guarda Continental",
+        "displayName": "Selo da Guarda Continental [1]",
+        "aegisName": "morroc_seal",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 5,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2731": {
+        "id": "2731",
+        "name": "Pedra Encantada de Morroc",
+        "displayName": "Pedra Encantada de Morroc [1]",
+        "aegisName": "morroc_charm_stone",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 5,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2732": {
+        "id": "2732",
+        "name": "Anel de Morroc",
+        "displayName": "Anel de Morroc [1]",
+        "aegisName": "morroc_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 5,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2733": {
+        "id": "2733",
+        "name": "Estrela de Xerife",
+        "displayName": "Estrela de Xerife",
+        "aegisName": "medal_gunner",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "2734": {
+        "id": "2734",
+        "name": "Ordem Oficial A",
+        "displayName": "Ordem Oficial A",
+        "aegisName": "directive_a",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            }
+        }
+    },
+    "2735": {
+        "id": "2735",
+        "name": "Ordem Oficial B",
+        "displayName": "Ordem Oficial B",
+        "aegisName": "directive_b",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            }
+        }
+    },
+    "2736": {
+        "id": "2736",
+        "name": "Piercing da Marinha",
+        "displayName": "Piercing da Marinha",
+        "aegisName": "navel_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "2737": {
+        "id": "2737",
+        "name": "Tornozeleira da Marinha",
+        "displayName": "Tornozeleira da Marinha",
+        "aegisName": "foot_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 15,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "2741": {
+        "id": "2741",
+        "name": "O Zero Anel [A]",
+        "displayName": "O Zero Anel [A]",
+        "aegisName": "all_in_one_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "2743": {
+        "id": "2743",
+        "name": "Anel Angelical",
+        "displayName": "Anel Angelical",
+        "aegisName": "angelic_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "2744": {
+        "id": "2744",
+        "name": "Anel de Corrida",
+        "displayName": "Anel de Corrida",
+        "aegisName": "sprint_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2745": {
+        "id": "2745",
+        "name": "Broche de Pinguicula",
+        "displayName": "Broche de Pinguicula [1]",
+        "aegisName": "pinguicula_corsage",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2746": {
+        "id": "2746",
+        "name": "Coração Frio",
+        "displayName": "Coração Frio",
+        "aegisName": "cold_heart",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2747": {
+        "id": "2747",
+        "name": "Gato Preto",
+        "displayName": "Gato Preto",
+        "aegisName": "black_cat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Rogue": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2748": {
+        "id": "2748",
+        "name": "Estrela Maldita",
+        "displayName": "Estrela Maldita",
+        "aegisName": "cursed_star",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 84
+            }
+        }
+    },
+    "2749": {
+        "id": "2749",
+        "name": "Luva de Linho",
+        "displayName": "Luva de Linho [1]",
+        "aegisName": "linen_glove",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 20,
+        "weight": 12,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 90
+            }
+        }
+    },
+    "2751": {
+        "id": "2751",
+        "name": "Broche de Formatura Mágico",
+        "displayName": "Broche de Formatura Mágico",
+        "aegisName": "academy_badge",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 10
+    },
+    "2753": {
+        "id": "2753",
+        "name": "Anel do Caçador Veterano [A]",
+        "displayName": "Anel do Caçador Veterano [A]",
+        "aegisName": "beholder_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "2754": {
+        "id": "2754",
+        "name": "Anel Caçador de Morto-Vivo[A]",
+        "displayName": "Anel Caçador de Morto-Vivo[A]",
+        "aegisName": "hallow_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "2755": {
+        "id": "2755",
+        "name": "Anel do Ganhador [A]",
+        "displayName": "Anel do Ganhador [A]",
+        "aegisName": "clamorous_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "2756": {
+        "id": "2756",
+        "name": "Anel do Devastador [A]",
+        "displayName": "Anel do Devastador [A]",
+        "aegisName": "chemical_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "2757": {
+        "id": "2757",
+        "name": "Anel do Colecionador de Insetos [A]",
+        "displayName": "Anel do Colecionador de Insetos [A]",
+        "aegisName": "insecticide_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "2758": {
+        "id": "2758",
+        "name": "Anel do Pescador [A]",
+        "displayName": "Anel do Pescador [A]",
+        "aegisName": "fisher_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "2759": {
+        "id": "2759",
+        "name": "Anel do Exorcista [A]",
+        "displayName": "Anel do Exorcista [A]",
+        "aegisName": "decussate_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "2760": {
+        "id": "2760",
+        "name": "Anel do Açougueiro [A]",
+        "displayName": "Anel do Açougueiro [A]",
+        "aegisName": "bloody_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "2761": {
+        "id": "2761",
+        "name": "Anel do Anjo Caído [A]",
+        "displayName": "Anel do Anjo Caído [A]",
+        "aegisName": "satanic_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "2762": {
+        "id": "2762",
+        "name": "Anel do Caçador de Dragões [A]",
+        "displayName": "Anel do Caçador de Dragões [A]",
+        "aegisName": "dragoon_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "2764": {
+        "id": "2764",
+        "name": "Vara de Pescar Pequena",
+        "displayName": "Vara de Pescar Pequena",
+        "aegisName": "small_fishing_rod",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 10,
+        "weight": 25
+    },
+    "2765": {
+        "id": "2765",
+        "name": "Estatueta de Aprendiz",
+        "displayName": "Estatueta de Aprendiz",
+        "aegisName": "novice_figure",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 10
+    },
+    "2766": {
+        "id": "2766",
+        "name": "Estatueta de Espadachin",
+        "displayName": "Estatueta de Espadachin",
+        "aegisName": "swordman_figure",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "2767": {
+        "id": "2767",
+        "name": "Estatueta de Noviço",
+        "displayName": "Estatueta de Noviço",
+        "aegisName": "acolyte_figure",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "2768": {
+        "id": "2768",
+        "name": "Estatueta de Mago",
+        "displayName": "Estatueta de Mago",
+        "aegisName": "mage_figure",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "2769": {
+        "id": "2769",
+        "name": "Estatueta de Arqueiro",
+        "displayName": "Estatueta de Arqueiro",
+        "aegisName": "archer_figure",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "2770": {
+        "id": "2770",
+        "name": "Estatueta de Gatuno",
+        "displayName": "Estatueta de Gatuno",
+        "aegisName": "thief_figure",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "2771": {
+        "id": "2771",
+        "name": "Estatueta de Mercador",
+        "displayName": "Estatueta de Mercador",
+        "aegisName": "merchant_figure",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "2772": {
+        "id": "2772",
+        "name": "Anel Glorioso",
+        "displayName": "Anel Glorioso",
+        "aegisName": "krieger_ring1",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 81
+            }
+        }
+    },
+    "2773": {
+        "id": "2773",
+        "name": "Anel Glorioso Industrializado",
+        "displayName": "Anel Glorioso Industrializado",
+        "aegisName": "krieger_ring2",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 61
+            }
+        }
+    },
+    "2774": {
+        "id": "2774",
+        "name": "Anel Glorioso Barato",
+        "displayName": "Anel Glorioso Barato",
+        "aegisName": "krieger_ring3",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2775": {
+        "id": "2775",
+        "name": "Isca",
+        "displayName": "Isca",
+        "aegisName": "lure",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10
+    },
+    "2782": {
+        "id": "2782",
+        "name": "Anel do Rei Sábio",
+        "displayName": "Anel do Rei Sábio",
+        "aegisName": "ring_of_wise_king",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10
+    },
+    "2783": {
+        "id": "2783",
+        "name": "Anel da Pedra do Olho",
+        "displayName": "Anel da Pedra do Olho [1]",
+        "aegisName": "eyes_stone_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "2784": {
+        "id": "2784",
+        "name": "Caixinha Noite Feliz",
+        "displayName": "Caixinha Noite Feliz",
+        "aegisName": "oh_holy_night",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10
+    },
+    "2787": {
+        "id": "2787",
+        "name": "Broche da Gota d'Água",
+        "displayName": "Broche da Gota d'Água [1]",
+        "aegisName": "waterdrop_brooch",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2788": {
+        "id": "2788",
+        "name": "Brinco de Bradium",
+        "displayName": "Brinco de Bradium [1]",
+        "aegisName": "bradium_earing",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2789": {
+        "id": "2789",
+        "name": "Anel de Bradium",
+        "displayName": "Anel de Bradium [1]",
+        "aegisName": "bradium_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2790": {
+        "id": "2790",
+        "name": "Broche de Bradium",
+        "displayName": "Broche de Bradium [1]",
+        "aegisName": "bradium_brooch",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2794": {
+        "id": 2794,
+        "name": "Anel de Runa Mágica",
+        "displayName": "Anel de Runa Mágica [1]",
+        "aegisName": "magic_stone_ring",
+        "equipData": {
+            "slots": 1,
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "type": "ARMOR",
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "2795": {
+        "id": "2795",
+        "name": "Anel de Maçã Verde",
+        "displayName": "Anel de Maçã Verde",
+        "aegisName": "green_apple_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "2796": {
+        "id": 2796,
+        "name": "Rocha Mágica",
+        "displayName": "Rocha Mágica",
+        "aegisName": "magical_stone",
+        "price": 0,
+        "weight": 20,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        }
+    },
+    "2797": {
+        "id": 2797,
+        "name": "Rocha Mágica",
+        "displayName": "Rocha Mágica",
+        "aegisName": "magical_stone_",
+        "price": 0,
+        "weight": 20,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        }
+    },
+    "2798": {
+        "id": "2798",
+        "name": "Desejo do Arcanjo",
+        "displayName": "Desejo do Arcanjo",
+        "aegisName": "will_of_exhausted_angel",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 20,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "2800": {
+        "id": 2800,
+        "name": "Acelerador",
+        "displayName": "Acelerador [1]",
+        "aegisName": "accelerator",
+        "equipData": {
+            "slots": 1,
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "type": "ARMOR",
+        "price": 100000,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Blacksmith": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "2801": {
+        "id": 2801,
+        "name": "Planador",
+        "displayName": "Planador [1]",
+        "aegisName": "hovering_booster",
+        "equipData": {
+            "slots": 1,
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "type": "ARMOR",
+        "price": 100000,
+        "weight": 200,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Blacksmith": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "2802": {
+        "id": 2802,
+        "name": "Detonador",
+        "displayName": "Detonador [1]",
+        "aegisName": "suicidal_device",
+        "equipData": {
+            "slots": 1,
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "type": "ARMOR",
+        "price": 500000,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Blacksmith": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "2803": {
+        "id": 2803,
+        "name": "Reconfigurador",
+        "displayName": "Reconfigurador [1]",
+        "aegisName": "shape_shifter",
+        "equipData": {
+            "slots": 1,
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "type": "ARMOR",
+        "price": 100000,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Blacksmith": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "2804": {
+        "id": 2804,
+        "name": "Termoregulador",
+        "displayName": "Termoregulador [1]",
+        "aegisName": "cooling_device",
+        "equipData": {
+            "slots": 1,
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "type": "ARMOR",
+        "price": 100000,
+        "weight": 250,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Blacksmith": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "2805": {
+        "id": 2805,
+        "name": "Gerador de Magnetismo",
+        "displayName": "Gerador de Magnetismo [1]",
+        "aegisName": "mag_field_generator",
+        "equipData": {
+            "slots": 1,
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "type": "ARMOR",
+        "price": 100000,
+        "weight": 600,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Blacksmith": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "2806": {
+        "id": 2806,
+        "name": "Gerador de Barreira",
+        "displayName": "Gerador de Barreira [1]",
+        "aegisName": "barrier_builder",
+        "equipData": {
+            "slots": 1,
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 3
+        },
+        "type": "ARMOR",
+        "price": 150000,
+        "weight": 800,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Blacksmith": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "2807": {
+        "id": 2807,
+        "name": "Kit de Reparação",
+        "displayName": "Kit de Reparação [1]",
+        "aegisName": "repair_kit",
+        "equipData": {
+            "slots": 1,
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "type": "ARMOR",
+        "price": 200000,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Blacksmith": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "2808": {
+        "id": 2808,
+        "name": "Gerador de Camuflagem",
+        "displayName": "Gerador de Camuflagem [1]",
+        "aegisName": "camouflage_generator",
+        "equipData": {
+            "slots": 1,
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "type": "ARMOR",
+        "price": 250000,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Blacksmith": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "2809": {
+        "id": 2809,
+        "name": "Resfriador Avançado",
+        "displayName": "Resfriador Avançado [1]",
+        "aegisName": "high_quality_cooler",
+        "equipData": {
+            "slots": 1,
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "type": "ARMOR",
+        "price": 100000,
+        "weight": 250,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Blacksmith": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "2810": {
+        "id": 2810,
+        "name": "Resfriador",
+        "displayName": "Resfriador [1]",
+        "aegisName": "special_cooler",
+        "equipData": {
+            "slots": 1,
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "type": "ARMOR",
+        "price": 100000,
+        "weight": 250,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Blacksmith": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "2819": {
+        "id": "2819",
+        "name": "Manual do Espadachim",
+        "displayName": "Manual do Espadachim",
+        "aegisName": "swordman_manual",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 1,
+                "max": 12
+            }
+        }
+    },
+    "2820": {
+        "id": "2820",
+        "name": "Manual do Gatuno",
+        "displayName": "Manual do Gatuno",
+        "aegisName": "thief_manual",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 1,
+                "max": 12
+            }
+        }
+    },
+    "2821": {
+        "id": "2821",
+        "name": "Manual do Noviço",
+        "displayName": "Manual do Noviço",
+        "aegisName": "acolyte_manual",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 1,
+                "max": 12
+            }
+        }
+    },
+    "2822": {
+        "id": "2822",
+        "name": "Manual do Arqueiro",
+        "displayName": "Manual do Arqueiro",
+        "aegisName": "archer_manual",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 1,
+                "max": 12
+            }
+        }
+    },
+    "2823": {
+        "id": "2823",
+        "name": "Manual do Mercador",
+        "displayName": "Manual do Mercador",
+        "aegisName": "merchant_manual",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 1,
+                "max": 12
+            }
+        }
+    },
+    "2824": {
+        "id": "2824",
+        "name": "Manual do Mago",
+        "displayName": "Manual do Mago",
+        "aegisName": "mage_manual",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 1,
+                "max": 12
+            }
+        }
+    },
+    "2828": {
+        "id": "2828",
+        "name": "Presilha Aprimorada",
+        "displayName": "Presilha Aprimorada [1]",
+        "aegisName": "upg_clip",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10
+    },
+    "2829": {
+        "id": "2829",
+        "name": "Presilha da Ganância",
+        "displayName": "Presilha da Ganância",
+        "aegisName": "greed_clip",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 10
+            }
+        }
+    },
+    "2835": {
+        "id": "2835",
+        "name": "Anel Crítico Aprimorado",
+        "displayName": "Anel Crítico Aprimorado",
+        "aegisName": "f_critical_ring_c",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2843": {
+        "id": "2843",
+        "name": "Colar com Sino Dourado",
+        "displayName": "Colar com Sino Dourado",
+        "aegisName": "gold_trickle",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "2844": {
+        "id": "2844",
+        "name": "Luz de El Dicastes",
+        "displayName": "Luz de El Dicastes",
+        "aegisName": "el_dicastes_light",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2853": {
+        "id": "2853",
+        "name": "Anel da Telecinese",
+        "displayName": "Anel da Telecinese",
+        "aegisName": "telekinetic_orb",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 2
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 110
+            }
+        }
+    },
+    "2854": {
+        "id": "2854",
+        "name": "Luvas do Alquimista",
+        "displayName": "Luvas do Alquimista [1]",
+        "aegisName": "alchemy_glove",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 125
+            }
+        }
+    },
+    "2855": {
+        "id": "2855",
+        "name": "Rabo de Gato Preto",
+        "displayName": "Rabo de Gato Preto",
+        "aegisName": "whike_black_tail",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 45
+            }
+        }
+    },
+    "2858": {
+        "id": "2858",
+        "name": "Pingente do Guarda",
+        "displayName": "Pingente do Guarda",
+        "aegisName": "pendant_of_guardian",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "2859": {
+        "id": "2859",
+        "name": "Orbe do Açoite de Ouro",
+        "displayName": "Orbe do Açoite de Ouro",
+        "aegisName": "golden_rod_orb",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 2
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2860": {
+        "id": "2860",
+        "name": "Orbe Aquática",
+        "displayName": "Orbe Aquática",
+        "aegisName": "aqua_orb",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 2
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2861": {
+        "id": "2861",
+        "name": "Orbe Vermelha",
+        "displayName": "Orbe Vermelha",
+        "aegisName": "crimson_orb",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 2
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2862": {
+        "id": "2862",
+        "name": "Orbe Florestal",
+        "displayName": "Orbe Florestal",
+        "aegisName": "forest_orb",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 2
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2864": {
+        "id": "2864",
+        "name": "Luz da Cura",
+        "displayName": "Luz da Cura",
+        "aegisName": "light_of_cure",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Priest": true
+            },
+            "level": {
+                "min": 110
+            }
+        }
+    },
+    "2865": {
+        "id": "2865",
+        "name": "Selo da Catedral",
+        "displayName": "Selo da Catedral",
+        "aegisName": "seal_of_cathedral",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Priest": true
+            },
+            "level": {
+                "min": 110
+            }
+        }
+    },
+    "2866": {
+        "id": "2866",
+        "name": "Anel do Arcebispo",
+        "displayName": "Anel do Arcebispo",
+        "aegisName": "ring_of_archbishop",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Priest": true
+            },
+            "level": {
+                "min": 110
+            }
+        }
+    },
+    "2871": {
+        "id": "2871",
+        "name": "Emblema Oficial Brasileiro",
+        "displayName": "Emblema Oficial Brasileiro [1]",
+        "aegisName": "brazilian_emblem",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "2872": {
+        "id": "2872",
+        "name": "Certificado de Honra G",
+        "displayName": "Certificado de Honra G",
+        "aegisName": "g_honor_certificate",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "2873": {
+        "id": "2873",
+        "name": "Luva de Pata de Gato",
+        "displayName": "Luva de Pata de Gato [1]",
+        "aegisName": "cat_hand_glove",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 5
+        },
+        "price": 20,
+        "weight": 10
+    },
+    "2874": {
+        "id": "2874",
+        "name": "Chifre de Búfalo",
+        "displayName": "Chifre de Búfalo [1]",
+        "aegisName": "buffalo_horn",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 10
+            }
+        }
+    },
+    "2881": {
+        "id": "2881",
+        "name": "Colar de Orleans",
+        "displayName": "Colar de Orleans [1]",
+        "aegisName": "orleans_necklace",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10
+    },
+    "2883": {
+        "id": "2883",
+        "name": "Selo de Ur",
+        "displayName": "Selo de Ur [1]",
+        "aegisName": "ur_seal",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 4
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2884": {
+        "id": "2884",
+        "name": "Selo de Peuz",
+        "displayName": "Selo de Peuz [1]",
+        "aegisName": "peuz_seal",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 3
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2886": {
+        "id": "2886",
+        "name": "Anel dos Manuks",
+        "displayName": "Anel dos Manuks",
+        "aegisName": "sabah_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2887": {
+        "id": "2887",
+        "name": "Anel de Nab",
+        "displayName": "Anel de Nab",
+        "aegisName": "nab_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2888": {
+        "id": "2888",
+        "name": "Mochila de Estudante",
+        "displayName": "Mochila de Estudante [1]",
+        "aegisName": "school_bag",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 100
+    },
+    "2890": {
+        "id": "2890",
+        "name": "Broche das Asas da Luz",
+        "displayName": "Broche das Asas da Luz",
+        "aegisName": "white_wing_brooch",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Hunter": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2891": {
+        "id": "2891",
+        "name": "Broche das Asas das Sombras",
+        "displayName": "Broche das Asas das Sombras",
+        "aegisName": "black_wing_brooch",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Hunter": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2892": {
+        "id": "2892",
+        "name": "Manoplas de Sicário",
+        "displayName": "Manoplas de Sicário [1]",
+        "aegisName": "assassin_handcuffs",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 3
+        },
+        "price": 56000,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2894": {
+        "id": "2894",
+        "name": "Luva de Shura",
+        "displayName": "Luva de Shura",
+        "aegisName": "glove_of_shura",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 56000,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Monk": true
+            },
+            "level": {
+                "min": 130
+            }
+        }
+    },
+    "2898": {
+        "id": "2898",
+        "name": "Rosário Preto",
+        "displayName": "Rosário Preto [1]",
+        "aegisName": "black_rosary",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 90
+            }
+        }
+    },
+    "2899": {
+        "id": "2899",
+        "name": "Amplificador de Som",
+        "displayName": "Amplificador de Som [1]",
+        "aegisName": "sound_amplifier",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Hunter": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 90
+            }
+        }
+    },
+    "2904": {
+        "id": "2904",
+        "name": "Naqsh",
+        "displayName": "Naqsh",
+        "aegisName": "naqsh",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0
+    },
+    "2906": {
+        "id": "2906",
+        "name": "Manopla do Mineiro Sortudo",
+        "displayName": "Manopla do Mineiro Sortudo [1]",
+        "aegisName": "happy_gauntlet",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 3
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "2907": {
+        "id": "2907",
+        "name": "Tatuagem Amuleto de Buwaya",
+        "displayName": "Tatuagem Amuleto de Buwaya",
+        "aegisName": "buwaya_tattoo",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10
+    },
+    "2910": {
+        "id": "2910",
+        "name": "Tatuagem Amuleto de Bakonawa",
+        "displayName": "Tatuagem Amuleto de Bakonawa",
+        "aegisName": "bakonawa_tattoo",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10
+    },
+    "2911": {
+        "id": "2911",
+        "name": "Tatuagem Amuleto de Bangungot",
+        "displayName": "Tatuagem Amuleto de Bangungot",
+        "aegisName": "bangungot_tattoo",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10
+    },
+    "2913": {
+        "id": "2913",
+        "name": "Algemas de Presidiário",
+        "displayName": "Algemas de Presidiário [1]",
+        "aegisName": "thief_handcuff",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 140,
+        "restrictions": {
+            "level": {
+                "min": 10
+            }
+        }
+    },
+    "2914": {
+        "id": "2914",
+        "name": "Bênção de Mimir",
+        "displayName": "Bênção de Mimir [1]",
+        "aegisName": "wizard_left_eye",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2915": {
+        "id": "2915",
+        "name": "Colar de Etran",
+        "displayName": "Colar de Etran",
+        "aegisName": "ettlang_keepsake",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 5
+    },
+    "2916": {
+        "id": "2916",
+        "name": "Asa de Fada",
+        "displayName": "Asa de Fada",
+        "aegisName": "fairy_wing",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 1,
+        "restrictions": {
+            "level": {
+                "min": 90
+            }
+        }
+    },
+    "2917": {
+        "id": "2917",
+        "name": "Luva da Força",
+        "displayName": "Luva da Força",
+        "aegisName": "str_glove",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 75000,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2918": {
+        "id": "2918",
+        "name": "Luva da Inteligência",
+        "displayName": "Luva da Inteligência",
+        "aegisName": "int_glove",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 75000,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2919": {
+        "id": "2919",
+        "name": "Luva da Agilidade",
+        "displayName": "Luva da Agilidade",
+        "aegisName": "agi_glove",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 75000,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2920": {
+        "id": "2920",
+        "name": "Luva da Vitalidade",
+        "displayName": "Luva da Vitalidade",
+        "aegisName": "vit_glove",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 75000,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2921": {
+        "id": "2921",
+        "name": "Luva da Destreza",
+        "displayName": "Luva da Destreza",
+        "aegisName": "dex_glove",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 75000,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2922": {
+        "id": "2922",
+        "name": "Luva da Sorte",
+        "displayName": "Luva da Sorte",
+        "aegisName": "luk_glove",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 75000,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2923": {
+        "id": "2923",
+        "name": "Luva da Força",
+        "displayName": "Luva da Força [1]",
+        "aegisName": "str_glove_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 75000,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2924": {
+        "id": "2924",
+        "name": "Luva da Inteligência",
+        "displayName": "Luva da Inteligência [1]",
+        "aegisName": "int_glove_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 75000,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2925": {
+        "id": "2925",
+        "name": "Luva da Agilidade",
+        "displayName": "Luva da Agilidade [1]",
+        "aegisName": "agi_glove_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 75000,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2926": {
+        "id": "2926",
+        "name": "Luva da Vitalidade",
+        "displayName": "Luva da Vitalidade [1]",
+        "aegisName": "vit_glove_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 75000,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2927": {
+        "id": "2927",
+        "name": "Luva da Destreza",
+        "displayName": "Luva da Destreza [1]",
+        "aegisName": "dex_glove_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 75000,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2928": {
+        "id": "2928",
+        "name": "Luva da Sorte",
+        "displayName": "Luva da Sorte [1]",
+        "aegisName": "luk_glove_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 75000,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2935": {
+        "id": "2935",
+        "name": "Luvas de Corrida",
+        "displayName": "Luvas de Corrida [1]",
+        "aegisName": "sprint_glove",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 10
+    },
+    "2936": {
+        "id": "2936",
+        "name": "Anel Revigorante",
+        "displayName": "Anel Revigorante [1]",
+        "aegisName": "recovery_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 5
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 10
+            }
+        }
+    },
+    "2944": {
+        "id": "2944",
+        "name": "Anel de Proteção TE",
+        "displayName": "Anel de Proteção TE",
+        "aegisName": "te_ring_of_protection",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2945": {
+        "id": "2945",
+        "name": "Anel da Fúria TE",
+        "displayName": "Anel da Fúria TE",
+        "aegisName": "te_ring_of_rage",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2946": {
+        "id": "2946",
+        "name": "Anel do Desafio TE",
+        "displayName": "Anel do Desafio TE",
+        "aegisName": "te_ring_of_defiance",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2949": {
+        "id": "2949",
+        "name": "Bracelete do Ourives",
+        "displayName": "Bracelete do Ourives [1]",
+        "aegisName": "silversmith_bracelet",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 3
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "2950": {
+        "id": "2950",
+        "name": "Anel de Rune",
+        "displayName": "Anel de Rune",
+        "aegisName": "rune_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 1,
+                "max": 100
+            }
+        }
+    },
+    "2951": {
+        "id": "2951",
+        "name": "Anel de Kvasir(Azul)",
+        "displayName": "Anel de Kvasir(Azul)",
+        "aegisName": "kvasir_ring_blue",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20000,
+        "weight": 10
+    },
+    "2952": {
+        "id": "2952",
+        "name": "Anel de Kvasir(Vermelho)",
+        "displayName": "Anel de Kvasir(Vermelho)",
+        "aegisName": "kvasir_ring_red",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20000,
+        "weight": 10
+    },
+    "2953": {
+        "id": "2953",
+        "name": "Anel de Kvasir(Verde)",
+        "displayName": "Anel de Kvasir(Verde)",
+        "aegisName": "kvasir_ring_green",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20000,
+        "weight": 10
+    },
+    "2954": {
+        "id": "2954",
+        "name": "Anel de Kvasir(Marrom)",
+        "displayName": "Anel de Kvasir(Marrom)",
+        "aegisName": "kvasir_ring_brown",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20000,
+        "weight": 10
+    },
+    "2956": {
+        "id": "2956",
+        "name": "Proteção dos Nibelungos",
+        "displayName": "Proteção dos Nibelungos [1]",
+        "aegisName": "safety_ring_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "price": 75000,
+        "weight": 10
+    },
+    "2957": {
+        "id": "2957",
+        "name": "Anel do Vulcão",
+        "displayName": "Anel do Vulcão",
+        "aegisName": "good_ring_of_flame_lord",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 10
+    },
+    "2958": {
+        "id": "2958",
+        "name": "Anel da Vibração",
+        "displayName": "Anel da Vibração",
+        "aegisName": "good_ring_of_resonance",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 10
+    },
+    "2959": {
+        "id": 2959,
+        "name": "Coleira da Fidelidade",
+        "displayName": "Coleira da Fidelidade [1]",
+        "aegisName": "fidelity_necklace",
+        "equipData": {
+            "slots": 1,
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "type": "ARMOR",
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "2961": {
+        "id": "2961",
+        "name": "Tapete Voador",
+        "displayName": "Tapete Voador",
+        "aegisName": "magic_carpet",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": true
+        }
+    },
+    "2963": {
+        "id": "2963",
+        "name": "Anel de Reforço Físico",
+        "displayName": "Anel de Reforço Físico [1]",
+        "aegisName": "body_power_up_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 90
+            }
+        }
+    },
+    "2964": {
+        "id": "2964",
+        "name": "Anel de Reforço Mágico",
+        "displayName": "Anel de Reforço Mágico [1]",
+        "aegisName": "ring_of_spell_explosion",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 90
+            }
+        }
+    },
+    "2966": {
+        "id": "2966",
+        "name": "Anel Memorável RWC",
+        "displayName": "Anel Memorável RWC",
+        "aegisName": "rwc_2012_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 20
+    },
+    "2967": {
+        "id": "2967",
+        "name": "Anel Memorável RWC",
+        "displayName": "Anel Memorável RWC [1]",
+        "aegisName": "rwc_2012_ring_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 20
+    },
+    "2968": {
+        "id": "2968",
+        "name": "Colar Memorável RWC",
+        "displayName": "Colar Memorável RWC",
+        "aegisName": "rwc_2012_pendant",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 20
+    },
+    "2969": {
+        "id": "2969",
+        "name": "Colar Memorável RWC",
+        "displayName": "Colar Memorável RWC [1]",
+        "aegisName": "rwc_2012_pendant_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 20
+    },
+    "2971": {
+        "id": "2971",
+        "name": "Relógio de Bolso",
+        "displayName": "Relógio de Bolso [1]",
+        "aegisName": "pocket_watch__",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER"
+            ],
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2976": {
+        "id": "2976",
+        "name": "Lampião das Trevas",
+        "displayName": "Lampião das Trevas [1]",
+        "aegisName": "red_lantern",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 20
+    },
+    "2977": {
+        "id": "2977",
+        "name": "Coração Partido",
+        "displayName": "Coração Partido [1]",
+        "aegisName": "hurt_mind",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 10
+    },
+    "2978": {
+        "id": "2978",
+        "name": "Coração Bondoso",
+        "displayName": "Coração Bondoso [1]",
+        "aegisName": "kindheart",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 10
+    },
+    "2979": {
+        "id": "2979",
+        "name": "Morango Cristalizado",
+        "displayName": "Morango Cristalizado [1]",
+        "aegisName": "strawberry_decoration",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50
+    },
+    "2980": {
+        "id": "2980",
+        "name": "Luva dos Espíritos Malignos",
+        "displayName": "Luva dos Espíritos Malignos [1]",
+        "aegisName": "evilspirit_gloves",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 10
+    },
+    "2981": {
+        "id": "2981",
+        "name": "Anel do Herói",
+        "displayName": "Anel do Herói",
+        "aegisName": "ringofhero",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "level": {
+                "min": 160
+            }
+        }
+    },
+    "2983": {
+        "id": "2983",
+        "name": "Broche da Ganância",
+        "displayName": "Broche da Ganância [1]",
+        "aegisName": "brooch_greed",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 10
+    },
+    "2984": {
+        "id": "2984",
+        "name": "Luvas Felpudas",
+        "displayName": "Luvas Felpudas [1]",
+        "aegisName": "limnil_glove",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 10
+    },
+    "2985": {
+        "id": "2985",
+        "name": "Anel Precioso",
+        "displayName": "Anel Precioso [1]",
+        "aegisName": "gyges_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 10
+    },
+    "2988": {
+        "id": "2988",
+        "name": "Anel do Novo Oz",
+        "displayName": "Anel do Novo Oz [1]",
+        "aegisName": "winged_ring_of_newoz",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 62000,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 130
+            }
+        }
+    },
+    "2989": {
+        "id": "2989",
+        "name": "Bracelete Floral de Igu",
+        "displayName": "Bracelete Floral de Igu [1]",
+        "aegisName": "floral_bracelet_of_igu",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 62000,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 130
+            }
+        }
+    },
+    "2990": {
+        "id": "2990",
+        "name": "Pingente da Harmonia",
+        "displayName": "Pingente da Harmonia",
+        "aegisName": "pendant_of_harmony",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 10
+    },
+    "2991": {
+        "id": "2991",
+        "name": "Pingente do Caos",
+        "displayName": "Pingente do Caos",
+        "aegisName": "pendant_of_chaos",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 10
+    },
+    "2992": {
+        "id": "2992",
+        "name": "Pingente da Voragem",
+        "displayName": "Pingente da Voragem [1]",
+        "aegisName": "pendant_of_maelstorm",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 10
+    },
+    "2995": {
+        "id": 2995,
+        "name": "Peça de DES Suplementar",
+        "displayName": "Peça de DES Suplementar [1]",
+        "aegisName": null,
+        "equipData": {
+            "slots": 1,
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        },
+        "type": "ARMOR"
+    },
+    "2996": {
+        "id": 2996,
+        "name": "Autopeça - Exaustor",
+        "displayName": "Autopeça - Exaustor [1]",
+        "aegisName": null,
+        "equipData": {
+            "slots": 1,
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 50,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        },
+        "type": "ARMOR"
+    },
+    "2998": {
+        "id": "2998",
+        "name": "Bracelete Suntuoso",
+        "displayName": "Bracelete Suntuoso [1]",
+        "aegisName": "shining_trapezohedron",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 10
+    },
+    "5817": {
+        "id": "5817",
+        "name": "Anel do Dia dos Namorados",
+        "displayName": "Anel do Dia dos Namorados",
+        "aegisName": "valentine_pledge",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 3
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "5855": {
+        "id": 5855,
+        "name": "Vara de Pescar",
+        "displayName": "Vara de Pescar",
+        "aegisName": "fish_rod",
+        "type": "ARMOR",
+        "price": 10,
+        "weight": 0,
+        "equipData": {
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        }
+    },
+    "28321": {
+        "id": "28321",
+        "name": "Garra do Falcoeiro",
+        "displayName": "Garra do Falcoeiro [1]",
+        "aegisName": "falconer_claw",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 10
+    },
+    "28322": {
+        "id": "28322",
+        "name": "Luva do Falcoeiro",
+        "displayName": "Luva do Falcoeiro [1]",
+        "aegisName": "falconer_glove",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 10
+    },
+    "28326": {
+        "id": "28326",
+        "name": "Chip Quebrado 01",
+        "displayName": "Chip Quebrado 01 [1]",
+        "aegisName": "broken_chip_1",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 10,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "28327": {
+        "id": "28327",
+        "name": "Chip Quebrado 02",
+        "displayName": "Chip Quebrado 02 [1]",
+        "aegisName": "broken_chip_2",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 10,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "28354": {
+        "id": "28354",
+        "name": "Mapa da Capital",
+        "displayName": "Mapa da Capital [1]",
+        "aegisName": "downtownmap_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 10
+    },
+    "28355": {
+        "id": "28355",
+        "name": "Água Sagrada",
+        "displayName": "Água Sagrada [1]",
+        "aegisName": "shiningholywater_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 15
+    },
+    "28356": {
+        "id": "28356",
+        "name": "Brasão de Prontera",
+        "displayName": "Brasão de Prontera",
+        "aegisName": "badgeofprontera_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 10
+    },
+    "28374": {
+        "id": "28374",
+        "name": "Anel Cauda de Gato",
+        "displayName": "Anel Cauda de Gato",
+        "aegisName": "foxtail_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 1
+            }
+        }
+    },
+    "28377": {
+        "id": "28377",
+        "name": "Anel Mágico Elemental",
+        "displayName": "Anel Mágico Elemental [1]",
+        "aegisName": "magical_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 10
+    },
+    "28379": {
+        "id": "28379",
+        "name": "Anel Sombrio",
+        "displayName": "Anel Sombrio [1]",
+        "aegisName": "shadow_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 10
+    },
+    "28380": {
+        "id": "28380",
+        "name": "Colar da Semente",
+        "displayName": "Colar da Semente [1]",
+        "aegisName": "fresh_g_necklace",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "28381": {
+        "id": "28381",
+        "name": "Colar da Raíz",
+        "displayName": "Colar da Raíz [1]",
+        "aegisName": "pretty_g_necklace",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 1,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "28382": {
+        "id": "28382",
+        "name": "Colar da Árvore",
+        "displayName": "Colar da Árvore [1]",
+        "aegisName": "charm_g_necklace",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 1,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "28386": {
+        "id": "28386",
+        "name": "Rosário do Monge Decaído",
+        "displayName": "Rosário do Monge Decaído [1]",
+        "aegisName": "fallen_monk_rosary",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 10
+    },
+    "28394": {
+        "id": "28394",
+        "name": "Bracelete da Valquíria Mágica",
+        "displayName": "Bracelete da Valquíria Mágica",
+        "aegisName": "king_of_spirit_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 20
+    },
+    "28410": {
+        "id": "28410",
+        "name": "Bracelete Safira",
+        "displayName": "Bracelete Safira [1]",
+        "aegisName": "sapphire_wrist",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 50
+    },
+    "28411": {
+        "id": "28411",
+        "name": "Brincos de Esmeralda",
+        "displayName": "Brincos de Esmeralda [1]",
+        "aegisName": "emerald_earring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 50
+    },
+    "28413": {
+        "id": "28413",
+        "name": "Amuleto Sardinha I",
+        "displayName": "Amuleto Sardinha I [1]",
+        "aegisName": "lowsaurelcharm",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "28414": {
+        "id": "28414",
+        "name": "Amuleto Sardinha II",
+        "displayName": "Amuleto Sardinha II [1]",
+        "aegisName": "middlesaurelcharm",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 140
+            }
+        }
+    },
+    "28415": {
+        "id": "28415",
+        "name": "Amuleto Sardinha III",
+        "displayName": "Amuleto Sardinha III [1]",
+        "aegisName": "highersaurelcharm",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 175
+            }
+        }
+    },
+    "28416": {
+        "id": "28416",
+        "name": "Amuleto Folha I",
+        "displayName": "Amuleto Folha I [1]",
+        "aegisName": "lowleafcharm",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "28417": {
+        "id": "28417",
+        "name": "Amuleto Folha II",
+        "displayName": "Amuleto Folha II [1]",
+        "aegisName": "middleleafcharm",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 140
+            }
+        }
+    },
+    "28418": {
+        "id": "28418",
+        "name": "Amuleto Folha III",
+        "displayName": "Amuleto Folha III [1]",
+        "aegisName": "higherleafcharm",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 175
+            }
+        }
+    },
+    "28419": {
+        "id": "28419",
+        "name": "Amuleto Lebre I",
+        "displayName": "Amuleto Lebre I [1]",
+        "aegisName": "lowrabbitcharm",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "28420": {
+        "id": "28420",
+        "name": "Amuleto Lebre II",
+        "displayName": "Amuleto Lebre II [1]",
+        "aegisName": "middlerabbitcharm",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 140
+            }
+        }
+    },
+    "28421": {
+        "id": "28421",
+        "name": "Amuleto Lebre III",
+        "displayName": "Amuleto Lebre III [1]",
+        "aegisName": "higherrabbitcharm",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 175
+            }
+        }
+    },
+    "28422": {
+        "id": "28422",
+        "name": "Amuleto Galho Cintilante",
+        "displayName": "Amuleto Galho Cintilante [1]",
+        "aegisName": "shiningtwigcharm",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "28423": {
+        "id": "28423",
+        "name": "Amuleto Atum Fresco",
+        "displayName": "Amuleto Atum Fresco [1]",
+        "aegisName": "freshtunacharm",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "28424": {
+        "id": "28424",
+        "name": "Amuleto Minhocão",
+        "displayName": "Amuleto Minhocão [1]",
+        "aegisName": "plumpywormcharm",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 1
+        },
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "28430": {
+        "id": "28430",
+        "name": "Anel do Cardeal",
+        "displayName": "Anel do Cardeal [1]",
+        "aegisName": "archpriest_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 40
+    },
+    "28431": {
+        "id": "28431",
+        "name": "Anel de Corrida",
+        "displayName": "Anel de Corrida [1]",
+        "aegisName": "sprint_ring_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 10
+    },
+    "28432": {
+        "id": "28432",
+        "name": "Anel Espiritual",
+        "displayName": "Anel Espiritual [1]",
+        "aegisName": "spiritual_ring_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 10
+    },
+    "28433": {
+        "id": "28433",
+        "name": "Cristal da Luz Azul",
+        "displayName": "Cristal da Luz Azul [1]",
+        "aegisName": "luminous_blue_stone",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 40
+    },
+    "28434": {
+        "id": "28434",
+        "name": "Luvas do Pugilista",
+        "displayName": "Luvas do Pugilista [1]",
+        "aegisName": "boxer_glove",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 40
+    },
+    "28437": {
+        "id": "28437",
+        "name": "Luvas de Restauração",
+        "displayName": "Luvas de Restauração [1]",
+        "aegisName": "archpriest_glove",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 40
+    },
+    "28438": {
+        "id": "28438",
+        "name": "Pó de Fada",
+        "displayName": "Pó de Fada [1]",
+        "aegisName": "fairy_leaf_powder",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 40
+    },
+    "28484": {
+        "id": "28484",
+        "name": "Lenço do Insurgente",
+        "displayName": "Lenço do Insurgente [1]",
+        "aegisName": "scarf_of_rebellion",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 40
+    },
+    "28491": {
+        "id": "28491",
+        "name": "Punhal de Matagi",
+        "displayName": "Punhal de Matagi [1]",
+        "aegisName": "matagi_swordaxe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 40
+    },
+    "28492": {
+        "id": "28492",
+        "name": "Diário do Renegado",
+        "displayName": "Diário do Renegado [1]",
+        "aegisName": "tip_of_thief_vol1",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 10
+    },
+    "28501": {
+        "id": "28501",
+        "name": "Chifres de Kirin",
+        "displayName": "Chifres de Kirin [1]",
+        "aegisName": "horn_of_kirin",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 50
+    },
+    "28503": {
+        "id": "28503",
+        "name": "Keraunos",
+        "displayName": "Keraunos [1]",
+        "aegisName": "keraunos",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 10
+    },
+    "28505": {
+        "id": "28505",
+        "name": "Anel do Capiroto",
+        "displayName": "Anel do Capiroto [1]",
+        "aegisName": "ringofdevil",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 50
+    },
+    "28506": {
+        "id": "28506",
+        "name": "Pedra Tempestuosa",
+        "displayName": "Pedra Tempestuosa [1]",
+        "aegisName": "stormstone",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 50
+    },
+    "28515": {
+        "id": "28515",
+        "name": "Anel Imperial",
+        "displayName": "Anel Imperial [1]",
+        "aegisName": "imperial_ring_br",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        }
+    },
+    "28517": {
+        "id": "28517",
+        "name": "Anel do Rei Abissal",
+        "displayName": "Anel do Rei Abissal [1]",
+        "aegisName": "ring_of_the_abyss_king",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 10
+    },
+    "28520": {
+        "id": "28520",
+        "name": "Anel de Aegir",
+        "displayName": "Anel de Aegir [1]",
+        "aegisName": "egirring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 50
+    },
+    "28521": {
+        "id": 28521,
+        "name": "Proteção do Gigante",
+        "displayName": "Proteção do Gigante [1]",
+        "aegisName": null,
+        "equipData": {
+            "slots": 1,
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 50,
+        "type": "ARMOR"
+    },
+    "28531": {
+        "id": "28531",
+        "name": "Luvas do Vigor",
+        "displayName": "Luvas do Vigor [1]",
+        "aegisName": "glove_of_smith",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 50
+    },
+    "28534": {
+        "id": "28534",
+        "name": "Amuleto da Coragem",
+        "displayName": "Amuleto da Coragem [1]",
+        "aegisName": "rkc_2017_pendant",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 20
+    },
+    "28535": {
+        "id": "28535",
+        "name": "Amuleto da Sabedoria",
+        "displayName": "Amuleto da Sabedoria [1]",
+        "aegisName": "rkc_2017_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 20
+    },
+    "28537": {
+        "id": "28537",
+        "name": "Colar de Juperos",
+        "displayName": "Colar de Juperos [1]",
+        "aegisName": "arquiens_necklace_br",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        }
+    },
+    "28538": {
+        "id": "28538",
+        "name": "Luvas de H. Motto",
+        "displayName": "Luvas de H. Motto [1]",
+        "aegisName": "glove_of_wizard_br",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        }
+    },
+    "28551": {
+        "id": "28551",
+        "name": "Luvas Imperiais",
+        "displayName": "Luvas Imperiais [1]",
+        "aegisName": "imperial_glove",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 40
+    },
+    "28552": {
+        "id": "28552",
+        "name": "Anel da Serpe Dupla",
+        "displayName": "Anel da Serpe Dupla [1]",
+        "aegisName": "two_dragon_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 10
+    },
+    "28561": {
+        "id": "28561",
+        "name": "Anel Dracônico do Veterano",
+        "displayName": "Anel Dracônico do Veterano [1]",
+        "aegisName": "ring_of_brave",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 10
+    },
+    "28564": {
+        "id": "28564",
+        "name": "Lágrima de Valquíria",
+        "displayName": "Lágrima de Valquíria [1]",
+        "aegisName": "valkyrie_drop",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 30
+    },
+    "28565": {
+        "id": "28565",
+        "name": "Máscara de Oni",
+        "displayName": "Máscara de Oni [1]",
+        "aegisName": "perverse_demon_mask",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 60
+    },
+    "28572": {
+        "id": "28572",
+        "name": "Broche da Celine",
+        "displayName": "Broche da Celine [1]",
+        "aegisName": "celine_brooch_br",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        }
+    },
+    "28575": {
+        "id": "28575",
+        "name": "Bugiganga de Verus",
+        "displayName": "Bugiganga de Verus [1]",
+        "aegisName": "verus_core",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 50
+    },
+    "28596": {
+        "id": "28596",
+        "name": "Anel de Brinquedo",
+        "displayName": "Anel de Brinquedo [1]",
+        "aegisName": "toy_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 50
+    },
+    "28598": {
+        "id": "28598",
+        "name": "Fragmento de Chip",
+        "displayName": "Fragmento de Chip [1]",
+        "aegisName": "supplement_part_chip",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 10
+    },
+    "32205": {
+        "id": "32205",
+        "name": "Anel de Esmeralda",
+        "displayName": "Anel de Esmeralda [1]",
+        "aegisName": "emerald_ring_br",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        }
+    },
+    "32221": {
+        "id": "32221",
+        "name": "Anel do Senhor do Tempo",
+        "displayName": "Anel do Senhor do Tempo [1]",
+        "aegisName": "time_overload_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 0
+    },
+    "32227": {
+        "id": "32227",
+        "name": "Grilhões de Hrodvitnir",
+        "displayName": "Grilhões de Hrodvitnir [1]",
+        "aegisName": "fenrir_chain",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 30
+    },
+    "32243": {
+        "id": "32243",
+        "name": "Anel do Desbravador",
+        "displayName": "Anel do Desbravador [1]",
+        "aegisName": "star_force_ring_tw",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 30
+    },
+    "32262": {
+        "id": "32262",
+        "name": "Orbe Demoníaco",
+        "displayName": "Orbe Demoníaco [1]",
+        "aegisName": "ball_of_rasenhuuma",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 10
+    },
+    "490013": {
+        "id": "490013",
+        "name": "Anel do Submundo",
+        "displayName": "Anel do Submundo [1]",
+        "aegisName": "devil_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 10
+    },
+    "490031": {
+        "id": "490031",
+        "name": "Cauda de Petal",
+        "displayName": "Cauda de Petal [1]",
+        "aegisName": "petal_tail",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": true
+        },
+        "weight": 10
+    }
+}

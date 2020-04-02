@@ -1,0 +1,2154 @@
+{
+    "2101": {
+        "id": "2101",
+        "name": "Vembrassa",
+        "displayName": "Vembrassa",
+        "aegisName": "guard",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 0,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 20
+        },
+        "price": 500,
+        "weight": 30
+    },
+    "2102": {
+        "id": "2102",
+        "name": "Vembrassa",
+        "displayName": "Vembrassa [1]",
+        "aegisName": "guard_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 20
+        },
+        "price": 500,
+        "weight": 30
+    },
+    "2103": {
+        "id": "2103",
+        "name": "Broquel",
+        "displayName": "Broquel",
+        "aegisName": "buckler",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 0,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 14000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2104": {
+        "id": "2104",
+        "name": "Broquel",
+        "displayName": "Broquel [1]",
+        "aegisName": "buckler_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 14000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2105": {
+        "id": "2105",
+        "name": "Escudo",
+        "displayName": "Escudo",
+        "aegisName": "shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 0,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 60
+        },
+        "price": 56000,
+        "weight": 130,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            }
+        }
+    },
+    "2106": {
+        "id": "2106",
+        "name": "Escudo",
+        "displayName": "Escudo [1]",
+        "aegisName": "shield_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 60
+        },
+        "price": 56000,
+        "weight": 130,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            }
+        }
+    },
+    "2107": {
+        "id": "2107",
+        "name": "Escudo Espelhado",
+        "displayName": "Escudo Espelhado",
+        "aegisName": "mirror_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 0,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 45
+        },
+        "price": 60000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true,
+                "Star_Gladiator": true
+            }
+        }
+    },
+    "2108": {
+        "id": "2108",
+        "name": "Escudo Espelhado",
+        "displayName": "Escudo Espelhado [1]",
+        "aegisName": "mirror_shield_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 45
+        },
+        "price": 60000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true,
+                "Star_Gladiator": true
+            }
+        }
+    },
+    "2109": {
+        "id": "2109",
+        "name": "Grimório",
+        "displayName": "Grimório",
+        "aegisName": "memorize_book",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 0,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            }
+        }
+    },
+    "2110": {
+        "id": "2110",
+        "name": "Arauto Divino",
+        "displayName": "Arauto Divino",
+        "aegisName": "holy_guard",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 0,
+            "position": "SHIELD",
+            "refinable": false,
+            "def": 110
+        },
+        "price": 85000,
+        "weight": 140,
+        "restrictions": {
+            "job": {
+                "Crusader": true
+            },
+            "level": {
+                "min": 68
+            }
+        }
+    },
+    "2111": {
+        "id": "2111",
+        "name": "Spiritus Sancti",
+        "displayName": "Spiritus Sancti",
+        "aegisName": "herald_of_god",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 0,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 120
+        },
+        "price": 128000,
+        "weight": 160,
+        "restrictions": {
+            "job": {
+                "Crusader": true
+            },
+            "level": {
+                "min": 83
+            }
+        }
+    },
+    "2112": {
+        "id": "2112",
+        "name": "Vembrassa do Aprendiz",
+        "displayName": "Vembrassa do Aprendiz",
+        "aegisName": "novice_guard",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 0,
+            "position": "SHIELD",
+            "refinable": false,
+            "def": 20
+        },
+        "price": 1,
+        "weight": 0.1,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            }
+        }
+    },
+    "2113": {
+        "id": "2113",
+        "name": "Escudo do Aprendiz",
+        "displayName": "Escudo do Aprendiz [1]",
+        "aegisName": "novice_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 20
+        },
+        "price": 5000,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2114": {
+        "id": "2114",
+        "name": "Broquel de Pedra",
+        "displayName": "Broquel de Pedra [1]",
+        "aegisName": "stone_buckler",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 45
+        },
+        "price": 30000,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "2115": {
+        "id": "2115",
+        "name": "Escudo da Valquíria",
+        "displayName": "Escudo da Valquíria [1]",
+        "aegisName": "valkyrjas_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 80
+        },
+        "price": 30000,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "2116": {
+        "id": "2116",
+        "name": "Guardião Angelical",
+        "displayName": "Guardião Angelical [1]",
+        "aegisName": "angels_safeguard",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 30
+        },
+        "price": 10000,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 20
+            }
+        }
+    },
+    "2117": {
+        "id": "2117",
+        "name": "Proteção de Braço",
+        "displayName": "Proteção de Braço",
+        "aegisName": "arm_guard",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 0,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 50
+        },
+        "price": 10000,
+        "weight": 15,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 20
+            }
+        }
+    },
+    "2118": {
+        "id": "2118",
+        "name": "Proteção de Braço",
+        "displayName": "Proteção de Braço [1]",
+        "aegisName": "arm_guard_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 50
+        },
+        "price": 10000,
+        "weight": 15,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 20
+            }
+        }
+    },
+    "2119": {
+        "id": "2119",
+        "name": "Proteção de Braço Avançada",
+        "displayName": "Proteção de Braço Avançada",
+        "aegisName": "improved_arm_guard",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 0,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 45
+        },
+        "price": 40000,
+        "weight": 15,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "2120": {
+        "id": "2120",
+        "name": "Proteção de Braço Avançada",
+        "displayName": "Proteção de Braço Avançada [1]",
+        "aegisName": "improved_arm_guard_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 45
+        },
+        "price": 40000,
+        "weight": 15,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "2121": {
+        "id": "2121",
+        "name": "Grimório",
+        "displayName": "Grimório [1]",
+        "aegisName": "memorize_book_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            }
+        }
+    },
+    "2122": {
+        "id": "2122",
+        "name": "Escudo de Platina",
+        "displayName": "Escudo de Platina",
+        "aegisName": "platinum_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 0,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 95
+        },
+        "price": 20,
+        "weight": 120,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 68
+            }
+        }
+    },
+    "2123": {
+        "id": "2123",
+        "name": "Travessa de Orleans",
+        "displayName": "Travessa de Orleans [1]",
+        "aegisName": "orleans_server",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 75
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "2124": {
+        "id": "2124",
+        "name": "Escudo Farpado",
+        "displayName": "Escudo Farpado [1]",
+        "aegisName": "thorny_buckler",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 85
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "2125": {
+        "id": "2125",
+        "name": "Escudo Colossal",
+        "displayName": "Escudo Colossal [1]",
+        "aegisName": "strong_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 90
+        },
+        "price": 20,
+        "weight": 250,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "2128": {
+        "id": "2128",
+        "name": "Spiritus Sancti",
+        "displayName": "Spiritus Sancti [1]",
+        "aegisName": "herald_of_god_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 120
+        },
+        "price": 128000,
+        "weight": 160,
+        "restrictions": {
+            "job": {
+                "Crusader": true
+            },
+            "level": {
+                "min": 83
+            }
+        }
+    },
+    "2129": {
+        "id": "2129",
+        "name": "Bíblia de Exorcismo",
+        "displayName": "Bíblia de Exorcismo",
+        "aegisName": "exorcism_bible",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 0,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 80
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "2130": {
+        "id": "2130",
+        "name": "Escudo Cruzado",
+        "displayName": "Escudo Cruzado [1]",
+        "aegisName": "cross_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 130
+        },
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Crusader": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2131": {
+        "id": "2131",
+        "name": "Bíblia da Magia, Vol. 1",
+        "displayName": "Bíblia da Magia, Vol. 1 [1]",
+        "aegisName": "magic_study_vol1",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 18
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "2132": {
+        "id": "2132",
+        "name": "Escudo de Força [A]",
+        "displayName": "Escudo de Força [A]",
+        "aegisName": "shelter_resistance",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 0,
+            "position": "SHIELD",
+            "refinable": false,
+            "def": 140
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "2133": {
+        "id": "2133",
+        "name": "Escudo de Torneio",
+        "displayName": "Escudo de Torneio [1]",
+        "aegisName": "tournament_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 105
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "2134": {
+        "id": "2134",
+        "name": "Escudo de Escamas de Naga",
+        "displayName": "Escudo de Escamas de Naga [1]",
+        "aegisName": "shield_of_naga",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 35
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2135": {
+        "id": "2135",
+        "name": "Escudo das Sombras",
+        "displayName": "Escudo das Sombras [1]",
+        "aegisName": "shadow_guard",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 52
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Rogue": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "2138": {
+        "id": "2138",
+        "name": "Escudo de Bradium",
+        "displayName": "Escudo de Bradium [1]",
+        "aegisName": "bradium_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 98
+        },
+        "price": 20,
+        "weight": 180,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "2139": {
+        "id": "2139",
+        "name": "Lança-Chamas",
+        "displayName": "Lança-Chamas",
+        "aegisName": "flame_thrower",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 0,
+            "position": "SHIELD",
+            "refinable": false,
+            "def": 60
+        },
+        "price": 20000,
+        "weight": 200,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Blacksmith": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "2140": {
+        "id": "2140",
+        "name": "Escudo Espiritual",
+        "displayName": "Escudo Espiritual [1]",
+        "aegisName": "energy_rune_guard",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 70
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "2146": {
+        "id": "2146",
+        "name": "Vembrassa Prateada",
+        "displayName": "Vembrassa Prateada [1]",
+        "aegisName": "siver_guard",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 60
+        },
+        "price": 12500,
+        "weight": 30,
+        "restrictions": {
+            "level": {
+                "min": 22
+            }
+        }
+    },
+    "2147": {
+        "id": "2147",
+        "name": "Escudo Redondo",
+        "displayName": "Escudo Redondo [1]",
+        "aegisName": "round_buckler",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 90
+        },
+        "price": 24000,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 22
+            }
+        }
+    },
+    "2148": {
+        "id": "2148",
+        "name": "Escudo de Pétalas",
+        "displayName": "Escudo de Pétalas [1]",
+        "aegisName": "rotha_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 130
+        },
+        "price": 56000,
+        "weight": 130,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2149": {
+        "id": "2149",
+        "name": "Vembrassa Evoluída",
+        "displayName": "Vembrassa Evoluída [1]",
+        "aegisName": "upg_guard",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 20,
+        "weight": 15
+    },
+    "2150": {
+        "id": "2150",
+        "name": "Broquel Evoluído",
+        "displayName": "Broquel Evoluído [1]",
+        "aegisName": "upg_buckler",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 45
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2151": {
+        "id": "2151",
+        "name": "Escudo Evoluído",
+        "displayName": "Escudo Evoluído [1]",
+        "aegisName": "upg_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 65
+        },
+        "price": 20,
+        "weight": 65,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            }
+        }
+    },
+    "2153": {
+        "id": "2153",
+        "name": "Guarda Imperial",
+        "displayName": "Guarda Imperial [1]",
+        "aegisName": "imperial_guard",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 120
+        },
+        "price": 20,
+        "weight": 250,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Crusader": true
+            },
+            "level": {
+                "min": 102
+            }
+        }
+    },
+    "2154": {
+        "id": "2154",
+        "name": "Escudo de Brinquedo",
+        "displayName": "Escudo de Brinquedo [1]",
+        "aegisName": "toy_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 1
+        },
+        "price": 0,
+        "weight": 50,
+        "restrictions": {
+            "level": {
+                "min": 10
+            }
+        }
+    },
+    "2156": {
+        "id": "2156",
+        "name": "Bíblia da Promessa (Volume 1)",
+        "displayName": "Bíblia da Promessa (Volume 1) [1]",
+        "aegisName": "bible_of_promise1",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Priest": true
+            },
+            "level": {
+                "min": 110
+            }
+        }
+    },
+    "2160": {
+        "id": "2160",
+        "name": "Escudo Gigante",
+        "displayName": "Escudo Gigante [1]",
+        "aegisName": "giant_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 130
+        },
+        "price": 56000,
+        "weight": 280,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2161": {
+        "id": "2161",
+        "name": "Livro Antigo de Geffenia - Água",
+        "displayName": "Livro Antigo de Geffenia - Água [1]",
+        "aegisName": "geffenia_book_water",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 30
+        },
+        "price": 56000,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2162": {
+        "id": "2162",
+        "name": "Bíblia da Promessa (Volume 2)",
+        "displayName": "Bíblia da Promessa (Volume 2) [1]",
+        "aegisName": "bible_of_promise2",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 20
+        },
+        "price": 56000,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Priest": true
+            },
+            "level": {
+                "min": 140
+            }
+        }
+    },
+    "2164": {
+        "id": "2164",
+        "name": "Escudo Brilhante",
+        "displayName": "Escudo Brilhante [1]",
+        "aegisName": "sombre_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 50
+        },
+        "price": 20,
+        "weight": 130,
+        "restrictions": {
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "2165": {
+        "id": "2165",
+        "name": "Escudo Solar",
+        "displayName": "Escudo Solar [1]",
+        "aegisName": "sol_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 50
+        },
+        "price": 20,
+        "weight": 130,
+        "restrictions": {
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "2166": {
+        "id": "2166",
+        "name": "Bíblia de Exorcismo",
+        "displayName": "Bíblia de Exorcismo [1]",
+        "aegisName": "exorcism_bible_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 80
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "2168": {
+        "id": "2168",
+        "name": "Escudo Celestial",
+        "displayName": "Escudo Celestial [1]",
+        "aegisName": "immuned_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 55
+        },
+        "price": 20,
+        "weight": 70
+    },
+    "2169": {
+        "id": "2169",
+        "name": "Kalasag",
+        "displayName": "Kalasag",
+        "aegisName": "kalasak",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 0,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 20,
+        "weight": 40
+    },
+    "2170": {
+        "id": "2170",
+        "name": "Kalasag Bayani",
+        "displayName": "Kalasag Bayani [1]",
+        "aegisName": "bayani_kalasak",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 20,
+        "weight": 40
+    },
+    "2171": {
+        "id": "2171",
+        "name": "Proteção de Braço da Raposa",
+        "displayName": "Proteção de Braço da Raposa [1]",
+        "aegisName": "fox_armguard",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 45
+        },
+        "price": 40000,
+        "weight": 20,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2172": {
+        "id": "2172",
+        "name": "Proteção de Braço do Lobo",
+        "displayName": "Proteção de Braço do Lobo [1]",
+        "aegisName": "wolf_armguard",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 70
+        },
+        "price": 45000,
+        "weight": 25,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2173": {
+        "id": "2173",
+        "name": "Proteção de Braço da Lua Crescente",
+        "displayName": "Proteção de Braço da Lua Crescente [1]",
+        "aegisName": "crescent_armguard",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 45
+        },
+        "price": 45000,
+        "weight": 25,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2176": {
+        "id": "2176",
+        "name": "Livro Obscuro",
+        "displayName": "Livro Obscuro [1]",
+        "aegisName": "dark_book",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 80
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "2177": {
+        "id": "2177",
+        "name": "Escudo do Abismo",
+        "displayName": "Escudo do Abismo [1]",
+        "aegisName": "shield_of_death",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 150
+        },
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "level": {
+                "min": 90
+            }
+        }
+    },
+    "2178": {
+        "id": "2178",
+        "name": "Broquel TE",
+        "displayName": "Broquel TE",
+        "aegisName": "te_woe_buckler",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 0,
+            "position": "SHIELD",
+            "refinable": false,
+            "def": 15
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2179": {
+        "id": "2179",
+        "name": "Escudo TE",
+        "displayName": "Escudo TE",
+        "aegisName": "te_woe_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 0,
+            "position": "SHIELD",
+            "refinable": false,
+            "def": 25
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2180": {
+        "id": "2180",
+        "name": "Vembrassa Mágica TE",
+        "displayName": "Vembrassa Mágica TE",
+        "aegisName": "te_woe_magic_guard",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 0,
+            "position": "SHIELD",
+            "refinable": false,
+            "def": 5
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2181": {
+        "id": "2181",
+        "name": "Hervor",
+        "displayName": "Hervor",
+        "aegisName": "hervor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 0,
+            "position": "SHIELD",
+            "refinable": false,
+            "def": 100
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "level": {
+                "min": 90
+            }
+        }
+    },
+    "2182": {
+        "id": "2182",
+        "name": "Hervor Alvitr",
+        "displayName": "Hervor Alvitr",
+        "aegisName": "hervor_alvitr",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 0,
+            "position": "SHIELD",
+            "refinable": false,
+            "def": 150
+        },
+        "price": 20,
+        "weight": 300,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2183": {
+        "id": "2183",
+        "name": "Guardião Arcangelical",
+        "displayName": "Guardião Arcangelical [1]",
+        "aegisName": "impr_angels_safeguard",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 30
+        },
+        "price": 10000,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "2185": {
+        "id": "2185",
+        "name": "Refletor Mágico",
+        "displayName": "Refletor Mágico [1]",
+        "aegisName": "magic_reflector",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": false,
+            "def": 50
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "2186": {
+        "id": "2186",
+        "name": "Enciclopédia Revisada",
+        "displayName": "Enciclopédia Revisada [1]",
+        "aegisName": "encyclopedia_revision",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 50
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "2187": {
+        "id": "2187",
+        "name": "Escudo de Cinzas",
+        "displayName": "Escudo de Cinzas [1]",
+        "aegisName": "shield_of_gray",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 75
+        },
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "2188": {
+        "id": "2188",
+        "name": "Escudo de Svalinn",
+        "displayName": "Escudo de Svalinn [1]",
+        "aegisName": "svalinn_j",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 80
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "2189": {
+        "id": "2189",
+        "name": "Escudo da Piamette",
+        "displayName": "Escudo da Piamette [1]",
+        "aegisName": "mad_bunny",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "2190": {
+        "id": "2190",
+        "name": "Escudo do Dragão",
+        "displayName": "Escudo do Dragão [1]",
+        "aegisName": "ancient_shield_of_aeon",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 5
+        },
+        "price": 500,
+        "weight": 20,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 130
+            }
+        }
+    },
+    "2192": {
+        "id": "2192",
+        "name": "Escudo da Rosa",
+        "displayName": "Escudo da Rosa [1]",
+        "aegisName": "rose_of_eden",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 30
+    },
+    "28900": {
+        "id": "28900",
+        "name": "Égide da Realeza",
+        "displayName": "Égide da Realeza [1]",
+        "aegisName": "shieldofguardsman",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 30
+        },
+        "price": 20,
+        "weight": 300,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "28902": {
+        "id": "28902",
+        "name": "Coelho Macabro",
+        "displayName": "Coelho Macabro [1]",
+        "aegisName": "mad_bunny_k_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 10
+    },
+    "28906": {
+        "id": "28906",
+        "name": "Escudo do Fogo",
+        "displayName": "Escudo do Fogo [1]",
+        "aegisName": "shield_of_flame",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true
+        },
+        "weight": 50
+    },
+    "28907": {
+        "id": "28907",
+        "name": "Escudo do Vento",
+        "displayName": "Escudo do Vento [1]",
+        "aegisName": "shield_of_gust",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true
+        },
+        "weight": 50
+    },
+    "28908": {
+        "id": "28908",
+        "name": "Escudo da Água",
+        "displayName": "Escudo da Água [1]",
+        "aegisName": "bigshield_of_water",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true
+        },
+        "weight": 50
+    },
+    "28909": {
+        "id": "28909",
+        "name": "Escudo da Terra",
+        "displayName": "Escudo da Terra [1]",
+        "aegisName": "shield_of_earth",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true
+        },
+        "weight": 50
+    },
+    "28910": {
+        "id": "28910",
+        "name": "Escudo de Placas Samurai",
+        "displayName": "Escudo de Placas Samurai [1]",
+        "aegisName": "imuke_upper_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true
+        },
+        "weight": 80
+    },
+    "28912": {
+        "id": "28912",
+        "name": "Escudo Higiênico",
+        "displayName": "Escudo Higiênico [1]",
+        "aegisName": "rudo_heart_roll",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true
+        },
+        "weight": 1
+    },
+    "28921": {
+        "id": "28921",
+        "name": "Escudo de Anemos",
+        "displayName": "Escudo de Anemos [1]",
+        "aegisName": "anemos_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true
+        },
+        "weight": 350
+    },
+    "28927": {
+        "id": "28927",
+        "name": "Égide da Nobreza",
+        "displayName": "Égide da Nobreza [1]",
+        "aegisName": "kings_guard",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true
+        },
+        "weight": 250
+    },
+    "28933": {
+        "id": "28933",
+        "name": "Escudo de Ferro",
+        "displayName": "Escudo de Ferro [1]",
+        "aegisName": "iron_shield_br",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true
+        }
+    },
+    "28940": {
+        "id": "28940",
+        "name": "Escudo das Divindades",
+        "displayName": "Escudo das Divindades [1]",
+        "aegisName": "gods_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true
+        },
+        "weight": 120
+    },
+    "28944": {
+        "id": "28944",
+        "name": "Escudo de Sleiporing",
+        "displayName": "Escudo de Sleiporing [1]",
+        "aegisName": "scutum_br",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true
+        }
+    },
+    "28947": {
+        "id": "28947",
+        "name": "Escudo de Gaia",
+        "displayName": "Escudo de Gaia [1]",
+        "aegisName": "gaia_shield_br",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true
+        }
+    },
+    "28951": {
+        "id": "28951",
+        "name": "Escudo de Nero",
+        "displayName": "Escudo de Nero [1]",
+        "aegisName": "nero_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true
+        }
+    },
+    "28955": {
+        "id": "28955",
+        "name": "Escudo de Fotia",
+        "displayName": "Escudo de Fotia [1]",
+        "aegisName": "fotia_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 1,
+            "position": "SHIELD",
+            "refinable": true
+        },
+        "weight": 100
+    }
+}

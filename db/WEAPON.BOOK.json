@@ -1,0 +1,1023 @@
+{
+    "1550": {
+        "id": "1550",
+        "name": "Livro",
+        "displayName": "Livro [3]",
+        "aegisName": "book",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 85,
+            "refinable": true
+        },
+        "price": 30000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 14
+            }
+        }
+    },
+    "1551": {
+        "id": "1551",
+        "name": "Bíblia",
+        "displayName": "Bíblia [2]",
+        "aegisName": "bible",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 115,
+            "refinable": true
+        },
+        "price": 60000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1552": {
+        "id": "1552",
+        "name": "Tábula",
+        "displayName": "Tábula [1]",
+        "aegisName": "tablet",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 125,
+            "refinable": true
+        },
+        "price": 51000,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1553": {
+        "id": "1553",
+        "name": "Livro das Ondas",
+        "displayName": "Livro das Ondas",
+        "aegisName": "book_of_billows",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 35000,
+        "weight": 75,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1554": {
+        "id": "1554",
+        "name": "Livro da Mãe Terra",
+        "displayName": "Livro da Mãe Terra",
+        "aegisName": "book_of_mother_earth",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 35000,
+        "weight": 75,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1555": {
+        "id": "1555",
+        "name": "Livro do Sol Ardente",
+        "displayName": "Livro do Sol Ardente",
+        "aegisName": "book_of_blazing_sun",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 35000,
+        "weight": 75,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1556": {
+        "id": "1556",
+        "name": "Livro do Golpe de Vento",
+        "displayName": "Livro do Golpe de Vento",
+        "aegisName": "book_of_gust_of_wind",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 35000,
+        "weight": 75,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1557": {
+        "id": "1557",
+        "name": "Livro do Apocalipse",
+        "displayName": "Livro do Apocalipse",
+        "aegisName": "book_of_the_apocalypse",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 60000,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1558": {
+        "id": "1558",
+        "name": "Diário de Menina",
+        "displayName": "Diário de Menina [1]",
+        "aegisName": "girls_diary",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 60,
+            "refinable": true
+        },
+        "price": 1500,
+        "weight": 30,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1559": {
+        "id": "1559",
+        "name": "Herança do Dragão",
+        "displayName": "Herança do Dragão",
+        "aegisName": "legacy_of_dragon",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1560": {
+        "id": "1560",
+        "name": "Diário do Sábio",
+        "displayName": "Diário do Sábio [2]",
+        "aegisName": "diary_of_great_sage",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 100,
+            "matk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 110,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1561": {
+        "id": "1561",
+        "name": "Livro Capa Dura",
+        "displayName": "Livro Capa Dura [1]",
+        "aegisName": "hardback",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1562": {
+        "id": "1562",
+        "name": "Diário de Campo de Batalha",
+        "displayName": "Diário de Campo de Batalha [1]",
+        "aegisName": "bible_of_battlefield",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 110,
+            "refinable": false
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1563": {
+        "id": "1563",
+        "name": "Diário do Sábio [A]",
+        "displayName": "Diário do Sábio [A]",
+        "aegisName": "diary_of_great_sage_c",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 135,
+            "matk": 140,
+            "refinable": false
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            }
+        }
+    },
+    "1564": {
+        "id": "1564",
+        "name": "Enciclopédia",
+        "displayName": "Enciclopédia [2]",
+        "aegisName": "encyclopedia",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 110,
+            "matk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1565": {
+        "id": "1565",
+        "name": "Death Note",
+        "displayName": "Death Note [2]",
+        "aegisName": "death_note",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 137,
+            "matk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 85
+            }
+        }
+    },
+    "1568": {
+        "id": "1568",
+        "name": "Livro das Ondas",
+        "displayName": "Livro das Ondas [3]",
+        "aegisName": "book_of_billows_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 35000,
+        "weight": 75,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1569": {
+        "id": "1569",
+        "name": "Livro da Mãe Terra",
+        "displayName": "Livro da Mãe Terra [3]",
+        "aegisName": "book_of_mother_earth_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 35000,
+        "weight": 75,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1570": {
+        "id": "1570",
+        "name": "Livro do Sol Ardente",
+        "displayName": "Livro do Sol Ardente [3]",
+        "aegisName": "book_of_blazing_sun_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 35000,
+        "weight": 75,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1571": {
+        "id": "1571",
+        "name": "Livro do Golpe de Vento",
+        "displayName": "Livro do Golpe de Vento [3]",
+        "aegisName": "book_of_gust_of_wind_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 35000,
+        "weight": 75,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1572": {
+        "id": "1572",
+        "name": "Princípios da Magia",
+        "displayName": "Princípios da Magia [2]",
+        "aegisName": "principles_of_magic",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 60,
+            "matk": 160,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1573": {
+        "id": "1573",
+        "name": "Magia Antiga",
+        "displayName": "Magia Antiga [2]",
+        "aegisName": "ancient_magic",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 30,
+            "matk": 140,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1574": {
+        "id": "1574",
+        "name": "Livro de Estratégia de Batalha A",
+        "displayName": "Livro de Estratégia de Batalha A",
+        "aegisName": "bf_book1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 90,
+            "matk": 125,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1575": {
+        "id": "1575",
+        "name": "Livro de Estratégia de Batalha B",
+        "displayName": "Livro de Estratégia de Batalha B",
+        "aegisName": "bf_book2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 90,
+            "matk": 125,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1576": {
+        "id": "1576",
+        "name": "Tábula Gloriosa",
+        "displayName": "Tábula Gloriosa",
+        "aegisName": "krieger_book1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 90,
+            "matk": 115,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1577": {
+        "id": "1577",
+        "name": "Livro do Apocalipse Glorioso",
+        "displayName": "Livro do Apocalipse Glorioso",
+        "aegisName": "krieger_book2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 90,
+            "matk": 115,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1583": {
+        "id": "1583",
+        "name": "Dicionário I do Grupo Éden",
+        "displayName": "Dicionário I do Grupo Éden",
+        "aegisName": "p_dic1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 135,
+            "matk": 110,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1584": {
+        "id": "1584",
+        "name": "Livro de Feitiços do Frio",
+        "displayName": "Livro de Feitiços do Frio [2]",
+        "aegisName": "chilly_spell_book",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 100,
+            "matk": 160,
+            "refinable": true
+        },
+        "price": 56000,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Sage": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "1585": {
+        "id": "1585",
+        "name": "Livro Aprimorado",
+        "displayName": "Livro Aprimorado [1]",
+        "aegisName": "upg_book",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 45,
+            "matk": 20,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            }
+        }
+    },
+    "1586": {
+        "id": "1586",
+        "name": "Bíblia de Vellum",
+        "displayName": "Bíblia de Vellum",
+        "aegisName": "velum_bible",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 110,
+            "matk": 125,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "1587": {
+        "id": "1587",
+        "name": "Enciclopédia de Vellum",
+        "displayName": "Enciclopédia de Vellum",
+        "aegisName": "velum_encyclopedia",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "1590": {
+        "id": "1590",
+        "name": "Compêndio de Criaturas",
+        "displayName": "Compêndio de Criaturas [2]",
+        "aegisName": "snake_encyclopedia",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 10,
+            "matk": 110,
+            "refinable": true
+        },
+        "price": 60000,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 105
+            }
+        }
+    },
+    "1591": {
+        "id": "1591",
+        "name": "Livro TE",
+        "displayName": "Livro TE",
+        "aegisName": "te_woe_book",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 120,
+            "refinable": false
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "28604": {
+        "id": "28604",
+        "name": "Bíblia Rubi",
+        "displayName": "Bíblia Rubi [2]",
+        "aegisName": "scarlet_bible",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 45,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 45,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "28605": {
+        "id": 28605,
+        "name": "Livro Sobrenatural",
+        "displayName": "Livro Sobrenatural [1]",
+        "aegisName": "book_of_vicious_mind",
+        "equipData": {
+            "slots": 1,
+            "class": "BOOK",
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 95,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 20,
+        "weight": 95,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Sage": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 160
+            }
+        }
+    },
+    "28617": {
+        "id": "28617",
+        "name": "Bíblia Sagrada",
+        "displayName": "Bíblia Sagrada [2]",
+        "aegisName": "demon_hunting_bible_br",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "refinable": true
+        }
+    },
+    "28630": {
+        "id": "28630",
+        "name": "Tomo Ancestral",
+        "displayName": "Tomo Ancestral [2]",
+        "aegisName": "demon_hunting_bible_k",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOOK",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 165,
+            "refinable": true
+        },
+        "weight": 50
+    }
+}

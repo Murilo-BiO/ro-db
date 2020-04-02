@@ -1,0 +1,876 @@
+{
+    "1400": {
+        "id": 1400,
+        "name": "Pique Sobrenatural",
+        "displayName": "Pique Sobrenatural [1]",
+        "aegisName": "spear_of_vicious_mind",
+        "equipData": {
+            "slots": 1,
+            "class": "1HSPEAR",
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 140,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 20,
+        "weight": 140,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 160
+            }
+        }
+    },
+    "1401": {
+        "id": "1401",
+        "name": "Azagaia",
+        "displayName": "Azagaia [3]",
+        "aegisName": "javelin",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 3,
+            "atk": 28,
+            "refinable": true
+        },
+        "price": 150,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 4
+            }
+        }
+    },
+    "1402": {
+        "id": "1402",
+        "name": "Azagaia",
+        "displayName": "Azagaia [4]",
+        "aegisName": "javelin_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 4,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 3,
+            "atk": 28,
+            "refinable": true
+        },
+        "price": 150,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 4
+            }
+        }
+    },
+    "1403": {
+        "id": "1403",
+        "name": "Azagaia",
+        "displayName": "Azagaia",
+        "aegisName": "javelin__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 3,
+            "atk": 28,
+            "refinable": true
+        },
+        "price": 150,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 4
+            }
+        }
+    },
+    "1404": {
+        "id": "1404",
+        "name": "Ranseur",
+        "displayName": "Ranseur [3]",
+        "aegisName": "spear",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 3,
+            "atk": 44,
+            "refinable": true
+        },
+        "price": 1700,
+        "weight": 85,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 4
+            }
+        }
+    },
+    "1405": {
+        "id": "1405",
+        "name": "Ranseur",
+        "displayName": "Ranseur [4]",
+        "aegisName": "spear_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 4,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 3,
+            "atk": 44,
+            "refinable": true
+        },
+        "price": 1700,
+        "weight": 85,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 4
+            }
+        }
+    },
+    "1406": {
+        "id": "1406",
+        "name": "Ranseur",
+        "displayName": "Ranseur",
+        "aegisName": "spear__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 3,
+            "atk": 44,
+            "refinable": true
+        },
+        "price": 1700,
+        "weight": 85,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 4
+            }
+        }
+    },
+    "1407": {
+        "id": "1407",
+        "name": "Pique",
+        "displayName": "Pique [3]",
+        "aegisName": "pike",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 3,
+            "atk": 60,
+            "refinable": true
+        },
+        "price": 3450,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 4
+            }
+        }
+    },
+    "1408": {
+        "id": "1408",
+        "name": "Pique",
+        "displayName": "Pique [4]",
+        "aegisName": "pike_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 4,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 3,
+            "atk": 60,
+            "refinable": true
+        },
+        "price": 3450,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 4
+            }
+        }
+    },
+    "1409": {
+        "id": "1409",
+        "name": "Pique",
+        "displayName": "Pique",
+        "aegisName": "pike__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 3,
+            "atk": 60,
+            "refinable": true
+        },
+        "price": 3450,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 4
+            }
+        }
+    },
+    "1413": {
+        "id": "1413",
+        "name": "Gungnir",
+        "displayName": "Gungnir",
+        "aegisName": "gungnir",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 4
+            }
+        }
+    },
+    "1414": {
+        "id": "1414",
+        "name": "Gelerdria",
+        "displayName": "Gelerdria",
+        "aegisName": "gelerdria",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 145,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1415": {
+        "id": "1415",
+        "name": "Broca",
+        "displayName": "Broca",
+        "aegisName": "skewer",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 85,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1416": {
+        "id": "1416",
+        "name": "Tjungkuletti",
+        "displayName": "Tjungkuletti",
+        "aegisName": "tjungkuletti",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1417": {
+        "id": "1417",
+        "name": "Bardiche",
+        "displayName": "Bardiche [1]",
+        "aegisName": "pole_axe",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 3,
+            "atk": 160,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 380,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 71
+            }
+        }
+    },
+    "1418": {
+        "id": "1418",
+        "name": "Gungnir",
+        "displayName": "Gungnir [2]",
+        "aegisName": "gungnir_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 4
+            }
+        }
+    },
+    "1419": {
+        "id": "1419",
+        "name": "Bardiche [A]",
+        "displayName": "Bardiche [A]",
+        "aegisName": "pole_axe_c",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 3,
+            "atk": 195,
+            "refinable": false
+        },
+        "price": 1,
+        "weight": 480,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            }
+        }
+    },
+    "1420": {
+        "id": "1420",
+        "name": "Lança Longa",
+        "displayName": "Lança Longa [1]",
+        "aegisName": "long_horn",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "1421": {
+        "id": "1421",
+        "name": "Lança de Gancho",
+        "displayName": "Lança de Gancho [1]",
+        "aegisName": "battle_hook",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "1422": {
+        "id": "1422",
+        "name": "Lança de Caça",
+        "displayName": "Lança de Caça [1]",
+        "aegisName": "hunting_spear",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 180,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 420,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1425": {
+        "id": "1425",
+        "name": "Lança de Assalto",
+        "displayName": "Lança de Assalto",
+        "aegisName": "bf_spear1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 3,
+            "atk": 60,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1426": {
+        "id": "1426",
+        "name": "Lança Gloriosa",
+        "displayName": "Lança Gloriosa",
+        "aegisName": "krieger_onehand_spear1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 130,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1433": {
+        "id": "1433",
+        "name": "Lança Imperial",
+        "displayName": "Lança Imperial [1]",
+        "aegisName": "imperial_spear",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 3,
+            "atk": 180,
+            "matk": 40,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 180,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Crusader": true
+            },
+            "level": {
+                "min": 102
+            }
+        }
+    },
+    "1434": {
+        "id": "1434",
+        "name": "Lança I do Grupo Éden",
+        "displayName": "Lança I do Grupo Éden",
+        "aegisName": "p_sphere1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 3,
+            "atk": 165,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1435": {
+        "id": "1435",
+        "name": "Lança-canhão",
+        "displayName": "Lança-canhão [1]",
+        "aegisName": "cannon_spear",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 180,
+            "refinable": true
+        },
+        "price": 56000,
+        "weight": 160,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Crusader": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "1436": {
+        "id": "1436",
+        "name": "Lança de Vellum",
+        "displayName": "Lança de Vellum",
+        "aegisName": "velum_spear",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 85,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "1437": {
+        "id": "1437",
+        "name": "Pique TE",
+        "displayName": "Pique TE",
+        "aegisName": "te_woe_pike",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 3,
+            "atk": 100,
+            "refinable": false
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1438": {
+        "id": "1438",
+        "name": "Lança de Cinzas",
+        "displayName": "Lança de Cinzas [1]",
+        "aegisName": "thanos_spear",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 150,
+            "matk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 300,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "1443": {
+        "id": "1443",
+        "name": "Pique Rubi",
+        "displayName": "Pique Rubi [2]",
+        "aegisName": "scarlet_spear",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 3,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1449": {
+        "id": 1449,
+        "name": "Gelerdria",
+        "displayName": "Gelerdria [3]",
+        "aegisName": null,
+        "equipData": {
+            "slots": 3,
+            "class": "1HSPEAR",
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 145,
+            "refinable": true
+        },
+        "weight": 70,
+        "restrictions": {
+            "level": {
+                "min": 48
+            }
+        },
+        "type": "WEAPON"
+    },
+    "32018": {
+        "id": "32018",
+        "name": "Lança Ancestral",
+        "displayName": "Lança Ancestral [2]",
+        "aegisName": "undine_spear_k",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSPEAR",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "refinable": true
+        }
+    }
+}

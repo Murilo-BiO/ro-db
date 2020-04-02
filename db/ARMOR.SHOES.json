@@ -1,0 +1,3473 @@
+{
+    "2401": {
+        "id": "2401",
+        "name": "Sandálias",
+        "displayName": "Sandálias",
+        "aegisName": "sandals",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 5
+        },
+        "price": 400,
+        "weight": 20
+    },
+    "2402": {
+        "id": "2402",
+        "name": "Sandálias",
+        "displayName": "Sandálias [1]",
+        "aegisName": "sandals_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 5
+        },
+        "price": 400,
+        "weight": 20
+    },
+    "2403": {
+        "id": "2403",
+        "name": "Sapatos",
+        "displayName": "Sapatos",
+        "aegisName": "shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 3500,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2404": {
+        "id": "2404",
+        "name": "Sapatos",
+        "displayName": "Sapatos [1]",
+        "aegisName": "shoes_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 3500,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2405": {
+        "id": "2405",
+        "name": "Botas",
+        "displayName": "Botas",
+        "aegisName": "boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 16
+        },
+        "price": 18000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Taekwon": true,
+                "Star_Gladiator": true,
+                "Gunslinger": true
+            }
+        }
+    },
+    "2406": {
+        "id": "2406",
+        "name": "Botas",
+        "displayName": "Botas [1]",
+        "aegisName": "boots_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 16
+        },
+        "price": 18000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Taekwon": true,
+                "Star_Gladiator": true,
+                "Gunslinger": true
+            }
+        }
+    },
+    "2407": {
+        "id": "2407",
+        "name": "Sapatilha de Cristal",
+        "displayName": "Sapatilha de Cristal",
+        "aegisName": "chrystal_pumps",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 5
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2408": {
+        "id": "2408",
+        "name": "Grilhões",
+        "displayName": "Grilhões",
+        "aegisName": "cuffs",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 18
+        },
+        "price": 5000,
+        "weight": 300
+    },
+    "2409": {
+        "id": "2409",
+        "name": "Salto Alto",
+        "displayName": "Salto Alto",
+        "aegisName": "spiky_heel",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 8500,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2410": {
+        "id": "2410",
+        "name": "Sleipnir",
+        "displayName": "Sleipnir",
+        "aegisName": "sleipnir",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": false,
+            "def": 40
+        },
+        "price": 20,
+        "weight": 350,
+        "restrictions": {
+            "level": {
+                "min": 94
+            }
+        }
+    },
+    "2411": {
+        "id": "2411",
+        "name": "Grevas",
+        "displayName": "Grevas",
+        "aegisName": "grave",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 27
+        },
+        "price": 48000,
+        "weight": 75,
+        "restrictions": {
+            "job": {
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "2412": {
+        "id": "2412",
+        "name": "Grevas",
+        "displayName": "Grevas [1]",
+        "aegisName": "grave_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 27
+        },
+        "price": 54000,
+        "weight": 75,
+        "restrictions": {
+            "job": {
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "2413": {
+        "id": "2413",
+        "name": "Coturnos",
+        "displayName": "Coturnos",
+        "aegisName": "safty_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": false,
+            "def": 22
+        },
+        "price": 34000,
+        "weight": 35,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "2414": {
+        "id": "2414",
+        "name": "Sandálias do Aprendiz",
+        "displayName": "Sandálias do Aprendiz",
+        "aegisName": "novice_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": false,
+            "def": 5
+        },
+        "price": 1,
+        "weight": 0.1,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            }
+        }
+    },
+    "2415": {
+        "id": "2415",
+        "name": "Pantufas de Coelho",
+        "displayName": "Pantufas de Coelho [1]",
+        "aegisName": "slipper",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 9
+        },
+        "price": 34000,
+        "weight": 30,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "2416": {
+        "id": "2416",
+        "name": "Sapatos do Aprendiz",
+        "displayName": "Sapatos do Aprendiz [1]",
+        "aegisName": "novice_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 8
+        },
+        "price": 35000,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2417": {
+        "id": "2417",
+        "name": "Sapatos de Fricco",
+        "displayName": "Sapatos de Fricco",
+        "aegisName": "fricco_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 12
+        },
+        "price": 30000,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "2418": {
+        "id": "2418",
+        "name": "Botas de Vidar",
+        "displayName": "Botas de Vidar",
+        "aegisName": "vidars_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 13
+        },
+        "price": 30000,
+        "weight": 65,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "2419": {
+        "id": "2419",
+        "name": "Grevas de Goibne",
+        "displayName": "Grevas de Goibne",
+        "aegisName": "goibnes_combat_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 13
+        },
+        "price": 30000,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 54
+            }
+        }
+    },
+    "2420": {
+        "id": "2420",
+        "name": "Reencarnação do Anjo",
+        "displayName": "Reencarnação do Anjo [1]",
+        "aegisName": "angels_arrival",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 8
+        },
+        "price": 10000,
+        "weight": 30,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 25
+            }
+        }
+    },
+    "2421": {
+        "id": "2421",
+        "name": "Sapatos das Valquírias",
+        "displayName": "Sapatos das Valquírias [1]",
+        "aegisName": "valkyrie_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 13
+        },
+        "price": 0,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2422": {
+        "id": "2422",
+        "name": "Sandálias Elegantes",
+        "displayName": "Sandálias Elegantes [1]",
+        "aegisName": "high_fashion_sandals",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 7
+        },
+        "price": 24000,
+        "weight": 20,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2423": {
+        "id": "2423",
+        "name": "Sapatos Divergentes",
+        "displayName": "Sapatos Divergentes",
+        "aegisName": "variant_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 13
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 85
+            }
+        }
+    },
+    "2424": {
+        "id": "2424",
+        "name": "Sapatos da Maré",
+        "displayName": "Sapatos da Maré [1]",
+        "aegisName": "tidal_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 13
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "2425": {
+        "id": "2425",
+        "name": "Botas Pretas de Couro",
+        "displayName": "Botas Pretas de Couro",
+        "aegisName": "black_leather_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 16
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "2426": {
+        "id": "2426",
+        "name": "Passo das Sombras",
+        "displayName": "Passo das Sombras",
+        "aegisName": "shadow_walk",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "2429": {
+        "id": 2429,
+        "name": "Botas de Ferro",
+        "displayName": "Botas de Ferro",
+        "aegisName": "iron_boots01",
+        "price": 0,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 5
+        }
+    },
+    "2430": {
+        "id": 2430,
+        "name": "Botas de Ferro",
+        "displayName": "Botas de Ferro",
+        "aegisName": "iron_boots02",
+        "price": 0,
+        "weight": 80,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 5
+        }
+    },
+    "2432": {
+        "id": "2432",
+        "name": "Salto Alto",
+        "displayName": "Salto Alto [1]",
+        "aegisName": "spiky_heel_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 8500,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2433": {
+        "id": "2433",
+        "name": "Botas de Diabolus",
+        "displayName": "Botas de Diabolus [1]",
+        "aegisName": "diabolus_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 15
+        },
+        "price": 20,
+        "weight": 25,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2434": {
+        "id": "2434",
+        "name": "Botas de Couro Preto",
+        "displayName": "Botas de Couro Preto [1]",
+        "aegisName": "black_leather_boots_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 16
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "2435": {
+        "id": "2435",
+        "name": "Grevas de Batalha",
+        "displayName": "Grevas de Batalha [1]",
+        "aegisName": "battle_greave",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 15
+        },
+        "price": 10,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Taekwon": true,
+                "Star_Gladiator": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2436": {
+        "id": "2436",
+        "name": "Botas de Combate",
+        "displayName": "Botas de Combate [1]",
+        "aegisName": "combat_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 9
+        },
+        "price": 10,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Hunter": true,
+                "Monk": true,
+                "Sage": true,
+                "Bard": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2437": {
+        "id": "2437",
+        "name": "Botas de Batalha",
+        "displayName": "Botas de Batalha [1]",
+        "aegisName": "battle_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 9
+        },
+        "price": 10,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2438": {
+        "id": "2438",
+        "name": "Cat Paw",
+        "displayName": "Cat Paw",
+        "aegisName": "paw_of_cat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 10,
+        "weight": 30
+    },
+    "2439": {
+        "id": "2439",
+        "name": "Sapatos Refrescantes [A]",
+        "displayName": "Sapatos Refrescantes [A]",
+        "aegisName": "refresh_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": false,
+            "def": 20
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "2440": {
+        "id": "2440",
+        "name": "Sapatos de Corrida",
+        "displayName": "Sapatos de Corrida [1]",
+        "aegisName": "sprint_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2441": {
+        "id": "2441",
+        "name": "Sandália de Praia",
+        "displayName": "Sandália de Praia",
+        "aegisName": "beach_sandal",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 20
+    },
+    "2443": {
+        "id": "2443",
+        "name": "Botas de Pescador",
+        "displayName": "Botas de Pescador",
+        "aegisName": "fish_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 10,
+        "weight": 25
+    },
+    "2444": {
+        "id": "2444",
+        "name": "Sapatos Gloriosos",
+        "displayName": "Sapatos Gloriosos",
+        "aegisName": "krieger_shoes1",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 81
+            }
+        }
+    },
+    "2445": {
+        "id": "2445",
+        "name": "Sapatos Gloriosos Industrializados",
+        "displayName": "Sapatos Gloriosos Industrializados",
+        "aegisName": "krieger_shoes2",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 5
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 61
+            }
+        }
+    },
+    "2446": {
+        "id": "2446",
+        "name": "Sapatos Gloriosos Baratos",
+        "displayName": "Sapatos Gloriosos Baratos",
+        "aegisName": "krieger_shoes3",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2447": {
+        "id": "2447",
+        "name": "Botas Militares",
+        "displayName": "Botas Militares",
+        "aegisName": "military_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 5
+        },
+        "price": 1000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2448": {
+        "id": "2448",
+        "name": "Sapatos Velozes",
+        "displayName": "Sapatos Velozes",
+        "aegisName": "air_boss",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 2
+        },
+        "price": 0,
+        "weight": 50
+    },
+    "2450": {
+        "id": "2450",
+        "name": "Sapatos da Árvore da Vida",
+        "displayName": "Sapatos da Árvore da Vida",
+        "aegisName": "vital_tree_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 16
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "2456": {
+        "id": "2456",
+        "name": "Botas Valhalla Iniciantes",
+        "displayName": "Botas Valhalla Iniciantes",
+        "aegisName": "para_team_boots1",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": false,
+            "def": 14
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "2457": {
+        "id": "2457",
+        "name": "Botas Valhalla Intermediárias",
+        "displayName": "Botas Valhalla Intermediárias",
+        "aegisName": "para_team_boots2",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": false,
+            "def": 16
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 26
+            }
+        }
+    },
+    "2458": {
+        "id": "2458",
+        "name": "Botas Valhalla Avançadas",
+        "displayName": "Botas Valhalla Avançadas",
+        "aegisName": "para_team_boots3",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": false,
+            "def": 18
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2459": {
+        "id": "2459",
+        "name": "Sapatos Aprimorados",
+        "displayName": "Sapatos Aprimorados [1]",
+        "aegisName": "upg_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 15
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2460": {
+        "id": "2460",
+        "name": "Botas Aprimoradas",
+        "displayName": "Botas Aprimoradas [1]",
+        "aegisName": "upg_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 21
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Taekwon": true,
+                "Star_Gladiator": true,
+                "Gunslinger": true
+            }
+        }
+    },
+    "2461": {
+        "id": "2461",
+        "name": "Grevas Aprimoradas",
+        "displayName": "Grevas Aprimoradas [1]",
+        "aegisName": "upg_greave",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 32
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Knight": true,
+                "Crusader": true
+            }
+        }
+    },
+    "2463": {
+        "id": "2463",
+        "name": "Botas Ferais",
+        "displayName": "Botas Ferais",
+        "aegisName": "feral_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": false,
+            "def": 12
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "2465": {
+        "id": "2465",
+        "name": "Sapatos de Dança",
+        "displayName": "Sapatos de Dança [1]",
+        "aegisName": "dance_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 15
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 105
+            }
+        }
+    },
+    "2466": {
+        "id": "2466",
+        "name": "Sapatos de Treino",
+        "displayName": "Sapatos de Treino [1]",
+        "aegisName": "training_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 30
+    },
+    "2467": {
+        "id": "2467",
+        "name": "Sapatos do Açoite de Ouro",
+        "displayName": "Sapatos do Açoite de Ouro",
+        "aegisName": "golden_rod_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 12
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2468": {
+        "id": "2468",
+        "name": "Sapatos Aquáticos",
+        "displayName": "Sapatos Aquáticos",
+        "aegisName": "aqua_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 12
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2469": {
+        "id": "2469",
+        "name": "Sapatos Vermelhos",
+        "displayName": "Sapatos Vermelhos",
+        "aegisName": "crimson_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 12
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2470": {
+        "id": "2470",
+        "name": "Sapatos Florestais",
+        "displayName": "Sapatos Florestais",
+        "aegisName": "forest_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 12
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2471": {
+        "id": "2471",
+        "name": "Sapatos da Afeição",
+        "displayName": "Sapatos da Afeição",
+        "aegisName": "shoes_of_affection",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 12
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Priest": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2472": {
+        "id": "2472",
+        "name": "Sapatos do Julgamento",
+        "displayName": "Sapatos do Julgamento",
+        "aegisName": "shoes_of_judgement",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 12
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Priest": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2473": {
+        "id": "2473",
+        "name": "Botas IV do Grupo Éden",
+        "displayName": "Botas IV do Grupo Éden",
+        "aegisName": "para_team_boots4",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": false,
+            "def": 20
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "2474": {
+        "id": "2474",
+        "name": "Sandálias de Iemanjá",
+        "displayName": "Sandálias de Iemanjá [1]",
+        "aegisName": "lehmannza_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 3
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "2475": {
+        "id": "2475",
+        "name": "Grevas de Ur",
+        "displayName": "Grevas de Ur [1]",
+        "aegisName": "ur_greave",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 32
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2476": {
+        "id": "2476",
+        "name": "Grevas de Peuz",
+        "displayName": "Grevas de Peuz [1]",
+        "aegisName": "peuz_greave",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 32
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2477": {
+        "id": "2477",
+        "name": "Botas dos Manuks",
+        "displayName": "Botas dos Manuks [1]",
+        "aegisName": "sabah_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 18
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2478": {
+        "id": "2478",
+        "name": "Botas de Nab",
+        "displayName": "Botas de Nab [1]",
+        "aegisName": "nab_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 18
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2479": {
+        "id": "2479",
+        "name": "Sapatos das Asas da Luz",
+        "displayName": "Sapatos das Asas da Luz [1]",
+        "aegisName": "white_wing_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 18
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Hunter": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2480": {
+        "id": "2480",
+        "name": "Sapatos das Asas das Sombras",
+        "displayName": "Sapatos das Asas das Sombras [1]",
+        "aegisName": "black_wing_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 18
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Hunter": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2481": {
+        "id": "2481",
+        "name": "Botas Rúnicas",
+        "displayName": "Botas Rúnicas [1]",
+        "aegisName": "rune_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 5
+        },
+        "price": 20,
+        "weight": 10
+    },
+    "2483": {
+        "id": "2483",
+        "name": "Grevas de Cerco",
+        "displayName": "Grevas de Cerco [1]",
+        "aegisName": "siege_greave",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 30
+        },
+        "price": 10,
+        "weight": 75,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "2484": {
+        "id": "2484",
+        "name": "Botas de Cerco",
+        "displayName": "Botas de Cerco [1]",
+        "aegisName": "siege_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 20
+        },
+        "price": 10,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Taekwon": true,
+                "Star_Gladiator": true,
+                "Gunslinger": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "2485": {
+        "id": "2485",
+        "name": "Sapatos de Cerco",
+        "displayName": "Sapatos de Cerco [1]",
+        "aegisName": "siege_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 15
+        },
+        "price": 10,
+        "weight": 35,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "2486": {
+        "id": "2486",
+        "name": "Passo das Sombras",
+        "displayName": "Passo das Sombras [1]",
+        "aegisName": "shadow_walk_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "2487": {
+        "id": 2487,
+        "name": "Sapatos da Árvore da Vida",
+        "displayName": "Sapatos da Árvore da Vida [1]",
+        "aegisName": "vital_tree_shoes_",
+        "equipData": {
+            "slots": 1,
+            "class": "SHOES",
+            "position": "SHOES",
+            "refinable": true,
+            "def": 16
+        },
+        "type": "ARMOR",
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "2491": {
+        "id": "2491",
+        "name": "Botas do Pesadelo de Bangungot",
+        "displayName": "Botas do Pesadelo de Bangungot",
+        "aegisName": "bangungot_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 20,
+        "weight": 60
+    },
+    "2492": {
+        "id": "2492",
+        "name": "Botas de Bangungot Bayani",
+        "displayName": "Botas de Bangungot Bayani [1]",
+        "aegisName": "bayani_bangungot_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 20,
+        "weight": 60
+    },
+    "2495": {
+        "id": "2495",
+        "name": "Botas de Aegir",
+        "displayName": "Botas de Aegir [1]",
+        "aegisName": "egir_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 13
+        },
+        "price": 200000,
+        "weight": 30,
+        "restrictions": {
+            "level": {
+                "min": 110
+            }
+        }
+    },
+    "2496": {
+        "id": "2496",
+        "name": "Sapatos TE",
+        "displayName": "Sapatos TE",
+        "aegisName": "te_woe_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": false,
+            "def": 5
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2497": {
+        "id": "2497",
+        "name": "Botas TE",
+        "displayName": "Botas TE",
+        "aegisName": "te_woe_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": false,
+            "def": 10
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2498": {
+        "id": "2498",
+        "name": "Sandálias Mágicas TE",
+        "displayName": "Sandálias Mágicas TE",
+        "aegisName": "te_woe_magic_sandal",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": false,
+            "def": 5
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2499": {
+        "id": "2499",
+        "name": "Botas Temporais",
+        "displayName": "Botas Temporais",
+        "aegisName": "temporal_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 20
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "level": {
+                "min": 10
+            }
+        }
+    },
+    "15368": {
+        "id": 15368,
+        "name": "Saltos da Rainha Scaraba",
+        "displayName": "Saltos da Rainha Scaraba [1]",
+        "aegisName": null,
+        "equipData": {
+            "slots": 1,
+            "class": "SHOES",
+            "position": "SHOES",
+            "refinable": true,
+            "def": 12
+        },
+        "weight": 70,
+        "restrictions": {
+            "level": {
+                "min": 85
+            }
+        },
+        "type": "ARMOR"
+    },
+    "22000": {
+        "id": "22000",
+        "name": "Botas Temporais FOR",
+        "displayName": "Botas Temporais FOR",
+        "aegisName": "temporal_str_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "22001": {
+        "id": "22001",
+        "name": "Botas Temporais INT",
+        "displayName": "Botas Temporais INT",
+        "aegisName": "temporal_int_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 20
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "22002": {
+        "id": "22002",
+        "name": "Botas Temporais AGI",
+        "displayName": "Botas Temporais AGI",
+        "aegisName": "temporal_agi_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "22003": {
+        "id": "22003",
+        "name": "Botas Temporais VIT",
+        "displayName": "Botas Temporais VIT",
+        "aegisName": "temporal_vit_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "22004": {
+        "id": "22004",
+        "name": "Botas Temporais DES",
+        "displayName": "Botas Temporais DES",
+        "aegisName": "temporal_dex_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "22005": {
+        "id": "22005",
+        "name": "Botas Temporais SOR",
+        "displayName": "Botas Temporais SOR",
+        "aegisName": "temporal_luk_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 20
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "22006": {
+        "id": "22006",
+        "name": "Botas Temporais FOR",
+        "displayName": "Botas Temporais FOR [1]",
+        "aegisName": "temporal_str_boots_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "22007": {
+        "id": "22007",
+        "name": "Botas Temporais VIT",
+        "displayName": "Botas Temporais VIT [1]",
+        "aegisName": "temporal_vit_boots_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 20
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "22008": {
+        "id": "22008",
+        "name": "Botas Temporais DES",
+        "displayName": "Botas Temporais DES [1]",
+        "aegisName": "temporal_dex_boots_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "22009": {
+        "id": "22009",
+        "name": "Botas Temporais INT",
+        "displayName": "Botas Temporais INT [1]",
+        "aegisName": "temporal_int_boots_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "22010": {
+        "id": "22010",
+        "name": "Botas Temporais AGI",
+        "displayName": "Botas Temporais AGI [1]",
+        "aegisName": "temporal_agi_boots_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "22011": {
+        "id": "22011",
+        "name": "Botas Temporais SOR",
+        "displayName": "Botas Temporais SOR [1]",
+        "aegisName": "temporal_luk_boots_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 20
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "22012": {
+        "id": "22012",
+        "name": "Botas de Mana",
+        "displayName": "Botas de Mana",
+        "aegisName": "mana_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 1,
+                "max": 100
+            }
+        }
+    },
+    "22014": {
+        "id": "22014",
+        "name": "Sapatos Convergentes",
+        "displayName": "Sapatos Convergentes [1]",
+        "aegisName": "enhanced_variant_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 13
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Star_Gladiator": true,
+                "Soul_Linker": true,
+                "Gangsi": true,
+                "Death_Knight": true,
+                "Dark_Collector": true,
+                "Kagerou": true,
+                "Rebellion": true
+            },
+            "level": {
+                "min": 85
+            }
+        }
+    },
+    "22015": {
+        "id": "22015",
+        "name": "Reencarnação do Arcanjo",
+        "displayName": "Reencarnação do Arcanjo [1]",
+        "aegisName": "impr_angels_arrival",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 8
+        },
+        "price": 10000,
+        "weight": 30,
+        "restrictions": {
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "22033": {
+        "id": "22033",
+        "name": "Botas de Cinzas",
+        "displayName": "Botas de Cinzas [1]",
+        "aegisName": "boots_of_gray",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 10,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "22035": {
+        "id": "22035",
+        "name": "Sapatos Relaxantes do Herói",
+        "displayName": "Sapatos Relaxantes do Herói [1]",
+        "aegisName": "vet_nepen_heel",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 10,
+        "weight": 30,
+        "restrictions": {
+            "level": {
+                "min": 160
+            }
+        }
+    },
+    "22036": {
+        "id": "22036",
+        "name": "Botas de Couro do Herói",
+        "displayName": "Botas de Couro do Herói [1]",
+        "aegisName": "vet_sliverfox_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 15
+        },
+        "price": 10,
+        "weight": 30,
+        "restrictions": {
+            "level": {
+                "min": 160
+            }
+        }
+    },
+    "22037": {
+        "id": "22037",
+        "name": "Botas de Ungoliant do Herói",
+        "displayName": "Botas de Ungoliant do Herói [1]",
+        "aegisName": "vet_ungo_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 10,
+        "weight": 30,
+        "restrictions": {
+            "level": {
+                "min": 160
+            }
+        }
+    },
+    "22043": {
+        "id": "22043",
+        "name": "Peça de AGI Suplementar",
+        "displayName": "Peça de AGI Suplementar [1]",
+        "aegisName": "supplement_part_agi",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 10,
+        "weight": 35,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Blacksmith": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "22044": {
+        "id": "22044",
+        "name": "Autopeça - Acelerador",
+        "displayName": "Autopeça - Acelerador [1]",
+        "aegisName": "upgrade_part_booster",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 23
+        },
+        "price": 10,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Blacksmith": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "22067": {
+        "id": 22067,
+        "name": "Sapatos de Bruxa",
+        "displayName": "Sapatos de Bruxa",
+        "aegisName": "witch_shoes",
+        "type": "ARMOR",
+        "price": 3500,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        },
+        "equipData": {
+            "class": "SHOES",
+            "position": "SHOES",
+            "refinable": true,
+            "def": 10
+        }
+    },
+    "22070": {
+        "id": "22070",
+        "name": "Salto Alto de Gala",
+        "displayName": "Salto Alto de Gala [1]",
+        "aegisName": "applause_sandal",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 20
+    },
+    "22071": {
+        "id": "22071",
+        "name": "Salto Alto Elegante",
+        "displayName": "Salto Alto Elegante [1]",
+        "aegisName": "applause_sandal_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 20
+    },
+    "22076": {
+        "id": "22076",
+        "name": "Sandálias Ecológicas",
+        "displayName": "Sandálias Ecológicas [1]",
+        "aegisName": "hardwood_slipper",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 20,
+        "weight": 5,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 9
+            }
+        }
+    },
+    "22077": {
+        "id": "22077",
+        "name": "Botas Ecológicas",
+        "displayName": "Botas Ecológicas [1]",
+        "aegisName": "red_eco_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 20
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "22082": {
+        "id": "22082",
+        "name": "Sapatos Luxuosos",
+        "displayName": "Sapatos Luxuosos [1]",
+        "aegisName": "polyhedron_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true
+        },
+        "weight": 50
+    },
+    "22083": {
+        "id": "22083",
+        "name": "Sapato Básico de Doram",
+        "displayName": "Sapato Básico de Doram [1]",
+        "aegisName": "doram_only_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "22084": {
+        "id": "22084",
+        "name": "Sapato Elegante de Doram",
+        "displayName": "Sapato Elegante de Doram [1]",
+        "aegisName": "doram_high_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 30
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 140
+            }
+        }
+    },
+    "22085": {
+        "id": "22085",
+        "name": "Sapato Luxuoso de Doram",
+        "displayName": "Sapato Luxuoso de Doram [1]",
+        "aegisName": "doram_ele_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 35
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 175
+            }
+        }
+    },
+    "22101": {
+        "id": "22101",
+        "name": "Botas do ArchAngeling",
+        "displayName": "Botas do ArchAngeling [1]",
+        "aegisName": "angelporing_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true
+        },
+        "weight": 30
+    },
+    "22104": {
+        "id": "22104",
+        "name": "Botas da Pororoca",
+        "displayName": "Botas da Pororoca",
+        "aegisName": "pororoca_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true
+        },
+        "weight": 50
+    },
+    "22106": {
+        "id": "22106",
+        "name": "Botas Gigantes",
+        "displayName": "Botas Gigantes [1]",
+        "aegisName": "giant_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true
+        },
+        "weight": 50
+    },
+    "22107": {
+        "id": 22107,
+        "name": "Botas Modificadas FOR",
+        "displayName": "Botas Modificadas FOR",
+        "aegisName": null,
+        "weight": 60,
+        "restrictions": {
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "position": "SHOES",
+            "refinable": true,
+            "def": 25
+        }
+    },
+    "22108": {
+        "id": 22108,
+        "name": "Botas Modificadas INT",
+        "displayName": "Botas Modificadas INT",
+        "aegisName": null,
+        "weight": 60,
+        "restrictions": {
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "position": "SHOES",
+            "refinable": true,
+            "def": 20
+        }
+    },
+    "22109": {
+        "id": 22109,
+        "name": "Botas Modificadas AGI",
+        "displayName": "Botas Modificadas AGI",
+        "aegisName": null,
+        "weight": 60,
+        "restrictions": {
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "position": "SHOES",
+            "refinable": true,
+            "def": 25
+        }
+    },
+    "22110": {
+        "id": 22110,
+        "name": "Botas Modificadas VIT",
+        "displayName": "Botas Modificadas VIT",
+        "aegisName": null,
+        "weight": 60,
+        "restrictions": {
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "position": "SHOES",
+            "refinable": true,
+            "def": 25
+        }
+    },
+    "22111": {
+        "id": 22111,
+        "name": "Botas Modificadas DES",
+        "displayName": "Botas Modificadas DES",
+        "aegisName": null,
+        "weight": 60,
+        "restrictions": {
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "position": "SHOES",
+            "refinable": true,
+            "def": 25
+        }
+    },
+    "22112": {
+        "id": 22112,
+        "name": "Botas Modificadas SOR",
+        "displayName": "Botas Modificadas SOR",
+        "aegisName": null,
+        "weight": 60,
+        "restrictions": {
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "position": "SHOES",
+            "refinable": true,
+            "def": 20
+        }
+    },
+    "22113": {
+        "id": 22113,
+        "name": "Botas Modificadas FOR",
+        "displayName": "Botas Modificadas FOR [1]",
+        "aegisName": null,
+        "equipData": {
+            "slots": 1,
+            "class": "SHOES",
+            "position": "SHOES",
+            "refinable": true,
+            "def": 25
+        },
+        "weight": 60,
+        "restrictions": {
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "ARMOR"
+    },
+    "22114": {
+        "id": 22114,
+        "name": "Botas Modificadas INT",
+        "displayName": "Botas Modificadas INT [1]",
+        "aegisName": null,
+        "equipData": {
+            "slots": 1,
+            "class": "SHOES",
+            "position": "SHOES",
+            "refinable": true,
+            "def": 20
+        },
+        "weight": 60,
+        "restrictions": {
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "ARMOR"
+    },
+    "22115": {
+        "id": 22115,
+        "name": "Botas Modificadas AGI",
+        "displayName": "Botas Modificadas AGI [1]",
+        "aegisName": null,
+        "equipData": {
+            "slots": 1,
+            "class": "SHOES",
+            "position": "SHOES",
+            "refinable": true,
+            "def": 25
+        },
+        "weight": 60,
+        "restrictions": {
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "ARMOR"
+    },
+    "22116": {
+        "id": 22116,
+        "name": "Botas Modificadas VIT",
+        "displayName": "Botas Modificadas VIT [1]",
+        "aegisName": null,
+        "equipData": {
+            "slots": 1,
+            "class": "SHOES",
+            "position": "SHOES",
+            "refinable": true,
+            "def": 25
+        },
+        "weight": 60,
+        "restrictions": {
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "ARMOR"
+    },
+    "22117": {
+        "id": 22117,
+        "name": "Botas Modificadas DES",
+        "displayName": "Botas Modificadas DES [1]",
+        "aegisName": null,
+        "equipData": {
+            "slots": 1,
+            "class": "SHOES",
+            "position": "SHOES",
+            "refinable": true,
+            "def": 25
+        },
+        "weight": 60,
+        "restrictions": {
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "ARMOR"
+    },
+    "22118": {
+        "id": 22118,
+        "name": "Botas Modificadas SOR",
+        "displayName": "Botas Modificadas SOR [1]",
+        "aegisName": null,
+        "equipData": {
+            "slots": 1,
+            "class": "SHOES",
+            "position": "SHOES",
+            "refinable": true,
+            "def": 20
+        },
+        "weight": 60,
+        "restrictions": {
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "ARMOR"
+    },
+    "22129": {
+        "id": 22129,
+        "name": "Botas Veteranas",
+        "displayName": "Botas Veteranas",
+        "aegisName": null,
+        "weight": 50,
+        "restrictions": {
+            "level": {
+                "min": 85
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "position": "SHOES",
+            "refinable": true,
+            "def": 12
+        }
+    },
+    "22134": {
+        "id": "22134",
+        "name": "Botas do Conjurador",
+        "displayName": "Botas do Conjurador",
+        "aegisName": "enforcer_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true
+        },
+        "weight": 40
+    },
+    "22138": {
+        "id": 22138,
+        "name": "Botas do Ocultista",
+        "displayName": "Botas do Ocultista",
+        "aegisName": null,
+        "weight": 50,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "position": "SHOES",
+            "refinable": true,
+            "def": 15
+        }
+    },
+    "22145": {
+        "id": "22145",
+        "name": "Chinela de Pau",
+        "displayName": "Chinela de Pau",
+        "aegisName": "tengushoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true
+        },
+        "weight": 40
+    },
+    "22149": {
+        "id": "22149",
+        "name": "Botas com Espigões",
+        "displayName": "Botas com Espigões [1]",
+        "aegisName": "thorny_shoes_br",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true
+        }
+    },
+    "22170": {
+        "id": "22170",
+        "name": "Sapatos do Sobrevivente",
+        "displayName": "Sapatos do Sobrevivente",
+        "aegisName": "shoes_of_servival",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true
+        },
+        "weight": 50
+    },
+    "22171": {
+        "id": "22171",
+        "name": "Botas Ancestrais",
+        "displayName": "Botas Ancestrais [1]",
+        "aegisName": "ancient_hero_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 60
+    },
+    "22172": {
+        "id": "22172",
+        "name": "Botas Aladas",
+        "displayName": "Botas Aladas",
+        "aegisName": "gray_wing_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true
+        },
+        "weight": 50
+    },
+    "22182": {
+        "id": "22182",
+        "name": "Sapatos da Penitência",
+        "displayName": "Sapatos da Penitência",
+        "aegisName": "shoes_of_punishment_br",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true
+        }
+    },
+    "22189": {
+        "id": "22189",
+        "name": "Sapato Social",
+        "displayName": "Sapato Social",
+        "aegisName": "shoes_of_pilgrim",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true
+        },
+        "weight": 50
+    },
+    "22191": {
+        "id": "22191",
+        "name": "Sapato Infernal",
+        "displayName": "Sapato Infernal [1]",
+        "aegisName": "nergal_shoes_tw",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true
+        }
+    },
+    "22195": {
+        "id": "22195",
+        "name": "Sapatos Inteligentes",
+        "displayName": "Sapatos Inteligentes [1]",
+        "aegisName": "booster_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true
+        },
+        "weight": 80
+    },
+    "22198": {
+        "id": "22198",
+        "name": "Tamancos Glamurosos",
+        "displayName": "Tamancos Glamurosos",
+        "aegisName": "traveler_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 0,
+            "position": "SHOES",
+            "refinable": true
+        }
+    },
+    "22203": {
+        "id": "22203",
+        "name": "Botas Gravitacionais G09",
+        "displayName": "Botas Gravitacionais G09 [1]",
+        "aegisName": "space_shoes_jp",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true
+        }
+    },
+    "22204": {
+        "id": "22204",
+        "name": "Botas do Senhor do Tempo",
+        "displayName": "Botas do Senhor do Tempo [1]",
+        "aegisName": "time_overload_boots",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHOES",
+            "slots": 1,
+            "position": "SHOES",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 0
+    }
+}

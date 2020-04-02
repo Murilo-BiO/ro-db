@@ -1,0 +1,17 @@
+{
+    "24012": {
+        "id": "24012",
+        "name": "Luvas Sombrias Festivas",
+        "displayName": "Luvas Sombrias Festivas",
+        "aegisName": "s_promotion_weapon",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "SHADOW_WEAPON",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "refinable": true
+        },
+        "price": 10,
+        "weight": 0
+    }
+}

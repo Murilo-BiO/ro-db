@@ -1,0 +1,494 @@
+{
+    "13300": {
+        "id": "13300",
+        "name": "Shuriken Alado Huuma",
+        "displayName": "Shuriken Alado Huuma",
+        "aegisName": "huuma_bird_wing",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "HUUMA",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 90000,
+        "weight": 300,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "13301": {
+        "id": "13301",
+        "name": "Shuriken Roda-Gigante Huuma",
+        "displayName": "Shuriken Roda-Gigante Huuma [3]",
+        "aegisName": "huuma_giant_wheel",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "HUUMA",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 40000,
+        "weight": 250,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 42
+            }
+        }
+    },
+    "13302": {
+        "id": "13302",
+        "name": "Shuriken Roda-Gigante Huuma",
+        "displayName": "Shuriken Roda-Gigante Huuma [4]",
+        "aegisName": "huuma_giant_wheel_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "HUUMA",
+            "slots": 4,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 40000,
+        "weight": 250,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 42
+            }
+        }
+    },
+    "13303": {
+        "id": "13303",
+        "name": "Shuriken de Fogo Huuma",
+        "displayName": "Shuriken de Fogo Huuma",
+        "aegisName": "huuma_blaze",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "HUUMA",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 185,
+            "refinable": true
+        },
+        "price": 78000,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "13304": {
+        "id": "13304",
+        "name": "Huuma da Calmaria",
+        "displayName": "Huuma da Calmaria [2]",
+        "aegisName": "huuma_calm_mind",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "HUUMA",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 112,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 155,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "13305": {
+        "id": "13305",
+        "name": "Shuriken Huuma Frontal A",
+        "displayName": "Shuriken Huuma Frontal A",
+        "aegisName": "bf_huuma_shuriken1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "HUUMA",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 55,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13306": {
+        "id": "13306",
+        "name": "Shuriken Huuma Frontal B",
+        "displayName": "Shuriken Huuma Frontal B",
+        "aegisName": "bf_huuma_shuriken2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "HUUMA",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 55,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13307": {
+        "id": "13307",
+        "name": "Shuriken Glorioso",
+        "displayName": "Shuriken Glorioso",
+        "aegisName": "krieger_huuma_shuriken1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "HUUMA",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 55,
+            "matk": 90,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13310": {
+        "id": "13310",
+        "name": "Shuriken Huuma I do Éden",
+        "displayName": "Shuriken Huuma I do Éden",
+        "aegisName": "p_huuma_shuriken1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "HUUMA",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 150,
+            "matk": 50,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "13311": {
+        "id": "13311",
+        "name": "Sombra Huuma",
+        "displayName": "Sombra Huuma",
+        "aegisName": "huuma_shadow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "HUUMA",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 170,
+            "refinable": true
+        },
+        "price": 5000,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "13312": {
+        "id": "13312",
+        "name": "Huuma Ninja",
+        "displayName": "Huuma Ninja",
+        "aegisName": "huuma_job_test",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "HUUMA",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "refinable": true
+        },
+        "price": 90000,
+        "weight": 300,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "13313": {
+        "id": "13313",
+        "name": "Shuriken de Pétalas",
+        "displayName": "Shuriken de Pétalas [2]",
+        "aegisName": "huuma_swirling_petal",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "HUUMA",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 150,
+            "matk": 50,
+            "refinable": true
+        },
+        "price": 100000,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 110
+            }
+        }
+    },
+    "13315": {
+        "id": "13315",
+        "name": "Shuriken do Trovão",
+        "displayName": "Shuriken do Trovão",
+        "aegisName": "huuma_thunderstorm",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "HUUMA",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 200,
+            "matk": 50,
+            "refinable": true
+        },
+        "price": 100000,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 110
+            }
+        }
+    },
+    "13316": {
+        "id": "13316",
+        "name": "Shuriken Huuma Aprimorado",
+        "displayName": "Shuriken Huuma Aprimorado [1]",
+        "aegisName": "upg_huuma_shuriken",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "HUUMA",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 55,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            }
+        }
+    },
+    "13317": {
+        "id": "13317",
+        "name": "Shuriken Huuma TE",
+        "displayName": "Shuriken Huuma TE",
+        "aegisName": "te_woe_huuma",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "HUUMA",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 80,
+            "matk": 100,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "13327": {
+        "id": "13327",
+        "name": "Shuriken Rubi",
+        "displayName": "Shuriken Rubi [2]",
+        "aegisName": "scarlet_huuma",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "HUUMA",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "13328": {
+        "id": "13328",
+        "name": "Shuriken Sobrenatural",
+        "displayName": "Shuriken Sobrenatural [1]",
+        "aegisName": "sinister_huuma",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "HUUMA",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 150,
+            "matk": 50,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 160
+            }
+        }
+    },
+    "13345": {
+        "id": "13345",
+        "name": "Shuriken Huuma Ancestral",
+        "displayName": "Shuriken Huuma Ancestral [2]",
+        "aegisName": "humma_clear",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "HUUMA",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "atk": 230,
+            "refinable": true
+        },
+        "weight": 130
+    }
+}

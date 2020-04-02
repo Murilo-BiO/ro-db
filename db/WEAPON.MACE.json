@@ -1,0 +1,2370 @@
+{
+    "1501": {
+        "id": "1501",
+        "name": "Clava",
+        "displayName": "Clava [3]",
+        "aegisName": "club",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 23,
+            "refinable": true
+        },
+        "price": 120,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 2
+            }
+        }
+    },
+    "1502": {
+        "id": "1502",
+        "name": "Clava",
+        "displayName": "Clava [4]",
+        "aegisName": "club_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 4,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 23,
+            "refinable": true
+        },
+        "price": 120,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 2
+            }
+        }
+    },
+    "1503": {
+        "id": "1503",
+        "name": "Clava",
+        "displayName": "Clava",
+        "aegisName": "club__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 23,
+            "refinable": true
+        },
+        "price": 120,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 2
+            }
+        }
+    },
+    "1504": {
+        "id": "1504",
+        "name": "Maça",
+        "displayName": "Maça [3]",
+        "aegisName": "mace",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 37,
+            "refinable": true
+        },
+        "price": 1600,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 2
+            }
+        }
+    },
+    "1505": {
+        "id": "1505",
+        "name": "Maça",
+        "displayName": "Maça [4]",
+        "aegisName": "mace_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 4,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 37,
+            "refinable": true
+        },
+        "price": 1600,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 2
+            }
+        }
+    },
+    "1506": {
+        "id": "1506",
+        "name": "Maça",
+        "displayName": "Maça",
+        "aegisName": "mace__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 37,
+            "refinable": true
+        },
+        "price": 1600,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 2
+            }
+        }
+    },
+    "1507": {
+        "id": "1507",
+        "name": "Esmagador",
+        "displayName": "Esmagador [2]",
+        "aegisName": "smasher",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 54,
+            "refinable": true
+        },
+        "price": 9000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 14
+            }
+        }
+    },
+    "1508": {
+        "id": 1508,
+        "name": "Esmagador",
+        "displayName": "Esmagador [3]",
+        "aegisName": "smasher_",
+        "price": 9000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 14
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 54,
+            "refinable": true
+        }
+    },
+    "1509": {
+        "id": 1509,
+        "name": "Esmagador",
+        "displayName": "Esmagador [3]",
+        "aegisName": "smasher__",
+        "price": 9000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 14
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 54,
+            "refinable": true
+        }
+    },
+    "1510": {
+        "id": "1510",
+        "name": "Mangual",
+        "displayName": "Mangual [2]",
+        "aegisName": "flail",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 69,
+            "refinable": true
+        },
+        "price": 16000,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 14
+            }
+        }
+    },
+    "1511": {
+        "id": 1511,
+        "name": "Mangual",
+        "displayName": "Mangual [3]",
+        "aegisName": "flail_",
+        "price": 16000,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 14
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 69,
+            "refinable": true
+        }
+    },
+    "1512": {
+        "id": 1512,
+        "name": "Mangual",
+        "displayName": "Mangual [3]",
+        "aegisName": "flail__",
+        "price": 16000,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 14
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 69,
+            "refinable": true
+        }
+    },
+    "1513": {
+        "id": "1513",
+        "name": "Maça de Guerra",
+        "displayName": "Maça de Guerra [1]",
+        "aegisName": "morning_star",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 41000,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1514": {
+        "id": 1514,
+        "name": "Maça de Guerra",
+        "displayName": "Maça de Guerra [2]",
+        "aegisName": "morning_star_",
+        "price": 41000,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 27
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 110,
+            "refinable": true
+        }
+    },
+    "1515": {
+        "id": 1515,
+        "name": "Maça de Guerra",
+        "displayName": "Maça de Guerra [2]",
+        "aegisName": "morning_star__",
+        "price": 41000,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 27
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 110,
+            "refinable": true
+        }
+    },
+    "1516": {
+        "id": "1516",
+        "name": "Maça Espada",
+        "displayName": "Maça Espada",
+        "aegisName": "sword_mace",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        },
+        "price": 50000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1517": {
+        "id": 1517,
+        "name": "Maça Espada",
+        "displayName": "Maça Espada [1]",
+        "aegisName": "sword_mace_",
+        "price": 50000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 27
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        }
+    },
+    "1518": {
+        "id": 1518,
+        "name": "Maça Espada",
+        "displayName": "Maça Espada [1]",
+        "aegisName": "sword_mace__",
+        "price": 50000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 27
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        }
+    },
+    "1519": {
+        "id": "1519",
+        "name": "Mangual Pesado",
+        "displayName": "Mangual Pesado [2]",
+        "aegisName": "chain",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 84,
+            "refinable": true
+        },
+        "price": 23000,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 14
+            }
+        }
+    },
+    "1520": {
+        "id": 1520,
+        "name": "Mangual Pesado",
+        "displayName": "Mangual Pesado [3]",
+        "aegisName": "chain_",
+        "price": 23000,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 14
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 84,
+            "refinable": true
+        }
+    },
+    "1521": {
+        "id": 1521,
+        "name": "Mangual Pesado",
+        "displayName": "Mangual Pesado [3]",
+        "aegisName": "chain__",
+        "price": 23000,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 14
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 84,
+            "refinable": true
+        }
+    },
+    "1522": {
+        "id": "1522",
+        "name": "Atordoador",
+        "displayName": "Atordoador",
+        "aegisName": "stunner",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 60000,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1523": {
+        "id": "1523",
+        "name": "Clava com Espetos",
+        "displayName": "Clava com Espetos",
+        "aegisName": "spike",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 85,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1524": {
+        "id": "1524",
+        "name": "Maça de Ouro",
+        "displayName": "Maça de Ouro [1]",
+        "aegisName": "golden_mace",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1525": {
+        "id": "1525",
+        "name": "Maça Longa",
+        "displayName": "Maça Longa",
+        "aegisName": "long_mace",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 135,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1526": {
+        "id": "1526",
+        "name": "Maça de Talho",
+        "displayName": "Maça de Talho",
+        "aegisName": "slash",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 145,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1527": {
+        "id": "1527",
+        "name": "Quatrilho",
+        "displayName": "Quatrilho",
+        "aegisName": "quadrille",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 165,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1528": {
+        "id": "1528",
+        "name": "Grande Cruz",
+        "displayName": "Grande Cruz",
+        "aegisName": "grand_cross",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1529": {
+        "id": "1529",
+        "name": "Taco",
+        "displayName": "Taco",
+        "aegisName": "iron_driver",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 2,
+            "atk": 155,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 300,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 78
+            }
+        }
+    },
+    "1530": {
+        "id": "1530",
+        "name": "Mjollnir",
+        "displayName": "Mjollnir",
+        "aegisName": "mjolnir",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 350,
+            "refinable": false
+        },
+        "price": 20,
+        "weight": 600,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "1531": {
+        "id": 1531,
+        "name": "Chave Inglesa",
+        "displayName": "Chave Inglesa",
+        "aegisName": "spanner",
+        "price": 20,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 55
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 115,
+            "refinable": true
+        }
+    },
+    "1532": {
+        "id": "1532",
+        "name": "Atordoador",
+        "displayName": "Atordoador [2]",
+        "aegisName": "stunner_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 60000,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1535": {
+        "id": "1535",
+        "name": "Martelo de Forja de Hollgrehenn",
+        "displayName": "Martelo de Forja de Hollgrehenn [1]",
+        "aegisName": "hollgrehenn_hammer",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 4,
+            "refinable": true
+        },
+        "price": 4444,
+        "weight": 4.4,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 44
+            }
+        }
+    },
+    "1538": {
+        "id": "1538",
+        "name": "Clava com Espetos",
+        "displayName": "Clava com Espetos [2]",
+        "aegisName": "spike_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 85,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1539": {
+        "id": "1539",
+        "name": "Maça de Ouro",
+        "displayName": "Maça de Ouro [2]",
+        "aegisName": "golden_mace_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1540": {
+        "id": "1540",
+        "name": "Grande Cruz",
+        "displayName": "Grande Cruz [1]",
+        "aegisName": "grand_cross_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1541": {
+        "id": "1541",
+        "name": "Nêmesis",
+        "displayName": "Nêmesis",
+        "aegisName": "nemesis",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1542": {
+        "id": "1542",
+        "name": "Maça de Campo de Batalha A",
+        "displayName": "Maça de Campo de Batalha A",
+        "aegisName": "bf_morning_star1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 105,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1543": {
+        "id": "1543",
+        "name": "Maça de Campo de Batalha B",
+        "displayName": "Maça de Campo de Batalha B",
+        "aegisName": "bf_morning_star2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 105,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1544": {
+        "id": "1544",
+        "name": "Frigideira Lunar",
+        "displayName": "Frigideira Lunar [3]",
+        "aegisName": "lunakaligo",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "1545": {
+        "id": "1545",
+        "name": "Maça de Iniciante",
+        "displayName": "Maça de Iniciante [3]",
+        "aegisName": "n_mace",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 57,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 2
+            }
+        }
+    },
+    "1546": {
+        "id": "1546",
+        "name": "Maça de Guerra Gloriosa",
+        "displayName": "Maça de Guerra Gloriosa",
+        "aegisName": "krieger_onehand_mace1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1548": {
+        "id": "1548",
+        "name": "Martelo Veterano",
+        "displayName": "Martelo Veterano [2]",
+        "aegisName": "veteran_hammer",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 160,
+            "refinable": true
+        },
+        "price": 10000,
+        "weight": 180,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1549": {
+        "id": "1549",
+        "name": "Bate-Estacas",
+        "displayName": "Bate-Estacas",
+        "aegisName": "pilebuncker",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 450,
+            "refinable": true
+        },
+        "price": 10000,
+        "weight": 350,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Blacksmith": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "1599": {
+        "id": 1599,
+        "name": "Angra Mainyu",
+        "displayName": "Angra Mainyu",
+        "aegisName": "angra_manyu",
+        "type": "WEAPON",
+        "price": 1,
+        "weight": 1,
+        "equipData": {
+            "class": "MACE",
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 2,
+            "atk": 10000,
+            "matk": 10000,
+            "refinable": true
+        }
+    },
+    "16000": {
+        "id": "16000",
+        "name": "Erde",
+        "displayName": "Erde [2]",
+        "aegisName": "erde",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "16001": {
+        "id": "16001",
+        "name": "Bolsa Quadrada Vermelha",
+        "displayName": "Bolsa Quadrada Vermelha [2]",
+        "aegisName": "red_square_bag",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "16003": {
+        "id": "16003",
+        "name": "Maça Carga",
+        "displayName": "Maça Carga [2]",
+        "aegisName": "carga_mace",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 175,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "16004": {
+        "id": "16004",
+        "name": "Maça Valhalla Iniciante",
+        "displayName": "Maça Valhalla Iniciante",
+        "aegisName": "p_mace1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 142,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 26
+            }
+        }
+    },
+    "16005": {
+        "id": "16005",
+        "name": "Maça Valhalla Intermediária",
+        "displayName": "Maça Valhalla Intermediária",
+        "aegisName": "p_mace2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 163,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "16010": {
+        "id": "16010",
+        "name": "Bolsa Vermelha de Éter",
+        "displayName": "Bolsa Vermelha de Éter [1]",
+        "aegisName": "red_ether_bag",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 15,
+            "matk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 102
+            }
+        }
+    },
+    "16013": {
+        "id": "16013",
+        "name": "Maça do Julgamento",
+        "displayName": "Maça do Julgamento [2]",
+        "aegisName": "mace_of_judgement",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 140,
+            "matk": 180,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 120,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Priest": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "16014": {
+        "id": "16014",
+        "name": "Maça III do Grupo Éden",
+        "displayName": "Maça III do Grupo Éden",
+        "aegisName": "p_mace3",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 172,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "16015": {
+        "id": "16015",
+        "name": "Maça de Pata de Gato",
+        "displayName": "Maça de Pata de Gato [3]",
+        "aegisName": "cat_club",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 88,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            }
+        }
+    },
+    "16016": {
+        "id": 16016,
+        "name": "Atum",
+        "displayName": "Atum",
+        "aegisName": "tuna",
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 50
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 180,
+            "refinable": false
+        }
+    },
+    "16017": {
+        "id": "16017",
+        "name": "Cruz Sangrenta",
+        "displayName": "Cruz Sangrenta",
+        "aegisName": "bloody_cross",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 170,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "16018": {
+        "id": "16018",
+        "name": "Maça do Julgamento Fortalecida",
+        "displayName": "Maça do Julgamento Fortalecida [1]",
+        "aegisName": "mace_of_judgement2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 170,
+            "matk": 180,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 120,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Priest": true
+            },
+            "level": {
+                "min": 130
+            }
+        }
+    },
+    "16019": {
+        "id": "16019",
+        "name": "Maça Aprimorada",
+        "displayName": "Maça Aprimorada [1]",
+        "aegisName": "upg_mace",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            }
+        }
+    },
+    "16020": {
+        "id": "16020",
+        "name": "Atordoador de Vellum",
+        "displayName": "Atordoador de Vellum",
+        "aegisName": "velum_stunner",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 170,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "16021": {
+        "id": "16021",
+        "name": "Mangual de Vellum",
+        "displayName": "Mangual de Vellum",
+        "aegisName": "velum_flail",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 170,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "16024": {
+        "id": "16024",
+        "name": "Quatrilho",
+        "displayName": "Quatrilho [2]",
+        "aegisName": "quadrille_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 165,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Acolyte": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "16025": {
+        "id": "16025",
+        "name": "Maça TE",
+        "displayName": "Maça TE",
+        "aegisName": "te_woe_mace",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 120,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Acolyte": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "16026": {
+        "id": "16026",
+        "name": "Maça Memorável do RWC",
+        "displayName": "Maça Memorável do RWC [1]",
+        "aegisName": "rwc_memory_mace",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            }
+        }
+    },
+    "16027": {
+        "id": "16027",
+        "name": "Maça Esconjurante",
+        "displayName": "Maça Esconjurante [1]",
+        "aegisName": "hammer_of_evil_slayer",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 135,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "16028": {
+        "id": "16028",
+        "name": "Maça de Cinzas",
+        "displayName": "Maça de Cinzas [1]",
+        "aegisName": "thanos_hammer",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 180,
+            "matk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 300,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "16029": {
+        "id": "16029",
+        "name": "Cruz Nobre",
+        "displayName": "Cruz Nobre [1]",
+        "aegisName": "noble_cross",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 195,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150
+    },
+    "16030": {
+        "id": 16030,
+        "name": "Bate-Estacas S",
+        "displayName": "Bate-Estacas S [1]",
+        "aegisName": "pilebuncker_s",
+        "equipData": {
+            "slots": 1,
+            "class": "MACE",
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 400,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 30000,
+        "weight": 300,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Blacksmith": true
+            },
+            "level": {
+                "min": 130
+            }
+        }
+    },
+    "16031": {
+        "id": 16031,
+        "name": "Bate-Estacas P",
+        "displayName": "Bate-Estacas P",
+        "aegisName": "pilebuncker_p",
+        "type": "WEAPON",
+        "price": 30000,
+        "weight": 400,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Blacksmith": true
+            },
+            "level": {
+                "min": 130
+            }
+        },
+        "equipData": {
+            "class": "MACE",
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 450,
+            "refinable": true
+        }
+    },
+    "16032": {
+        "id": 16032,
+        "name": "Bate-Estacas T",
+        "displayName": "Bate-Estacas T [1]",
+        "aegisName": "pilebuncker_t",
+        "equipData": {
+            "slots": 1,
+            "class": "MACE",
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 400,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 30000,
+        "weight": 350,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Blacksmith": true
+            },
+            "level": {
+                "min": 130
+            }
+        }
+    },
+    "16033": {
+        "id": 16033,
+        "name": "Braço Robótico",
+        "displayName": "Braço Robótico [2]",
+        "aegisName": null,
+        "equipData": {
+            "slots": 2,
+            "class": "MACE",
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 195,
+            "refinable": true
+        },
+        "price": 30000,
+        "weight": 300,
+        "type": "WEAPON"
+    },
+    "16039": {
+        "id": 16039,
+        "name": "Colher",
+        "displayName": "Colher [1]",
+        "aegisName": "spoon",
+        "equipData": {
+            "slots": 1,
+            "class": "MACE",
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 80,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "16040": {
+        "id": "16040",
+        "name": "Clava Rubi",
+        "displayName": "Clava Rubi [2]",
+        "aegisName": "scarlet_mace",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "16041": {
+        "id": 16041,
+        "name": "Maça Sobrenatural",
+        "displayName": "Maça Sobrenatural [1]",
+        "aegisName": "mace_of_vicious_mind",
+        "equipData": {
+            "slots": 1,
+            "class": "MACE",
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 20,
+        "weight": 130,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 160
+            }
+        }
+    },
+    "16056": {
+        "id": 16056,
+        "name": "Martelo Veterano",
+        "displayName": "Martelo Veterano [3]",
+        "aegisName": null,
+        "equipData": {
+            "slots": 3,
+            "class": "MACE",
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "atk": 160,
+            "refinable": true
+        },
+        "weight": 180,
+        "type": "WEAPON"
+    },
+    "16074": {
+        "id": "16074",
+        "name": "Martelo Cósmico",
+        "displayName": "Martelo Cósmico [2]",
+        "aegisName": "meteor_strike_br",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MACE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "refinable": true
+        }
+    }
+}

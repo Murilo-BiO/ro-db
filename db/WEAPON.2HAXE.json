@@ -1,0 +1,1418 @@
+{
+    "1351": {
+        "id": "1351",
+        "name": "Machado de Batalha",
+        "displayName": "Machado de Batalha [3]",
+        "aegisName": "battle_axe",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 5400,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 3
+            }
+        }
+    },
+    "1352": {
+        "id": "1352",
+        "name": "Machado de Batalha",
+        "displayName": "Machado de Batalha [4]",
+        "aegisName": "battle_axe_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 4,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 5400,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 3
+            }
+        }
+    },
+    "1353": {
+        "id": "1353",
+        "name": "Machado de Batalha",
+        "displayName": "Machado de Batalha",
+        "aegisName": "battle_axe__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 5400,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 3
+            }
+        }
+    },
+    "1354": {
+        "id": "1354",
+        "name": "Marreta",
+        "displayName": "Marreta [2]",
+        "aegisName": "hammer",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 15500,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 16
+            }
+        }
+    },
+    "1355": {
+        "id": "1355",
+        "name": "Marreta",
+        "displayName": "Marreta [3]",
+        "aegisName": "hammer_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 15500,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 16
+            }
+        }
+    },
+    "1356": {
+        "id": "1356",
+        "name": "Marreta",
+        "displayName": "Marreta",
+        "aegisName": "hammer__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 15500,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 16
+            }
+        }
+    },
+    "1357": {
+        "id": "1357",
+        "name": "Demolidor",
+        "displayName": "Demolidor [1]",
+        "aegisName": "buster",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 155,
+            "refinable": true
+        },
+        "price": 34000,
+        "weight": 220,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1358": {
+        "id": "1358",
+        "name": "Demolidor",
+        "displayName": "Demolidor [2]",
+        "aegisName": "buster_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 155,
+            "refinable": true
+        },
+        "price": 34000,
+        "weight": 220,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1359": {
+        "id": "1359",
+        "name": "Demolidor",
+        "displayName": "Demolidor",
+        "aegisName": "buster__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 155,
+            "refinable": true
+        },
+        "price": 34000,
+        "weight": 220,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1360": {
+        "id": "1360",
+        "name": "Machado de Duas Mãos",
+        "displayName": "Machado de Duas Mãos [1]",
+        "aegisName": "two_handed_axe",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 185,
+            "refinable": true
+        },
+        "price": 55000,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1361": {
+        "id": "1361",
+        "name": "Machado de Duas Mãos",
+        "displayName": "Machado de Duas Mãos [2]",
+        "aegisName": "two_handed_axe_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 185,
+            "refinable": true
+        },
+        "price": 55000,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1362": {
+        "id": "1362",
+        "name": "Machado de Duas Mãos",
+        "displayName": "Machado de Duas Mãos",
+        "aegisName": "two_handed_axe__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 185,
+            "refinable": true
+        },
+        "price": 55000,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1363": {
+        "id": "1363",
+        "name": "Machado Sangrento",
+        "displayName": "Machado Sangrento",
+        "aegisName": "brood_axe",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 170,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 400,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 44
+            }
+        }
+    },
+    "1364": {
+        "id": "1364",
+        "name": "Machado Impetuoso",
+        "displayName": "Machado Impetuoso",
+        "aegisName": "great_axe",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 187,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 180,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 44
+            }
+        }
+    },
+    "1365": {
+        "id": "1365",
+        "name": "Sabbath",
+        "displayName": "Sabbath",
+        "aegisName": "sabbath",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 230,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 44
+            }
+        }
+    },
+    "1366": {
+        "id": "1366",
+        "name": "Cruz Impiedosa",
+        "displayName": "Cruz Impiedosa",
+        "aegisName": "right_epsilon",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 180,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 230,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 44
+            }
+        }
+    },
+    "1367": {
+        "id": "1367",
+        "name": "Carniceiro",
+        "displayName": "Carniceiro",
+        "aegisName": "slaughter",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 44
+            }
+        }
+    },
+    "1368": {
+        "id": "1368",
+        "name": "Tacape",
+        "displayName": "Tacape",
+        "aegisName": "tomahawk",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 165,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 44
+            }
+        }
+    },
+    "1369": {
+        "id": "1369",
+        "name": "Guilhotina",
+        "displayName": "Guilhotina",
+        "aegisName": "guillotine",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 215,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 300,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 44
+            }
+        }
+    },
+    "1370": {
+        "id": "1370",
+        "name": "Machado do Apocalipse",
+        "displayName": "Machado do Apocalipse",
+        "aegisName": "doom_slayer",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 10,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 600,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1371": {
+        "id": "1371",
+        "name": "Machado do Apocalipse",
+        "displayName": "Machado do Apocalipse [1]",
+        "aegisName": "doom_slayer_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 10,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 600,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1372": {
+        "id": "1372",
+        "name": "Cruz Impiedosa [A]",
+        "displayName": "Cruz Impiedosa [A]",
+        "aegisName": "right_epsilon_c",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 229,
+            "refinable": false
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            }
+        }
+    },
+    "1375": {
+        "id": "1375",
+        "name": "Bardiche Dentilhado",
+        "displayName": "Bardiche Dentilhado [2]",
+        "aegisName": "berdysz",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 200,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 250,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1376": {
+        "id": "1376",
+        "name": "Desolador",
+        "displayName": "Desolador [1]",
+        "aegisName": "heart_breaker",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 175,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1377": {
+        "id": "1377",
+        "name": "Fúria do Furacão",
+        "displayName": "Fúria do Furacão [1]",
+        "aegisName": "hurricane_fury",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 332,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 350,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1379": {
+        "id": "1379",
+        "name": "Machado de Batalha Insana A",
+        "displayName": "Machado de Batalha Insana A",
+        "aegisName": "bf_two_handed_axe1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 200,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1380": {
+        "id": "1380",
+        "name": "Machado de Batalha Insana B",
+        "displayName": "Machado de Batalha Insana B",
+        "aegisName": "bf_two_handed_axe2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 200,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1381": {
+        "id": "1381",
+        "name": "Machado de Batalha de Iniciante",
+        "displayName": "Machado de Batalha de Iniciante [3]",
+        "aegisName": "n_battle_axe",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 100,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 3
+            }
+        }
+    },
+    "1382": {
+        "id": "1382",
+        "name": "Machado de Duas Mãos Glorioso",
+        "displayName": "Machado de Duas Mãos Glorioso",
+        "aegisName": "krieger_twohand_axe1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 220,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1383": {
+        "id": "1383",
+        "name": "Machado Celestial",
+        "displayName": "Machado Celestial",
+        "aegisName": "holy_celestial_axe",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 200,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Merchant": true,
+                "Blacksmith": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1384": {
+        "id": "1384",
+        "name": "Machado Veterano",
+        "displayName": "Machado Veterano [2]",
+        "aegisName": "veteran_axe",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 250,
+            "refinable": true
+        },
+        "price": 10000,
+        "weight": 300,
+        "restrictions": {
+            "job": {
+                "Merchant": true,
+                "Blacksmith": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1385": {
+        "id": "1385",
+        "name": "Martelo Quebra-Pedra de Bradium",
+        "displayName": "Martelo Quebra-Pedra de Bradium",
+        "aegisName": "bradium_stonehammer",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 210,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 270,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Blacksmith": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "1387": {
+        "id": "1387",
+        "name": "Machado Gigante",
+        "displayName": "Machado Gigante [1]",
+        "aegisName": "giant_axe",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 330,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 400,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "1391": {
+        "id": "1391",
+        "name": "Machado de 2 Mãos I do Éden",
+        "displayName": "Machado de 2 Mãos I do Éden",
+        "aegisName": "p_two_handed_axe1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 195,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1392": {
+        "id": "1392",
+        "name": "Aço Ígneo",
+        "displayName": "Aço Ígneo [1]",
+        "aegisName": "ygnus_stale",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 250,
+            "refinable": true
+        },
+        "price": 56000,
+        "weight": 190,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "1393": {
+        "id": "1393",
+        "name": "Sectora Final",
+        "displayName": "Sectora Final [1]",
+        "aegisName": "end_sektura",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 250,
+            "refinable": true
+        },
+        "price": 56000,
+        "weight": 190,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "1394": {
+        "id": "1394",
+        "name": "Machado Aprimorado de Duas Mãos",
+        "displayName": "Machado Aprimorado de Duas Mãos [1]",
+        "aegisName": "upg_two_handed_axe",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            }
+        }
+    },
+    "1395": {
+        "id": "1395",
+        "name": "Demolidor de Vellum",
+        "displayName": "Demolidor de Vellum",
+        "aegisName": "velum_buster",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "1396": {
+        "id": "1396",
+        "name": "Guilhotina de Vellum",
+        "displayName": "Guilhotina de Vellum",
+        "aegisName": "velum_guillotine",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 300,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 550,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "1399": {
+        "id": "1399",
+        "name": "Machado de Duas Mãos TE",
+        "displayName": "Machado de Duas Mãos TE",
+        "aegisName": "te_woe_two_handed_axe",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 150,
+            "refinable": false
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "28100": {
+        "id": 28100,
+        "name": "Machado de Cinzas",
+        "displayName": "Machado de Cinzas [1]",
+        "aegisName": "thanos_axe",
+        "equipData": {
+            "slots": 1,
+            "class": "2HAXE",
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 300,
+            "matk": 80,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 20,
+        "weight": 400,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "28101": {
+        "id": 28101,
+        "name": "Tufão",
+        "displayName": "Tufão [1]",
+        "aegisName": "tornado_axe",
+        "equipData": {
+            "slots": 1,
+            "class": "2HAXE",
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 320,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 500,
+        "weight": 400,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "28106": {
+        "id": 28106,
+        "name": "Machado Rubi",
+        "displayName": "Machado Rubi [2]",
+        "aegisName": "scarlet_twohand_axe",
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 70
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 200,
+            "refinable": true
+        }
+    },
+    "28107": {
+        "id": "28107",
+        "name": "Machado Sobrenatural",
+        "displayName": "Machado Sobrenatural [1]",
+        "aegisName": "sinister_twohand_axe",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 250,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 160
+            }
+        }
+    },
+    "28130": {
+        "id": "28130",
+        "name": "Cutelo Ancestral",
+        "displayName": "Cutelo Ancestral [2]",
+        "aegisName": "avenger",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HAXE",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "atk": 270,
+            "refinable": true
+        },
+        "weight": 600
+    }
+}

@@ -1,0 +1,551 @@
+{
+    "1750": {
+        "id": "1750",
+        "name": "Flecha",
+        "displayName": "Flecha",
+        "aegisName": "arrow",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 1,
+        "weight": 0.1,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1751": {
+        "id": "1751",
+        "name": "Flecha de Prata",
+        "displayName": "Flecha de Prata",
+        "aegisName": "silver_arrow",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 3,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1752": {
+        "id": "1752",
+        "name": "Flecha de Fogo",
+        "displayName": "Flecha de Fogo",
+        "aegisName": "fire_arrow",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 3,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1753": {
+        "id": "1753",
+        "name": "Flecha de Aço",
+        "displayName": "Flecha de Aço",
+        "aegisName": "steel_arrow",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 4,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1754": {
+        "id": "1754",
+        "name": "Flecha de Cristal",
+        "displayName": "Flecha de Cristal",
+        "aegisName": "crystal_arrow",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 3,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1755": {
+        "id": "1755",
+        "name": "Flecha de Vento",
+        "displayName": "Flecha de Vento",
+        "aegisName": "arrow_of_wind",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 3,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1756": {
+        "id": "1756",
+        "name": "Flecha de Pedra",
+        "displayName": "Flecha de Pedra",
+        "aegisName": "stone_arrow",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 3,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1757": {
+        "id": "1757",
+        "name": "Flecha Incorpórea",
+        "displayName": "Flecha Incorpórea",
+        "aegisName": "immatrial_arrow",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 3,
+        "weight": 0.1,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1758": {
+        "id": "1758",
+        "name": "Flecha Atordoante",
+        "displayName": "Flecha Atordoante",
+        "aegisName": "stun_arrow",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 10,
+        "weight": 0.3,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1759": {
+        "id": "1759",
+        "name": "Flecha Congelante",
+        "displayName": "Flecha Congelante",
+        "aegisName": "freezing_arrow",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 10,
+        "weight": 0.3,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1760": {
+        "id": "1760",
+        "name": "Flecha Luminosa",
+        "displayName": "Flecha Luminosa",
+        "aegisName": "flash_arrow",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 10,
+        "weight": 0.3,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1761": {
+        "id": "1761",
+        "name": "Flecha Amaldiçoada",
+        "displayName": "Flecha Amaldiçoada",
+        "aegisName": "curse_arrow",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 10,
+        "weight": 0.3,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1762": {
+        "id": "1762",
+        "name": "Flecha Enferrujada",
+        "displayName": "Flecha Enferrujada",
+        "aegisName": "rusty_arrow",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 3,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1763": {
+        "id": "1763",
+        "name": "Flecha Envenenada",
+        "displayName": "Flecha Envenenada",
+        "aegisName": "poison_arrow",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 10,
+        "weight": 0.3,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1764": {
+        "id": "1764",
+        "name": "Flecha Afiada",
+        "displayName": "Flecha Afiada",
+        "aegisName": "incisive_arrow",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 20,
+        "weight": 0.3,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1765": {
+        "id": "1765",
+        "name": "Flecha de Oridecon",
+        "displayName": "Flecha de Oridecon",
+        "aegisName": "oridecon_arrow",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 30,
+        "weight": 0.3,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1766": {
+        "id": "1766",
+        "name": "Flecha Dissipadora do Mal",
+        "displayName": "Flecha Dissipadora do Mal",
+        "aegisName": "arrow_of_counter_evil",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 40,
+        "weight": 0.3,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1767": {
+        "id": "1767",
+        "name": "Flecha Sombria",
+        "displayName": "Flecha Sombria",
+        "aegisName": "arrow_of_shadow",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 3,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1768": {
+        "id": "1768",
+        "name": "Flecha Sonífera",
+        "displayName": "Flecha Sonífera",
+        "aegisName": "sleep_arrow",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 10,
+        "weight": 0.3,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1769": {
+        "id": "1769",
+        "name": "Flecha Emudecedora",
+        "displayName": "Flecha Emudecedora",
+        "aegisName": "silence_arrow",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 10,
+        "weight": 0.3,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1770": {
+        "id": "1770",
+        "name": "Flecha de Ferro",
+        "displayName": "Flecha de Ferro",
+        "aegisName": "iron_arrow",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 2,
+        "weight": 0.1,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1771": {
+        "id": "1771",
+        "name": "Faca Envenenada",
+        "displayName": "Faca Envenenada",
+        "aegisName": "venom_knife",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 50,
+        "weight": 0.5,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1772": {
+        "id": "1772",
+        "name": "Flecha Sagrada",
+        "displayName": "Flecha Sagrada",
+        "aegisName": "holy_arrow",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 3,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1773": {
+        "id": "1773",
+        "name": "Flecha Élfica",
+        "displayName": "Flecha Élfica",
+        "aegisName": "arrow_of_elf",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 5,
+        "weight": 0.1,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "1774": {
+        "id": "1774",
+        "name": "Flecha de Caça",
+        "displayName": "Flecha de Caça",
+        "aegisName": "hunting_arrow",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 5,
+        "weight": 0.1,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            }
+        }
+    },
+    "1775": {
+        "id": "1775",
+        "name": "Flecha de Cerco S",
+        "displayName": "Flecha de Cerco S",
+        "aegisName": "siege_arrow_s",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 10,
+        "weight": 0.1,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 130
+            }
+        }
+    },
+    "1776": {
+        "id": "1776",
+        "name": "Flecha de Cerco A",
+        "displayName": "Flecha de Cerco A",
+        "aegisName": "siege_arrow_a",
+        "type": "AMMO",
+        "ammoType": "ARROW",
+        "price": 10,
+        "weight": 0.1,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    }
+}

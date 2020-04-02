@@ -1,0 +1,1917 @@
+{
+    "1701": {
+        "id": "1701",
+        "name": "Arco",
+        "displayName": "Arco [3]",
+        "aegisName": "bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 5,
+            "atk": 15,
+            "refinable": true
+        },
+        "price": 1000,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 4
+            }
+        }
+    },
+    "1702": {
+        "id": "1702",
+        "name": "Arco",
+        "displayName": "Arco [4]",
+        "aegisName": "bow_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 4,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 5,
+            "atk": 15,
+            "refinable": true
+        },
+        "price": 1000,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 4
+            }
+        }
+    },
+    "1703": {
+        "id": "1703",
+        "name": "Arco",
+        "displayName": "Arco",
+        "aegisName": "bow__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 5,
+            "atk": 15,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 4
+            }
+        }
+    },
+    "1704": {
+        "id": "1704",
+        "name": "Arco Composto",
+        "displayName": "Arco Composto [3]",
+        "aegisName": "composite_bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 5,
+            "atk": 29,
+            "refinable": true
+        },
+        "price": 2500,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 4
+            }
+        }
+    },
+    "1705": {
+        "id": "1705",
+        "name": "Arco Composto",
+        "displayName": "Arco Composto [4]",
+        "aegisName": "composite_bow_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 4,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 5,
+            "atk": 29,
+            "refinable": true
+        },
+        "price": 2500,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 4
+            }
+        }
+    },
+    "1706": {
+        "id": "1706",
+        "name": "Arco Composto",
+        "displayName": "Arco Composto",
+        "aegisName": "composite_bow__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 5,
+            "atk": 29,
+            "refinable": true
+        },
+        "price": 2500,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 4
+            }
+        }
+    },
+    "1707": {
+        "id": "1707",
+        "name": "Arco Grande",
+        "displayName": "Arco Grande [2]",
+        "aegisName": "great_bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 5,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 10000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "1708": {
+        "id": "1708",
+        "name": "Arco Grande",
+        "displayName": "Arco Grande [3]",
+        "aegisName": "great_bow_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 5,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 10000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "1709": {
+        "id": "1709",
+        "name": "Arco Grande",
+        "displayName": "Arco Grande",
+        "aegisName": "great_bow__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 5,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 10000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "1710": {
+        "id": "1710",
+        "name": "Besta",
+        "displayName": "Besta [2]",
+        "aegisName": "crossbow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 5,
+            "atk": 65,
+            "refinable": true
+        },
+        "price": 17000,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "1711": {
+        "id": "1711",
+        "name": "Besta",
+        "displayName": "Besta [3]",
+        "aegisName": "crossbow_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 5,
+            "atk": 65,
+            "refinable": true
+        },
+        "price": 17000,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "1712": {
+        "id": "1712",
+        "name": "Besta",
+        "displayName": "Besta",
+        "aegisName": "crossbow__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 5,
+            "atk": 65,
+            "refinable": true
+        },
+        "price": 17000,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "1713": {
+        "id": "1713",
+        "name": "Arbaleste",
+        "displayName": "Arbaleste [1]",
+        "aegisName": "arbalest",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 48000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1714": {
+        "id": "1714",
+        "name": "Gakkung",
+        "displayName": "Gakkung [1]",
+        "aegisName": "kakkung",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 42000,
+        "weight": 110,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1715": {
+        "id": "1715",
+        "name": "Arbaleste",
+        "displayName": "Arbaleste [2]",
+        "aegisName": "arbalest_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 48000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1716": {
+        "id": "1716",
+        "name": "Gakkung",
+        "displayName": "Gakkung [2]",
+        "aegisName": "kakkung_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 42000,
+        "weight": 110,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1718": {
+        "id": "1718",
+        "name": "Arco de Caça",
+        "displayName": "Arco de Caça",
+        "aegisName": "hunter_bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 125,
+            "refinable": true
+        },
+        "price": 64000,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Hunter": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1719": {
+        "id": "1719",
+        "name": "Arco Voraz",
+        "displayName": "Arco Voraz",
+        "aegisName": "bow_of_roguemaster",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 11,
+            "atk": 75,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Thief": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1720": {
+        "id": "1720",
+        "name": "Arco de Rudra",
+        "displayName": "Arco de Rudra",
+        "aegisName": "bow_of_rudra",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 5,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1721": {
+        "id": "1721",
+        "name": "Besta de Repetição",
+        "displayName": "Besta de Repetição [1]",
+        "aegisName": "repeting_crossbow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 95,
+            "refinable": true
+        },
+        "price": 89000,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "1722": {
+        "id": "1722",
+        "name": "Balista",
+        "displayName": "Balista",
+        "aegisName": "balistar",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 5,
+            "atk": 145,
+            "refinable": true
+        },
+        "price": 124000,
+        "weight": 350,
+        "restrictions": {
+            "job": {
+                "Hunter": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 77
+            }
+        }
+    },
+    "1723": {
+        "id": "1723",
+        "name": "Arco de Luna",
+        "displayName": "Arco de Luna [2]",
+        "aegisName": "luna_bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Hunter": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1724": {
+        "id": "1724",
+        "name": "Asa de Dragão",
+        "displayName": "Asa de Dragão",
+        "aegisName": "dragon_wing",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 5,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1725": {
+        "id": "1725",
+        "name": "Arco do Menestrel",
+        "displayName": "Arco do Menestrel [1]",
+        "aegisName": "bow_of_minstrel",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 5,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 170,
+        "restrictions": {
+            "job": {
+                "Hunter": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1726": {
+        "id": "1726",
+        "name": "Arco de Caça",
+        "displayName": "Arco de Caça [1]",
+        "aegisName": "hunter_bow_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 125,
+            "refinable": true
+        },
+        "price": 64000,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Hunter": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1727": {
+        "id": "1727",
+        "name": "Balista",
+        "displayName": "Balista [1]",
+        "aegisName": "balistar_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 5,
+            "atk": 145,
+            "refinable": true
+        },
+        "price": 124000,
+        "weight": 350,
+        "restrictions": {
+            "job": {
+                "Hunter": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 77
+            }
+        }
+    },
+    "1728": {
+        "id": "1728",
+        "name": "Balista [A]",
+        "displayName": "Balista [A]",
+        "aegisName": "balistar_c",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 5,
+            "atk": 194,
+            "refinable": false
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Hunter": true,
+                "Bard": true
+            }
+        }
+    },
+    "1730": {
+        "id": "1730",
+        "name": "Arco Incendiário",
+        "displayName": "Arco Incendiário [1]",
+        "aegisName": "burning_bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 95,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 140,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1731": {
+        "id": "1731",
+        "name": "Arco Glacial",
+        "displayName": "Arco Glacial [1]",
+        "aegisName": "frozen_bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 140,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1732": {
+        "id": "1732",
+        "name": "Arco da Terra",
+        "displayName": "Arco da Terra [1]",
+        "aegisName": "earth_bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 105,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 140,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1733": {
+        "id": "1733",
+        "name": "Arco do Vendaval",
+        "displayName": "Arco do Vendaval [1]",
+        "aegisName": "gust_bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 95,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 140,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1734": {
+        "id": "1734",
+        "name": "Arco de Orc",
+        "displayName": "Arco de Orc",
+        "aegisName": "orc_archer_bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 160,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "1736": {
+        "id": "1736",
+        "name": "Amarra Dupla",
+        "displayName": "Amarra Dupla [3]",
+        "aegisName": "double_bound",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 70,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Hunter": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1737": {
+        "id": "1737",
+        "name": "Asas de Ixion",
+        "displayName": "Asas de Ixion [1]",
+        "aegisName": "ixion_wing",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 5,
+            "atk": 135,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Hunter": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1738": {
+        "id": "1738",
+        "name": "Besta de Batalha A",
+        "displayName": "Besta de Batalha A",
+        "aegisName": "bf_bow1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1739": {
+        "id": "1739",
+        "name": "Besta de Batalha B",
+        "displayName": "Besta de Batalha B",
+        "aegisName": "bf_bow2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1740": {
+        "id": "1740",
+        "name": "Arco de Nepenthes",
+        "displayName": "Arco de Nepenthes [2]",
+        "aegisName": "nepenthes_bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 5,
+            "atk": 105,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Hunter": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1741": {
+        "id": "1741",
+        "name": "Mentiroso Maldito",
+        "displayName": "Mentiroso Maldito [1]",
+        "aegisName": "cursed_lyre",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 5,
+            "atk": 125,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 125,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1742": {
+        "id": "1742",
+        "name": "Arco Composto de Iniciante",
+        "displayName": "Arco Composto de Iniciante [3]",
+        "aegisName": "n_composite_bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 5,
+            "atk": 49,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 4
+            }
+        }
+    },
+    "1743": {
+        "id": "1743",
+        "name": "Arco de Caça Glorioso",
+        "displayName": "Arco de Caça Glorioso",
+        "aegisName": "krieger_bow1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 5,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1745": {
+        "id": "1745",
+        "name": "Assalto do Falcão",
+        "displayName": "Assalto do Falcão [2]",
+        "aegisName": "falken_blitz",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Hunter": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "1746": {
+        "id": "1746",
+        "name": "Arco Élfico",
+        "displayName": "Arco Élfico [1]",
+        "aegisName": "elven_bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 160,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Hunter": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "1747": {
+        "id": "1747",
+        "name": "Arco Valhalla Iniciante",
+        "displayName": "Arco Valhalla Iniciante",
+        "aegisName": "p_bow1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 5,
+            "atk": 82,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 26
+            }
+        }
+    },
+    "1748": {
+        "id": "1748",
+        "name": "Arco Valhalla Intermediário",
+        "displayName": "Arco Valhalla Intermediário",
+        "aegisName": "p_bow2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 5,
+            "atk": 120,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "18103": {
+        "id": "18103",
+        "name": "Arco Místico",
+        "displayName": "Arco Místico",
+        "aegisName": "mystic_bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 75,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 170,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Hunter": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 105
+            }
+        }
+    },
+    "18106": {
+        "id": "18106",
+        "name": "Arco III do Grupo Éden",
+        "displayName": "Arco III do Grupo Éden",
+        "aegisName": "p_bow3",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 140,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "18107": {
+        "id": "18107",
+        "name": "Caranguejo Malangdo",
+        "displayName": "Caranguejo Malangdo",
+        "aegisName": "malang_snow_crab",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 5,
+            "atk": 120,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "18108": {
+        "id": "18108",
+        "name": "Enguia Malhada",
+        "displayName": "Enguia Malhada",
+        "aegisName": "brindle_eel",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 5,
+            "atk": 180,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Hunter": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "18109": {
+        "id": "18109",
+        "name": "Catapulta",
+        "displayName": "Catapulta [2]",
+        "aegisName": "catapult",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 5,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 56000,
+        "weight": 110,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Rogue": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "18110": {
+        "id": "18110",
+        "name": "Besta Grande",
+        "displayName": "Besta Grande [2]",
+        "aegisName": "big_crossbow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 5,
+            "atk": 160,
+            "refinable": true
+        },
+        "price": 56000,
+        "weight": 90,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Hunter": true
+            },
+            "level": {
+                "min": 110
+            }
+        }
+    },
+    "18111": {
+        "id": "18111",
+        "name": "Arco de Trepadeiras",
+        "displayName": "Arco de Trepadeiras [2]",
+        "aegisName": "creeper_bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 56000,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Hunter": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "18112": {
+        "id": "18112",
+        "name": "Arco Aprimorado",
+        "displayName": "Arco Aprimorado [1]",
+        "aegisName": "upg_bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 60,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Bard": true
+            }
+        }
+    },
+    "18113": {
+        "id": "18113",
+        "name": "Arbaleste de Vellum",
+        "displayName": "Arbaleste de Vellum",
+        "aegisName": "velum_arbalest",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 5,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 110,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "18114": {
+        "id": "18114",
+        "name": "Besta de Vellum",
+        "displayName": "Besta de Vellum",
+        "aegisName": "velum_crossbow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 5,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 110,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Thief": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "18115": {
+        "id": "18115",
+        "name": "Arco de Orc",
+        "displayName": "Arco de Orc [1]",
+        "aegisName": "orc_archer_bow_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 160,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "18117": {
+        "id": "18117",
+        "name": "Arco Real",
+        "displayName": "Arco Real [1]",
+        "aegisName": "royal_bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 5,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 200000,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 105
+            }
+        }
+    },
+    "18118": {
+        "id": "18118",
+        "name": "Arco TE",
+        "displayName": "Arco TE",
+        "aegisName": "te_woe_bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 120,
+            "refinable": false
+        },
+        "price": 200000,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "18119": {
+        "id": "18119",
+        "name": "Arco de Cinzas",
+        "displayName": "Arco de Cinzas [1]",
+        "aegisName": "thanos_bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 5,
+            "atk": 180,
+            "matk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 130,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "18120": {
+        "id": "18120",
+        "name": "Arco Esconjurante",
+        "displayName": "Arco Esconjurante [1]",
+        "aegisName": "bow_of_evil_slayer",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 115,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 135,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "18121": {
+        "id": "18121",
+        "name": "Arco Sobrenatural",
+        "displayName": "Arco Sobrenatural [1]",
+        "aegisName": "sinister_bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 5,
+            "atk": 170,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 170,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 160
+            }
+        }
+    },
+    "18122": {
+        "id": "18122",
+        "name": "Arco Gigante",
+        "displayName": "Arco Gigante [1]",
+        "aegisName": "gigantic_bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 5,
+            "atk": 195,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 300,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Hunter": true
+            },
+            "level": {
+                "min": 130
+            }
+        }
+    },
+    "18123": {
+        "id": "18123",
+        "name": "Arco das Tempestades",
+        "displayName": "Arco das Tempestades [1]",
+        "aegisName": "bow_of_storm",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 5,
+            "atk": 160,
+            "refinable": true
+        },
+        "price": 12400,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 130
+            }
+        }
+    },
+    "18125": {
+        "id": "18125",
+        "name": "Arco Demoníaco",
+        "displayName": "Arco Demoníaco [2]",
+        "aegisName": "arcus_daemonicus",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "18130": {
+        "id": "18130",
+        "name": "Arco Rubi",
+        "displayName": "Arco Rubi [2]",
+        "aegisName": "scarlet_bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 5,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Rogue": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 7
+            }
+        }
+    },
+    "18164": {
+        "id": "18164",
+        "name": "Balista Ancestral",
+        "displayName": "Balista Ancestral [2]",
+        "aegisName": "royal_bow_k",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "atk": 180,
+            "refinable": true
+        },
+        "weight": 100
+    },
+    "18170": {
+        "id": "18170",
+        "name": "Arco Ancestral",
+        "displayName": "Arco Ancestral [2]",
+        "aegisName": "narcis_bow",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "BOW",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "atk": 180,
+            "refinable": true
+        },
+        "weight": 100
+    }
+}

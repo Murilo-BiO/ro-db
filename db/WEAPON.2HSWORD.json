@@ -1,0 +1,1776 @@
+{
+    "1116": {
+        "id": "1116",
+        "name": "Kataná",
+        "displayName": "Kataná [3]",
+        "aegisName": "katana",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 60,
+            "refinable": true
+        },
+        "price": 2000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 4
+            }
+        }
+    },
+    "1117": {
+        "id": "1117",
+        "name": "Kataná",
+        "displayName": "Kataná [4]",
+        "aegisName": "katana_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 4,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 60,
+            "refinable": true
+        },
+        "price": 2000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 4
+            }
+        }
+    },
+    "1118": {
+        "id": "1118",
+        "name": "Kataná",
+        "displayName": "Kataná",
+        "aegisName": "katana__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 60,
+            "refinable": true
+        },
+        "price": 2000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 4
+            }
+        }
+    },
+    "1151": {
+        "id": "1151",
+        "name": "Espada Matadora",
+        "displayName": "Espada Matadora [2]",
+        "aegisName": "slayer",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 15000,
+        "weight": 130,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "1152": {
+        "id": "1152",
+        "name": "Espada Matadora",
+        "displayName": "Espada Matadora [3]",
+        "aegisName": "slayer_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 15000,
+        "weight": 130,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "1153": {
+        "id": "1153",
+        "name": "Espada Matadora",
+        "displayName": "Espada Matadora",
+        "aegisName": "slayer__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 15000,
+        "weight": 130,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "1154": {
+        "id": "1154",
+        "name": "Espada Bastarda",
+        "displayName": "Espada Bastarda [2]",
+        "aegisName": "bastard_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 115,
+            "refinable": true
+        },
+        "price": 22500,
+        "weight": 160,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "1155": {
+        "id": "1155",
+        "name": "Espada Bastarda",
+        "displayName": "Espada Bastarda [3]",
+        "aegisName": "bastard_sword_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 115,
+            "refinable": true
+        },
+        "price": 22500,
+        "weight": 160,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "1156": {
+        "id": "1156",
+        "name": "Espada Bastarda",
+        "displayName": "Espada Bastarda",
+        "aegisName": "bastard_sword__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 115,
+            "refinable": true
+        },
+        "price": 22500,
+        "weight": 160,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "1157": {
+        "id": "1157",
+        "name": "Espada de Duas Mãos",
+        "displayName": "Espada de Duas Mãos [1]",
+        "aegisName": "two_hand_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 160,
+            "refinable": true
+        },
+        "price": 60000,
+        "weight": 220,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1158": {
+        "id": "1158",
+        "name": "Espada de Duas Mãos",
+        "displayName": "Espada de Duas Mãos [2]",
+        "aegisName": "two_hand_sword_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 160,
+            "refinable": true
+        },
+        "price": 60000,
+        "weight": 220,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1159": {
+        "id": "1159",
+        "name": "Espada de Duas Mãos",
+        "displayName": "Espada de Duas Mãos",
+        "aegisName": "two_hand_sword__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 160,
+            "refinable": true
+        },
+        "price": 60000,
+        "weight": 220,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1160": {
+        "id": "1160",
+        "name": "Espada Larga",
+        "displayName": "Espada Larga [1]",
+        "aegisName": "broad_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 65000,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1161": {
+        "id": "1161",
+        "name": "Balmung",
+        "displayName": "Balmung",
+        "aegisName": "balmung",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 250,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1162": {
+        "id": "1162",
+        "name": "Espada Larga",
+        "displayName": "Espada Larga [2]",
+        "aegisName": "broad_sword_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 65000,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1163": {
+        "id": "1163",
+        "name": "Claymore",
+        "displayName": "Claymore",
+        "aegisName": "claymore",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 180,
+            "refinable": true
+        },
+        "price": 74000,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1164": {
+        "id": "1164",
+        "name": "Muramasa",
+        "displayName": "Muramasa",
+        "aegisName": "muramasa",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 155,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1165": {
+        "id": "1165",
+        "name": "Masamune",
+        "displayName": "Masamune",
+        "aegisName": "masamune",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 200,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1166": {
+        "id": "1166",
+        "name": "Caçadora de Dragões",
+        "displayName": "Caçadora de Dragões",
+        "aegisName": "dragon_slayer",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 130,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1167": {
+        "id": "1167",
+        "name": "Schweizersabel",
+        "displayName": "Schweizersabel",
+        "aegisName": "schweizersabel",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 160,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 160,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1168": {
+        "id": "1168",
+        "name": "Zweihander",
+        "displayName": "Zweihander",
+        "aegisName": "zweihander",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 200,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 220,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1169": {
+        "id": "1169",
+        "name": "Executora",
+        "displayName": "Executora",
+        "aegisName": "executioner_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 155,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 220,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1170": {
+        "id": "1170",
+        "name": "Katzbalger",
+        "displayName": "Katzbalger",
+        "aegisName": "katzbalger",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 175,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1171": {
+        "id": "1171",
+        "name": "Zweihander",
+        "displayName": "Zweihander [2]",
+        "aegisName": "zweihander_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 200,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 220,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1172": {
+        "id": "1172",
+        "name": "Claymore",
+        "displayName": "Claymore [2]",
+        "aegisName": "claymore_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 180,
+            "refinable": true
+        },
+        "price": 74000,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1173": {
+        "id": "1173",
+        "name": "Muramasa [A]",
+        "displayName": "Muramasa [A]",
+        "aegisName": "muramasa_c",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 204,
+            "refinable": false
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            }
+        }
+    },
+    "1175": {
+        "id": "1175",
+        "name": "Zanbatô",
+        "displayName": "Zanbatô [1]",
+        "aegisName": "altas_weapon",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 200,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 350,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1176": {
+        "id": "1176",
+        "name": "Dilaceradora",
+        "displayName": "Dilaceradora [2]",
+        "aegisName": "muscle_cutter",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 160,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 220,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1178": {
+        "id": "1178",
+        "name": "Schweizersabel",
+        "displayName": "Schweizersabel [2]",
+        "aegisName": "schweizersabel_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 160,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 160,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1179": {
+        "id": "1179",
+        "name": "Executora",
+        "displayName": "Executora [1]",
+        "aegisName": "executioner__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 155,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 220,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1180": {
+        "id": "1180",
+        "name": "Matadora de Dragões",
+        "displayName": "Matadora de Dragões [2]",
+        "aegisName": "dragon_slayer_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 130,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1181": {
+        "id": "1181",
+        "name": "Tae Goo Lyeon",
+        "displayName": "Tae Goo Lyeon [2]",
+        "aegisName": "tae_goo_lyeon",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 250,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 90
+            }
+        }
+    },
+    "1182": {
+        "id": "1182",
+        "name": "Comedor Sangrento",
+        "displayName": "Comedor Sangrento [2]",
+        "aegisName": "bloody_eater",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 200,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 120,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "1183": {
+        "id": "1183",
+        "name": "Katzbalger de Assalto A",
+        "displayName": "Katzbalger de Assalto A",
+        "aegisName": "bf_two_handed_sword1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 200,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1184": {
+        "id": "1184",
+        "name": "Katzbalger de Assalto B",
+        "displayName": "Katzbalger de Assalto B",
+        "aegisName": "bf_two_handed_sword2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 200,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1185": {
+        "id": "1185",
+        "name": "Terror Violeta",
+        "displayName": "Terror Violeta [2]",
+        "aegisName": "violet_fear",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 275,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 220,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1186": {
+        "id": "1186",
+        "name": "Guia da Morte",
+        "displayName": "Guia da Morte [2]",
+        "aegisName": "death_guidance",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 200,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1187": {
+        "id": "1187",
+        "name": "Claymore Gloriosa",
+        "displayName": "Claymore Gloriosa",
+        "aegisName": "krieger_twohand_sword1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 220,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1188": {
+        "id": "1188",
+        "name": "Espada Veterana",
+        "displayName": "Espada Veterana [1]",
+        "aegisName": "veteran_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 180,
+            "refinable": true
+        },
+        "price": 10000,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1189": {
+        "id": "1189",
+        "name": "Krasnaya",
+        "displayName": "Krasnaya [3]",
+        "aegisName": "krasnaya",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 2,
+            "atk": 200,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 380,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "1191": {
+        "id": "1191",
+        "name": "Lâmina Escarlate",
+        "displayName": "Lâmina Escarlate",
+        "aegisName": "alca_bringer",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 2,
+            "atk": 280,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 340,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "1192": {
+        "id": "1192",
+        "name": "Espada Valhalla Iniciante",
+        "displayName": "Espada Valhalla Iniciante",
+        "aegisName": "p_slayer1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 162,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 26
+            }
+        }
+    },
+    "1193": {
+        "id": "1193",
+        "name": "Espada Valhalla Intermediária",
+        "displayName": "Espada Valhalla Intermediária",
+        "aegisName": "p_slayer2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 185,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1196": {
+        "id": "1196",
+        "name": "Espada Cromada de duas mãos",
+        "displayName": "Espada Cromada de duas mãos",
+        "aegisName": "chrome_twohand_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 280,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 110
+            }
+        }
+    },
+    "1197": {
+        "id": "1197",
+        "name": "Espada Matadora III do Éden",
+        "displayName": "Espada Matadora III do Éden",
+        "aegisName": "p_slayer3",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 200,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1198": {
+        "id": "1198",
+        "name": "Arenque",
+        "displayName": "Arenque",
+        "aegisName": "hairtail",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 3,
+            "atk": 220,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "21000": {
+        "id": "21000",
+        "name": "Espada Aprimorada de Duas Mãos",
+        "displayName": "Espada Aprimorada de Duas Mãos [1]",
+        "aegisName": "upg_twohand_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            }
+        }
+    },
+    "21001": {
+        "id": "21001",
+        "name": "Claymore de Vellum",
+        "displayName": "Claymore de Vellum",
+        "aegisName": "velum_claymore",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 2,
+            "atk": 260,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 350,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "21002": {
+        "id": "21002",
+        "name": "Katzbalger de Vellum",
+        "displayName": "Katzbalger de Vellum",
+        "aegisName": "velum_katzbalger",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "21003": {
+        "id": "21003",
+        "name": "Muramasa",
+        "displayName": "Muramasa [2]",
+        "aegisName": "muramasa_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 155,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "21004": {
+        "id": 21004,
+        "name": "Lâmina Escarlate",
+        "displayName": "Lâmina Escarlate [2]",
+        "aegisName": "alca_bringer_",
+        "equipData": {
+            "slots": 2,
+            "class": "2HSWORD",
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 2,
+            "atk": 280,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 20,
+        "weight": 340,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "21006": {
+        "id": "21006",
+        "name": "Espada de Duas Mãos TE",
+        "displayName": "Espada de Duas Mãos TE",
+        "aegisName": "te_woe_two_hand_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 150,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "21007": {
+        "id": "21007",
+        "name": "Espada Pesada",
+        "displayName": "Espada Pesada [1]",
+        "aegisName": "heavy_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 330,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 150
+            }
+        }
+    },
+    "21009": {
+        "id": "21009",
+        "name": "Grande Espada de Cinzas",
+        "displayName": "Grande Espada de Cinzas [1]",
+        "aegisName": "thanos_great_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 280,
+            "matk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 130,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "21010": {
+        "id": "21010",
+        "name": "Espada Esconjurante",
+        "displayName": "Espada Esconjurante [1]",
+        "aegisName": "tw_sword_of_evil_slayer",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 225,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "21011": {
+        "id": 21011,
+        "name": "Lâmina Gigante",
+        "displayName": "Lâmina Gigante [1]",
+        "aegisName": "giant_blade",
+        "equipData": {
+            "slots": 1,
+            "class": "2HSWORD",
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 300,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 20,
+        "weight": 500,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 130
+            }
+        }
+    },
+    "21012": {
+        "id": "21012",
+        "name": "Espada Mágica Celestial",
+        "displayName": "Espada Mágica Celestial [2]",
+        "aegisName": "some_wizard_magicsword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 200,
+            "matk": 150,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 220,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true
+            },
+            "level": {
+                "min": 110
+            }
+        }
+    },
+    "21015": {
+        "id": "21015",
+        "name": "Claymore Rubi",
+        "displayName": "Claymore Rubi [2]",
+        "aegisName": "scarlet_twohand_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 170,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 170,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "21016": {
+        "id": "21016",
+        "name": "Espada Sobrenatural",
+        "displayName": "Espada Sobrenatural [1]",
+        "aegisName": "sinister_twohand_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 220,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 220,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 160
+            }
+        }
+    },
+    "21018": {
+        "id": "21018",
+        "name": "Lindy Hop",
+        "displayName": "Lindy Hop [2]",
+        "aegisName": "two_hand_spear_170",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 340,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 340,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 170
+            }
+        }
+    },
+    "21038": {
+        "id": "21038",
+        "name": "Espada Ancestral",
+        "displayName": "Espada Ancestral [2]",
+        "aegisName": "oriental_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "atk": 180,
+            "refinable": true
+        },
+        "weight": 100
+    },
+    "21042": {
+        "id": "21042",
+        "name": "Espada Onimaru",
+        "displayName": "Espada Onimaru [1]",
+        "aegisName": "onimaru_br",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "refinable": true
+        }
+    }
+}

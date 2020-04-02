@@ -1,0 +1,659 @@
+{
+    "7663": {
+        "id": 7663,
+        "name": "Projétil Revestido",
+        "displayName": "Projétil Revestido",
+        "aegisName": "fullmetal_jacket_bullet",
+        "type": "AMMO",
+        "price": 200,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "7664": {
+        "id": 7664,
+        "name": "Granada Aderente",
+        "displayName": "Granada Aderente",
+        "aegisName": "mine_projectile",
+        "type": "AMMO",
+        "price": 450,
+        "weight": 0.3,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "7665": {
+        "id": 7665,
+        "name": "Míssil Cauda de Dragão",
+        "displayName": "Míssil Cauda de Dragão",
+        "aegisName": "dragon_tail_missile",
+        "type": "AMMO",
+        "price": 1500,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13200": {
+        "id": "13200",
+        "name": "Projétil",
+        "displayName": "Projétil",
+        "aegisName": "bullet",
+        "type": "AMMO",
+        "ammoType": "PROJECTILE",
+        "price": 1,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true
+            }
+        }
+    },
+    "13201": {
+        "id": 13201,
+        "name": "Projétil de Prata Excedente",
+        "displayName": "Projétil de Prata Excedente",
+        "aegisName": "silver_bullet",
+        "type": "AMMO",
+        "price": 15,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13202": {
+        "id": 13202,
+        "name": "Projétil Sanguinário Excedente",
+        "displayName": "Projétil Sanguinário Excedente",
+        "aegisName": "shell_of_blood",
+        "type": "AMMO",
+        "price": 30,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13203": {
+        "id": 13203,
+        "name": "Cápsula de Chamas Excedente",
+        "displayName": "Cápsula de Chamas Excedente",
+        "aegisName": "flare_sphere",
+        "type": "AMMO",
+        "price": 80,
+        "weight": 0.5,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13204": {
+        "id": 13204,
+        "name": "Cápsula de Relâmpagos Excedente",
+        "displayName": "Cápsula de Relâmpagos Excedente",
+        "aegisName": "lighting_sphere",
+        "type": "AMMO",
+        "price": 80,
+        "weight": 0.5,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13205": {
+        "id": 13205,
+        "name": "Cápsula Venenosa Excedente",
+        "displayName": "Cápsula Venenosa Excedente",
+        "aegisName": "poison_sphere",
+        "type": "AMMO",
+        "price": 80,
+        "weight": 0.5,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13206": {
+        "id": 13206,
+        "name": "Cápsula Cegante Excedente",
+        "displayName": "Cápsula Cegante Excedente",
+        "aegisName": "blind_sphere",
+        "type": "AMMO",
+        "price": 80,
+        "weight": 0.5,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13207": {
+        "id": 13207,
+        "name": "Cápsula Congelante Excedente",
+        "displayName": "Cápsula Congelante Excedente",
+        "aegisName": "freezing_sphere",
+        "type": "AMMO",
+        "price": 80,
+        "weight": 0.5,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13208": {
+        "id": "13208",
+        "name": "Tatu Bola",
+        "displayName": "Tatu Bola",
+        "aegisName": "gong_bug",
+        "type": "AMMO",
+        "ammoType": "PROJECTILE",
+        "price": 0,
+        "weight": 2,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "13210": {
+        "id": 13210,
+        "name": "Munição P",
+        "displayName": "Munição P",
+        "aegisName": "slug_bullet_1",
+        "type": "AMMO",
+        "price": 250,
+        "weight": 25,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13211": {
+        "id": 13211,
+        "name": "Munição M",
+        "displayName": "Munição M",
+        "aegisName": "slug_bullet_2",
+        "type": "AMMO",
+        "price": 500,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13212": {
+        "id": 13212,
+        "name": "Munição G",
+        "displayName": "Munição G",
+        "aegisName": "slug_bullet_3",
+        "type": "AMMO",
+        "price": 750,
+        "weight": 75,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13213": {
+        "id": 13213,
+        "name": "Munição SG",
+        "displayName": "Munição SG",
+        "aegisName": "slug_bullet_4",
+        "type": "AMMO",
+        "price": 1,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13214": {
+        "id": 13214,
+        "name": "Munição XG",
+        "displayName": "Munição XG",
+        "aegisName": "slug_bullet_5",
+        "type": "AMMO",
+        "price": 1,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13215": {
+        "id": 13215,
+        "name": "Projétil Perfurador",
+        "displayName": "Projétil Perfurador",
+        "aegisName": "ap_ammo",
+        "type": "AMMO",
+        "price": 15,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            },
+            "level": {
+                "min": 100
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13216": {
+        "id": 13216,
+        "name": "Projétil Incandescente",
+        "displayName": "Projétil Incandescente",
+        "aegisName": "blaze_bullet",
+        "type": "AMMO",
+        "price": 10,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            },
+            "level": {
+                "min": 100
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13217": {
+        "id": 13217,
+        "name": "Projétil Glacial",
+        "displayName": "Projétil Glacial",
+        "aegisName": "freezing_bullet",
+        "type": "AMMO",
+        "price": 10,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            },
+            "level": {
+                "min": 100
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13218": {
+        "id": 13218,
+        "name": "Projétil de Eletrochoque",
+        "displayName": "Projétil de Eletrochoque",
+        "aegisName": "electric_shock_bullet",
+        "type": "AMMO",
+        "price": 10,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            },
+            "level": {
+                "min": 100
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13219": {
+        "id": 13219,
+        "name": "Projétil Tectônico",
+        "displayName": "Projétil Tectônico",
+        "aegisName": "magical_stone_bullet",
+        "type": "AMMO",
+        "price": 10,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            },
+            "level": {
+                "min": 100
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13220": {
+        "id": 13220,
+        "name": "Projétil de Purificação",
+        "displayName": "Projétil de Purificação",
+        "aegisName": "sanctified_bullet",
+        "type": "AMMO",
+        "price": 10,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            },
+            "level": {
+                "min": 100
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13221": {
+        "id": "13221",
+        "name": "Projétil de Prata",
+        "displayName": "Projétil de Prata",
+        "aegisName": "silver_bullet",
+        "type": "AMMO",
+        "ammoType": "PROJECTILE",
+        "price": 5,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            }
+        }
+    },
+    "13222": {
+        "id": "13222",
+        "name": "Projétil Sanguinário",
+        "displayName": "Projétil Sanguinário",
+        "aegisName": "shell_of_blood",
+        "type": "AMMO",
+        "ammoType": "PROJECTILE",
+        "price": 10,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            }
+        }
+    },
+    "13223": {
+        "id": 13223,
+        "name": "Cápsula de Chamas",
+        "displayName": "Cápsula de Chamas",
+        "aegisName": "flare_sphere_",
+        "type": "AMMO",
+        "price": 15,
+        "weight": 0.5,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13224": {
+        "id": 13224,
+        "name": "Cápsula de Relâmpagos",
+        "displayName": "Cápsula de Relâmpagos",
+        "aegisName": "lighting_sphere_",
+        "type": "AMMO",
+        "price": 15,
+        "weight": 0.5,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13225": {
+        "id": 13225,
+        "name": "Cápsula Venenosa",
+        "displayName": "Cápsula Venenosa",
+        "aegisName": "poison_sphere_",
+        "type": "AMMO",
+        "price": 15,
+        "weight": 0.5,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13226": {
+        "id": 13226,
+        "name": "Cápsula Cegante",
+        "displayName": "Cápsula Cegante",
+        "aegisName": "blind_sphere_",
+        "type": "AMMO",
+        "price": 15,
+        "weight": 0.5,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13227": {
+        "id": 13227,
+        "name": "Cápsula Congelante",
+        "displayName": "Cápsula Congelante",
+        "aegisName": "freezing_sphere_",
+        "type": "AMMO",
+        "price": 15,
+        "weight": 0.5,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13228": {
+        "id": 13228,
+        "name": "Projétil de Fogo",
+        "displayName": "Projétil de Fogo",
+        "aegisName": "flare_bullet",
+        "type": "AMMO",
+        "price": 15,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13229": {
+        "id": 13229,
+        "name": "Projétil Relâmpago",
+        "displayName": "Projétil Relâmpago",
+        "aegisName": "lightning_bullet",
+        "type": "AMMO",
+        "price": 15,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13230": {
+        "id": 13230,
+        "name": "Projétil Congelante",
+        "displayName": "Projétil Congelante",
+        "aegisName": "ice_bullet",
+        "type": "AMMO",
+        "price": 15,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13231": {
+        "id": 13231,
+        "name": "Projétil Venenoso",
+        "displayName": "Projétil Venenoso",
+        "aegisName": "poison_bullet",
+        "type": "AMMO",
+        "price": 15,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "13232": {
+        "id": 13232,
+        "name": "Projétil Cegante",
+        "displayName": "Projétil Cegante",
+        "aegisName": "blind_bullet",
+        "type": "AMMO",
+        "price": 15,
+        "weight": 0.2,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "18000": {
+        "id": 18000,
+        "name": "Bala de Canhão",
+        "displayName": "Bala de Canhão",
+        "aegisName": "cannon_ball",
+        "type": "AMMO",
+        "price": 100,
+        "weight": 1,
+        "restrictions": {
+            "jobMasks": "THIRD",
+            "job": {
+                "Blacksmith": true,
+                "Alchemist": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "18001": {
+        "id": 18001,
+        "name": "Bala de Canhão Sagrada",
+        "displayName": "Bala de Canhão Sagrada",
+        "aegisName": "holy_cannon_ball",
+        "type": "AMMO",
+        "price": 200,
+        "weight": 1,
+        "restrictions": {
+            "jobMasks": "THIRD",
+            "job": {
+                "Blacksmith": true,
+                "Alchemist": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "18002": {
+        "id": 18002,
+        "name": "Bala de Canhão Sombria",
+        "displayName": "Bala de Canhão Sombria",
+        "aegisName": "dark_cannon_ball",
+        "type": "AMMO",
+        "price": 200,
+        "weight": 1,
+        "restrictions": {
+            "jobMasks": "THIRD",
+            "job": {
+                "Blacksmith": true,
+                "Alchemist": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "18003": {
+        "id": 18003,
+        "name": "Bala de Canhão Fantasma",
+        "displayName": "Bala de Canhão Fantasma",
+        "aegisName": "soul_cannon_ball",
+        "type": "AMMO",
+        "price": 200,
+        "weight": 1,
+        "restrictions": {
+            "jobMasks": "THIRD",
+            "job": {
+                "Blacksmith": true,
+                "Alchemist": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    },
+    "18004": {
+        "id": 18004,
+        "name": "Bala de Canhão de Ferro",
+        "displayName": "Bala de Canhão de Ferro",
+        "aegisName": "iron_cannon_ball",
+        "type": "AMMO",
+        "price": 500,
+        "weight": 1,
+        "restrictions": {
+            "jobMasks": "THIRD",
+            "job": {
+                "Blacksmith": true,
+                "Alchemist": true
+            }
+        },
+        "ammoType": "PROJECTILE"
+    }
+}

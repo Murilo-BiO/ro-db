@@ -1,0 +1,388 @@
+{
+    "13154": {
+        "id": "13154",
+        "name": "Rolling Stone",
+        "displayName": "Rolling Stone [1]",
+        "aegisName": "rolling_stone",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "SHOTGUN",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 9,
+            "atk": 135,
+            "refinable": true
+        },
+        "price": 12000,
+        "weight": 90,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 14
+            }
+        }
+    },
+    "13155": {
+        "id": "13155",
+        "name": "Rosa Negra",
+        "displayName": "Rosa Negra [1]",
+        "aegisName": "black_rose",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "SHOTGUN",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 9,
+            "atk": 180,
+            "refinable": true
+        },
+        "price": 32000,
+        "weight": 90,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 35
+            }
+        }
+    },
+    "13156": {
+        "id": "13156",
+        "name": "Guardião da Passagem",
+        "displayName": "Guardião da Passagem",
+        "aegisName": "gate_keeper",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "SHOTGUN",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 9,
+            "atk": 210,
+            "refinable": true
+        },
+        "price": 56000,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "13167": {
+        "id": "13167",
+        "name": "Leão-de-Chácara",
+        "displayName": "Leão-de-Chácara",
+        "aegisName": "gate_keeperdd",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "SHOTGUN",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 9,
+            "atk": 200,
+            "refinable": true
+        },
+        "price": 72000,
+        "weight": 130,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "13168": {
+        "id": "13168",
+        "name": "Trovoada",
+        "displayName": "Trovoada [1]",
+        "aegisName": "thunder_p",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "SHOTGUN",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 76000,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "13169": {
+        "id": "13169",
+        "name": "Trovoada",
+        "displayName": "Trovoada [2]",
+        "aegisName": "thunder_p_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "SHOTGUN",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 76000,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "13173": {
+        "id": "13173",
+        "name": "Espingarda do Soldado",
+        "displayName": "Espingarda do Soldado",
+        "aegisName": "bf_shotgun1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "SHOTGUN",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13178": {
+        "id": "13178",
+        "name": "Espingarda Gloriosa",
+        "displayName": "Espingarda Gloriosa",
+        "aegisName": "krieger_shotgun1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "SHOTGUN",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 9,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13181": {
+        "id": 13181,
+        "name": "Escopeta para Iniciantes",
+        "displayName": "Escopeta para Iniciantes",
+        "aegisName": "novice_shotgun",
+        "type": "WEAPON",
+        "price": 0,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            }
+        },
+        "equipData": {
+            "class": "SHOTGUN",
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 9,
+            "atk": 80,
+            "refinable": true
+        }
+    },
+    "13186": {
+        "id": 13186,
+        "name": "Espingarda TE",
+        "displayName": "Espingarda TE",
+        "aegisName": "te_woe_shotgun",
+        "type": "WEAPON",
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            },
+            "level": {
+                "min": 40
+            }
+        },
+        "equipData": {
+            "class": "SHOTGUN",
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 100,
+            "refinable": false
+        }
+    },
+    "13192": {
+        "id": 13192,
+        "name": "Espingarda Disparo Mortal",
+        "displayName": "Espingarda Disparo Mortal [1]",
+        "aegisName": "deathfire",
+        "equipData": {
+            "slots": 1,
+            "class": "SHOTGUN",
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 400,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 1250000,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Rebellion": true
+            },
+            "level": {
+                "min": 108
+            }
+        }
+    },
+    "13193": {
+        "id": 13193,
+        "name": "Espingarda de Trovoada",
+        "displayName": "Espingarda de Trovoada [1]",
+        "aegisName": "r_thunder",
+        "equipData": {
+            "slots": 1,
+            "class": "SHOTGUN",
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 280,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 1350000,
+        "weight": 180,
+        "restrictions": {
+            "job": {
+                "Rebellion": true
+            },
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "13194": {
+        "id": 13194,
+        "name": "Espingarda da Destruição",
+        "displayName": "Espingarda da Destruição",
+        "aegisName": "p_breaker",
+        "type": "WEAPON",
+        "price": 1950000,
+        "weight": 140,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            },
+            "level": {
+                "min": 120
+            }
+        },
+        "equipData": {
+            "class": "SHOTGUN",
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 250,
+            "refinable": true
+        }
+    },
+    "13196": {
+        "id": 13196,
+        "name": "Espingarda da Destruição",
+        "displayName": "Espingarda da Destruição [1]",
+        "aegisName": "p_breaker_",
+        "equipData": {
+            "slots": 1,
+            "class": "SHOTGUN",
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 250,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 1950000,
+        "weight": 140,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            },
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "28256": {
+        "id": "28256",
+        "name": "Escopeta Ancestral",
+        "displayName": "Escopeta Ancestral [2]",
+        "aegisName": "demon_s_shot",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "SHOTGUN",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "atk": 275,
+            "refinable": true
+        },
+        "weight": 140
+    }
+}

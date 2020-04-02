@@ -1,0 +1,1345 @@
+{
+    "1250": {
+        "id": "1250",
+        "name": "Jur",
+        "displayName": "Jur [2]",
+        "aegisName": "jur",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 125,
+            "refinable": true
+        },
+        "price": 19500,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "1251": {
+        "id": "1251",
+        "name": "Jur",
+        "displayName": "Jur [3]",
+        "aegisName": "jur_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 125,
+            "refinable": true
+        },
+        "price": 19500,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "1252": {
+        "id": "1252",
+        "name": "Katar",
+        "displayName": "Katar [1]",
+        "aegisName": "katar",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 148,
+            "refinable": true
+        },
+        "price": 41000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1253": {
+        "id": "1253",
+        "name": "Katar",
+        "displayName": "Katar [2]",
+        "aegisName": "katar_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 148,
+            "refinable": true
+        },
+        "price": 41000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1254": {
+        "id": "1254",
+        "name": "Jamadhar",
+        "displayName": "Jamadhar",
+        "aegisName": "jamadhar",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 165,
+            "refinable": true
+        },
+        "price": 37200,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1255": {
+        "id": "1255",
+        "name": "Jamadhar",
+        "displayName": "Jamadhar [1]",
+        "aegisName": "jamadhar_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 165,
+            "refinable": true
+        },
+        "price": 37200,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1256": {
+        "id": "1256",
+        "name": "Katar Gélida",
+        "displayName": "Katar Gélida",
+        "aegisName": "katar_of_cold_icicle",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 105,
+            "refinable": true
+        },
+        "price": 45000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1257": {
+        "id": "1257",
+        "name": "Katar da Espinheira Empoeirada",
+        "displayName": "Katar da Espinheira Empoeirada",
+        "aegisName": "katar_of_thornbush",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 105,
+            "refinable": true
+        },
+        "price": 45000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1258": {
+        "id": "1258",
+        "name": "Katar da Chama Impetuosa",
+        "displayName": "Katar da Chama Impetuosa",
+        "aegisName": "katar_of_raging_blaze",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 105,
+            "refinable": true
+        },
+        "price": 45000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1259": {
+        "id": "1259",
+        "name": "Katar do Vento Perfurante",
+        "displayName": "Katar do Vento Perfurante",
+        "aegisName": "katar_of_piercing_wind",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 105,
+            "refinable": true
+        },
+        "price": 45000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1260": {
+        "id": "1260",
+        "name": "Osso Afiado de Carniçal",
+        "displayName": "Osso Afiado de Carniçal",
+        "aegisName": "ghoul_leg",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 52500,
+        "weight": 170,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "1261": {
+        "id": "1261",
+        "name": "Infiltrador",
+        "displayName": "Infiltrador",
+        "aegisName": "infiltrator",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 57000,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "1262": {
+        "id": "1262",
+        "name": "Unha de Loki",
+        "displayName": "Unha de Loki",
+        "aegisName": "nail_of_loki",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 115,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1263": {
+        "id": "1263",
+        "name": "Toque Profano",
+        "displayName": "Toque Profano",
+        "aegisName": "unholy_touch",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 151,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 125,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1264": {
+        "id": "1264",
+        "name": "Jur Especial",
+        "displayName": "Jur Especial [4]",
+        "aegisName": "various_jur",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 4,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            }
+        }
+    },
+    "1265": {
+        "id": "1265",
+        "name": "Rugido Sangrento",
+        "displayName": "Rugido Sangrento",
+        "aegisName": "bloody_roar",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "1266": {
+        "id": "1266",
+        "name": "Infiltrador",
+        "displayName": "Infiltrador [1]",
+        "aegisName": "infiltrator_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 57000,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "1267": {
+        "id": "1267",
+        "name": "Infiltrador [A]",
+        "displayName": "Infiltrador [A]",
+        "aegisName": "infiltrator_c",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 189,
+            "refinable": false
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            }
+        }
+    },
+    "1268": {
+        "id": "1268",
+        "name": "Garra da Fera Selvagem",
+        "displayName": "Garra da Fera Selvagem [1]",
+        "aegisName": "wild_beast_claw",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 160,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 145,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1269": {
+        "id": "1269",
+        "name": "Escama Invertida",
+        "displayName": "Escama Invertida",
+        "aegisName": "inverse_scale",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1270": {
+        "id": "1270",
+        "name": "Katar Perfurante",
+        "displayName": "Katar Perfurante [1]",
+        "aegisName": "drill_katar",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 140,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1271": {
+        "id": "1271",
+        "name": "Lágrimas Sangrentas",
+        "displayName": "Lágrimas Sangrentas [2]",
+        "aegisName": "blood_tears",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 170,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1273": {
+        "id": "1273",
+        "name": "Rugido Sangrento [A]",
+        "displayName": "Rugido Sangrento [A]",
+        "aegisName": "bloody_roar_c",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 148,
+            "refinable": false
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            }
+        }
+    },
+    "1275": {
+        "id": "1275",
+        "name": "Katar Gélida",
+        "displayName": "Katar Gélida [3]",
+        "aegisName": "katar_of_cold_icicle_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 105,
+            "refinable": true
+        },
+        "price": 45000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1276": {
+        "id": "1276",
+        "name": "Katar da Espinheira Empoeirada",
+        "displayName": "Katar da Espinheira Empoeirada [3]",
+        "aegisName": "katar_of_thornbush_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 105,
+            "refinable": true
+        },
+        "price": 45000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1277": {
+        "id": "1277",
+        "name": "Katar da Chama Impetuosa",
+        "displayName": "Katar da Chama Impetuosa [3]",
+        "aegisName": "katar_of_raging_blaze_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 105,
+            "refinable": true
+        },
+        "price": 45000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1278": {
+        "id": "1278",
+        "name": "Katar do Vento Perfurante",
+        "displayName": "Katar do Vento Perfurante [3]",
+        "aegisName": "katar_of_piercing_wind_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 105,
+            "refinable": true
+        },
+        "price": 45000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1279": {
+        "id": "1279",
+        "name": "Katar da Carnificina A",
+        "displayName": "Katar da Carnificina A",
+        "aegisName": "bf_katar1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1280": {
+        "id": "1280",
+        "name": "Katar da Carnificina B",
+        "displayName": "Katar da Carnificina B",
+        "aegisName": "bf_katar2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1281": {
+        "id": "1281",
+        "name": "Rugido Sangrento Glorioso",
+        "displayName": "Rugido Sangrento Glorioso",
+        "aegisName": "krieger_katar1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1282": {
+        "id": "1282",
+        "name": "Jamadhar Glorioso",
+        "displayName": "Jamadhar Glorioso",
+        "aegisName": "krieger_katar2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1284": {
+        "id": "1284",
+        "name": "Krishna",
+        "displayName": "Krishna [2]",
+        "aegisName": "krishna",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 120,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "1285": {
+        "id": "1285",
+        "name": "Chakram",
+        "displayName": "Chakram [2]",
+        "aegisName": "cakram",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "1287": {
+        "id": "1287",
+        "name": "Durga",
+        "displayName": "Durga [1]",
+        "aegisName": "durga",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 190,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 120,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "1289": {
+        "id": "1289",
+        "name": "Katar I do Grupo Éden",
+        "displayName": "Katar I do Grupo Éden",
+        "aegisName": "p_katar1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 155,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1290": {
+        "id": "1290",
+        "name": "Katar de Agente",
+        "displayName": "Katar de Agente [1]",
+        "aegisName": "agent_katar",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 170,
+            "refinable": true
+        },
+        "price": 41000,
+        "weight": 120,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "1291": {
+        "id": "1291",
+        "name": "Katar do Sicário",
+        "displayName": "Katar do Sicário [1]",
+        "aegisName": "guillotine_katar",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 200,
+            "refinable": true
+        },
+        "price": 56000,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 140
+            }
+        }
+    },
+    "1292": {
+        "id": "1292",
+        "name": "Katar Aprimorada",
+        "displayName": "Katar Aprimorada [1]",
+        "aegisName": "upg_katar",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            }
+        }
+    },
+    "1293": {
+        "id": "1293",
+        "name": "Jamadhar de Vellum",
+        "displayName": "Jamadhar de Vellum",
+        "aegisName": "velum_jamadhar",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 170,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "1294": {
+        "id": "1294",
+        "name": "Pavor de Vellum",
+        "displayName": "Pavor de Vellum",
+        "aegisName": "velum_scare",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "1295": {
+        "id": "1295",
+        "name": "Lágrimas Sangrentas",
+        "displayName": "Lágrimas Sangrentas [3]",
+        "aegisName": "blood_tears_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 170,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1298": {
+        "id": "1298",
+        "name": "Bat-Katar",
+        "displayName": "Bat-Katar [2]",
+        "aegisName": "shiver_katar",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 60000,
+        "weight": 270,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 105
+            }
+        }
+    },
+    "1299": {
+        "id": "1299",
+        "name": "Katar TE",
+        "displayName": "Katar TE",
+        "aegisName": "te_woe_katar",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 120,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "28000": {
+        "id": 28000,
+        "name": "Katar de Cinzas",
+        "displayName": "Katar de Cinzas [1]",
+        "aegisName": "thanos_katar",
+        "equipData": {
+            "slots": 1,
+            "class": "KATAR",
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 220,
+            "matk": 80,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 20,
+        "weight": 180,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "28001": {
+        "id": 28001,
+        "name": "Katar Esconjurante",
+        "displayName": "Katar Esconjurante [1]",
+        "aegisName": "katar_of_evil_slayer",
+        "equipData": {
+            "slots": 1,
+            "class": "KATAR",
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 20,
+        "weight": 120,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "28007": {
+        "id": "28007",
+        "name": "Katar Rubi",
+        "displayName": "Katar Rubi [2]",
+        "aegisName": "scarlet_katar",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 130,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "28008": {
+        "id": "28008",
+        "name": "Katar Sobrenatural",
+        "displayName": "Katar Sobrenatural [1]",
+        "aegisName": "sinister_katar",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 180,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 180,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 160
+            }
+        }
+    },
+    "28010": {
+        "id": "28010",
+        "name": "Juliette De Rachel",
+        "displayName": "Juliette De Rachel [2]",
+        "aegisName": "katar_170",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 300,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 250,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 170
+            }
+        }
+    },
+    "28025": {
+        "id": "28025",
+        "name": "Katares do Monarca",
+        "displayName": "Katares do Monarca [1]",
+        "aegisName": "kings_double_edge_br",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "refinable": true
+        }
+    },
+    "28039": {
+        "id": "28039",
+        "name": "Katar Ancestral",
+        "displayName": "Katar Ancestral [2]",
+        "aegisName": "shiver_katar_k",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KATAR",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "atk": 185,
+            "refinable": true
+        },
+        "weight": 120
+    }
+}

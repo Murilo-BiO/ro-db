@@ -1,0 +1,279 @@
+{
+    "13160": {
+        "id": "13160",
+        "name": "Destruidora",
+        "displayName": "Destruidora",
+        "aegisName": "destroyer",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "GRENADE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 9,
+            "atk": 220,
+            "refinable": true
+        },
+        "price": 110000,
+        "weight": 120,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 52
+            }
+        }
+    },
+    "13161": {
+        "id": "13161",
+        "name": "Destruidora",
+        "displayName": "Destruidora [1]",
+        "aegisName": "destroyer_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "GRENADE",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 9,
+            "atk": 220,
+            "refinable": true
+        },
+        "price": 110000,
+        "weight": 120,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 52
+            }
+        }
+    },
+    "13162": {
+        "id": "13162",
+        "name": "Inferno",
+        "displayName": "Inferno [1]",
+        "aegisName": "inferno",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "GRENADE",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 9,
+            "atk": 280,
+            "refinable": true
+        },
+        "price": 230000,
+        "weight": 125,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "13174": {
+        "id": "13174",
+        "name": "Lança-Granadas do Soldado",
+        "displayName": "Lança-Granadas do Soldado",
+        "aegisName": "bf_launcher1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "GRENADE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 300,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13179": {
+        "id": "13179",
+        "name": "Lança-Granadas Glorioso",
+        "displayName": "Lança-Granadas Glorioso",
+        "aegisName": "krieger_launcher1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "GRENADE",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 9,
+            "atk": 330,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13183": {
+        "id": 13183,
+        "name": "Lança-Granadas para Iniciantes",
+        "displayName": "Lança-Granadas para Iniciantes",
+        "aegisName": "novice_grenade_launcher",
+        "type": "WEAPON",
+        "price": 0,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            }
+        },
+        "equipData": {
+            "class": "GRENADE",
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 9,
+            "atk": 40,
+            "refinable": true
+        }
+    },
+    "13187": {
+        "id": 13187,
+        "name": "Lança Granadas TE",
+        "displayName": "Lança Granadas TE",
+        "aegisName": "te_woe_grenade",
+        "type": "WEAPON",
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            },
+            "level": {
+                "min": 40
+            }
+        },
+        "equipData": {
+            "class": "GRENADE",
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 100,
+            "refinable": false
+        }
+    },
+    "28200": {
+        "id": 28200,
+        "name": "Lança-Granadas Caos Total",
+        "displayName": "Lança-Granadas Caos Total [1]",
+        "aegisName": "end_of_horizon",
+        "equipData": {
+            "slots": 1,
+            "class": "GRENADE",
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 9,
+            "atk": 410,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 2700000,
+        "weight": 240,
+        "restrictions": {
+            "job": {
+                "Rebellion": true
+            },
+            "level": {
+                "min": 110
+            }
+        }
+    },
+    "28201": {
+        "id": 28201,
+        "name": "Cruz Meridional",
+        "displayName": "Cruz Meridional",
+        "aegisName": "southern_cross_r",
+        "type": "WEAPON",
+        "price": 2800000,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Rebellion": true
+            },
+            "level": {
+                "min": 141
+            }
+        },
+        "equipData": {
+            "class": "GRENADE",
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 9,
+            "atk": 480,
+            "refinable": true
+        }
+    },
+    "28202": {
+        "id": 28202,
+        "name": "Cruz Meridional",
+        "displayName": "Cruz Meridional [1]",
+        "aegisName": "southern_cross_r_",
+        "equipData": {
+            "slots": 1,
+            "class": "GRENADE",
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 9,
+            "atk": 480,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 2800000,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Rebellion": true
+            },
+            "level": {
+                "min": 141
+            }
+        }
+    },
+    "28257": {
+        "id": "28257",
+        "name": "Lança-Granadas Ancestral",
+        "displayName": "Lança-Granadas Ancestral [2]",
+        "aegisName": "golden_l_launcher",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "GRENADE",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "atk": 320,
+            "refinable": true
+        },
+        "weight": 210
+    }
+}

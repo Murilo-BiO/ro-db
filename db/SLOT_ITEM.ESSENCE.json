@@ -1,0 +1,236 @@
+{
+    "4908": {
+        "id": "4908",
+        "name": "Essência de Morroc FOR1",
+        "displayName": "Essência de Morroc FOR1",
+        "aegisName": "force1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ESSENCE",
+            "nameModifier": "(E.FOR1) "
+        },
+        "price": 0,
+        "weight": 1
+    },
+    "4909": {
+        "id": "4909",
+        "name": "Essência de Morroc FOR2",
+        "displayName": "Essência de Morroc FOR2",
+        "aegisName": "force2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ESSENCE",
+            "nameModifier": "(E.FOR2) "
+        },
+        "price": 0,
+        "weight": 1
+    },
+    "4910": {
+        "id": "4910",
+        "name": "Essência de Morroc FOR3",
+        "displayName": "Essência de Morroc FOR3",
+        "aegisName": "force3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ESSENCE",
+            "nameModifier": "(E.FOR3) "
+        },
+        "price": 0,
+        "weight": 1
+    },
+    "4911": {
+        "id": "4911",
+        "name": "Essência de Morroc INT1",
+        "displayName": "Essência de Morroc INT1",
+        "aegisName": "intellect1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ESSENCE",
+            "nameModifier": "(E.INT1) "
+        },
+        "price": 0,
+        "weight": 1
+    },
+    "4912": {
+        "id": "4912",
+        "name": "Essência de Morroc INT2",
+        "displayName": "Essência de Morroc INT2",
+        "aegisName": "intellect2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ESSENCE",
+            "nameModifier": "(E.INT2) "
+        },
+        "price": 0,
+        "weight": 1
+    },
+    "4913": {
+        "id": "4913",
+        "name": "Essência de Morroc INT3",
+        "displayName": "Essência de Morroc INT3",
+        "aegisName": "intellect3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ESSENCE",
+            "nameModifier": "(E.INT3) "
+        },
+        "price": 0,
+        "weight": 1
+    },
+    "4914": {
+        "id": "4914",
+        "name": "Essência de Morroc AGI1",
+        "displayName": "Essência de Morroc AGI1",
+        "aegisName": "swiftness1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ESSENCE",
+            "nameModifier": "(E.AGI1) "
+        },
+        "price": 0,
+        "weight": 1
+    },
+    "4915": {
+        "id": "4915",
+        "name": "Essência de Morroc AGI2",
+        "displayName": "Essência de Morroc AGI2",
+        "aegisName": "swiftness2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ESSENCE",
+            "nameModifier": "(E.AGI2) "
+        },
+        "price": 0,
+        "weight": 1
+    },
+    "4916": {
+        "id": "4916",
+        "name": "Essência de Morroc AGI3",
+        "displayName": "Essência de Morroc AGI3",
+        "aegisName": "swiftness3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ESSENCE",
+            "nameModifier": "(E.AGI3) "
+        },
+        "price": 0,
+        "weight": 1
+    },
+    "4917": {
+        "id": "4917",
+        "name": "Essência de Morroc VIT1",
+        "displayName": "Essência de Morroc VIT1",
+        "aegisName": "tough1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ESSENCE",
+            "nameModifier": "(E.VIT1) "
+        },
+        "price": 0,
+        "weight": 1
+    },
+    "4918": {
+        "id": "4918",
+        "name": "Essência de Morroc VIT2",
+        "displayName": "Essência de Morroc VIT2",
+        "aegisName": "tough2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ESSENCE",
+            "nameModifier": "(E.VIT2) "
+        },
+        "price": 0,
+        "weight": 1
+    },
+    "4919": {
+        "id": "4919",
+        "name": "Essência de Morroc VIT3",
+        "displayName": "Essência de Morroc VIT3",
+        "aegisName": "tough3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ESSENCE",
+            "nameModifier": "(E.VIT3) "
+        },
+        "price": 0,
+        "weight": 1
+    },
+    "4920": {
+        "id": "4920",
+        "name": "Essência de Morroc DES1",
+        "displayName": "Essência de Morroc DES1",
+        "aegisName": "artful1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ESSENCE",
+            "nameModifier": "(E.DES1) "
+        },
+        "price": 0,
+        "weight": 1
+    },
+    "4921": {
+        "id": "4921",
+        "name": "Essência de Morroc DES2",
+        "displayName": "Essência de Morroc DES2",
+        "aegisName": "artful2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ESSENCE",
+            "nameModifier": "(E.DES2) "
+        },
+        "price": 0,
+        "weight": 1
+    },
+    "4922": {
+        "id": "4922",
+        "name": "Essência de Morroc DES3",
+        "displayName": "Essência de Morroc DES3",
+        "aegisName": "artful3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ESSENCE",
+            "nameModifier": "(E.DES3) "
+        },
+        "price": 0,
+        "weight": 1
+    },
+    "4923": {
+        "id": "4923",
+        "name": "Essência de Morroc SOR1",
+        "displayName": "Essência de Morroc SOR1",
+        "aegisName": "fortune1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ESSENCE",
+            "nameModifier": "(E.SOR1) "
+        },
+        "price": 0,
+        "weight": 1
+    },
+    "4924": {
+        "id": "4924",
+        "name": "Essência de Morroc SOR2",
+        "displayName": "Essência de Morroc SOR2",
+        "aegisName": "fortune2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ESSENCE",
+            "nameModifier": "(E.SOR2) "
+        },
+        "price": 0,
+        "weight": 1
+    },
+    "4925": {
+        "id": "4925",
+        "name": "Essência de Morroc SOR3",
+        "displayName": "Essência de Morroc SOR3",
+        "aegisName": "fortune3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ESSENCE",
+            "nameModifier": "(E.SOR3) "
+        },
+        "price": 0,
+        "weight": 1
+    }
+}

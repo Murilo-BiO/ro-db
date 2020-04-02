@@ -1,0 +1,106 @@
+{
+    "24015": {
+        "id": "24015",
+        "name": "Escudo Sombrio Festivo",
+        "displayName": "Escudo Sombrio Festivo",
+        "aegisName": "s_promotion_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_SHIELD",
+            "slots": 0,
+            "position": "SHADOW_SHIELD",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 10,
+        "weight": 0
+    },
+    "24209": {
+        "id": "24209",
+        "name": "Escudo do Perito",
+        "displayName": "Escudo do Perito",
+        "aegisName": "s_expert_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_SHIELD",
+            "slots": 0,
+            "position": "SHADOW_SHIELD",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 10,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 150,
+                "max": 175
+            }
+        }
+    },
+    "24211": {
+        "id": "24211",
+        "name": "Escudo do Iniciante",
+        "displayName": "Escudo do Iniciante",
+        "aegisName": "s_beginner_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_SHIELD",
+            "slots": 0,
+            "position": "SHADOW_SHIELD",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 10,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 1,
+                "max": 49
+            }
+        }
+    },
+    "24213": {
+        "id": "24213",
+        "name": "Escudo do Novato",
+        "displayName": "Escudo do Novato",
+        "aegisName": "s_rookie_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_SHIELD",
+            "slots": 0,
+            "position": "SHADOW_SHIELD",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 10,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 50,
+                "max": 99
+            }
+        }
+    },
+    "24215": {
+        "id": "24215",
+        "name": "Escudo Avançado",
+        "displayName": "Escudo Avançado",
+        "aegisName": "s_advanced_shield",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_SHIELD",
+            "slots": 0,
+            "position": "SHADOW_SHIELD",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 10,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 100,
+                "max": 149
+            }
+        }
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "13157": {
+        "id": "13157",
+        "name": "Andarilho",
+        "displayName": "Andarilho [1]",
+        "aegisName": "drifter",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "GATLING",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 9,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 80000,
+        "weight": 230,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "13158": {
+        "id": "13158",
+        "name": "Retalhadora",
+        "displayName": "Retalhadora",
+        "aegisName": "butcher",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "GATLING",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 75,
+            "refinable": true
+        },
+        "price": 130000,
+        "weight": 250,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 68
+            }
+        }
+    },
+    "13159": {
+        "id": "13159",
+        "name": "Retalhadora",
+        "displayName": "Retalhadora [1]",
+        "aegisName": "butcher_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "GATLING",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 75,
+            "refinable": true
+        },
+        "price": 130000,
+        "weight": 250,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 68
+            }
+        }
+    },
+    "13172": {
+        "id": "13172",
+        "name": "Metralhadora Gatling do Soldado",
+        "displayName": "Metralhadora Gatling do Soldado",
+        "aegisName": "bf_gatling_gun1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "GATLING",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13177": {
+        "id": "13177",
+        "name": "Metralhadora Gatling Gloriosa",
+        "displayName": "Metralhadora Gatling Gloriosa",
+        "aegisName": "krieger_gatling1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "GATLING",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 9,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13182": {
+        "id": 13182,
+        "name": "Gatling para Iniciantes",
+        "displayName": "Gatling para Iniciantes",
+        "aegisName": "novice_gatling",
+        "type": "WEAPON",
+        "price": 0,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            }
+        },
+        "equipData": {
+            "class": "GATLING",
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 9,
+            "atk": 40,
+            "refinable": true
+        }
+    },
+    "13185": {
+        "id": 13185,
+        "name": "Metralhadora TE",
+        "displayName": "Metralhadora TE",
+        "aegisName": "te_woe_gatling",
+        "type": "WEAPON",
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            },
+            "level": {
+                "min": 40
+            }
+        },
+        "equipData": {
+            "class": "GATLING",
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 100,
+            "refinable": false
+        }
+    },
+    "13197": {
+        "id": 13197,
+        "name": "Minimetralhadora",
+        "displayName": "Minimetralhadora [2]",
+        "aegisName": "minimay",
+        "equipData": {
+            "slots": 2,
+            "class": "GATLING",
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 9,
+            "atk": 220,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 1600000,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            },
+            "level": {
+                "min": 106
+            }
+        }
+    },
+    "13198": {
+        "id": 13198,
+        "name": "Metralhadora da Tempestade",
+        "displayName": "Metralhadora da Tempestade",
+        "aegisName": "tempest",
+        "type": "WEAPON",
+        "price": 2200000,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            },
+            "level": {
+                "min": 140
+            }
+        },
+        "equipData": {
+            "class": "GATLING",
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 9,
+            "atk": 250,
+            "refinable": true
+        }
+    },
+    "13199": {
+        "id": 13199,
+        "name": "Metralhadora da Tempestade",
+        "displayName": "Metralhadora da Tempestade [1]",
+        "aegisName": "tempest_",
+        "equipData": {
+            "slots": 1,
+            "class": "GATLING",
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 9,
+            "atk": 250,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 2200000,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            },
+            "level": {
+                "min": 140
+            }
+        }
+    },
+    "28258": {
+        "id": "28258",
+        "name": "Gatling Ancestral",
+        "displayName": "Gatling Ancestral [2]",
+        "aegisName": "the_black_gatling",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "GATLING",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "atk": 205,
+            "refinable": true
+        },
+        "weight": 270
+    }
+}

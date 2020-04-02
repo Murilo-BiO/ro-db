@@ -1,0 +1,649 @@
+{
+    "13100": {
+        "id": "13100",
+        "name": "Pistola de Seis Tiros",
+        "displayName": "Pistola de Seis Tiros [1]",
+        "aegisName": "six_shooter",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "REVOLVER",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 7,
+            "atk": 30,
+            "refinable": true
+        },
+        "price": 4500,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 10
+            }
+        }
+    },
+    "13101": {
+        "id": "13101",
+        "name": "Pistola de Seis Tiros",
+        "displayName": "Pistola de Seis Tiros [2]",
+        "aegisName": "six_shooter_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "REVOLVER",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 7,
+            "atk": 30,
+            "refinable": true
+        },
+        "price": 4500,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 10
+            }
+        }
+    },
+    "13102": {
+        "id": "13102",
+        "name": "Raio Vermelho",
+        "displayName": "Raio Vermelho [1]",
+        "aegisName": "crimson_bolt",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "REVOLVER",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 7,
+            "atk": 45,
+            "refinable": true
+        },
+        "price": 20000,
+        "weight": 45,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 35
+            }
+        }
+    },
+    "13103": {
+        "id": "13103",
+        "name": "Raio Vermelho",
+        "displayName": "Raio Vermelho [2]",
+        "aegisName": "crimson_bolt_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "REVOLVER",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 7,
+            "atk": 45,
+            "refinable": true
+        },
+        "price": 20000,
+        "weight": 45,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 35
+            }
+        }
+    },
+    "13104": {
+        "id": "13104",
+        "name": "Garrison",
+        "displayName": "Garrison [1]",
+        "aegisName": "the_garrison",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "REVOLVER",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 7,
+            "atk": 70,
+            "refinable": true
+        },
+        "price": 48000,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "13105": {
+        "id": "13105",
+        "name": "Garrison",
+        "displayName": "Garrison [2]",
+        "aegisName": "the_garrison_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "REVOLVER",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 7,
+            "atk": 70,
+            "refinable": true
+        },
+        "price": 48000,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "13106": {
+        "id": "13106",
+        "name": "Brilho Dourado",
+        "displayName": "Brilho Dourado",
+        "aegisName": "gold_lux",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "REVOLVER",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 7,
+            "atk": 20,
+            "refinable": true
+        },
+        "price": 100000,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "13107": {
+        "id": "13107",
+        "name": "Desbravadora",
+        "displayName": "Desbravadora [2]",
+        "aegisName": "wasteland_outlaw",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "REVOLVER",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 7,
+            "atk": 68,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 58,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "13108": {
+        "id": "13108",
+        "name": "Revólver do Soldado",
+        "displayName": "Revólver do Soldado",
+        "aegisName": "bf_pistol1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "REVOLVER",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 7,
+            "atk": 70,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13109": {
+        "id": "13109",
+        "name": "Outlaw of the Plains",
+        "displayName": "Outlaw of the Plains",
+        "aegisName": "wasteland_outlaw_c",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "REVOLVER",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 7,
+            "atk": 100,
+            "refinable": false
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            }
+        }
+    },
+    "13110": {
+        "id": "13110",
+        "name": "Pistola Gloriosa",
+        "displayName": "Pistola Gloriosa",
+        "aegisName": "krieger_pistol1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "REVOLVER",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 7,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13112": {
+        "id": "13112",
+        "name": "Revólver Valhalla Iniciante",
+        "displayName": "Revólver Valhalla Iniciante",
+        "aegisName": "p_revolver1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "REVOLVER",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 7,
+            "atk": 44,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 26
+            }
+        }
+    },
+    "13113": {
+        "id": "13113",
+        "name": "Revólver Valhalla Intermediário",
+        "displayName": "Revólver Valhalla Intermediário",
+        "aegisName": "p_revolver2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "REVOLVER",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 7,
+            "atk": 60,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "13114": {
+        "id": "13114",
+        "name": "Revólver III do Grupo Éden",
+        "displayName": "Revólver III do Grupo Éden",
+        "aegisName": "p_revolver3",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "REVOLVER",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 7,
+            "atk": 76,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "13115": {
+        "id": "13115",
+        "name": "Pistola Aprimorada",
+        "displayName": "Pistola Aprimorada [1]",
+        "aegisName": "upg_revolver",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "REVOLVER",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 7,
+            "atk": 35,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            }
+        }
+    },
+    "13116": {
+        "id": 13116,
+        "name": "Revólver para Iniciantes",
+        "displayName": "Revólver para Iniciantes",
+        "aegisName": "novice_revolver",
+        "type": "WEAPON",
+        "price": 0,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            }
+        },
+        "equipData": {
+            "class": "REVOLVER",
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 7,
+            "atk": 20,
+            "refinable": true
+        }
+    },
+    "13117": {
+        "id": "13117",
+        "name": "Pistola TE",
+        "displayName": "Pistola TE",
+        "aegisName": "te_woe_pistol",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "REVOLVER",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 7,
+            "atk": 60,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "13118": {
+        "id": 13118,
+        "name": "Chama Efêmera",
+        "displayName": "Chama Efêmera",
+        "aegisName": "tiny_flame",
+        "type": "WEAPON",
+        "price": 0,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            },
+            "level": {
+                "min": 1
+            }
+        },
+        "equipData": {
+            "class": "REVOLVER",
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 7,
+            "refinable": true
+        }
+    },
+    "13119": {
+        "id": 13119,
+        "name": "Chama da Liberdade",
+        "displayName": "Chama da Liberdade [2]",
+        "aegisName": "freedom_flame",
+        "equipData": {
+            "slots": 2,
+            "class": "REVOLVER",
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 7,
+            "atk": 100,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 0,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "13120": {
+        "id": 13120,
+        "name": "Pistolas Céu-Inferno",
+        "displayName": "Pistolas Céu-Inferno [1]",
+        "aegisName": "h_feather_h_fire",
+        "equipData": {
+            "slots": 1,
+            "class": "REVOLVER",
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 150,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 1250000,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true,
+                "Rebellion": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "13122": {
+        "id": 13122,
+        "name": "Pistola Altair-Ares",
+        "displayName": "Pistola Altair-Ares",
+        "aegisName": "altair_ares",
+        "type": "WEAPON",
+        "price": 1450000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Rebellion": true
+            },
+            "level": {
+                "min": 140
+            }
+        },
+        "equipData": {
+            "class": "REVOLVER",
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 200,
+            "refinable": true
+        }
+    },
+    "13124": {
+        "id": 13124,
+        "name": "Pistola Altair-Ares",
+        "displayName": "Pistola Altair-Ares [1]",
+        "aegisName": "altair_ares_",
+        "equipData": {
+            "slots": 1,
+            "class": "REVOLVER",
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 9,
+            "atk": 200,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 1450000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Rebellion": true
+            },
+            "level": {
+                "min": 140
+            }
+        }
+    },
+    "13127": {
+        "id": "13127",
+        "name": "Revólver Rubi",
+        "displayName": "Revólver Rubi [2]",
+        "aegisName": "scarlet_revolver",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "REVOLVER",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 7,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "13128": {
+        "id": 13128,
+        "name": "Pistola Sobrenatural",
+        "displayName": "Pistola Sobrenatural [1]",
+        "aegisName": "revolver_of_vicious_mind",
+        "equipData": {
+            "slots": 1,
+            "class": "REVOLVER",
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 7,
+            "atk": 150,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 160
+            }
+        }
+    },
+    "32302": {
+        "id": "32302",
+        "name": "Revólver Ancestral",
+        "displayName": "Revólver Ancestral [2]",
+        "aegisName": "crimson_rose",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "REVOLVER",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "atk": 150,
+            "refinable": true
+        },
+        "weight": 70
+    }
+}

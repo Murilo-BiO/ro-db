@@ -1,0 +1,1430 @@
+{
+    "9001": {
+        "id": "9001",
+        "name": "Ovo de Poring",
+        "displayName": "Ovo de Poring",
+        "aegisName": "poring_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9002": {
+        "id": "9002",
+        "name": "Ovo de Drops",
+        "displayName": "Ovo de Drops",
+        "aegisName": "drops_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9003": {
+        "id": "9003",
+        "name": "Ovo de Poporing",
+        "displayName": "Ovo de Poporing",
+        "aegisName": "poporing_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9004": {
+        "id": "9004",
+        "name": "Ovo de Lunático",
+        "displayName": "Ovo de Lunático",
+        "aegisName": "lunatic_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9005": {
+        "id": "9005",
+        "name": "Ovo de Picky",
+        "displayName": "Ovo de Picky",
+        "aegisName": "picky_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9006": {
+        "id": "9006",
+        "name": "Ovo de Chonchon",
+        "displayName": "Ovo de Chonchon",
+        "aegisName": "chonchon_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9007": {
+        "id": "9007",
+        "name": "Ovo de Chonchon de Aço",
+        "displayName": "Ovo de Chonchon de Aço",
+        "aegisName": "steel_chonchon_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9008": {
+        "id": "9008",
+        "name": "Ovo de Mosca Caçadora",
+        "displayName": "Ovo de Mosca Caçadora",
+        "aegisName": "hunter_fly_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9009": {
+        "id": "9009",
+        "name": "Ovo de Bebê Selvagem",
+        "displayName": "Ovo de Bebê Selvagem",
+        "aegisName": "savage_bebe_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9010": {
+        "id": "9010",
+        "name": "Ovo de Lobo do Deserto Bebê",
+        "displayName": "Ovo de Lobo do Deserto Bebê",
+        "aegisName": "baby_desert_wolf_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9011": {
+        "id": "9011",
+        "name": "Ovo de Rocker",
+        "displayName": "Ovo de Rocker",
+        "aegisName": "rocker_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9012": {
+        "id": "9012",
+        "name": "Ovo de Esporo",
+        "displayName": "Ovo de Esporo",
+        "aegisName": "spore_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9013": {
+        "id": "9013",
+        "name": "Ovo de Esporo Venenoso",
+        "displayName": "Ovo de Esporo Venenoso",
+        "aegisName": "poison_spore_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9014": {
+        "id": "9014",
+        "name": "Ovo de PecoPeco",
+        "displayName": "Ovo de PecoPeco",
+        "aegisName": "pecopeco_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9015": {
+        "id": "9015",
+        "name": "Ovo de Fumacento",
+        "displayName": "Ovo de Fumacento",
+        "aegisName": "smokie_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9016": {
+        "id": "9016",
+        "name": "Ovo de Yoyo",
+        "displayName": "Ovo de Yoyo",
+        "aegisName": "yoyo_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9017": {
+        "id": "9017",
+        "name": "Ovo de Guerreiro Orc",
+        "displayName": "Ovo de Guerreiro Orc",
+        "aegisName": "orc_warrior_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9018": {
+        "id": "9018",
+        "name": "Ovo de Munak",
+        "displayName": "Ovo de Munak",
+        "aegisName": "munak_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9019": {
+        "id": "9019",
+        "name": "Ovo de Dokebi",
+        "displayName": "Ovo de Dokebi",
+        "aegisName": "dokkaebi_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9020": {
+        "id": "9020",
+        "name": "Ovo de Sohee",
+        "displayName": "Ovo de Sohee",
+        "aegisName": "sohee_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9021": {
+        "id": "9021",
+        "name": "Ovo de Ísis",
+        "displayName": "Ovo de Ísis",
+        "aegisName": "isis_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9022": {
+        "id": "9022",
+        "name": "Ovo de Petite Verde",
+        "displayName": "Ovo de Petite Verde",
+        "aegisName": "green_petite_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9023": {
+        "id": "9023",
+        "name": "Ovo de Deviruchi",
+        "displayName": "Ovo de Deviruchi",
+        "aegisName": "deviruchi_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9024": {
+        "id": "9024",
+        "name": "Ovo de Bafomé Jr.",
+        "displayName": "Ovo de Bafomé Jr.",
+        "aegisName": "bapho_jr_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9025": {
+        "id": "9025",
+        "name": "Ovo de Bongun",
+        "displayName": "Ovo de Bongun",
+        "aegisName": "bongun_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9026": {
+        "id": "9026",
+        "name": "Ovo de Jirtas",
+        "displayName": "Ovo de Jirtas",
+        "aegisName": "zherlthsh_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9027": {
+        "id": "9027",
+        "name": "Ovo de Alice",
+        "displayName": "Ovo de Alice",
+        "aegisName": "alice_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9028": {
+        "id": "9028",
+        "name": "Ovo de Mascote Buzzy Brother",
+        "displayName": "Ovo de Mascote Buzzy Brother",
+        "aegisName": "rice_cake_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9029": {
+        "id": "9029",
+        "name": "Ovo de Goblin Natalino",
+        "displayName": "Ovo de Goblin Natalino",
+        "aegisName": "santa_goblin_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9030": {
+        "id": "9030",
+        "name": "Ovo de Donzela Verde",
+        "displayName": "Ovo de Donzela Verde",
+        "aegisName": "chung_e_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9031": {
+        "id": 9031,
+        "name": "Ovo de Coelho",
+        "displayName": "Ovo de Coelho",
+        "aegisName": "spring_rabbit_egg",
+        "price": 20,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        }
+    },
+    "9032": {
+        "id": "9032",
+        "name": "Ovo de Goblin (Adaga)",
+        "displayName": "Ovo de Goblin (Adaga)",
+        "aegisName": "knife_goblin_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9033": {
+        "id": "9033",
+        "name": "Ovo de Goblin (Mangual)",
+        "displayName": "Ovo de Goblin (Mangual)",
+        "aegisName": "flail_goblin_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9034": {
+        "id": "9034",
+        "name": "Ovo de Goblin (Martelo)",
+        "displayName": "Ovo de Goblin (Martelo)",
+        "aegisName": "hammer_goblin_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9035": {
+        "id": "9035",
+        "name": "Ovo de Deletério",
+        "displayName": "Ovo de Deletério",
+        "aegisName": "red_deleter_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9036": {
+        "id": "9036",
+        "name": "Ovo de Diabolik",
+        "displayName": "Ovo de Diabolik",
+        "aegisName": "diabolic_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9037": {
+        "id": "9037",
+        "name": "Ovo de Andarilho",
+        "displayName": "Ovo de Andarilho",
+        "aegisName": "wanderer_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9040": {
+        "id": "9040",
+        "name": "Ovo de Mao Guai",
+        "displayName": "Ovo de Mao Guai",
+        "aegisName": "civil_servant_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9041": {
+        "id": "9041",
+        "name": "Ovo de Gato de Folha",
+        "displayName": "Ovo de Gato de Folha",
+        "aegisName": "leaf_cat_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9042": {
+        "id": "9042",
+        "name": "Ovo de Loli Ruri",
+        "displayName": "Ovo de Loli Ruri",
+        "aegisName": "loli_ruri_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9043": {
+        "id": "9043",
+        "name": "Ovo de Marionette",
+        "displayName": "Ovo de Marionette",
+        "aegisName": "marionette_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9044": {
+        "id": "9044",
+        "name": "Ovo de Shinobi",
+        "displayName": "Ovo de Shinobi",
+        "aegisName": "shinobi_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9045": {
+        "id": "9045",
+        "name": "Ovo de Sussurro",
+        "displayName": "Ovo de Sussurro",
+        "aegisName": "whisper_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9046": {
+        "id": "9046",
+        "name": "Ovo de Líder Goblin",
+        "displayName": "Ovo de Líder Goblin",
+        "aegisName": "goblin_leader_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9047": {
+        "id": "9047",
+        "name": "Ovo de Ninfa Perversa",
+        "displayName": "Ovo de Ninfa Perversa",
+        "aegisName": "wicked_nymph_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9048": {
+        "id": "9048",
+        "name": "Ovo de Miyabi Ningyo",
+        "displayName": "Ovo de Miyabi Ningyo",
+        "aegisName": "miyabi_ningyo_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9049": {
+        "id": "9049",
+        "name": "Ovo de Dullahan",
+        "displayName": "Ovo de Dullahan",
+        "aegisName": "dullahan_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9050": {
+        "id": "9050",
+        "name": "Ovo de Medusa",
+        "displayName": "Ovo de Medusa",
+        "aegisName": "medusa_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9051": {
+        "id": "9051",
+        "name": "Ovo do Atirador de Pedras",
+        "displayName": "Ovo do Atirador de Pedras",
+        "aegisName": "stone_shooter_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9052": {
+        "id": "9052",
+        "name": "Ovo de Incubus",
+        "displayName": "Ovo de Incubus",
+        "aegisName": "incubus_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9053": {
+        "id": "9053",
+        "name": "Ovo de Golem",
+        "displayName": "Ovo de Golem",
+        "aegisName": "golem_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9054": {
+        "id": "9054",
+        "name": "Ovo de Pesadelo",
+        "displayName": "Ovo de Pesadelo",
+        "aegisName": "nightmare_terror_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9055": {
+        "id": "9055",
+        "name": "Ovo de Succubus",
+        "displayName": "Ovo de Succubus",
+        "aegisName": "succubus_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9056": {
+        "id": "9056",
+        "name": "Ovo de Imp",
+        "displayName": "Ovo de Imp",
+        "aegisName": "imp_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9058": {
+        "id": "9058",
+        "name": "Ovo de Lebre da Neve",
+        "displayName": "Ovo de Lebre da Neve",
+        "aegisName": "snow_rabbit_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9059": {
+        "id": "9059",
+        "name": "Ovo de Tikbalang",
+        "displayName": "Ovo de Tikbalang",
+        "aegisName": "tikbalang_pet",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "9062": {
+        "id": 9062,
+        "name": "Ovo de Bebê Poring",
+        "displayName": "Ovo de Bebê Poring",
+        "aegisName": "novice_poring_egg",
+        "type": "ARMOR",
+        "price": 20,
+        "equipData": {
+            "class": "PET"
+        }
+    },
+    "9068": {
+        "id": "9068",
+        "name": "Ovo de Unicórnio",
+        "displayName": "Ovo de Unicórnio",
+        "aegisName": "blue_unicorn_egg",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 0
+    },
+    "9101": {
+        "id": "9101",
+        "name": "Gaiola Portátil do Zumbichano",
+        "displayName": "Gaiola Portátil do Zumbichano",
+        "aegisName": "scatletoncarrier",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "9113": {
+        "id": 9113,
+        "name": "Ovo de Esqueleão",
+        "displayName": "Ovo de Esqueleão",
+        "aegisName": "skelion_egg",
+        "type": "ARMOR",
+        "price": 20,
+        "equipData": {
+            "class": "PET"
+        }
+    },
+    "10001": {
+        "id": "10001",
+        "name": "Elmo de Crânio",
+        "displayName": "Elmo de Crânio",
+        "aegisName": "skull_helm",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "10002": {
+        "id": "10002",
+        "name": "Máscara de Oxigênio para Bichinhos",
+        "displayName": "Máscara de Oxigênio para Bichinhos",
+        "aegisName": "monster_oxygen_mask",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "10003": {
+        "id": "10003",
+        "name": "Capacete Espacial",
+        "displayName": "Capacete Espacial",
+        "aegisName": "transparent_headgear",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "10004": {
+        "id": "10004",
+        "name": "Chupeta",
+        "displayName": "Chupeta",
+        "aegisName": "pacifier",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "10005": {
+        "id": "10005",
+        "name": "Peruca",
+        "displayName": "Peruca",
+        "aegisName": "wig",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "10006": {
+        "id": "10006",
+        "name": "Ornamento da Rainha",
+        "displayName": "Ornamento da Rainha",
+        "aegisName": "queens_hair_ornament",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "10007": {
+        "id": "10007",
+        "name": "Laço de Seda",
+        "displayName": "Laço de Seda",
+        "aegisName": "silk_ribbon",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "10008": {
+        "id": "10008",
+        "name": "Pavana",
+        "displayName": "Pavana",
+        "aegisName": "punisher",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "10009": {
+        "id": "10009",
+        "name": "Flor Selvagem",
+        "displayName": "Flor Selvagem",
+        "aegisName": "wild_flower",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "10010": {
+        "id": "10010",
+        "name": "Panela Velha",
+        "displayName": "Panela Velha",
+        "aegisName": "battered_pot",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "10011": {
+        "id": "10011",
+        "name": "Ornato Estelar",
+        "displayName": "Ornato Estelar",
+        "aegisName": "stellar_hairpin",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "10012": {
+        "id": "10012",
+        "name": "Casca de Ovo Minúscula",
+        "displayName": "Casca de Ovo Minúscula",
+        "aegisName": "tiny_egg_shell",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "10013": {
+        "id": "10013",
+        "name": "Mochila",
+        "displayName": "Mochila",
+        "aegisName": "backpack",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 1500,
+        "weight": 0
+    },
+    "10014": {
+        "id": "10014",
+        "name": "Óculos de Rocker",
+        "displayName": "Óculos de Rocker",
+        "aegisName": "rocker_glasses",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 2000,
+        "weight": 0
+    },
+    "10015": {
+        "id": "10015",
+        "name": "Laço Verde",
+        "displayName": "Laço Verde",
+        "aegisName": "green_lace",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "10016": {
+        "id": "10016",
+        "name": "Sino de Ouro",
+        "displayName": "Sino de Ouro",
+        "aegisName": "golden_bell",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "10017": {
+        "id": "10017",
+        "name": "Saia Havaiana",
+        "displayName": "Saia Havaiana",
+        "aegisName": "bark_shorts",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "10018": {
+        "id": "10018",
+        "name": "Coroa de Macaco",
+        "displayName": "Coroa de Macaco",
+        "aegisName": "monkey_circlet",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "10019": {
+        "id": "10019",
+        "name": "Pano Vermelho",
+        "displayName": "Pano Vermelho",
+        "aegisName": "red_muffler",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "10020": {
+        "id": "10020",
+        "name": "Espada chinesa",
+        "displayName": "Espada chinesa",
+        "aegisName": "sword_of_grave_keeper",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "10022": {
+        "id": "10022",
+        "name": "Brinco de Ouro",
+        "displayName": "Brinco de Ouro",
+        "aegisName": "golden_earing",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "10023": {
+        "id": "10023",
+        "name": "Bolsa Verde de Jóias",
+        "displayName": "Bolsa Verde de Jóias",
+        "aegisName": "green_lucky_bag",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "10024": {
+        "id": "10024",
+        "name": "Óculos Engraçados",
+        "displayName": "Óculos Engraçados",
+        "aegisName": "fashionable_glasses",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "10025": {
+        "id": "10025",
+        "name": "Tiara de Cabelo",
+        "displayName": "Tiara de Cabelo",
+        "aegisName": "star_hairband",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 300000
+    },
+    "10026": {
+        "id": 10026,
+        "name": "Cantil de Vinho",
+        "displayName": "Cantil de Vinho",
+        "aegisName": "wine_on_sleeve",
+        "type": "ARMOR",
+        "price": 20,
+        "equipData": {
+            "class": "PET"
+        }
+    },
+    "10027": {
+        "id": "10027",
+        "name": "Auréola Brilhante",
+        "displayName": "Auréola Brilhante",
+        "aegisName": "spirit_chain_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 300000
+    },
+    "10028": {
+        "id": "10028",
+        "name": "Medalha de Flor",
+        "displayName": "Medalha de Flor",
+        "aegisName": "nice_badge",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "10029": {
+        "id": "10029",
+        "name": "Ornamento de Jade",
+        "displayName": "Ornamento de Jade",
+        "aegisName": "jade_trinket",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "10030": {
+        "id": "10030",
+        "name": "Leque de Verão",
+        "displayName": "Leque de Verão",
+        "aegisName": "summer_fan",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "10031": {
+        "id": "10031",
+        "name": "Anel dos Perecidos",
+        "displayName": "Anel dos Perecidos",
+        "aegisName": "death_coil",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "10032": {
+        "id": "10032",
+        "name": "Coroa Real",
+        "displayName": "Coroa Real",
+        "aegisName": "queens_coronet",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "10033": {
+        "id": "10033",
+        "name": "Peruca do Atirador",
+        "displayName": "Peruca do Atirador",
+        "aegisName": "apro_hair",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "10034": {
+        "id": "10034",
+        "name": "Máscara de Baile",
+        "displayName": "Máscara de Baile",
+        "aegisName": "ball_mask",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 300000
+    },
+    "10035": {
+        "id": 10035,
+        "name": "Mola de Corda",
+        "displayName": "Mola de Corda",
+        "aegisName": "windup_spring",
+        "type": "ARMOR",
+        "price": 20,
+        "equipData": {
+            "class": "PET"
+        }
+    },
+    "10036": {
+        "id": 10036,
+        "name": "Chifres Infernais",
+        "displayName": "Chifres Infernais",
+        "aegisName": "hell_horn",
+        "type": "ARMOR",
+        "price": 20,
+        "equipData": {
+            "class": "PET"
+        }
+    },
+    "10038": {
+        "id": "10038",
+        "name": "Protetor de Chifre",
+        "displayName": "Protetor de Chifre",
+        "aegisName": "horn_protector",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "PET",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "10040": {
+        "id": 10040,
+        "name": "Coleira Vermelha com Sino",
+        "displayName": "Coleira Vermelha com Sino",
+        "aegisName": null,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET"
+        }
+    },
+    "10042": {
+        "id": 10042,
+        "name": "Juba Negra",
+        "displayName": "Juba Negra",
+        "aegisName": "dark_mane",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET"
+        }
+    },
+    "19668": {
+        "id": "19668",
+        "name": "Boina Vermelha do Mensageiro",
+        "displayName": "Boina Vermelha do Mensageiro",
+        "aegisName": "c_wind_milestone",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "COSTUME_TOP",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "20379": {
+        "id": "20379",
+        "name": "Presilha de Relógio Retrô",
+        "displayName": "Presilha de Relógio Retrô",
+        "aegisName": "c_pocketwatch_hair_orna",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "PET",
+            "slots": 0,
+            "position": "COSTUME",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 70
+    }
+}

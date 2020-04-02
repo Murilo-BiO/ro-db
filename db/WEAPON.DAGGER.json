@@ -1,0 +1,4574 @@
+{
+    "1201": {
+        "id": "1201",
+        "name": "Faca",
+        "displayName": "Faca [3]",
+        "aegisName": "knife",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 17,
+            "refinable": true
+        },
+        "price": 50,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            }
+        }
+    },
+    "1202": {
+        "id": "1202",
+        "name": "Faca",
+        "displayName": "Faca [4]",
+        "aegisName": "knife_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 4,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 17,
+            "refinable": true
+        },
+        "price": 50,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            }
+        }
+    },
+    "1203": {
+        "id": "1203",
+        "name": "Faca",
+        "displayName": "Faca",
+        "aegisName": "knife__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 17,
+            "refinable": true
+        },
+        "price": 50,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            }
+        }
+    },
+    "1204": {
+        "id": 1204,
+        "name": "Punhal",
+        "displayName": "Punhal [3]",
+        "aegisName": "cutter",
+        "price": 1250,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 30,
+            "refinable": true
+        }
+    },
+    "1205": {
+        "id": "1205",
+        "name": "Punhal",
+        "displayName": "Punhal [4]",
+        "aegisName": "cutter_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 4,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 30,
+            "refinable": true
+        },
+        "price": 1250,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            }
+        }
+    },
+    "1206": {
+        "id": 1206,
+        "name": "Punhal",
+        "displayName": "Punhal",
+        "aegisName": "cutter__",
+        "price": 1250,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 30,
+            "refinable": true
+        }
+    },
+    "1207": {
+        "id": "1207",
+        "name": "Main Gauche",
+        "displayName": "Main Gauche [3]",
+        "aegisName": "main_gauche",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 43,
+            "refinable": true
+        },
+        "price": 2400,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            }
+        }
+    },
+    "1208": {
+        "id": "1208",
+        "name": "Main Gauche",
+        "displayName": "Main Gauche [4]",
+        "aegisName": "main_gauche_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 4,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 43,
+            "refinable": true
+        },
+        "price": 2400,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            }
+        }
+    },
+    "1209": {
+        "id": "1209",
+        "name": "Main Gauche",
+        "displayName": "Main Gauche",
+        "aegisName": "main_gauche__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 43,
+            "refinable": true
+        },
+        "price": 2400,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            }
+        }
+    },
+    "1210": {
+        "id": "1210",
+        "name": "Faca Escocesa",
+        "displayName": "Faca Escocesa [2]",
+        "aegisName": "dirk",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 59,
+            "refinable": true
+        },
+        "price": 8500,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "1211": {
+        "id": 1211,
+        "name": "Punhal",
+        "displayName": "Punhal [3]",
+        "aegisName": "dirk_",
+        "price": 8500,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 12
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 59,
+            "refinable": true
+        }
+    },
+    "1212": {
+        "id": 1212,
+        "name": "Punhal",
+        "displayName": "Punhal",
+        "aegisName": "dirk__",
+        "price": 8500,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 12
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 59,
+            "refinable": true
+        }
+    },
+    "1213": {
+        "id": "1213",
+        "name": "Adaga",
+        "displayName": "Adaga [2]",
+        "aegisName": "dagger",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 73,
+            "refinable": true
+        },
+        "price": 14000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "1214": {
+        "id": "1214",
+        "name": "Adaga",
+        "displayName": "Adaga [3]",
+        "aegisName": "dagger_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 73,
+            "refinable": true
+        },
+        "price": 14000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "1215": {
+        "id": "1215",
+        "name": "Adaga",
+        "displayName": "Adaga",
+        "aegisName": "dagger__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 73,
+            "refinable": true
+        },
+        "price": 14000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "1216": {
+        "id": "1216",
+        "name": "Stiletto",
+        "displayName": "Stiletto [2]",
+        "aegisName": "stiletto",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 87,
+            "refinable": true
+        },
+        "price": 19500,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "1217": {
+        "id": "1217",
+        "name": "Stiletto",
+        "displayName": "Stiletto [3]",
+        "aegisName": "stiletto_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 87,
+            "refinable": true
+        },
+        "price": 19500,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "1218": {
+        "id": "1218",
+        "name": "Stiletto",
+        "displayName": "Stiletto",
+        "aegisName": "stiletto__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 87,
+            "refinable": true
+        },
+        "price": 19500,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "1219": {
+        "id": "1219",
+        "name": "Gladius",
+        "displayName": "Gladius [2]",
+        "aegisName": "gladius",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 105,
+            "refinable": true
+        },
+        "price": 43000,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 24
+            }
+        }
+    },
+    "1220": {
+        "id": "1220",
+        "name": "Gladius",
+        "displayName": "Gladius [3]",
+        "aegisName": "gladius_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 105,
+            "refinable": true
+        },
+        "price": 43000,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 24
+            }
+        }
+    },
+    "1221": {
+        "id": "1221",
+        "name": "Gladius",
+        "displayName": "Gladius",
+        "aegisName": "gladius__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 105,
+            "refinable": true
+        },
+        "price": 43000,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 24
+            }
+        }
+    },
+    "1222": {
+        "id": "1222",
+        "name": "Damascus",
+        "displayName": "Damascus [1]",
+        "aegisName": "damascus",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 118,
+            "refinable": true
+        },
+        "price": 49000,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 24
+            }
+        }
+    },
+    "1223": {
+        "id": "1223",
+        "name": "Adaga da Boa Ventura",
+        "displayName": "Adaga da Boa Ventura",
+        "aegisName": "forturn_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 24
+            }
+        }
+    },
+    "1224": {
+        "id": "1224",
+        "name": "Destruidor de Espada",
+        "displayName": "Destruidor de Espada",
+        "aegisName": "sword_breaker",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 70,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 36
+            }
+        }
+    },
+    "1225": {
+        "id": "1225",
+        "name": "Destruidor de Malha",
+        "displayName": "Destruidor de Malha",
+        "aegisName": "mail_breaker",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 70,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 36
+            }
+        }
+    },
+    "1226": {
+        "id": "1226",
+        "name": "Damascus",
+        "displayName": "Damascus [2]",
+        "aegisName": "damascus_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 118,
+            "refinable": true
+        },
+        "price": 49000,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 24
+            }
+        }
+    },
+    "1227": {
+        "id": "1227",
+        "name": "Faca de Capina",
+        "displayName": "Faca de Capina",
+        "aegisName": "weeder_knife",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 36
+            }
+        }
+    },
+    "1228": {
+        "id": "1228",
+        "name": "Faca de Combate",
+        "displayName": "Faca de Combate",
+        "aegisName": "combat_knife",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 36
+            }
+        }
+    },
+    "1229": {
+        "id": "1229",
+        "name": "Faca da Mamãe",
+        "displayName": "Faca da Mamãe",
+        "aegisName": "mamas_knife",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 75,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 36
+            }
+        }
+    },
+    "1230": {
+        "id": "1230",
+        "name": "Rondel",
+        "displayName": "Rondel",
+        "aegisName": "house_auger",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 36
+            }
+        }
+    },
+    "1231": {
+        "id": "1231",
+        "name": "Bazerald",
+        "displayName": "Bazerald",
+        "aegisName": "bazerald",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 70,
+            "matk": 105,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 36
+            }
+        }
+    },
+    "1232": {
+        "id": "1232",
+        "name": "Adaga do Algoz",
+        "displayName": "Adaga do Algoz",
+        "aegisName": "assasin_dagger",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 36
+            }
+        }
+    },
+    "1233": {
+        "id": "1233",
+        "name": "Adaga Exorcista",
+        "displayName": "Adaga Exorcista",
+        "aegisName": "exercise",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 36
+            }
+        }
+    },
+    "1234": {
+        "id": "1234",
+        "name": "Walgwanggum",
+        "displayName": "Walgwanggum",
+        "aegisName": "moonlight_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 36
+            }
+        }
+    },
+    "1235": {
+        "id": "1235",
+        "name": "Azoth",
+        "displayName": "Azoth",
+        "aegisName": "azoth",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 36
+            }
+        }
+    },
+    "1236": {
+        "id": "1236",
+        "name": "Sucsamad",
+        "displayName": "Sucsamad",
+        "aegisName": "sucsamad",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 36
+            }
+        }
+    },
+    "1237": {
+        "id": "1237",
+        "name": "Adaga Sinistra",
+        "displayName": "Adaga Sinistra",
+        "aegisName": "grimtooth_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 180,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 36
+            }
+        }
+    },
+    "1238": {
+        "id": "1238",
+        "name": "Adaga da Cobiça",
+        "displayName": "Adaga da Cobiça",
+        "aegisName": "zeny_knife",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 64,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1239": {
+        "id": "1239",
+        "name": "Adaga Venenosa",
+        "displayName": "Adaga Venenosa",
+        "aegisName": "poison_knife",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 64,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "1240": {
+        "id": "1240",
+        "name": "Adaga Real",
+        "displayName": "Adaga Real",
+        "aegisName": "princess_knife",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 84,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            }
+        }
+    },
+    "1241": {
+        "id": "1241",
+        "name": "Adaga Profana",
+        "displayName": "Adaga Profana",
+        "aegisName": "cursed_dagger",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 55,
+            "refinable": true
+        },
+        "price": 80000,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 85
+            }
+        }
+    },
+    "1242": {
+        "id": "1242",
+        "name": "Adaga Certeira",
+        "displayName": "Adaga Certeira",
+        "aegisName": "counter_dagger",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 120000,
+        "weight": 55,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1243": {
+        "id": "1243",
+        "name": "Adaga do Aprendiz",
+        "displayName": "Adaga do Aprendiz",
+        "aegisName": "novice_knife",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 45,
+            "refinable": false
+        },
+        "price": 1,
+        "weight": 0.1,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            }
+        }
+    },
+    "1244": {
+        "id": "1244",
+        "name": "Adaga Sagrada",
+        "displayName": "Adaga Sagrada",
+        "aegisName": "holy_dagger",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Thief": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1245": {
+        "id": "1245",
+        "name": "Cinquedea",
+        "displayName": "Cinquedea [1]",
+        "aegisName": "cinquedea",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 40000,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1246": {
+        "id": "1246",
+        "name": "Cinquedea",
+        "displayName": "Cinquedea [2]",
+        "aegisName": "cinquedea_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 40000,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1247": {
+        "id": "1247",
+        "name": "Adaga Incendiária",
+        "displayName": "Adaga Incendiária",
+        "aegisName": "kindling_dagger",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 39,
+            "refinable": true
+        },
+        "price": 10000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            }
+        }
+    },
+    "1248": {
+        "id": "1248",
+        "name": "Adaga de Obsidiana",
+        "displayName": "Adaga de Obsidiana",
+        "aegisName": "obsidian_dagger",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 39,
+            "refinable": true
+        },
+        "price": 10000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            }
+        }
+    },
+    "1249": {
+        "id": "1249",
+        "name": "Adaga do Pescador",
+        "displayName": "Adaga do Pescador",
+        "aegisName": "fishermans_dagger",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 39,
+            "refinable": true
+        },
+        "price": 10000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            }
+        }
+    },
+    "13000": {
+        "id": "13000",
+        "name": "Adaga de Jujube",
+        "displayName": "Adaga de Jujube",
+        "aegisName": "jujube_dagger",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 39,
+            "refinable": true
+        },
+        "price": 10000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            }
+        }
+    },
+    "13001": {
+        "id": "13001",
+        "name": "Matadora de Dragão",
+        "displayName": "Matadora de Dragão",
+        "aegisName": "dragon_killer",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "13002": {
+        "id": "13002",
+        "name": "Ginnungagap",
+        "displayName": "Ginnungagap",
+        "aegisName": "ginnungagap",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 148,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "13003": {
+        "id": "13003",
+        "name": "Lâmina da Covardia",
+        "displayName": "Lâmina da Covardia [1]",
+        "aegisName": "coward",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 52000,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Thief": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "13004": {
+        "id": "13004",
+        "name": "Lâmina da Covardia",
+        "displayName": "Lâmina da Covardia [2]",
+        "aegisName": "coward_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 52000,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Thief": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "13005": {
+        "id": "13005",
+        "name": "Adaga da Asa Angelical",
+        "displayName": "Adaga da Asa Angelical [1]",
+        "aegisName": "angelwing_short_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "13006": {
+        "id": "13006",
+        "name": "Khukri",
+        "displayName": "Khukri",
+        "aegisName": "khukri",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 240000,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "13007": {
+        "id": "13007",
+        "name": "Jitte",
+        "displayName": "Jitte",
+        "aegisName": "jitte",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 70,
+            "refinable": true
+        },
+        "price": 20000,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 35
+            }
+        }
+    },
+    "13008": {
+        "id": "13008",
+        "name": "Jitte",
+        "displayName": "Jitte [1]",
+        "aegisName": "jitte_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 70,
+            "refinable": true
+        },
+        "price": 20000,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 35
+            }
+        }
+    },
+    "13009": {
+        "id": "13009",
+        "name": "Kamaitachi",
+        "displayName": "Kamaitachi",
+        "aegisName": "kamaitachi",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 2,
+            "atk": 125,
+            "refinable": true
+        },
+        "price": 48000,
+        "weight": 90,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "13010": {
+        "id": "13010",
+        "name": "Asura",
+        "displayName": "Asura [2]",
+        "aegisName": "asura",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 50,
+            "matk": 50,
+            "refinable": true
+        },
+        "price": 3000,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "13011": {
+        "id": "13011",
+        "name": "Asura",
+        "displayName": "Asura [3]",
+        "aegisName": "asura_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 50,
+            "matk": 50,
+            "refinable": true
+        },
+        "price": 3000,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "13012": {
+        "id": "13012",
+        "name": "Murasame",
+        "displayName": "Murasame [1]",
+        "aegisName": "murasame",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 95,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 24
+            }
+        }
+    },
+    "13013": {
+        "id": "13013",
+        "name": "Murasame",
+        "displayName": "Murasame [2]",
+        "aegisName": "murasame_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 95,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 24
+            }
+        }
+    },
+    "13014": {
+        "id": "13014",
+        "name": "Hakujin",
+        "displayName": "Hakujin",
+        "aegisName": "hakujin",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 42
+            }
+        }
+    },
+    "13015": {
+        "id": "13015",
+        "name": "Hakujin",
+        "displayName": "Hakujin [1]",
+        "aegisName": "hakujin_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 42
+            }
+        }
+    },
+    "13016": {
+        "id": "13016",
+        "name": "Adaga Venenosa",
+        "displayName": "Adaga Venenosa [2]",
+        "aegisName": "poison_knife_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 64,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "13017": {
+        "id": "13017",
+        "name": "Rondel",
+        "displayName": "Rondel [1]",
+        "aegisName": "house_auger_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 70,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 36
+            }
+        }
+    },
+    "13018": {
+        "id": "13018",
+        "name": "Sucsamad",
+        "displayName": "Sucsamad [1]",
+        "aegisName": "sucsamad_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 36
+            }
+        }
+    },
+    "13019": {
+        "id": "13019",
+        "name": "Ginnungagap",
+        "displayName": "Ginnungagap [1]",
+        "aegisName": "ginnungagap_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 148,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "13021": {
+        "id": "13021",
+        "name": "Faca de Combate [A]",
+        "displayName": "Faca de Combate [A]",
+        "aegisName": "combat_knife_c",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 129,
+            "refinable": false
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            }
+        }
+    },
+    "13022": {
+        "id": "13022",
+        "name": "Adaga Certeira [A]",
+        "displayName": "Adaga Certeira [A]",
+        "aegisName": "counter_dagger_c",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 209,
+            "refinable": false
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            }
+        }
+    },
+    "13023": {
+        "id": "13023",
+        "name": "Asura [A]",
+        "displayName": "Asura [A]",
+        "aegisName": "asura_c",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 120,
+            "matk": 98,
+            "refinable": false
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            }
+        }
+    },
+    "13027": {
+        "id": "13027",
+        "name": "Bisturi",
+        "displayName": "Bisturi [3]",
+        "aegisName": "scalpel",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "13028": {
+        "id": "13028",
+        "name": "Lâmina Dentada",
+        "displayName": "Lâmina Dentada [1]",
+        "aegisName": "tooth_blade",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "13030": {
+        "id": "13030",
+        "name": "Matadora de Dragão",
+        "displayName": "Matadora de Dragão [2]",
+        "aegisName": "dragon_killer_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "13031": {
+        "id": "13031",
+        "name": "Quebrador de Espadas",
+        "displayName": "Quebrador de Espadas [3]",
+        "aegisName": "sword_breaker_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 70,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 36
+            }
+        }
+    },
+    "13032": {
+        "id": 13032,
+        "name": "Destruidor de Malha",
+        "displayName": "Destruidor de Malha [3]",
+        "aegisName": "mail_breaker_",
+        "equipData": {
+            "slots": 3,
+            "class": "DAGGER",
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 70,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 36
+            }
+        }
+    },
+    "13033": {
+        "id": "13033",
+        "name": "Adaga do Algoz",
+        "displayName": "Adaga do Algoz [1]",
+        "aegisName": "assasin_dagger_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 36
+            }
+        }
+    },
+    "13034": {
+        "id": "13034",
+        "name": "Crepúsculo do Deserto",
+        "displayName": "Crepúsculo do Deserto [2]",
+        "aegisName": "twilight_desert",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "13035": {
+        "id": "13035",
+        "name": "Tempestade de Areia",
+        "displayName": "Tempestade de Areia [4]",
+        "aegisName": "sandstorm",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 4,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "13036": {
+        "id": "13036",
+        "name": "Damascus Mercenária A",
+        "displayName": "Damascus Mercenária A",
+        "aegisName": "bf_dagger1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13037": {
+        "id": "13037",
+        "name": "Damascus Mercenária B",
+        "displayName": "Damascus Mercenária B",
+        "aegisName": "bf_dagger2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13038": {
+        "id": "13038",
+        "name": "Adaga do Perseguidor",
+        "displayName": "Adaga do Perseguidor [3]",
+        "aegisName": "dagger_of_hunter",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Rogue": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "13039": {
+        "id": "13039",
+        "name": "Adaga de Marfim",
+        "displayName": "Adaga de Marfim [2]",
+        "aegisName": "ivory_knife",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "13040": {
+        "id": "13040",
+        "name": "Punhal de Iniciante",
+        "displayName": "Punhal de Iniciante [3]",
+        "aegisName": "n_cutter",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 50,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            }
+        }
+    },
+    "13041": {
+        "id": "13041",
+        "name": "Main Gauche de Iniciante",
+        "displayName": "Main Gauche de Iniciante [3]",
+        "aegisName": "n_main_gauche",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 63,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            }
+        }
+    },
+    "13042": {
+        "id": "13042",
+        "name": "Gladius Glorioso",
+        "displayName": "Gladius Glorioso",
+        "aegisName": "krieger_dagger1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13046": {
+        "id": "13046",
+        "name": "Krieg",
+        "displayName": "Krieg [3]",
+        "aegisName": "krieg",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Thief": true,
+                "Assassin": true,
+                "Rogue": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "13047": {
+        "id": "13047",
+        "name": "Weihna",
+        "displayName": "Weihna [2]",
+        "aegisName": "weihna",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 135,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Thief": true,
+                "Assassin": true,
+                "Rogue": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "13050": {
+        "id": "13050",
+        "name": "Adaga Valhalla Iniciante",
+        "displayName": "Adaga Valhalla Iniciante",
+        "aegisName": "p_dagger1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 124,
+            "matk": 60,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 26
+            }
+        }
+    },
+    "13051": {
+        "id": "13051",
+        "name": "Adaga Valhalla Intermediária",
+        "displayName": "Adaga Valhalla Intermediária",
+        "aegisName": "p_dagger2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 158,
+            "matk": 70,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "13061": {
+        "id": "13061",
+        "name": "Adaga Negra",
+        "displayName": "Adaga Negra [1]",
+        "aegisName": "black_wing",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 142,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Rogue": true
+            },
+            "level": {
+                "min": 102
+            }
+        }
+    },
+    "13062": {
+        "id": "13062",
+        "name": "Adaga Ritualística",
+        "displayName": "Adaga Ritualística",
+        "aegisName": "ancient_dagger",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 107,
+            "matk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "13066": {
+        "id": "13066",
+        "name": "Adaga III do Grupo Éden",
+        "displayName": "Adaga III do Grupo Éden",
+        "aegisName": "p_dagger3",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 165,
+            "matk": 80,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "13067": {
+        "id": "13067",
+        "name": "Afago",
+        "displayName": "Afago [1]",
+        "aegisName": "caress",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 107,
+            "matk": 70,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "13068": {
+        "id": "13068",
+        "name": "Manjuba",
+        "displayName": "Manjuba",
+        "aegisName": "saurel",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 160,
+            "matk": 100,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "13069": {
+        "id": "13069",
+        "name": "Garra Celeste",
+        "displayName": "Garra Celeste",
+        "aegisName": "aztoe_nail",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 160,
+            "matk": 80,
+            "refinable": true
+        },
+        "price": 56000,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 110
+            }
+        }
+    },
+    "13070": {
+        "id": "13070",
+        "name": "Garra Escarlate",
+        "displayName": "Garra Escarlate",
+        "aegisName": "scarletto_nail",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 160,
+            "matk": 80,
+            "refinable": true
+        },
+        "price": 56000,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 110
+            }
+        }
+    },
+    "13071": {
+        "id": "13071",
+        "name": "Adaga Aprimorada",
+        "displayName": "Adaga Aprimorada [1]",
+        "aegisName": "upg_dagger",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 55,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            }
+        }
+    },
+    "13072": {
+        "id": "13072",
+        "name": "Damascus de Vellum",
+        "displayName": "Damascus de Vellum",
+        "aegisName": "velum_damascus",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 180,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "13073": {
+        "id": "13073",
+        "name": "Adaga Certeira",
+        "displayName": "Adaga Certeira [1]",
+        "aegisName": "counter_dagger_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 120000,
+        "weight": 55,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "13074": {
+        "id": "13074",
+        "name": "Adaga Ninja",
+        "displayName": "Adaga Ninja",
+        "aegisName": "ninja_cutter",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "13075": {
+        "id": "13075",
+        "name": "Kurenai",
+        "displayName": "Kurenai",
+        "aegisName": "kurenai",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        },
+        "price": 5000,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "13076": {
+        "id": "13076",
+        "name": "Adaga Raksasa",
+        "displayName": "Adaga Raksasa [1]",
+        "aegisName": "raksasa_dagger",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 120,
+            "matk": 100,
+            "refinable": true
+        },
+        "price": 40000,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 110
+            }
+        }
+    },
+    "13077": {
+        "id": "13077",
+        "name": "Kagekiri",
+        "displayName": "Kagekiri",
+        "aegisName": "kagekiri",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 50,
+            "matk": 120,
+            "refinable": true
+        },
+        "price": 40000,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "13078": {
+        "id": "13078",
+        "name": "Mikatsuki",
+        "displayName": "Mikatsuki [1]",
+        "aegisName": "mikatsuki",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 50,
+            "matk": 120,
+            "refinable": true
+        },
+        "price": 40000,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "13080": {
+        "id": "13080",
+        "name": "Maré Cortante",
+        "displayName": "Maré Cortante",
+        "aegisName": "rogue_kinfe",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 20
+    },
+    "13081": {
+        "id": "13081",
+        "name": "Faca de Frutos do Mar",
+        "displayName": "Faca de Frutos do Mar [3]",
+        "aegisName": "octo_kitchen_knife",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 200000,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 105
+            }
+        }
+    },
+    "13083": {
+        "id": "13083",
+        "name": "Adaga TE",
+        "displayName": "Adaga TE",
+        "aegisName": "te_woe_knife",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 100,
+            "matk": 100,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Gangsi": true,
+                "Death_Knight": true,
+                "Dark_Collector": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "13084": {
+        "id": "13084",
+        "name": "Lâmina da Erosão",
+        "displayName": "Lâmina da Erosão",
+        "aegisName": "eihwaz_knife",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 20
+    },
+    "13086": {
+        "id": "13086",
+        "name": "Adaga Folheada a Ouro",
+        "displayName": "Adaga Folheada a Ouro",
+        "aegisName": "goldsmithing_dagger",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 35,
+            "matk": 25,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Merchant": true,
+                "Thief": true,
+                "Soul_Linker": true,
+                "Ninja": true
+            }
+        }
+    },
+    "13089": {
+        "id": "13089",
+        "name": "Perna de Verme com Rosto",
+        "displayName": "Perna de Verme com Rosto [1]",
+        "aegisName": "faceworm_leg",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 50
+    },
+    "13090": {
+        "id": "13090",
+        "name": "Perna da Rainha Verme",
+        "displayName": "Perna da Rainha Verme [2]",
+        "aegisName": "facewormqueen_leg",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 180,
+            "matk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "13092": {
+        "id": "13092",
+        "name": "Adaga Memorável do RWC",
+        "displayName": "Adaga Memorável do RWC [1]",
+        "aegisName": "rwc_memory_knife",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 1000,
+        "weight": 65,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Novice": true,
+                "Magician": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Soul_Linker": true,
+                "Ninja": true
+            }
+        }
+    },
+    "13093": {
+        "id": "13093",
+        "name": "Adaga de Cinzas",
+        "displayName": "Adaga de Cinzas [1]",
+        "aegisName": "thanos_dagger",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 100,
+            "matk": 130,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "13094": {
+        "id": "13094",
+        "name": "Punhal Esconjurante",
+        "displayName": "Punhal Esconjurante [1]",
+        "aegisName": "dagger_of_evil_slayer",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true,
+                "Magician": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Soul_Linker": true,
+                "Ninja": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "28705": {
+        "id": "28705",
+        "name": "Adaga Rubi",
+        "displayName": "Adaga Rubi [2]",
+        "aegisName": "scarlet_dagger",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 55,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 55,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "28706": {
+        "id": 28706,
+        "name": "Adaga Sobrenatural",
+        "displayName": "Adaga Sobrenatural [1]",
+        "aegisName": "dagger_of_vicious_mind",
+        "equipData": {
+            "slots": 1,
+            "class": "DAGGER",
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 105,
+            "matk": 50,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 20,
+        "weight": 105,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Soul_Linker": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 160
+            }
+        }
+    },
+    "28728": {
+        "id": "28728",
+        "name": "Adaga das Valquírias",
+        "displayName": "Adaga das Valquírias [2]",
+        "aegisName": "valkyrie_knife_br",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "refinable": true
+        }
+    },
+    "28737": {
+        "id": "28737",
+        "name": "Adaga Mística",
+        "displayName": "Adaga Mística [3]",
+        "aegisName": "mist_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 120,
+            "refinable": true
+        },
+        "weight": 60
+    },
+    "28739": {
+        "id": "28739",
+        "name": "Lacma",
+        "displayName": "Lacma [1]",
+        "aegisName": "lacma_br",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "refinable": true
+        }
+    },
+    "28744": {
+        "id": "28744",
+        "name": "Punhal Ancestral",
+        "displayName": "Punhal Ancestral [2]",
+        "aegisName": "magic_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 150,
+            "refinable": true
+        },
+        "weight": 80
+    },
+    "28763": {
+        "id": "28763",
+        "name": "Kodachi Ancestral",
+        "displayName": "Kodachi Ancestral [2]",
+        "aegisName": "sharp_wind_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 150,
+            "refinable": true
+        },
+        "weight": 100
+    },
+    "28764": {
+        "id": "28764",
+        "name": "Wakizashi Ancestral",
+        "displayName": "Wakizashi Ancestral [2]",
+        "aegisName": "fog_dew_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 150,
+            "refinable": true
+        },
+        "weight": 100
+    }
+}

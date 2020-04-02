@@ -1,0 +1,2640 @@
+{
+    "1101": {
+        "id": "1101",
+        "name": "Espada",
+        "displayName": "Espada [3]",
+        "aegisName": "sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 25,
+            "refinable": true
+        },
+        "price": 100,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 2
+            }
+        }
+    },
+    "1102": {
+        "id": "1102",
+        "name": "Espada",
+        "displayName": "Espada [4]",
+        "aegisName": "sword_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 4,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 25,
+            "refinable": true
+        },
+        "price": 100,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 2
+            }
+        }
+    },
+    "1103": {
+        "id": "1103",
+        "name": "Espada",
+        "displayName": "Espada",
+        "aegisName": "sword__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 25,
+            "refinable": true
+        },
+        "price": 100,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 2
+            }
+        }
+    },
+    "1104": {
+        "id": "1104",
+        "name": "Alfanje",
+        "displayName": "Alfanje [3]",
+        "aegisName": "falchion",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 39,
+            "refinable": true
+        },
+        "price": 1500,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 2
+            }
+        }
+    },
+    "1105": {
+        "id": "1105",
+        "name": "Alfanje",
+        "displayName": "Alfanje [4]",
+        "aegisName": "falchion_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 4,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 39,
+            "refinable": true
+        },
+        "price": 1500,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 2
+            }
+        }
+    },
+    "1106": {
+        "id": "1106",
+        "name": "Alfanje",
+        "displayName": "Alfanje",
+        "aegisName": "falchion__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 39,
+            "refinable": true
+        },
+        "price": 1500,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 2
+            }
+        }
+    },
+    "1107": {
+        "id": "1107",
+        "name": "Lâmina",
+        "displayName": "Lâmina [3]",
+        "aegisName": "blade",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 53,
+            "refinable": true
+        },
+        "price": 2900,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 2
+            }
+        }
+    },
+    "1108": {
+        "id": "1108",
+        "name": "Lâmina",
+        "displayName": "Lâmina [4]",
+        "aegisName": "blade_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 4,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 53,
+            "refinable": true
+        },
+        "price": 2900,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 2
+            }
+        }
+    },
+    "1109": {
+        "id": "1109",
+        "name": "Lâmina",
+        "displayName": "Lâmina",
+        "aegisName": "blade__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 53,
+            "refinable": true
+        },
+        "price": 2900,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 2
+            }
+        }
+    },
+    "1110": {
+        "id": "1110",
+        "name": "Florete",
+        "displayName": "Florete [2]",
+        "aegisName": "lapier",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 70,
+            "refinable": true
+        },
+        "price": 10000,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 14
+            }
+        }
+    },
+    "1111": {
+        "id": "1111",
+        "name": "Florete",
+        "displayName": "Florete [3]",
+        "aegisName": "lapier_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 70,
+            "refinable": true
+        },
+        "price": 10000,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 14
+            }
+        }
+    },
+    "1112": {
+        "id": "1112",
+        "name": "Florete",
+        "displayName": "Florete",
+        "aegisName": "lapier__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 70,
+            "refinable": true
+        },
+        "price": 10000,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 14
+            }
+        }
+    },
+    "1113": {
+        "id": "1113",
+        "name": "Cimitarra",
+        "displayName": "Cimitarra [2]",
+        "aegisName": "scimiter",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 85,
+            "refinable": true
+        },
+        "price": 17000,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 14
+            }
+        }
+    },
+    "1114": {
+        "id": 1114,
+        "name": "Cimitarra",
+        "displayName": "Cimitarra [3]",
+        "aegisName": "scimiter_",
+        "price": 17000,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 14
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 85,
+            "refinable": true
+        }
+    },
+    "1115": {
+        "id": 1115,
+        "name": "Cimitarra",
+        "displayName": "Cimitarra [3]",
+        "aegisName": "scimiter__",
+        "price": 17000,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 14
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 85,
+            "refinable": true
+        }
+    },
+    "1119": {
+        "id": "1119",
+        "name": "Tsurugi",
+        "displayName": "Tsurugi [1]",
+        "aegisName": "tsurugi",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        },
+        "price": 51000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1120": {
+        "id": "1120",
+        "name": "Tsurugi",
+        "displayName": "Tsurugi [2]",
+        "aegisName": "tsurugi_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        },
+        "price": 51000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1121": {
+        "id": "1121",
+        "name": "Tsurugi",
+        "displayName": "Tsurugi",
+        "aegisName": "tsurugi__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        },
+        "price": 51000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1122": {
+        "id": "1122",
+        "name": "Sabre de Impacto",
+        "displayName": "Sabre de Impacto [2]",
+        "aegisName": "ring_pommel_saber",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 24000,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 14
+            }
+        }
+    },
+    "1123": {
+        "id": "1123",
+        "name": "Haedonggum",
+        "displayName": "Haedonggum [1]",
+        "aegisName": "haedonggum",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 50000,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1124": {
+        "id": "1124",
+        "name": "Espada Orc",
+        "displayName": "Espada Orc",
+        "aegisName": "orcish_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 5
+            }
+        }
+    },
+    "1125": {
+        "id": "1125",
+        "name": "Sabre de Impacto",
+        "displayName": "Sabre de Impacto [3]",
+        "aegisName": "ring_pommel_saber_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 24000,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 14
+            }
+        }
+    },
+    "1126": {
+        "id": "1126",
+        "name": "Sabre",
+        "displayName": "Sabre [2]",
+        "aegisName": "saber",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 115,
+            "refinable": true
+        },
+        "price": 49000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1127": {
+        "id": "1127",
+        "name": "Sabre",
+        "displayName": "Sabre [3]",
+        "aegisName": "saber_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 115,
+            "refinable": true
+        },
+        "price": 49000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1128": {
+        "id": "1128",
+        "name": "Haedonggum",
+        "displayName": "Haedonggum [2]",
+        "aegisName": "hae_dong_gum_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 50000,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1129": {
+        "id": "1129",
+        "name": "Flamberge",
+        "displayName": "Flamberge",
+        "aegisName": "flamberge",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 60000,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1130": {
+        "id": "1130",
+        "name": "Nagan",
+        "displayName": "Nagan",
+        "aegisName": "nagan",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1131": {
+        "id": "1131",
+        "name": "Alfanje de Gelo",
+        "displayName": "Alfanje de Gelo",
+        "aegisName": "ice_falchon",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1132": {
+        "id": "1132",
+        "name": "Lâmina Turca",
+        "displayName": "Lâmina Turca",
+        "aegisName": "edge",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 115,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1133": {
+        "id": "1133",
+        "name": "Língua de Fogo",
+        "displayName": "Língua de Fogo",
+        "aegisName": "fire_brand",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1134": {
+        "id": "1134",
+        "name": "Espada de César",
+        "displayName": "Espada de César",
+        "aegisName": "scissores_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1135": {
+        "id": "1135",
+        "name": "Cutelo",
+        "displayName": "Cutelo",
+        "aegisName": "cutlas",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1136": {
+        "id": "1136",
+        "name": "Espada Solar",
+        "displayName": "Espada Solar",
+        "aegisName": "solar_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 85,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1137": {
+        "id": "1137",
+        "name": "Excalibur",
+        "displayName": "Excalibur",
+        "aegisName": "excalibur",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1138": {
+        "id": "1138",
+        "name": "Mysteltain",
+        "displayName": "Mysteltain",
+        "aegisName": "mysteltainn_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 170,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1139": {
+        "id": "1139",
+        "name": "Talefing",
+        "displayName": "Talefing",
+        "aegisName": "tale_fing_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 200,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1140": {
+        "id": "1140",
+        "name": "Byeollungum",
+        "displayName": "Byeollungum",
+        "aegisName": "byeorrun_gum",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1141": {
+        "id": "1141",
+        "name": "Espada Imaterial",
+        "displayName": "Espada Imaterial",
+        "aegisName": "immaterial_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1142": {
+        "id": "1142",
+        "name": "Espada Adornada",
+        "displayName": "Espada Adornada",
+        "aegisName": "jewel_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 104,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 220,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 68
+            }
+        }
+    },
+    "1143": {
+        "id": "1143",
+        "name": "Espada de Gaia",
+        "displayName": "Espada de Gaia",
+        "aegisName": "gaia_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 74
+            }
+        }
+    },
+    "1144": {
+        "id": "1144",
+        "name": "Sashimi",
+        "displayName": "Sashimi",
+        "aegisName": "sasimi",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 75,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 140,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1145": {
+        "id": "1145",
+        "name": "Vingadora Sagrada",
+        "displayName": "Vingadora Sagrada",
+        "aegisName": "holy_avenger",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 125,
+            "refinable": true
+        },
+        "price": 450000,
+        "weight": 135,
+        "restrictions": {
+            "job": {
+                "Crusader": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "1146": {
+        "id": "1146",
+        "name": "Espada Citadina",
+        "displayName": "Espada Citadina [1]",
+        "aegisName": "town_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 42000,
+        "weight": 80,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1147": {
+        "id": "1147",
+        "name": "Espada Citadina",
+        "displayName": "Espada Citadina [2]",
+        "aegisName": "town_sword_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 42000,
+        "weight": 80,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1148": {
+        "id": "1148",
+        "name": "Lâmina de Poeira Estelar",
+        "displayName": "Lâmina de Poeira Estelar [1]",
+        "aegisName": "star_dust_blade",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 45
+            }
+        }
+    },
+    "1149": {
+        "id": "1149",
+        "name": "Flamberge",
+        "displayName": "Flamberge [2]",
+        "aegisName": "flamberge_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 60000,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "13400": {
+        "id": "13400",
+        "name": "Cutelo",
+        "displayName": "Cutelo [1]",
+        "aegisName": "cutlas_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "13401": {
+        "id": "13401",
+        "name": "Excalibur [A]",
+        "displayName": "Excalibur [A]",
+        "aegisName": "excalibur_c",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 199,
+            "refinable": false
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            }
+        }
+    },
+    "13404": {
+        "id": "13404",
+        "name": "Foice de Platina",
+        "displayName": "Foice de Platina [1]",
+        "aegisName": "platinum_shotel",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "13405": {
+        "id": "13405",
+        "name": "Espada Curva",
+        "displayName": "Espada Curva [2]",
+        "aegisName": "curved_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 125,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "13407": {
+        "id": "13407",
+        "name": "Nagan [A]",
+        "displayName": "Nagan [A]",
+        "aegisName": "nagan_c",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 148,
+            "refinable": false
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            }
+        }
+    },
+    "13410": {
+        "id": "13410",
+        "name": "Lâmina Gladiadora A",
+        "displayName": "Lâmina Gladiadora A",
+        "aegisName": "bf_sword1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 115,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13411": {
+        "id": "13411",
+        "name": "Lâmina Gladiadora B",
+        "displayName": "Lâmina Gladiadora B",
+        "aegisName": "bf_sword2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 115,
+            "matk": 74,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13412": {
+        "id": 13412,
+        "name": "Lâmina Gêmea Azul",
+        "displayName": "Lâmina Gêmea Azul [3]",
+        "aegisName": "twin_edge_b",
+        "equipData": {
+            "slots": 3,
+            "class": "1HSWORD",
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 150,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "13413": {
+        "id": "13413",
+        "name": "Lâmina Gêmea Vermelha",
+        "displayName": "Lâmina Gêmea Vermelha [3]",
+        "aegisName": "twin_edge_r",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 160,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "13414": {
+        "id": "13414",
+        "name": "Espada Elemental",
+        "displayName": "Espada Elemental [3]",
+        "aegisName": "elemental_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 105,
+            "matk": 95,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 120,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "13415": {
+        "id": "13415",
+        "name": "Alfanje de Iniciante",
+        "displayName": "Alfanje de Iniciante [3]",
+        "aegisName": "n_falchion",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 59,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 2
+            }
+        }
+    },
+    "13416": {
+        "id": "13416",
+        "name": "Flamberge Gloriosa",
+        "displayName": "Flamberge Gloriosa",
+        "aegisName": "krieger_onehand_sword1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13417": {
+        "id": "13417",
+        "name": "Florete Glorioso",
+        "displayName": "Florete Glorioso",
+        "aegisName": "krieger_onehand_sword2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 130,
+            "matk": 80,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13418": {
+        "id": "13418",
+        "name": "Vingadora Sagrada Gloriosa",
+        "displayName": "Vingadora Sagrada Gloriosa",
+        "aegisName": "krieger_onehand_sword3",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 130,
+            "matk": 80,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13420": {
+        "id": "13420",
+        "name": "Espada de Honglyun",
+        "displayName": "Espada de Honglyun [1]",
+        "aegisName": "honglyuns_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 160,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "13421": {
+        "id": "13421",
+        "name": "Roubel",
+        "displayName": "Roubel [1]",
+        "aegisName": "ruber",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 170,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "13423": {
+        "id": "13423",
+        "name": "Sabre Valhalla Iniciante",
+        "displayName": "Sabre Valhalla Iniciante",
+        "aegisName": "p_sabre1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 147,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 26
+            }
+        }
+    },
+    "13424": {
+        "id": "13424",
+        "name": "Sabre Valhalla Intermediário",
+        "displayName": "Sabre Valhalla Intermediário",
+        "aegisName": "p_sabre2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 170,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "13431": {
+        "id": "13431",
+        "name": "Espada Cromada",
+        "displayName": "Espada Cromada",
+        "aegisName": "chrome_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 180,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 220,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 110
+            }
+        }
+    },
+    "13434": {
+        "id": "13434",
+        "name": "Sabre III do Grupo Éden",
+        "displayName": "Sabre III do Grupo Éden",
+        "aegisName": "p_saber3",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 185,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "13437": {
+        "id": 13437,
+        "name": "Espada Orc",
+        "displayName": "Espada Orc [4]",
+        "aegisName": null,
+        "equipData": {
+            "slots": 4,
+            "class": "1HSWORD",
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 80,
+        "restrictions": {
+            "level": {
+                "min": 5
+            }
+        },
+        "type": "WEAPON"
+    },
+    "13438": {
+        "id": "13438",
+        "name": "Espada Lunar",
+        "displayName": "Espada Lunar [2]",
+        "aegisName": "magical_blade",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 165,
+            "matk": 110,
+            "refinable": true
+        },
+        "price": 60000,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 105
+            }
+        }
+    },
+    "13439": {
+        "id": "13439",
+        "name": "Espada TE",
+        "displayName": "Espada TE",
+        "aegisName": "te_woe_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 120,
+            "matk": 100,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "13440": {
+        "id": "13440",
+        "name": "Espada Cerimonial",
+        "displayName": "Espada Cerimonial",
+        "aegisName": "ceremonial_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "atk": 60,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            }
+        }
+    },
+    "13441": {
+        "id": "13441",
+        "name": "Espada de Cinzas",
+        "displayName": "Espada de Cinzas [1]",
+        "aegisName": "thanos_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 150,
+            "matk": 100,
+            "refinable": true
+        },
+        "price": 10,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "13442": {
+        "id": "13442",
+        "name": "Guarda-Chuva Antiquado",
+        "displayName": "Guarda-Chuva Antiquado [3]",
+        "aegisName": "old_parasol",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "atk": 120,
+            "matk": 80,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13447": {
+        "id": 13447,
+        "name": "Byeollungum",
+        "displayName": "Byeollungum [2]",
+        "aegisName": null,
+        "equipData": {
+            "slots": 2,
+            "class": "1HSWORD",
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 90,
+        "restrictions": {
+            "level": {
+                "min": 40
+            }
+        },
+        "type": "WEAPON"
+    },
+    "13449": {
+        "id": "13449",
+        "name": "Espada Demoníaca",
+        "displayName": "Espada Demoníaca [2]",
+        "aegisName": "gladius_daemonicus",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "refinable": true
+        },
+        "price": 20
+    },
+    "13454": {
+        "id": "13454",
+        "name": "Sabre Rubi",
+        "displayName": "Sabre Rubi [2]",
+        "aegisName": "scarlet_saber",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 85,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 85,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "13455": {
+        "id": 13455,
+        "name": "Sabre Sobrenatural",
+        "displayName": "Sabre Sobrenatural [1]",
+        "aegisName": "saber_of_vicious_mind",
+        "equipData": {
+            "slots": 1,
+            "class": "1HSWORD",
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 135,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 20,
+        "weight": 135,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 160
+            }
+        }
+    },
+    "13463": {
+        "id": 13463,
+        "name": "Excalibur",
+        "displayName": "Excalibur [3]",
+        "aegisName": null,
+        "equipData": {
+            "slots": 3,
+            "class": "1HSWORD",
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 150,
+            "refinable": true
+        },
+        "weight": 120,
+        "restrictions": {
+            "level": {
+                "min": 40
+            }
+        },
+        "type": "WEAPON"
+    },
+    "13464": {
+        "id": "13464",
+        "name": "Garra Mágica de Brinquedo",
+        "displayName": "Garra Mágica de Brinquedo [3]",
+        "aegisName": "magical_hand",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 100,
+            "refinable": true
+        },
+        "weight": 60
+    },
+    "13465": {
+        "id": "13465",
+        "name": "Gládio da Nobreza",
+        "displayName": "Gládio da Nobreza [3]",
+        "aegisName": "save_the_king",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 170,
+            "refinable": true
+        },
+        "weight": 60
+    },
+    "13499": {
+        "id": "13499",
+        "name": "Kladenets",
+        "displayName": "Kladenets [1]",
+        "aegisName": "sword_kladenets",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "refinable": true
+        },
+        "weight": 150
+    }
+}

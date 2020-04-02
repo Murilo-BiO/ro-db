@@ -1,0 +1,2855 @@
+{
+    "4700": {
+        "id": "4700",
+        "name": "FOR +1",
+        "displayName": "FOR +1",
+        "aegisName": "strength1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(FOR+1) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4701": {
+        "id": "4701",
+        "name": "FOR +2",
+        "displayName": "FOR +2",
+        "aegisName": "strength2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(FOR+2) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4702": {
+        "id": "4702",
+        "name": "FOR +3",
+        "displayName": "FOR +3",
+        "aegisName": "strength3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(FOR+3) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4703": {
+        "id": "4703",
+        "name": "FOR +4",
+        "displayName": "FOR +4",
+        "aegisName": "strength4",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(FOR+4) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4704": {
+        "id": "4704",
+        "name": "FOR +5",
+        "displayName": "FOR +5",
+        "aegisName": "strength5",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(FOR+5) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4705": {
+        "id": "4705",
+        "name": "FOR +6",
+        "displayName": "FOR +6",
+        "aegisName": "strength6",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(FOR+6) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4706": {
+        "id": "4706",
+        "name": "FOR +7",
+        "displayName": "FOR +7",
+        "aegisName": "strength7",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(FOR+7) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4707": {
+        "id": "4707",
+        "name": "FOR +8",
+        "displayName": "FOR +8",
+        "aegisName": "strength8",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(FOR+8) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4708": {
+        "id": "4708",
+        "name": "FOR +9",
+        "displayName": "FOR +9",
+        "aegisName": "strength9",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(FOR+9) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4709": {
+        "id": "4709",
+        "name": "FOR +10",
+        "displayName": "FOR +10",
+        "aegisName": "strength10",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(FOR+10) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4710": {
+        "id": "4710",
+        "name": "INT +1",
+        "displayName": "INT +1",
+        "aegisName": "inteligence1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(INT+1) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4711": {
+        "id": "4711",
+        "name": "INT +2",
+        "displayName": "INT +2",
+        "aegisName": "inteligence2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(INT+2) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4712": {
+        "id": "4712",
+        "name": "INT +3",
+        "displayName": "INT +3",
+        "aegisName": "inteligence3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(INT+3) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4713": {
+        "id": "4713",
+        "name": "INT +4",
+        "displayName": "INT +4",
+        "aegisName": "inteligence4",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(INT+4) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4714": {
+        "id": "4714",
+        "name": "INT +5",
+        "displayName": "INT +5",
+        "aegisName": "inteligence5",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(INT+5) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4715": {
+        "id": "4715",
+        "name": "INT +6",
+        "displayName": "INT +6",
+        "aegisName": "inteligence6",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(INT+6) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4716": {
+        "id": "4716",
+        "name": "INT +7",
+        "displayName": "INT +7",
+        "aegisName": "inteligence7",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(INT+7) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4717": {
+        "id": "4717",
+        "name": "INT +8",
+        "displayName": "INT +8",
+        "aegisName": "inteligence8",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(INT+8) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4718": {
+        "id": "4718",
+        "name": "INT +9",
+        "displayName": "INT +9",
+        "aegisName": "inteligence9",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(INT+9) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4719": {
+        "id": "4719",
+        "name": "INT +10",
+        "displayName": "INT +10",
+        "aegisName": "inteligence10",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(INT+10) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4720": {
+        "id": "4720",
+        "name": "DES +1",
+        "displayName": "DES +1",
+        "aegisName": "dexterity1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(DES+1) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4721": {
+        "id": "4721",
+        "name": "DES +2",
+        "displayName": "DES +2",
+        "aegisName": "dexterity2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(DES+2) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4722": {
+        "id": "4722",
+        "name": "DES +3",
+        "displayName": "DES +3",
+        "aegisName": "dexterity3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(DES+3) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4723": {
+        "id": "4723",
+        "name": "DES +4",
+        "displayName": "DES +4",
+        "aegisName": "dexterity4",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(DES+4) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4724": {
+        "id": "4724",
+        "name": "DES +5",
+        "displayName": "DES +5",
+        "aegisName": "dexterity5",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(DES+5) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4725": {
+        "id": "4725",
+        "name": "DES +6",
+        "displayName": "DES +6",
+        "aegisName": "dexterity6",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(DES+6) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4726": {
+        "id": "4726",
+        "name": "DES +7",
+        "displayName": "DES +7",
+        "aegisName": "dexterity7",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(DES+7) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4727": {
+        "id": "4727",
+        "name": "DES +8",
+        "displayName": "DES +8",
+        "aegisName": "dexterity8",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(DES+8) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4728": {
+        "id": "4728",
+        "name": "DES +9",
+        "displayName": "DES +9",
+        "aegisName": "dexterity9",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(DES+9) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4729": {
+        "id": "4729",
+        "name": "DES +10",
+        "displayName": "DES +10",
+        "aegisName": "dexterity10",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(DES+10) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4730": {
+        "id": "4730",
+        "name": "AGI +1",
+        "displayName": "AGI +1",
+        "aegisName": "agility1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(AGI+1) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4731": {
+        "id": "4731",
+        "name": "AGI +2",
+        "displayName": "AGI +2",
+        "aegisName": "agility2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(AGI+2) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4732": {
+        "id": "4732",
+        "name": "AGI +3",
+        "displayName": "AGI +3",
+        "aegisName": "agility3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(AGI+3) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4733": {
+        "id": "4733",
+        "name": "AGI +4",
+        "displayName": "AGI +4",
+        "aegisName": "agility4",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(AGI+4) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4734": {
+        "id": "4734",
+        "name": "AGI +5",
+        "displayName": "AGI +5",
+        "aegisName": "agility5",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(AGI+5) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4735": {
+        "id": "4735",
+        "name": "AGI +6",
+        "displayName": "AGI +6",
+        "aegisName": "agility6",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(AGI+6) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4736": {
+        "id": "4736",
+        "name": "AGI +7",
+        "displayName": "AGI +7",
+        "aegisName": "agility7",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(AGI+7) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4737": {
+        "id": "4737",
+        "name": "AGI +8",
+        "displayName": "AGI +8",
+        "aegisName": "agility8",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(AGI+8) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4738": {
+        "id": "4738",
+        "name": "AGI +9",
+        "displayName": "AGI +9",
+        "aegisName": "agility9",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(AGI+9) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4739": {
+        "id": "4739",
+        "name": "AGI +10",
+        "displayName": "AGI +10",
+        "aegisName": "agility10",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(AGI+10) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4740": {
+        "id": "4740",
+        "name": "VIT +1",
+        "displayName": "VIT +1",
+        "aegisName": "vitality1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(VIT+1) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4741": {
+        "id": "4741",
+        "name": "VIT +2",
+        "displayName": "VIT +2",
+        "aegisName": "vitality2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(VIT+2) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4742": {
+        "id": "4742",
+        "name": "VIT +3",
+        "displayName": "VIT +3",
+        "aegisName": "vitality3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(VIT+3) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4743": {
+        "id": "4743",
+        "name": "VIT +4",
+        "displayName": "VIT +4",
+        "aegisName": "vitality4",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(VIT+4) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4744": {
+        "id": "4744",
+        "name": "VIT +5",
+        "displayName": "VIT +5",
+        "aegisName": "vitality5",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(VIT+5) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4745": {
+        "id": "4745",
+        "name": "VIT +6",
+        "displayName": "VIT +6",
+        "aegisName": "vitality6",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(VIT+6) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4746": {
+        "id": "4746",
+        "name": "VIT +7",
+        "displayName": "VIT +7",
+        "aegisName": "vitality7",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(VIT+7) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4747": {
+        "id": "4747",
+        "name": "VIT +8",
+        "displayName": "VIT +8",
+        "aegisName": "vitality8",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(VIT+8) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4748": {
+        "id": "4748",
+        "name": "VIT +9",
+        "displayName": "VIT +9",
+        "aegisName": "vitality9",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(VIT+9) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4749": {
+        "id": "4749",
+        "name": "VIT +10",
+        "displayName": "VIT +10",
+        "aegisName": "vitality10",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(VIT+10) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4750": {
+        "id": "4750",
+        "name": "SOR +1",
+        "displayName": "SOR +1",
+        "aegisName": "luck1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(SOR+1) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4751": {
+        "id": "4751",
+        "name": "SOR +2",
+        "displayName": "SOR +2",
+        "aegisName": "luck2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(SOR+2) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4752": {
+        "id": "4752",
+        "name": "SOR +3",
+        "displayName": "SOR +3",
+        "aegisName": "luck3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(SOR+3) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4753": {
+        "id": "4753",
+        "name": "SOR +4",
+        "displayName": "SOR +4",
+        "aegisName": "luck4",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(SOR+4) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4754": {
+        "id": "4754",
+        "name": "SOR +5",
+        "displayName": "SOR +5",
+        "aegisName": "luck5",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(SOR+5) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4755": {
+        "id": "4755",
+        "name": "SOR +6",
+        "displayName": "SOR +6",
+        "aegisName": "luck6",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(SOR+6) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4756": {
+        "id": "4756",
+        "name": "SOR +7",
+        "displayName": "SOR +7",
+        "aegisName": "luck7",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(SOR+7) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4757": {
+        "id": "4757",
+        "name": "SOR +8",
+        "displayName": "SOR +8",
+        "aegisName": "luck8",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(SOR+8) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4758": {
+        "id": "4758",
+        "name": "SOR +9",
+        "displayName": "SOR +9",
+        "aegisName": "luck9",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(SOR+9) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4759": {
+        "id": "4759",
+        "name": "SOR +10",
+        "displayName": "SOR +10",
+        "aegisName": "luck10",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(SOR+10) "
+        },
+        "price": 20,
+        "weight": 1
+    },
+    "4760": {
+        "id": "4760",
+        "name": "ATQM +1%",
+        "displayName": "ATQM +1%",
+        "aegisName": "matk1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(ATQM+1%) "
+        },
+        "price": 0
+    },
+    "4761": {
+        "id": "4761",
+        "name": "ATQM +2%",
+        "displayName": "ATQM +2%",
+        "aegisName": "matk2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(ATQM+2%) "
+        },
+        "price": 0
+    },
+    "4762": {
+        "id": "4762",
+        "name": "Esquiva +6",
+        "displayName": "Esquiva +6",
+        "aegisName": "evasion6",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(ESQV+6) "
+        },
+        "price": 0
+    },
+    "4763": {
+        "id": "4763",
+        "name": "Esquiva +12",
+        "displayName": "Esquiva +12",
+        "aegisName": "evasion12",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(ESQV+12) "
+        },
+        "price": 0
+    },
+    "4764": {
+        "id": "4764",
+        "name": "CRI+5",
+        "displayName": "CRI+5",
+        "aegisName": "critical5",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(CRI+5) "
+        },
+        "price": 0
+    },
+    "4765": {
+        "id": "4765",
+        "name": "CRI+7",
+        "displayName": "CRI+7",
+        "aegisName": "critical7",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(CRI+7) "
+        },
+        "price": 0
+    },
+    "4766": {
+        "id": "4766",
+        "name": "ATQ+2%",
+        "displayName": "ATQ+2%",
+        "aegisName": "atk2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(ATQ+2%) "
+        },
+        "price": 0
+    },
+    "4767": {
+        "id": "4767",
+        "name": "ATQ+3%",
+        "displayName": "ATQ+3%",
+        "aegisName": "atk3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(ATQ+3%) "
+        },
+        "price": 0
+    },
+    "4786": {
+        "id": "4786",
+        "name": "DEFM +2",
+        "displayName": "DEFM +2",
+        "aegisName": "mdef2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(DEFM+2) "
+        },
+        "price": 0
+    },
+    "4787": {
+        "id": "4787",
+        "name": "DEFM +4",
+        "displayName": "DEFM +4",
+        "aegisName": "mdef4",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(DEFM+4) "
+        },
+        "price": 0
+    },
+    "4788": {
+        "id": "4788",
+        "name": "DEFM +6",
+        "displayName": "DEFM +6",
+        "aegisName": "mdef6",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(DEFM+6) "
+        },
+        "price": 0
+    },
+    "4789": {
+        "id": "4789",
+        "name": "DEFM +8",
+        "displayName": "DEFM +8",
+        "aegisName": "mdef8",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(DEFM+8) "
+        },
+        "price": 0
+    },
+    "4790": {
+        "id": "4790",
+        "name": "DEFM + 10",
+        "displayName": "DEFM + 10",
+        "aegisName": "mdef10",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(DEFM+10) "
+        },
+        "price": 0
+    },
+    "4791": {
+        "id": "4791",
+        "name": "DEF +3",
+        "displayName": "DEF +3",
+        "aegisName": "def3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(DEF+3) "
+        },
+        "price": 0
+    },
+    "4792": {
+        "id": "4792",
+        "name": "DEF +6",
+        "displayName": "DEF +6",
+        "aegisName": "def6",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(DEF+6) "
+        },
+        "price": 0
+    },
+    "4793": {
+        "id": "4793",
+        "name": "DEF +9",
+        "displayName": "DEF +9",
+        "aegisName": "def9",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(DEF+9) "
+        },
+        "price": 0
+    },
+    "4794": {
+        "id": "4794",
+        "name": "DEF + 12",
+        "displayName": "DEF + 12",
+        "aegisName": "def12",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(DEF+12) "
+        },
+        "price": 0
+    },
+    "4795": {
+        "id": "4795",
+        "name": "HP + 100",
+        "displayName": "HP + 100",
+        "aegisName": "hp100",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(HP+100) "
+        },
+        "price": 0
+    },
+    "4796": {
+        "id": "4796",
+        "name": "HP + 200",
+        "displayName": "HP + 200",
+        "aegisName": "hp200",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(HP+200) "
+        },
+        "price": 0
+    },
+    "4797": {
+        "id": "4797",
+        "name": "HP + 300",
+        "displayName": "HP + 300",
+        "aegisName": "hp300",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(HP+300) "
+        },
+        "price": 0
+    },
+    "4798": {
+        "id": "4798",
+        "name": "HP + 400",
+        "displayName": "HP + 400",
+        "aegisName": "hp400",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(HP+400) "
+        },
+        "price": 0
+    },
+    "4799": {
+        "id": "4799",
+        "name": "HP + 500",
+        "displayName": "HP + 500",
+        "aegisName": "hp500",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(HP+500) "
+        },
+        "price": 0
+    },
+    "4800": {
+        "id": "4800",
+        "name": "SP +50",
+        "displayName": "SP +50",
+        "aegisName": "sp50",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(SP+50) "
+        },
+        "price": 0
+    },
+    "4801": {
+        "id": "4801",
+        "name": "SP +100",
+        "displayName": "SP +100",
+        "aegisName": "sp100",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(SP+100) "
+        },
+        "price": 0
+    },
+    "4802": {
+        "id": "4802",
+        "name": "SP + 150",
+        "displayName": "SP + 150",
+        "aegisName": "sp150",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(SP+150) "
+        },
+        "price": 0
+    },
+    "4803": {
+        "id": "4803",
+        "name": "Cura 1",
+        "displayName": "Cura 1",
+        "aegisName": "highness_heal_3sec",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(Cura 1) "
+        },
+        "price": 0
+    },
+    "4804": {
+        "id": "4804",
+        "name": "Catolicismo 1",
+        "displayName": "Catolicismo 1",
+        "aegisName": "coluceo_heal30",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(Catol 1) "
+        },
+        "price": 0
+    },
+    "4805": {
+        "id": "4805",
+        "name": "Arcebispo 1",
+        "displayName": "Arcebispo 1",
+        "aegisName": "heal_amount2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(AB 1) "
+        },
+        "price": 0
+    },
+    "4806": {
+        "id": "4806",
+        "name": "ATQM +3%",
+        "displayName": "ATQM +3%",
+        "aegisName": "matk3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(ATQM+3%) "
+        },
+        "price": 0
+    },
+    "4807": {
+        "id": "4807",
+        "name": "Vel. Ataque 1",
+        "displayName": "Vel. Ataque 1",
+        "aegisName": "atk_speed1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(V.Atq+1) "
+        },
+        "price": 0
+    },
+    "4808": {
+        "id": "4808",
+        "name": "Espírito do Lutador 4",
+        "displayName": "Espírito do Lutador 4",
+        "aegisName": "fighting_spirit4",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(EL 4) "
+        },
+        "price": 0
+    },
+    "4809": {
+        "id": "4809",
+        "name": "Espírito do Lutador 3",
+        "displayName": "Espírito do Lutador 3",
+        "aegisName": "fighting_spirit3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(EL 3) "
+        },
+        "price": 0
+    },
+    "4810": {
+        "id": "4810",
+        "name": "Espírito do Lutador 2",
+        "displayName": "Espírito do Lutador 2",
+        "aegisName": "fighting_spirit2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(EL 2) "
+        },
+        "price": 0
+    },
+    "4811": {
+        "id": "4811",
+        "name": "Espírito do Lutador 1",
+        "displayName": "Espírito do Lutador 1",
+        "aegisName": "fighting_spirit1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(EL 1) "
+        },
+        "price": 0
+    },
+    "4812": {
+        "id": "4812",
+        "name": "Pedra de Encantamento 4",
+        "displayName": "Pedra de Encantamento 4",
+        "aegisName": "spell4",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(PE 4) "
+        },
+        "price": 0
+    },
+    "4813": {
+        "id": "4813",
+        "name": "Pedra de Encantamento 3",
+        "displayName": "Pedra de Encantamento 3",
+        "aegisName": "spell3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(PE 3) "
+        },
+        "price": 0
+    },
+    "4814": {
+        "id": "4814",
+        "name": "Pedra de Encantamento 2",
+        "displayName": "Pedra de Encantamento 2",
+        "aegisName": "spell2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(PE 2) "
+        },
+        "price": 0
+    },
+    "4815": {
+        "id": "4815",
+        "name": "Pedra de Encantamento 1",
+        "displayName": "Pedra de Encantamento 1",
+        "aegisName": "spell1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(PE 1) "
+        },
+        "price": 0
+    },
+    "4816": {
+        "id": "4816",
+        "name": "Pedra de Crítico 3",
+        "displayName": "Pedra de Crítico 3",
+        "aegisName": "sharp3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(PC 3) "
+        },
+        "price": 0
+    },
+    "4817": {
+        "id": "4817",
+        "name": "Pedra de Crítico 2",
+        "displayName": "Pedra de Crítico 2",
+        "aegisName": "sharp2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(PC 2) "
+        },
+        "price": 0
+    },
+    "4818": {
+        "id": "4818",
+        "name": "Pedra de Crítico 1",
+        "displayName": "Pedra de Crítico 1",
+        "aegisName": "sharp1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(PC 1) "
+        },
+        "price": 0
+    },
+    "4819": {
+        "id": 4819,
+        "name": "ATQ +1%",
+        "displayName": "ATQ +1%",
+        "aegisName": "atk1",
+        "price": 0,
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(ATQ+1%) "
+        }
+    },
+    "4820": {
+        "id": "4820",
+        "name": "Espírito do Lutador 5",
+        "displayName": "Espírito do Lutador 5",
+        "aegisName": "fighting_spirit5",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(EL 5) "
+        },
+        "price": 0
+    },
+    "4821": {
+        "id": "4821",
+        "name": "Espírito do Lutador 6",
+        "displayName": "Espírito do Lutador 6",
+        "aegisName": "fighting_spirit6",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(EL 6) "
+        },
+        "price": 0
+    },
+    "4822": {
+        "id": "4822",
+        "name": "Espírito do Lutador 7",
+        "displayName": "Espírito do Lutador 7",
+        "aegisName": "fighting_spirit7",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(EL 7) "
+        },
+        "price": 0
+    },
+    "4823": {
+        "id": "4823",
+        "name": "Espírito do Lutador 8",
+        "displayName": "Espírito do Lutador 8",
+        "aegisName": "fighting_spirit8",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(EL 8) "
+        },
+        "price": 0
+    },
+    "4824": {
+        "id": "4824",
+        "name": "Espírito do Lutador 9",
+        "displayName": "Espírito do Lutador 9",
+        "aegisName": "fighting_spirit9",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(EL 9) "
+        },
+        "price": 0
+    },
+    "4825": {
+        "id": "4825",
+        "name": "Espírito do Lutador 10",
+        "displayName": "Espírito do Lutador 10",
+        "aegisName": "fighting_spirit10",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(EL 10) "
+        },
+        "price": 0
+    },
+    "4826": {
+        "id": "4826",
+        "name": "Pedra de Encantamento 5",
+        "displayName": "Pedra de Encantamento 5",
+        "aegisName": "spell5",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(PE 5) "
+        },
+        "price": 0
+    },
+    "4827": {
+        "id": "4827",
+        "name": "Pedra de Encantamento 6",
+        "displayName": "Pedra de Encantamento 6",
+        "aegisName": "spell6",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(PE 6) "
+        },
+        "price": 0
+    },
+    "4828": {
+        "id": "4828",
+        "name": "Pedra de Encantamento 7",
+        "displayName": "Pedra de Encantamento 7",
+        "aegisName": "spell7",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(PE 7) "
+        },
+        "price": 0
+    },
+    "4829": {
+        "id": "4829",
+        "name": "Pedra de Encantamento 8",
+        "displayName": "Pedra de Encantamento 8",
+        "aegisName": "spell8",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(PE 8) "
+        },
+        "price": 0
+    },
+    "4830": {
+        "id": "4830",
+        "name": "Pedra de Encantamento 9",
+        "displayName": "Pedra de Encantamento 9",
+        "aegisName": "spell9",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(PE 9) "
+        },
+        "price": 0
+    },
+    "4831": {
+        "id": "4831",
+        "name": "Pedra de Encantamento 10",
+        "displayName": "Pedra de Encantamento 10",
+        "aegisName": "spell10",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(PE 10) "
+        },
+        "price": 0
+    },
+    "4832": {
+        "id": "4832",
+        "name": "Pedra da Mira Apurada 1",
+        "displayName": "Pedra da Mira Apurada 1",
+        "aegisName": "expert_archer1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(MA 1) "
+        },
+        "price": 0
+    },
+    "4833": {
+        "id": "4833",
+        "name": "Pedra da Mira Apurada 2",
+        "displayName": "Pedra da Mira Apurada 2",
+        "aegisName": "expert_archer2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(MA 2) "
+        },
+        "price": 0
+    },
+    "4834": {
+        "id": "4834",
+        "name": "Pedra da Mira Apurada 3",
+        "displayName": "Pedra da Mira Apurada 3",
+        "aegisName": "expert_archer3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(MA 3) "
+        },
+        "price": 0
+    },
+    "4835": {
+        "id": "4835",
+        "name": "Pedra da Mira Apurada 4",
+        "displayName": "Pedra da Mira Apurada 4",
+        "aegisName": "expert_archer4",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(MA 4) "
+        },
+        "price": 0
+    },
+    "4836": {
+        "id": "4836",
+        "name": "Pedra da Mira Apurada 5",
+        "displayName": "Pedra da Mira Apurada 5",
+        "aegisName": "expert_archer5",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(MA 5) "
+        },
+        "price": 0
+    },
+    "4837": {
+        "id": "4837",
+        "name": "Pedra da Mira Apurada 6",
+        "displayName": "Pedra da Mira Apurada 6",
+        "aegisName": "expert_archer6",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(MA 6) "
+        },
+        "price": 0
+    },
+    "4838": {
+        "id": "4838",
+        "name": "Pedra da Mira Apurada 7",
+        "displayName": "Pedra da Mira Apurada 7",
+        "aegisName": "expert_archer7",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(MA 7) "
+        },
+        "price": 0
+    },
+    "4839": {
+        "id": "4839",
+        "name": "Pedra da Mira Apurada 8",
+        "displayName": "Pedra da Mira Apurada 8",
+        "aegisName": "expert_archer8",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(MA 8) "
+        },
+        "price": 0
+    },
+    "4840": {
+        "id": "4840",
+        "name": "Pedra da Mira Apurada 9",
+        "displayName": "Pedra da Mira Apurada 9",
+        "aegisName": "expert_archer9",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(MA 9) "
+        },
+        "price": 0
+    },
+    "4841": {
+        "id": "4841",
+        "name": "Pedra da Mira Apurada 10",
+        "displayName": "Pedra da Mira Apurada 10",
+        "aegisName": "expert_archer10",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(MA 10) "
+        },
+        "price": 0
+    },
+    "4842": {
+        "id": "4842",
+        "name": "Vel. Ataque 2",
+        "displayName": "Vel. Ataque 2",
+        "aegisName": "atk_speed2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(V.Atq+2) "
+        },
+        "price": 0
+    },
+    "4843": {
+        "id": "4843",
+        "name": "Pedra de Crítico 4",
+        "displayName": "Pedra de Crítico 4",
+        "aegisName": "sharp4",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(PC 4) "
+        },
+        "price": 0
+    },
+    "4844": {
+        "id": "4844",
+        "name": "Pedra de Crítico 5",
+        "displayName": "Pedra de Crítico 5",
+        "aegisName": "sharp5",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(PC 5) "
+        },
+        "price": 0
+    },
+    "4846": {
+        "id": "4846",
+        "name": "Pedra do Amor Completo",
+        "displayName": "Pedra do Amor Completo",
+        "aegisName": "2011valentin_angel",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        },
+        "price": 0
+    },
+    "4847": {
+        "id": "4847",
+        "name": "Pedra Enfeitiçada",
+        "displayName": "Pedra Enfeitiçada",
+        "aegisName": "2011valentin_devil",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        },
+        "price": 0
+    },
+    "4848": {
+        "id": "4848",
+        "name": "Redução Neutra1",
+        "displayName": "Redução Neutra1",
+        "aegisName": "immuned1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(RN5) "
+        },
+        "price": 0
+    },
+    "4849": {
+        "id": "4849",
+        "name": "Redução Humanoide 1",
+        "displayName": "Redução Humanoide 1",
+        "aegisName": "cranial1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(RH5) "
+        },
+        "price": 0
+    },
+    "4850": {
+        "id": "4850",
+        "name": "Arcebispo 2",
+        "displayName": "Arcebispo 2",
+        "aegisName": "heal_amount3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(AB 2) "
+        },
+        "price": 0
+    },
+    "4851": {
+        "id": "4851",
+        "name": "Arcebispo 3",
+        "displayName": "Arcebispo 3",
+        "aegisName": "heal_amount4",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(AB 3) "
+        },
+        "price": 0
+    },
+    "4852": {
+        "id": "4852",
+        "name": "Arcebispo 4",
+        "displayName": "Arcebispo 4",
+        "aegisName": "heal_amount5",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(AB 4) "
+        },
+        "price": 0
+    },
+    "4853": {
+        "id": "4853",
+        "name": "Super Força",
+        "displayName": "Super Força",
+        "aegisName": "s_str",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(S.FOR) "
+        },
+        "price": 0
+    },
+    "4854": {
+        "id": "4854",
+        "name": "Super Agilidade",
+        "displayName": "Super Agilidade",
+        "aegisName": "s_agi",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(S.AGI) "
+        },
+        "price": 0
+    },
+    "4855": {
+        "id": "4855",
+        "name": "Super Vitalidade",
+        "displayName": "Super Vitalidade",
+        "aegisName": "s_vital",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(S.VIT) "
+        },
+        "price": 0
+    },
+    "4856": {
+        "id": "4856",
+        "name": "Super Inteligência",
+        "displayName": "Super Inteligência",
+        "aegisName": "s_int",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(S.INT) "
+        },
+        "price": 0
+    },
+    "4857": {
+        "id": "4857",
+        "name": "Super Destreza",
+        "displayName": "Super Destreza",
+        "aegisName": "s_dex",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(S.DES) "
+        },
+        "price": 0
+    },
+    "4858": {
+        "id": "4858",
+        "name": "Super Sorte",
+        "displayName": "Super Sorte",
+        "aegisName": "s_luck",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(S.SOR) "
+        },
+        "price": 0
+    },
+    "4859": {
+        "id": "4859",
+        "name": "Esquiva +1",
+        "displayName": "Esquiva +1",
+        "aegisName": "evasion1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(ESQV+1) "
+        },
+        "price": 0
+    },
+    "4860": {
+        "id": "4860",
+        "name": "Esquiva +3",
+        "displayName": "Esquiva +3",
+        "aegisName": "evasion3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(ESQV+3) "
+        },
+        "price": 0
+    },
+    "4861": {
+        "id": "4861",
+        "name": "HP +1%",
+        "displayName": "HP +1%",
+        "aegisName": "mhp1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(HP+1%) "
+        },
+        "price": 0
+    },
+    "4862": {
+        "id": "4862",
+        "name": "HP +2%",
+        "displayName": "HP +2%",
+        "aegisName": "mhp2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(HP+2%) "
+        },
+        "price": 0
+    },
+    "4863": {
+        "id": "4863",
+        "name": "Fatal 1",
+        "displayName": "Fatal 1",
+        "aegisName": "fatal1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(F 1) "
+        },
+        "price": 0
+    },
+    "4864": {
+        "id": "4864",
+        "name": "Fatal 2",
+        "displayName": "Fatal 2",
+        "aegisName": "fatal2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(F 2) "
+        },
+        "price": 0
+    },
+    "4865": {
+        "id": "4865",
+        "name": "Fatal 3",
+        "displayName": "Fatal 3",
+        "aegisName": "fatal3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(F 3) "
+        },
+        "price": 0
+    },
+    "4866": {
+        "id": "4866",
+        "name": "Fatal 4",
+        "displayName": "Fatal 4",
+        "aegisName": "fatal4",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(F 4) "
+        },
+        "price": 0
+    },
+    "4867": {
+        "id": "4867",
+        "name": "HP +3%",
+        "displayName": "HP +3%",
+        "aegisName": "mhp3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(HP+3%) "
+        },
+        "price": 0
+    },
+    "4868": {
+        "id": "4868",
+        "name": "HP +4%",
+        "displayName": "HP +4%",
+        "aegisName": "mhp4",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(HP+4%) "
+        },
+        "price": 0
+    },
+    "4869": {
+        "id": "4869",
+        "name": "Anti-Atraso 1",
+        "displayName": "Anti-Atraso 1",
+        "aegisName": "attack_delay_1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(AA 1) "
+        },
+        "price": 0
+    },
+    "4870": {
+        "id": "4870",
+        "name": "SP +25",
+        "displayName": "SP +25",
+        "aegisName": "sp25",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(SP+25) "
+        },
+        "price": 0
+    },
+    "4871": {
+        "id": "4871",
+        "name": "SP +75",
+        "displayName": "SP +75",
+        "aegisName": "sp75",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(SP+75) "
+        },
+        "price": 0
+    },
+    "4872": {
+        "id": "4872",
+        "name": "Anti-Atraso 2",
+        "displayName": "Anti-Atraso 2",
+        "aegisName": "attack_delay_2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(AA 2) "
+        },
+        "price": 0
+    },
+    "4873": {
+        "id": "4873",
+        "name": "Anti-Atraso 3",
+        "displayName": "Anti-Atraso 3",
+        "aegisName": "attack_delay_3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(AA 3) "
+        },
+        "price": 0
+    },
+    "4875": {
+        "id": "4875",
+        "name": "Delírio",
+        "displayName": "Delírio",
+        "aegisName": "bears_power",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(Delírio) "
+        },
+        "price": 0
+    },
+    "4876": {
+        "id": "4876",
+        "name": "Epifania",
+        "displayName": "Epifania",
+        "aegisName": "runaway_magic",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(Epifania) "
+        },
+        "price": 0
+    },
+    "4877": {
+        "id": "4877",
+        "name": "Ânimo",
+        "displayName": "Ânimo",
+        "aegisName": "speed_of_light",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(Ânimo) "
+        },
+        "price": 0
+    },
+    "4878": {
+        "id": "4878",
+        "name": "Histeria",
+        "displayName": "Histeria",
+        "aegisName": "muscle_fool",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(Histeria) "
+        },
+        "price": 0
+    },
+    "4879": {
+        "id": "4879",
+        "name": "Instinto",
+        "displayName": "Instinto",
+        "aegisName": "hawkeye",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(Instinto) "
+        },
+        "price": 0
+    },
+    "4880": {
+        "id": "4880",
+        "name": "Euforia",
+        "displayName": "Euforia",
+        "aegisName": "lucky_day",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(Euforia) "
+        },
+        "price": 0
+    },
+    "4881": {
+        "id": "4881",
+        "name": "Anti-Atraso 4",
+        "displayName": "Anti-Atraso 4",
+        "aegisName": "attack_delay_4",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(AA 4) "
+        },
+        "price": 0
+    },
+    "4882": {
+        "id": 4882,
+        "name": "ATQ +1%",
+        "displayName": "ATQ +1%",
+        "aegisName": "atk1p",
+        "price": 0,
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(ATQ +1%) "
+        }
+    },
+    "4883": {
+        "id": "4883",
+        "name": "ATQM 1",
+        "displayName": "ATQM 1",
+        "aegisName": "matk1p",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(ATQM 1) "
+        },
+        "price": 0
+    },
+    "4885": {
+        "id": "4885",
+        "name": "Pedra de Feitiço 1",
+        "displayName": "Pedra de Feitiço 1",
+        "aegisName": "conjure1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(PF 1) "
+        },
+        "price": 0
+    },
+    "4886": {
+        "id": "4886",
+        "name": "Pedra de Feitiço 2",
+        "displayName": "Pedra de Feitiço 2",
+        "aegisName": "conjure2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(PF 2) "
+        },
+        "price": 0
+    },
+    "4887": {
+        "id": "4887",
+        "name": "Pedra de Feitiço 3",
+        "displayName": "Pedra de Feitiço 3",
+        "aegisName": "conjure3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(PF 3) "
+        },
+        "price": 0
+    },
+    "4888": {
+        "id": "4888",
+        "name": "Pedra de Feitiço 4",
+        "displayName": "Pedra de Feitiço 4",
+        "aegisName": "conjure4",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(PF 4) "
+        },
+        "price": 0
+    },
+    "4889": {
+        "id": "4889",
+        "name": "Pedra de Feitiço 5",
+        "displayName": "Pedra de Feitiço 5",
+        "aegisName": "conjure5",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(PF 5) "
+        },
+        "price": 0
+    },
+    "4890": {
+        "id": "4890",
+        "name": "DEFM +1",
+        "displayName": "DEFM +1",
+        "aegisName": "mdef1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        },
+        "price": 0
+    },
+    "4891": {
+        "id": "4891",
+        "name": "DEFM +3",
+        "displayName": "DEFM +3",
+        "aegisName": "mdef3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        },
+        "price": 0
+    },
+    "4892": {
+        "id": "4892",
+        "name": "DEFM +5",
+        "displayName": "DEFM +5",
+        "aegisName": "mdef5",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        },
+        "price": 0
+    },
+    "4893": {
+        "id": "4893",
+        "name": "DEF +15",
+        "displayName": "DEF +15",
+        "aegisName": "def15",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        },
+        "price": 0
+    },
+    "4894": {
+        "id": "4894",
+        "name": "ATQ +4%",
+        "displayName": "ATQ +4%",
+        "aegisName": "atk4p",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(ATQ +4%) "
+        },
+        "price": 0
+    },
+    "4895": {
+        "id": "4895",
+        "name": "ATQ +5%",
+        "displayName": "ATQ +5%",
+        "aegisName": "atk5p",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(ATQ +5%) "
+        },
+        "price": 0
+    },
+    "4896": {
+        "id": "4896",
+        "name": "ATQM 2",
+        "displayName": "ATQM 2",
+        "aegisName": "matk2p",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(ATQM 2) "
+        },
+        "price": 0
+    },
+    "4897": {
+        "id": "4897",
+        "name": "ATQM 3",
+        "displayName": "ATQM 3",
+        "aegisName": "matk3p",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(ATQM 3) "
+        },
+        "price": 0
+    },
+    "4898": {
+        "id": "4898",
+        "name": "ATQM 4",
+        "displayName": "ATQM 4",
+        "aegisName": "matk4p",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(ATQM 4) "
+        },
+        "price": 0
+    },
+    "4899": {
+        "id": "4899",
+        "name": "ATQM 5",
+        "displayName": "ATQM 5",
+        "aegisName": "matk5p",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(ATQM 5) "
+        },
+        "price": 0
+    },
+    "4900": {
+        "id": "4900",
+        "name": "HP +5%",
+        "displayName": "HP +5%",
+        "aegisName": "mhp5",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(HP+5%) "
+        },
+        "price": 0
+    },
+    "4901": {
+        "id": "4901",
+        "name": "DEFM +7",
+        "displayName": "DEFM +7",
+        "aegisName": "mdef7",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        },
+        "price": 0
+    },
+    "4902": {
+        "id": "4902",
+        "name": "DEF +18",
+        "displayName": "DEF +18",
+        "aegisName": "def18",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        },
+        "price": 0
+    },
+    "4903": {
+        "id": "4903",
+        "name": "DEF +21",
+        "displayName": "DEF +21",
+        "aegisName": "def21",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        },
+        "price": 0
+    },
+    "4904": {
+        "id": "4904",
+        "name": "ATQ +6%",
+        "displayName": "ATQ +6%",
+        "aegisName": "atk6p",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(ATQ +6%) "
+        },
+        "price": 0
+    },
+    "4905": {
+        "id": "4905",
+        "name": "ATQ +7%",
+        "displayName": "ATQ +7%",
+        "aegisName": "atk7p",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(ATQ +7%) "
+        },
+        "price": 0
+    },
+    "4906": {
+        "id": "4906",
+        "name": "ATQM 6",
+        "displayName": "ATQM 6",
+        "aegisName": "matk6p",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(ATQM 6) "
+        },
+        "price": 0
+    },
+    "4907": {
+        "id": "4907",
+        "name": "ATQM 7",
+        "displayName": "ATQM 7",
+        "aegisName": "matk7p",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(ATQM 7) "
+        },
+        "price": 0
+    },
+    "4933": {
+        "id": "4933",
+        "name": "Neutralidade 1",
+        "displayName": "Neutralidade 1",
+        "aegisName": "tolerance_not1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(Neut 1) "
+        },
+        "price": 0
+    },
+    "4934": {
+        "id": "4934",
+        "name": "Neutralidade 2",
+        "displayName": "Neutralidade 2",
+        "aegisName": "tolerance_not2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(Neut 2) "
+        },
+        "price": 0
+    },
+    "4935": {
+        "id": "4935",
+        "name": "Neutralidade 3",
+        "displayName": "Neutralidade 3",
+        "aegisName": "tolerance_not3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(Neut 3) "
+        },
+        "price": 0
+    },
+    "4970": {
+        "id": "4970",
+        "name": "E-Fogo",
+        "displayName": "E-Fogo",
+        "aegisName": "reactor_p_fire",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(E-Fogo) "
+        },
+        "price": 0
+    },
+    "4971": {
+        "id": "4971",
+        "name": "E-Água",
+        "displayName": "E-Água",
+        "aegisName": "reactor_p_water",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(E-Água) "
+        },
+        "price": 0
+    },
+    "4972": {
+        "id": "4972",
+        "name": "E-Terra",
+        "displayName": "E-Terra",
+        "aegisName": "reactor_p_ground",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(E-Terra) "
+        },
+        "price": 0
+    },
+    "4973": {
+        "id": "4973",
+        "name": "E-Vento",
+        "displayName": "E-Vento",
+        "aegisName": "reactor_p_wind",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(E-Vento) "
+        },
+        "price": 0
+    },
+    "4974": {
+        "id": "4974",
+        "name": "R-Fogo",
+        "displayName": "R-Fogo",
+        "aegisName": "reactor_t_fire",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(R-Fogo) "
+        },
+        "price": 0
+    },
+    "4975": {
+        "id": "4975",
+        "name": "R-Água",
+        "displayName": "R-Água",
+        "aegisName": "reactor_t_water",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(R-Água) "
+        },
+        "price": 0
+    },
+    "4976": {
+        "id": "4976",
+        "name": "R-Terra",
+        "displayName": "R-Terra",
+        "aegisName": "reactor_t_ground",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(R-Terra) "
+        },
+        "price": 0
+    },
+    "4977": {
+        "id": "4977",
+        "name": "R-Vento",
+        "displayName": "R-Vento",
+        "aegisName": "reactor_t_wind",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(R-Vento) "
+        },
+        "price": 0
+    },
+    "4978": {
+        "id": "4978",
+        "name": "C-Corpo",
+        "displayName": "C-Corpo",
+        "aegisName": "reactor_cure_101",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(C-Corpo) "
+        },
+        "price": 0
+    },
+    "4979": {
+        "id": "4979",
+        "name": "C-Alma",
+        "displayName": "C-Alma",
+        "aegisName": "reactor_cure_102",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(C-Alma) "
+        },
+        "price": 0
+    },
+    "4980": {
+        "id": "4980",
+        "name": "C-Físico",
+        "displayName": "C-Físico",
+        "aegisName": "reactor_cure_201",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(C-Físico) "
+        },
+        "price": 0
+    },
+    "4981": {
+        "id": "4981",
+        "name": "C-Mental",
+        "displayName": "C-Mental",
+        "aegisName": "reactor_cure_202",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(C-Mental) "
+        },
+        "price": 0
+    },
+    "4982": {
+        "id": "4982",
+        "name": "A-FOR",
+        "displayName": "A-FOR",
+        "aegisName": "reactor_a_str",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(A-FOR) "
+        },
+        "price": 0
+    },
+    "4983": {
+        "id": "4983",
+        "name": "A-INT",
+        "displayName": "A-INT",
+        "aegisName": "reactor_a_int",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(A-INT) "
+        },
+        "price": 0
+    },
+    "4984": {
+        "id": "4984",
+        "name": "A-DEF",
+        "displayName": "A-DEF",
+        "aegisName": "reactor_a_def",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(A-DEF) "
+        },
+        "price": 0
+    },
+    "4985": {
+        "id": "4985",
+        "name": "A-ESQV",
+        "displayName": "A-ESQV",
+        "aegisName": "reactor_a_avoi",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(A-ESQV) "
+        },
+        "price": 0
+    },
+    "4986": {
+        "id": "4986",
+        "name": "A-ATQ",
+        "displayName": "A-ATQ",
+        "aegisName": "reactor_a_atk",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(A-ATQ) "
+        },
+        "price": 0
+    },
+    "4987": {
+        "id": "4987",
+        "name": "A-ATQM",
+        "displayName": "A-ATQM",
+        "aegisName": "reactor_a_matk",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(A-ATQM) "
+        },
+        "price": 0
+    },
+    "4988": {
+        "id": "4988",
+        "name": "A-HP",
+        "displayName": "A-HP",
+        "aegisName": "reactor_a_mhp",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(A-HP) "
+        },
+        "price": 0
+    },
+    "4989": {
+        "id": "4989",
+        "name": "A-SP",
+        "displayName": "A-SP",
+        "aegisName": "reactor_a_msp",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(A-SP) "
+        },
+        "price": 0
+    },
+    "4990": {
+        "id": "4990",
+        "name": "I-Gelo",
+        "displayName": "I-Gelo",
+        "aegisName": "reactor_a_froz",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(I-Gelo) "
+        },
+        "price": 0
+    },
+    "4991": {
+        "id": "4991",
+        "name": "A-VdA",
+        "displayName": "A-VdA",
+        "aegisName": "reactor_a_aspd",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": "(A-VdA) "
+        },
+        "price": 0,
+        "weight": 1
+    },
+    "4994": {
+        "id": "4994",
+        "name": "Runa do Poder 1",
+        "displayName": "Runa do Poder 1",
+        "aegisName": "neev_str_1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        },
+        "price": 0
+    },
+    "4995": {
+        "id": "4995",
+        "name": "Runa do Poder 2",
+        "displayName": "Runa do Poder 2",
+        "aegisName": "neev_str_2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        },
+        "price": 0
+    },
+    "4996": {
+        "id": "4996",
+        "name": "Runa do Poder 3",
+        "displayName": "Runa do Poder 3",
+        "aegisName": "neev_str_3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        },
+        "price": 0
+    },
+    "4997": {
+        "id": "4997",
+        "name": "Runa da Lábia 1",
+        "displayName": "Runa da Lábia 1",
+        "aegisName": "neev_agi_1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        },
+        "price": 0
+    },
+    "4998": {
+        "id": "4998",
+        "name": "Runa da Lábia 2",
+        "displayName": "Runa da Lábia 2",
+        "aegisName": "neev_agi_2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        },
+        "price": 0
+    },
+    "4999": {
+        "id": "4999",
+        "name": "Runa da Lábia 3",
+        "displayName": "Runa da Lábia 3",
+        "aegisName": "neev_agi_3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        },
+        "price": 0
+    },
+    "29000": {
+        "id": "29000",
+        "name": "Runa da Magia 1",
+        "displayName": "Runa da Magia 1",
+        "aegisName": "neev_int_1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        }
+    },
+    "29001": {
+        "id": "29001",
+        "name": "Runa da Magia 2",
+        "displayName": "Runa da Magia 2",
+        "aegisName": "neev_int_2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        }
+    },
+    "29002": {
+        "id": "29002",
+        "name": "Runa da Magia 3",
+        "displayName": "Runa da Magia 3",
+        "aegisName": "neev_int_3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        }
+    },
+    "29003": {
+        "id": "29003",
+        "name": "Runa da Visão 1",
+        "displayName": "Runa da Visão 1",
+        "aegisName": "neev_dex_1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        }
+    },
+    "29004": {
+        "id": "29004",
+        "name": "Runa da Visão 2",
+        "displayName": "Runa da Visão 2",
+        "aegisName": "neev_dex_2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        }
+    },
+    "29005": {
+        "id": "29005",
+        "name": "Runa da Visão 3",
+        "displayName": "Runa da Visão 3",
+        "aegisName": "neev_dex_3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        }
+    },
+    "29006": {
+        "id": "29006",
+        "name": "Runa do Acaso 1",
+        "displayName": "Runa do Acaso 1",
+        "aegisName": "neev_luk_1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        }
+    },
+    "29007": {
+        "id": "29007",
+        "name": "Runa do Acaso 2",
+        "displayName": "Runa do Acaso 2",
+        "aegisName": "neev_luk_2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        }
+    },
+    "29008": {
+        "id": "29008",
+        "name": "Runa do Acaso 3",
+        "displayName": "Runa do Acaso 3",
+        "aegisName": "neev_luk_3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        }
+    },
+    "29009": {
+        "id": "29009",
+        "name": "Runa da Saúde 1",
+        "displayName": "Runa da Saúde 1",
+        "aegisName": "neev_vit_1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        }
+    },
+    "29010": {
+        "id": "29010",
+        "name": "Runa da Saúde 2",
+        "displayName": "Runa da Saúde 2",
+        "aegisName": "neev_vit_2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        }
+    },
+    "29011": {
+        "id": "29011",
+        "name": "Runa da Saúde 3",
+        "displayName": "Runa da Saúde 3",
+        "aegisName": "neev_vit_3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        }
+    },
+    "29135": {
+        "id": "29135",
+        "name": "Faro Aguçado 1",
+        "displayName": "Faro Aguçado 1",
+        "aegisName": "keen1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        }
+    },
+    "29136": {
+        "id": "29136",
+        "name": "Faro Aguçado 2",
+        "displayName": "Faro Aguçado 2",
+        "aegisName": "keen2",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        }
+    },
+    "29137": {
+        "id": "29137",
+        "name": "Faro Aguçado 3",
+        "displayName": "Faro Aguçado 3",
+        "aegisName": "keen3",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        }
+    },
+    "29138": {
+        "id": "29138",
+        "name": "Faro Aguçado 4",
+        "displayName": "Faro Aguçado 4",
+        "aegisName": "keen4",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT",
+            "nameModifier": null
+        }
+    }
+}

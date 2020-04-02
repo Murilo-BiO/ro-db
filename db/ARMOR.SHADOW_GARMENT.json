@@ -1,0 +1,366 @@
+{
+    "20504": {
+        "id": "20504",
+        "name": "Asas da Sarakura",
+        "displayName": "Asas da Sarakura",
+        "aegisName": "c_cupid_wing_pink",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "SHADOW_GARMENT",
+            "refinable": true
+        },
+        "weight": 0
+    },
+    "20506": {
+        "id": "20506",
+        "name": "Manto Invisível",
+        "displayName": "Manto Invisível",
+        "aegisName": "c_invisible_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "COSTUME",
+            "refinable": true
+        },
+        "weight": 0
+    },
+    "20507": {
+        "id": "20507",
+        "name": "Mochila de Poring",
+        "displayName": "Mochila de Poring",
+        "aegisName": "c_poring_bag",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "SHADOW_GARMENT",
+            "refinable": true
+        },
+        "weight": 0
+    },
+    "20510": {
+        "id": "20510",
+        "name": "Asas das Mil Lâminas",
+        "displayName": "Asas das Mil Lâminas",
+        "aegisName": "c_swordwing",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "COSTUME",
+            "refinable": true
+        },
+        "weight": 0
+    },
+    "20511": {
+        "id": "20511",
+        "name": "Asas Azuis de Fada",
+        "displayName": "Asas Azuis de Fada",
+        "aegisName": "c_blue_fairy_wing",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "COSTUME",
+            "refinable": true
+        }
+    },
+    "20512": {
+        "id": "20512",
+        "name": "Mochila de Caça",
+        "displayName": "Mochila de Caça",
+        "aegisName": "c_bravery_bag",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "COSTUME",
+            "refinable": true
+        }
+    },
+    "20514": {
+        "id": "20514",
+        "name": "Espada de Thanatos",
+        "displayName": "Espada de Thanatos",
+        "aegisName": "c_thanatos_sword",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "COSTUME",
+            "refinable": true,
+            "def": 0
+        }
+    },
+    "20515": {
+        "id": "20515",
+        "name": "Círculo de Conjuração",
+        "displayName": "Círculo de Conjuração",
+        "aegisName": "c_magic_circle",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "SHADOW_GARMENT",
+            "refinable": true,
+            "def": 0
+        }
+    },
+    "20516": {
+        "id": 20516,
+        "name": "Asas de Miguel",
+        "displayName": "Asas de Miguel",
+        "aegisName": "c_wings_of_michael",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "position": "SHADOW_GARMENT",
+            "refinable": true,
+            "def": 0
+        }
+    },
+    "20517": {
+        "id": "20517",
+        "name": "Miau-chila de Bichano",
+        "displayName": "Miau-chila de Bichano",
+        "aegisName": "c_giantcatbag_tw",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "COSTUME",
+            "refinable": true,
+            "def": 0
+        }
+    },
+    "20519": {
+        "id": "20519",
+        "name": "Aura de Folhas de Outono",
+        "displayName": "Aura de Folhas de Outono",
+        "aegisName": "c_full_bloomcherry_tree",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "COSTUME",
+            "refinable": true,
+            "def": 0
+        }
+    },
+    "20521": {
+        "id": "20521",
+        "name": "Miau-chila de Bichano Preto",
+        "displayName": "Miau-chila de Bichano Preto",
+        "aegisName": "c_blackcatbag_tw",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "SHADOW_GARMENT",
+            "refinable": true
+        }
+    },
+    "20527": {
+        "id": "20527",
+        "name": "Asas da Borboleta do Vale",
+        "displayName": "Asas da Borboleta do Vale",
+        "aegisName": "c_pinkbutterfly_wing",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "SHADOW_GARMENT",
+            "refinable": true
+        }
+    },
+    "20528": {
+        "id": "20528",
+        "name": "Asas Douradas da Borboleta",
+        "displayName": "Asas Douradas da Borboleta",
+        "aegisName": "c_goldbutterfly_wing",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "SHADOW_GARMENT",
+            "refinable": true,
+            "def": 0
+        }
+    },
+    "20530": {
+        "id": "20530",
+        "name": "Asas de Gabriel",
+        "displayName": "Asas de Gabriel",
+        "aegisName": "c_wings_of_gabriel",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 0
+        }
+    },
+    "20535": {
+        "id": "20535",
+        "name": "Holograma Futurista",
+        "displayName": "Holograma Futurista",
+        "aegisName": "c_digital_space",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "SHADOW_GARMENT",
+            "refinable": true,
+            "def": 0
+        }
+    },
+    "20547": {
+        "id": "20547",
+        "name": "Mil e Uma Assombrações",
+        "displayName": "Mil e Uma Assombrações",
+        "aegisName": "c_ghost_effect",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "SHADOW_GARMENT",
+            "refinable": true
+        },
+        "weight": 0
+    },
+    "20571": {
+        "id": "20571",
+        "name": "Voo das Valquírias",
+        "displayName": "Voo das Valquírias",
+        "aegisName": "c_valkyrie_wing",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "SHADOW_GARMENT",
+            "refinable": true
+        },
+        "weight": 0
+    },
+    "20574": {
+        "id": "20574",
+        "name": "Mochila do Aluno Rebelde",
+        "displayName": "Mochila do Aluno Rebelde",
+        "aegisName": "c_school_bag_rd",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "SHADOW_GARMENT",
+            "refinable": true
+        },
+        "weight": 0
+    },
+    "20575": {
+        "id": "20575",
+        "name": "Mochila do Aluno Esperto",
+        "displayName": "Mochila do Aluno Esperto",
+        "aegisName": "c_school_bag_bl",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "SHADOW_GARMENT",
+            "refinable": true
+        },
+        "weight": 0
+    },
+    "20576": {
+        "id": "20576",
+        "name": "Garfo do Glutão",
+        "displayName": "Garfo do Glutão",
+        "aegisName": "c_cat_fork",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "SHADOW_GARMENT",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 0
+    },
+    "20727": {
+        "id": "20727",
+        "name": "Asas Douradas da Justiça",
+        "displayName": "Asas Douradas da Justiça",
+        "aegisName": "brilliant_golden_wings",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "SHADOW_GARMENT",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "20746": {
+        "id": "20746",
+        "name": "Visual de Asas da Fênix",
+        "displayName": "Visual de Asas da Fênix",
+        "aegisName": "c_rudra_wing",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "SHADOW_GARMENT",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "20761": {
+        "id": "20761",
+        "name": "Visual de Asas de Alfheim",
+        "displayName": "Visual de Asas de Alfheim",
+        "aegisName": "c_wing_of_happiness",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "position": "SHADOW_GARMENT",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "20764": {
+        "id": 20764,
+        "name": "Asas Negras do Arcanjo",
+        "displayName": "Asas Negras do Arcanjo",
+        "aegisName": "c_fallen_angel_wing",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "position": "SHADOW_GARMENT",
+            "refinable": true,
+            "def": 0
+        }
+    },
+    "20765": {
+        "id": 20765,
+        "name": "Asas Imaculadas de Arcanjo",
+        "displayName": "Asas Imaculadas de Arcanjo",
+        "aegisName": "c_archangel_wing",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "position": "SHADOW_GARMENT",
+            "refinable": true,
+            "def": 0
+        }
+    }
+}

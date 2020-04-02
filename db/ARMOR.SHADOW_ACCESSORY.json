@@ -1,0 +1,34 @@
+{
+    "24016": {
+        "id": "24016",
+        "name": "Brincos Sombrios Festivos",
+        "displayName": "Brincos Sombrios Festivos",
+        "aegisName": "s_promotion_earring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_ACCESSORY",
+            "slots": 0,
+            "position": "SHADOW_ACCESSORY",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 10,
+        "weight": 0
+    },
+    "24017": {
+        "id": "24017",
+        "name": "Colar Sombrio Festivo",
+        "displayName": "Colar Sombrio Festivo",
+        "aegisName": "s_promotion_pendant",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_ACCESSORY",
+            "slots": 0,
+            "position": "SHADOW_ACCESSORY",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 10,
+        "weight": 0
+    }
+}

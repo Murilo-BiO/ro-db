@@ -1,0 +1,106 @@
+{
+    "24014": {
+        "id": "24014",
+        "name": "Grevas Sombrias Festivas",
+        "displayName": "Grevas Sombrias Festivas",
+        "aegisName": "s_promotion_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_SHOES",
+            "slots": 0,
+            "position": "SHADOW_SHOES",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 10,
+        "weight": 0
+    },
+    "24208": {
+        "id": "24208",
+        "name": "Sapatos do Perito",
+        "displayName": "Sapatos do Perito",
+        "aegisName": "s_expert_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_SHOES",
+            "slots": 0,
+            "position": "SHADOW_SHOES",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 150,
+                "max": 175
+            }
+        }
+    },
+    "24210": {
+        "id": "24210",
+        "name": "Sapatos do Iniciante",
+        "displayName": "Sapatos do Iniciante",
+        "aegisName": "s_beginner_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_SHOES",
+            "slots": 0,
+            "position": "SHADOW_SHOES",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 1,
+                "max": 49
+            }
+        }
+    },
+    "24212": {
+        "id": "24212",
+        "name": "Sapatos do Novato",
+        "displayName": "Sapatos do Novato",
+        "aegisName": "s_rookie_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_SHOES",
+            "slots": 0,
+            "position": "SHADOW_SHOES",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 10,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 50,
+                "max": 99
+            }
+        }
+    },
+    "24214": {
+        "id": "24214",
+        "name": "Sapatos Avançados",
+        "displayName": "Sapatos Avançados",
+        "aegisName": "s_advanced_shoes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_SHOES",
+            "slots": 0,
+            "position": "SHADOW_SHOES",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 100,
+                "max": 149
+            }
+        }
+    }
+}

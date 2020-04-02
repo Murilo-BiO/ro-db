@@ -1,0 +1,2583 @@
+{
+    "1600": {
+        "id": 1600,
+        "name": "Cajado Sobrenatural",
+        "displayName": "Cajado Sobrenatural [1]",
+        "aegisName": "rod_of_vicious_mind",
+        "equipData": {
+            "slots": 1,
+            "class": "STAFF",
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 60,
+            "matk": 120,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 160
+            }
+        }
+    },
+    "1601": {
+        "id": "1601",
+        "name": "Bastão",
+        "displayName": "Bastão [3]",
+        "aegisName": "rod",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 15,
+            "matk": 30,
+            "refinable": true
+        },
+        "price": 50,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            }
+        }
+    },
+    "1602": {
+        "id": "1602",
+        "name": "Bastão",
+        "displayName": "Bastão [4]",
+        "aegisName": "rod_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 4,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 15,
+            "matk": 30,
+            "refinable": true
+        },
+        "price": 50,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            }
+        }
+    },
+    "1603": {
+        "id": "1603",
+        "name": "Bastão",
+        "displayName": "Bastão",
+        "aegisName": "rod__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 15,
+            "matk": 30,
+            "refinable": true
+        },
+        "price": 50,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            }
+        }
+    },
+    "1604": {
+        "id": "1604",
+        "name": "Vareta",
+        "displayName": "Vareta [2]",
+        "aegisName": "wand",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 25,
+            "matk": 45,
+            "refinable": true
+        },
+        "price": 2500,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "1605": {
+        "id": "1605",
+        "name": "Vareta",
+        "displayName": "Vareta [3]",
+        "aegisName": "wand_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 25,
+            "matk": 45,
+            "refinable": true
+        },
+        "price": 2500,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "1606": {
+        "id": "1606",
+        "name": "Vareta",
+        "displayName": "Vareta",
+        "aegisName": "wand__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 25,
+            "matk": 45,
+            "refinable": true
+        },
+        "price": 2500,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "1607": {
+        "id": "1607",
+        "name": "Cajado",
+        "displayName": "Cajado [2]",
+        "aegisName": "staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 40,
+            "matk": 70,
+            "refinable": true
+        },
+        "price": 9500,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "1608": {
+        "id": "1608",
+        "name": "Cajado",
+        "displayName": "Cajado [3]",
+        "aegisName": "staff_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 40,
+            "matk": 70,
+            "refinable": true
+        },
+        "price": 9500,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "1609": {
+        "id": "1609",
+        "name": "Cajado",
+        "displayName": "Cajado",
+        "aegisName": "staff__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 40,
+            "matk": 70,
+            "refinable": true
+        },
+        "price": 9500,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "1610": {
+        "id": "1610",
+        "name": "Cetro",
+        "displayName": "Cetro [1]",
+        "aegisName": "arc_wand",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 60,
+            "matk": 95,
+            "refinable": true
+        },
+        "price": 45000,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 24
+            }
+        }
+    },
+    "1611": {
+        "id": "1611",
+        "name": "Cetro",
+        "displayName": "Cetro [2]",
+        "aegisName": "arc_wand_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 60,
+            "matk": 95,
+            "refinable": true
+        },
+        "price": 45000,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 24
+            }
+        }
+    },
+    "1612": {
+        "id": "1612",
+        "name": "Vara Mestra",
+        "displayName": "Vara Mestra",
+        "aegisName": "arc_wand__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 60,
+            "matk": 95,
+            "refinable": true
+        },
+        "price": 45000,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 24
+            }
+        }
+    },
+    "1613": {
+        "id": "1613",
+        "name": "Cajado do Poder",
+        "displayName": "Cajado do Poder",
+        "aegisName": "mighty_staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 130,
+            "matk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 24
+            }
+        }
+    },
+    "1614": {
+        "id": "1614",
+        "name": "Bastão Xamista",
+        "displayName": "Bastão Xamista",
+        "aegisName": "blessed_wand",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 75,
+            "matk": 105,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 24
+            }
+        }
+    },
+    "1615": {
+        "id": "1615",
+        "name": "Bastão Arcano",
+        "displayName": "Bastão Arcano",
+        "aegisName": "bone_wand",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 40,
+            "matk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 24
+            }
+        }
+    },
+    "1616": {
+        "id": "1616",
+        "name": "Cajado do Vento",
+        "displayName": "Cajado do Vento",
+        "aegisName": "staff_of_wing",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 60,
+            "matk": 115,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1617": {
+        "id": 1617,
+        "name": "Bastão do Sobrevivente",
+        "displayName": "Bastão do Sobrevivente",
+        "aegisName": "survival_rod",
+        "price": 85000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 24
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 50,
+            "matk": 120,
+            "refinable": true
+        }
+    },
+    "1618": {
+        "id": 1618,
+        "name": "Bastão do Sobrevivente",
+        "displayName": "Bastão do Sobrevivente [1]",
+        "aegisName": "survival_rod_",
+        "price": 85000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 24
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 50,
+            "matk": 120,
+            "refinable": true
+        }
+    },
+    "1619": {
+        "id": 1619,
+        "name": "Bastão do Sobrevivente",
+        "displayName": "Bastão do Sobrevivente",
+        "aegisName": "survival_rod2",
+        "price": 85000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 24
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 50,
+            "matk": 120,
+            "refinable": true
+        }
+    },
+    "1620": {
+        "id": 1620,
+        "name": "Bastão do Sobrevivente",
+        "displayName": "Bastão do Sobrevivente [1]",
+        "aegisName": "survival_rod2_",
+        "price": 85000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 24
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 50,
+            "matk": 120,
+            "refinable": true
+        }
+    },
+    "1621": {
+        "id": "1621",
+        "name": "Cajado do Hipnotizador",
+        "displayName": "Cajado do Hipnotizador [1]",
+        "aegisName": "hypnotists_staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 70,
+            "matk": 120,
+            "refinable": true
+        },
+        "price": 43000,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1622": {
+        "id": "1622",
+        "name": "Cajado do Hipnotizador",
+        "displayName": "Cajado do Hipnotizador [2]",
+        "aegisName": "hypnotists_staff_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 70,
+            "matk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1623": {
+        "id": "1623",
+        "name": "Cajado do Poder [A]",
+        "displayName": "Cajado do Poder [A]",
+        "aegisName": "mighty_staff_c",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 165,
+            "matk": 120,
+            "refinable": false
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            }
+        }
+    },
+    "1624": {
+        "id": "1624",
+        "name": "Cajado do Feiticeiro",
+        "displayName": "Cajado do Feiticeiro [2]",
+        "aegisName": "lich_bone_wand",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 60,
+            "matk": 170,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1625": {
+        "id": "1625",
+        "name": "Cajado Restaurador",
+        "displayName": "Cajado Restaurador",
+        "aegisName": "healing_staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 10,
+            "matk": 105,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1626": {
+        "id": "1626",
+        "name": "Cajado Perfurador",
+        "displayName": "Cajado Perfurador",
+        "aegisName": "piercing_staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 80,
+            "matk": 145,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1629": {
+        "id": "1629",
+        "name": "Cajado do Cavalheiro",
+        "displayName": "Cajado do Cavalheiro [1]",
+        "aegisName": "walking_stick",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 40,
+            "matk": 125,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "1630": {
+        "id": "1630",
+        "name": "Liberação da Sabedoria",
+        "displayName": "Liberação da Sabedoria",
+        "aegisName": "release_of_wish",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 30,
+            "matk": 125,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "1631": {
+        "id": "1631",
+        "name": "Vara Sagrada",
+        "displayName": "Vara Sagrada [1]",
+        "aegisName": "holy_stick",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 50,
+            "matk": 140,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1632": {
+        "id": "1632",
+        "name": "Varinha Mágica do Feiticeiro",
+        "displayName": "Varinha Mágica do Feiticeiro",
+        "aegisName": "bf_staff1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 70,
+            "matk": 125,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1633": {
+        "id": "1633",
+        "name": "Varinha de Batalha do Feiticeiro",
+        "displayName": "Varinha de Batalha do Feiticeiro",
+        "aegisName": "bf_staff2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 70,
+            "matk": 125,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1634": {
+        "id": "1634",
+        "name": "Varinha da Recuperação Forte",
+        "displayName": "Varinha da Recuperação Forte",
+        "aegisName": "bf_staff3",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 70,
+            "matk": 125,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1635": {
+        "id": "1635",
+        "name": "Varinha da Recuperação Rápida",
+        "displayName": "Varinha da Recuperação Rápida",
+        "aegisName": "bf_staff4",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 70,
+            "matk": 125,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1636": {
+        "id": "1636",
+        "name": "Cajado de Espinhos da Escuridão",
+        "displayName": "Cajado de Espinhos da Escuridão",
+        "aegisName": "thorn_staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 60,
+            "matk": 160,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "1637": {
+        "id": "1637",
+        "name": "Apaga-Mentes",
+        "displayName": "Apaga-Mentes",
+        "aegisName": "eraser",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 80,
+            "matk": 170,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1639": {
+        "id": "1639",
+        "name": "Cajado de Iniciante",
+        "displayName": "Cajado de Iniciante [3]",
+        "aegisName": "n_rod",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 15,
+            "matk": 32,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            }
+        }
+    },
+    "1640": {
+        "id": "1640",
+        "name": "Cetro Glorioso",
+        "displayName": "Cetro Glorioso",
+        "aegisName": "krieger_onehand_staff1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 70,
+            "matk": 135,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1641": {
+        "id": "1641",
+        "name": "Varinha Gloriosa de Cura",
+        "displayName": "Varinha Gloriosa de Cura",
+        "aegisName": "krieger_onehand_staff2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 70,
+            "matk": 135,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1643": {
+        "id": "1643",
+        "name": "Cajado da Árvore Morta",
+        "displayName": "Cajado da Árvore Morta",
+        "aegisName": "dead_tree_cane",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 100,
+            "matk": 155,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1646": {
+        "id": "1646",
+        "name": "Bastão de Lágrimas",
+        "displayName": "Bastão de Lágrimas [2]",
+        "aegisName": "lacryma_stick",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 30,
+            "matk": 180,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "1647": {
+        "id": "1647",
+        "name": "Cajado da Cruz",
+        "displayName": "Cajado da Cruz [1]",
+        "aegisName": "croce_staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 30,
+            "matk": 175,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "1648": {
+        "id": "1648",
+        "name": "Cajado do Maestro",
+        "displayName": "Cajado do Maestro",
+        "aegisName": "staff_of_bordeaux",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 30,
+            "matk": 170,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "1649": {
+        "id": "1649",
+        "name": "Cajado dos Esplêndidos",
+        "displayName": "Cajado dos Esplêndidos",
+        "aegisName": "rafini_staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 30,
+            "matk": 180,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "1650": {
+        "id": "1650",
+        "name": "Cajado Valhalla Iniciante",
+        "displayName": "Cajado Valhalla Iniciante",
+        "aegisName": "p_staff1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 60,
+            "matk": 125,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 26
+            }
+        }
+    },
+    "1651": {
+        "id": "1651",
+        "name": "Cajado Valhalla Intermediário",
+        "displayName": "Cajado Valhalla Intermediário",
+        "aegisName": "p_staff2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 60,
+            "matk": 150,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1654": {
+        "id": "1654",
+        "name": "Cajado Mental",
+        "displayName": "Cajado Mental [1]",
+        "aegisName": "mental_stick",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 40,
+            "matk": 170,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Sage": true
+            },
+            "level": {
+                "min": 102
+            }
+        }
+    },
+    "1657": {
+        "id": "1657",
+        "name": "Cajado da Afeição",
+        "displayName": "Cajado da Afeição [2]",
+        "aegisName": "wand_of_affection",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 30,
+            "matk": 160,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Priest": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "1658": {
+        "id": "1658",
+        "name": "Cajado III do Grupo Éden",
+        "displayName": "Cajado III do Grupo Éden",
+        "aegisName": "p_staff3",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 60,
+            "matk": 170,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1659": {
+        "id": "1659",
+        "name": "Luz da Recuperação",
+        "displayName": "Luz da Recuperação [1]",
+        "aegisName": "recovery_light",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 30,
+            "matk": 160,
+            "refinable": true
+        },
+        "price": 56000,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Priest": true
+            },
+            "level": {
+                "min": 110
+            }
+        }
+    },
+    "1660": {
+        "id": "1660",
+        "name": "Cajado da Afeição Fortalecido",
+        "displayName": "Cajado da Afeição Fortalecido [1]",
+        "aegisName": "wand_of_affection2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 30,
+            "matk": 180,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Priest": true
+            },
+            "level": {
+                "min": 130
+            }
+        }
+    },
+    "1661": {
+        "id": "1661",
+        "name": "Destruidora Mental",
+        "displayName": "Destruidora Mental",
+        "aegisName": "mental_destroyer",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 100,
+            "matk": 50,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 140,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "1664": {
+        "id": 1664,
+        "name": "Cajado de Espinhos da Escuridão",
+        "displayName": "Cajado de Espinhos da Escuridão [1]",
+        "aegisName": "thorn_staff_",
+        "equipData": {
+            "slots": 1,
+            "class": "STAFF",
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 60,
+            "matk": 160,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "1666": {
+        "id": 1666,
+        "name": "Cajado Restaurador",
+        "displayName": "Cajado Restaurador [2]",
+        "aegisName": "healing_staff_",
+        "equipData": {
+            "slots": 2,
+            "class": "STAFF",
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 10,
+            "matk": 125,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "1667": {
+        "id": "1667",
+        "name": "Cajado TE",
+        "displayName": "Cajado TE",
+        "aegisName": "te_woe_staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 50,
+            "matk": 100,
+            "refinable": false
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1668": {
+        "id": "1668",
+        "name": "Bengala",
+        "displayName": "Bengala [2]",
+        "aegisName": "sword_stick",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 120,
+            "matk": 150,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Wizard": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1669": {
+        "id": "1669",
+        "name": "Cajado de Cinzas",
+        "displayName": "Cajado de Cinzas [1]",
+        "aegisName": "thanos_staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 100,
+            "matk": 200,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true
+            },
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "1670": {
+        "id": "1670",
+        "name": "Cajado Memorável do RWC",
+        "displayName": "Cajado Memorável do RWC [1]",
+        "aegisName": "rwc_memory_staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 25,
+            "matk": 30,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            }
+        }
+    },
+    "1671": {
+        "id": "1671",
+        "name": "Cajado Esconjurante",
+        "displayName": "Cajado Esconjurante [1]",
+        "aegisName": "staff_of_evil_slayer",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 30,
+            "matk": 155,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            }
+        }
+    },
+    "1675": {
+        "id": 1675,
+        "name": "Cajado do Cavalheiro",
+        "displayName": "Cajado do Cavalheiro [3]",
+        "aegisName": null,
+        "equipData": {
+            "slots": 3,
+            "class": "STAFF",
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 40,
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 50,
+        "restrictions": {
+            "level": {
+                "min": 50
+            }
+        },
+        "type": "WEAPON"
+    },
+    "1676": {
+        "id": 1676,
+        "name": "Cajado Demoníaco",
+        "displayName": "Cajado Demoníaco [2]",
+        "aegisName": null,
+        "equipData": {
+            "slots": 2,
+            "class": "STAFF",
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "refinable": true
+        },
+        "price": 20,
+        "restrictions": {
+            "level": {
+                "min": 80
+            }
+        },
+        "type": "WEAPON"
+    },
+    "1679": {
+        "id": 1679,
+        "name": "Cajado dos Esplêndidos",
+        "displayName": "Cajado dos Esplêndidos [2]",
+        "aegisName": null,
+        "equipData": {
+            "slots": 2,
+            "class": "STAFF",
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "atk": 30,
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 50,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        },
+        "type": "WEAPON"
+    },
+    "1680": {
+        "id": "1680",
+        "name": "Varinha Rubi",
+        "displayName": "Varinha Rubi [2]",
+        "aegisName": "scarlet_rod",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 60,
+            "matk": 70,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1681": {
+        "id": "1681",
+        "name": "Cauda de Gato Rudimentar",
+        "displayName": "Cauda de Gato Rudimentar",
+        "aegisName": "newbie_foxtail",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 30,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 1
+            }
+        }
+    },
+    "1682": {
+        "id": "1682",
+        "name": "Cajado da Magia Oculta",
+        "displayName": "Cajado da Magia Oculta [2]",
+        "aegisName": "shadow_staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "refinable": true
+        },
+        "weight": 30
+    },
+    "1683": {
+        "id": "1683",
+        "name": "Cauda de Gato Arcana Simples",
+        "displayName": "Cauda de Gato Arcana Simples [1]",
+        "aegisName": "abundantly_foxtail",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 50,
+            "matk": 70,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY"
+            ],
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "1684": {
+        "id": "1684",
+        "name": "Cauda de Gato Resiliente",
+        "displayName": "Cauda de Gato Resiliente [1]",
+        "aegisName": "long_foxtail",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 2,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "1685": {
+        "id": "1685",
+        "name": "Cauda de Gato Arcana Amadora",
+        "displayName": "Cauda de Gato Arcana Amadora [1]",
+        "aegisName": "dragonfry_foxtail",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 70,
+            "matk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY"
+            ],
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 20
+            }
+        }
+    },
+    "1686": {
+        "id": "1686",
+        "name": "Cauda de Gato Robusta",
+        "displayName": "Cauda de Gato Robusta [1]",
+        "aegisName": "bigsize_foxtail",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 70,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 20
+            }
+        }
+    },
+    "1687": {
+        "id": "1687",
+        "name": "Cauda de Gato Básica",
+        "displayName": "Cauda de Gato Básica [1]",
+        "aegisName": "beginner_foxtail",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 40,
+            "matk": 15,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY"
+            ],
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 3
+            }
+        }
+    },
+    "1690": {
+        "id": "1690",
+        "name": "Cauda de Gato Arcana Intermediária",
+        "displayName": "Cauda de Gato Arcana Intermediária [3]",
+        "aegisName": "amazing_foxtail",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 80,
+            "matk": 180,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY"
+            ],
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1691": {
+        "id": "1691",
+        "name": "Cauda de Gato Arcana Avançada",
+        "displayName": "Cauda de Gato Arcana Avançada [2]",
+        "aegisName": "strange_foxtail",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 100,
+            "matk": 240,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY"
+            ],
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "1692": {
+        "id": "1692",
+        "name": "Cauda de Gato Arcana Mestra",
+        "displayName": "Cauda de Gato Arcana Mestra [2]",
+        "aegisName": "magical_foxtail",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 120,
+            "matk": 260,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY"
+            ],
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 140
+            }
+        }
+    },
+    "1693": {
+        "id": "1693",
+        "name": "Cauda de Gato Arcana Dourada",
+        "displayName": "Cauda de Gato Arcana Dourada [1]",
+        "aegisName": "magical_y_foxtail",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 140,
+            "matk": 280,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY"
+            ],
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 175
+            }
+        }
+    },
+    "1694": {
+        "id": "1694",
+        "name": "Cauda de Gato Bruta Simples",
+        "displayName": "Cauda de Gato Bruta Simples [3]",
+        "aegisName": "model_foxtail",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1695": {
+        "id": "1695",
+        "name": "Cauda de Gato Bruta Intermediária",
+        "displayName": "Cauda de Gato Bruta Intermediária [2]",
+        "aegisName": "detail_model_foxtail",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 195,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "1696": {
+        "id": "1696",
+        "name": "Cauda de Gato Bruta Avançada",
+        "displayName": "Cauda de Gato Bruta Avançada [2]",
+        "aegisName": "ex_model_foxtail",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 240,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 140
+            }
+        }
+    },
+    "1697": {
+        "id": "1697",
+        "name": "Cauda de Gato Bruta Dourada",
+        "displayName": "Cauda de Gato Bruta Dourada [1]",
+        "aegisName": "ex_y_model_foxtail",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 270,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 175
+            }
+        }
+    },
+    "1699": {
+        "id": "1699",
+        "name": "Cauda de Gato I",
+        "displayName": "Cauda de Gato I",
+        "aegisName": "p_foxtail1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 120,
+            "matk": 135,
+            "refinable": false
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY"
+            ],
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 26
+            }
+        }
+    },
+    "26100": {
+        "id": "26100",
+        "name": "Cauda de Gato II",
+        "displayName": "Cauda de Gato II",
+        "aegisName": "p_foxtail2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "atk": 90,
+            "refinable": true
+        },
+        "weight": 0
+    },
+    "26101": {
+        "id": "26101",
+        "name": "Cauda de Gato III",
+        "displayName": "Cauda de Gato III",
+        "aegisName": "p_foxtail3",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 150,
+            "matk": 195,
+            "refinable": false
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY"
+            ],
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "26118": {
+        "id": "26118",
+        "name": "Cajado Ancestral",
+        "displayName": "Cajado Ancestral [2]",
+        "aegisName": "shadow_staff_k",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 40,
+            "refinable": true
+        },
+        "weight": 50
+    },
+    "26155": {
+        "id": "26155",
+        "name": "Cauda de Gato Ancestral",
+        "displayName": "Cauda de Gato Ancestral [2]",
+        "aegisName": "meawfoxtail",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "STAFF",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 300,
+            "refinable": true
+        },
+        "weight": 110
+    }
+}

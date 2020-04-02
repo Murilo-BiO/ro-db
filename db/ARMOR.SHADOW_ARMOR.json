@@ -1,0 +1,18 @@
+{
+    "24013": {
+        "id": "24013",
+        "name": "Malha Sombria Festiva",
+        "displayName": "Malha Sombria Festiva",
+        "aegisName": "s_promotion_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_ARMOR",
+            "slots": 0,
+            "position": "SHADOW_ARMOR",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 10,
+        "weight": 0
+    }
+}

@@ -1,0 +1,813 @@
+{
+    "1472": {
+        "id": "1472",
+        "name": "Cajado Cabalístico",
+        "displayName": "Cajado Cabalístico",
+        "aegisName": "staff_of_soul",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 25,
+            "matk": 200,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 140,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 73
+            }
+        }
+    },
+    "1473": {
+        "id": "1473",
+        "name": "Cajado Esfíngico",
+        "displayName": "Cajado Esfíngico",
+        "aegisName": "wizardy_staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 120,
+            "matk": 200,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 240,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 90
+            }
+        }
+    },
+    "2000": {
+        "id": "2000",
+        "name": "Bastão da Destruição",
+        "displayName": "Bastão da Destruição [1]",
+        "aegisName": "destruction_rod",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 130,
+            "matk": 280,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 250,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2001": {
+        "id": "2001",
+        "name": "Cruz Divina",
+        "displayName": "Cruz Divina",
+        "aegisName": "divine_cross",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 120,
+            "matk": 210,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "2002": {
+        "id": "2002",
+        "name": "Cajado Glorioso da Destruição",
+        "displayName": "Cajado Glorioso da Destruição",
+        "aegisName": "krieger_twohand_staff1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 70,
+            "matk": 210,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2004": {
+        "id": "2004",
+        "name": "Kronos",
+        "displayName": "Kronos",
+        "aegisName": "kronos",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 30,
+            "matk": 240,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "2005": {
+        "id": "2005",
+        "name": "Cajado Dea",
+        "displayName": "Cajado Dea [1]",
+        "aegisName": "dea_staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 30,
+            "matk": 220,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "2007": {
+        "id": "2007",
+        "name": "Cajado do Açoite de Ouro",
+        "displayName": "Cajado do Açoite de Ouro [2]",
+        "aegisName": "golden_rod_staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 30,
+            "matk": 230,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2008": {
+        "id": "2008",
+        "name": "Cajado Aquático",
+        "displayName": "Cajado Aquático [2]",
+        "aegisName": "aqua_staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 30,
+            "matk": 230,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2009": {
+        "id": "2009",
+        "name": "Cajado Vermelho",
+        "displayName": "Cajado Vermelho [2]",
+        "aegisName": "crimson_staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 30,
+            "matk": 230,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2010": {
+        "id": "2010",
+        "name": "Cajado Florestal",
+        "displayName": "Cajado Florestal [2]",
+        "aegisName": "forest_staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 30,
+            "matk": 230,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2011": {
+        "id": "2011",
+        "name": "Cajado do Açoite de Ouro Fortalecido",
+        "displayName": "Cajado do Açoite de Ouro Fortalecido [1]",
+        "aegisName": "golden_rod_staff2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 30,
+            "matk": 270,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 130
+            }
+        }
+    },
+    "2012": {
+        "id": "2012",
+        "name": "Cajado Aquático Fortalecido",
+        "displayName": "Cajado Aquático Fortalecido [1]",
+        "aegisName": "aqua_staff2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 30,
+            "matk": 270,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 130
+            }
+        }
+    },
+    "2013": {
+        "id": "2013",
+        "name": "Cajado Vermelho Fortalecido",
+        "displayName": "Cajado Vermelho Fortalecido [1]",
+        "aegisName": "crimson_staff2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 30,
+            "matk": 270,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 130
+            }
+        }
+    },
+    "2014": {
+        "id": "2014",
+        "name": "Cajado Florestal Fortalecido",
+        "displayName": "Cajado Florestal Fortalecido [1]",
+        "aegisName": "forest_staff2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 30,
+            "matk": 270,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 130
+            }
+        }
+    },
+    "2015": {
+        "id": "2015",
+        "name": "Cajado Aprimorado",
+        "displayName": "Cajado Aprimorado [1]",
+        "aegisName": "upg_staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 50,
+            "matk": 70,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            }
+        }
+    },
+    "2016": {
+        "id": "2016",
+        "name": "Cetro de Vellum",
+        "displayName": "Cetro de Vellum",
+        "aegisName": "velum_arc_wand",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 110,
+            "matk": 220,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "2019": {
+        "id": "2019",
+        "name": "Cajado de Duas Mãos TE",
+        "displayName": "Cajado de Duas Mãos TE",
+        "aegisName": "te_woe_two_hand_staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 50,
+            "matk": 130,
+            "refinable": false
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2020": {
+        "id": "2020",
+        "name": "Jormungand",
+        "displayName": "Jormungand",
+        "aegisName": "jormungand",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 200,
+            "matk": 280,
+            "refinable": false
+        },
+        "price": 20,
+        "weight": 300,
+        "restrictions": {
+            "job": {
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 90
+            }
+        }
+    },
+    "2021": {
+        "id": "2021",
+        "name": "Ganbantein",
+        "displayName": "Ganbantein",
+        "aegisName": "ganbantein",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 100,
+            "matk": 320,
+            "refinable": false
+        },
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2022": {
+        "id": "2022",
+        "name": "Cajado de Geffen",
+        "displayName": "Cajado de Geffen [1]",
+        "aegisName": "staff_of_geffen",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "atk": 100,
+            "matk": 300,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 150
+            }
+        }
+    },
+    "2023": {
+        "id": "2023",
+        "name": "Cajado Duplo de Cinzas",
+        "displayName": "Cajado Duplo de Cinzas [1]",
+        "aegisName": "thanos_rod",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 120,
+            "matk": 250,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 140,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true
+            },
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "2025": {
+        "id": "2025",
+        "name": "Cetro Rubi",
+        "displayName": "Cetro Rubi [2]",
+        "aegisName": "scarlet_staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 100,
+            "matk": 150,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "2026": {
+        "id": "2026",
+        "name": "Cetro Sobrenatural",
+        "displayName": "Cetro Sobrenatural [1]",
+        "aegisName": "sinister_staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 100,
+            "matk": 200,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 160
+            }
+        }
+    },
+    "2027": {
+        "id": "2027",
+        "name": "Jovem Girassol",
+        "displayName": "Jovem Girassol [2]",
+        "aegisName": "staff_170",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "atk": 150,
+            "refinable": true
+        },
+        "weight": 150
+    },
+    "2047": {
+        "id": "2047",
+        "name": "Cajado da Bruxa",
+        "displayName": "Cajado da Bruxa [1]",
+        "aegisName": "jirant_staff_br",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "refinable": true
+        }
+    },
+    "2048": {
+        "id": "2048",
+        "name": "Cetro Ancestral",
+        "displayName": "Cetro Ancestral [2]",
+        "aegisName": "iron_staff",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSTAFF",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "atk": 100,
+            "refinable": true
+        },
+        "weight": 80
+    }
+}

@@ -1,0 +1,754 @@
+{
+    "13250": {
+        "id": "13250",
+        "name": "Shuriken",
+        "displayName": "Shuriken",
+        "aegisName": "shuriken",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 4,
+        "weight": 0.5,
+        "restrictions": {
+            "job": {
+                "Ninja": true
+            }
+        }
+    },
+    "13251": {
+        "id": "13251",
+        "name": "Shuriken Nebuloso",
+        "displayName": "Shuriken Nebuloso",
+        "aegisName": "nimbus_shuriken",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 10,
+        "weight": 0.5,
+        "restrictions": {
+            "job": {
+                "Ninja": true
+            },
+            "level": {
+                "min": 20
+            }
+        }
+    },
+    "13252": {
+        "id": "13252",
+        "name": "Shuriken Relâmpago",
+        "displayName": "Shuriken Relâmpago",
+        "aegisName": "flash_shuriken",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 20,
+        "weight": 0.5,
+        "restrictions": {
+            "job": {
+                "Ninja": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "13253": {
+        "id": "13253",
+        "name": "Shuriken Folha Afiada",
+        "displayName": "Shuriken Folha Afiada",
+        "aegisName": "sharp_leaf_shuriken",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 40,
+        "weight": 0.5,
+        "restrictions": {
+            "job": {
+                "Ninja": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "13254": {
+        "id": "13254",
+        "name": "Shuriken Espinhos Retorcidos",
+        "displayName": "Shuriken Espinhos Retorcidos",
+        "aegisName": "thorn_needle_shuriken",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 100,
+        "weight": 0.5,
+        "restrictions": {
+            "job": {
+                "Ninja": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "13255": {
+        "id": "13255",
+        "name": "Kunai Nevasca",
+        "displayName": "Kunai Nevasca",
+        "aegisName": "kunai_of_icicle",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 10,
+        "weight": 2,
+        "restrictions": {
+            "job": {
+                "Ninja": true
+            }
+        }
+    },
+    "13256": {
+        "id": "13256",
+        "name": "Kunai Terra Negra",
+        "displayName": "Kunai Terra Negra",
+        "aegisName": "kunai_of_black_soil",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 10,
+        "weight": 2,
+        "restrictions": {
+            "job": {
+                "Ninja": true
+            }
+        }
+    },
+    "13257": {
+        "id": "13257",
+        "name": "Kunai Sopro do Vento",
+        "displayName": "Kunai Sopro do Vento",
+        "aegisName": "kunai_of_furious_wind",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 10,
+        "weight": 2,
+        "restrictions": {
+            "job": {
+                "Ninja": true
+            }
+        }
+    },
+    "13258": {
+        "id": "13258",
+        "name": "Kunai Onda de Calor",
+        "displayName": "Kunai Onda de Calor",
+        "aegisName": "kunai_of_fierce_flame",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 10,
+        "weight": 2,
+        "restrictions": {
+            "job": {
+                "Ninja": true
+            }
+        }
+    },
+    "13259": {
+        "id": "13259",
+        "name": "Kunai Veneno Mortal",
+        "displayName": "Kunai Veneno Mortal",
+        "aegisName": "kunai_of_deadly_poison",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 10,
+        "weight": 2,
+        "restrictions": {
+            "job": {
+                "Ninja": true
+            }
+        }
+    },
+    "13260": {
+        "id": "13260",
+        "name": "Bomba de Maçã",
+        "displayName": "Bomba de Maçã",
+        "aegisName": "apple_bomb",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 100,
+        "weight": 0.1,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "13261": {
+        "id": "13261",
+        "name": "Bomba de Coco",
+        "displayName": "Bomba de Coco",
+        "aegisName": "coconut_bomb",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 100,
+        "weight": 0.1,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "13262": {
+        "id": "13262",
+        "name": "Bomba de Melão",
+        "displayName": "Bomba de Melão",
+        "aegisName": "melon_bomb",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 100,
+        "weight": 0.1,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "13263": {
+        "id": "13263",
+        "name": "Bomba de Abacaxi",
+        "displayName": "Bomba de Abacaxi",
+        "aegisName": "pineapple_bomb",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 100,
+        "weight": 0.1,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "13264": {
+        "id": "13264",
+        "name": "Bomba de Banana",
+        "displayName": "Bomba de Banana",
+        "aegisName": "banana_bomb",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 100,
+        "weight": 0.1,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "13265": {
+        "id": "13265",
+        "name": "Pedaço de Gororoba",
+        "displayName": "Pedaço de Gororoba",
+        "aegisName": "black_lump",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 100,
+        "weight": 5,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "13266": {
+        "id": "13266",
+        "name": "Pedaço de Gororoba Dura",
+        "displayName": "Pedaço de Gororoba Dura",
+        "aegisName": "black_hard_lump",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 100,
+        "weight": 5,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "13267": {
+        "id": "13267",
+        "name": "Pedaço de Gororoba Muito Dura",
+        "displayName": "Pedaço de Gororoba Muito Dura",
+        "aegisName": "very_hard_lump",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 100,
+        "weight": 5,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "13268": {
+        "id": "13268",
+        "name": "Pó Misterioso",
+        "displayName": "Pó Misterioso",
+        "aegisName": "mysterious_powder",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 100,
+        "weight": 1,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "13270": {
+        "id": 13270,
+        "name": "Projétil de Poção do Furor Físico",
+        "displayName": "Projétil de Poção do Furor Físico",
+        "aegisName": "full_swingk_to_throw",
+        "type": "AMMO",
+        "price": 100,
+        "weight": 5,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        },
+        "ammoType": "THROWABLE"
+    },
+    "13271": {
+        "id": 13271,
+        "name": "Projétil de Poção do Furor Mágico",
+        "displayName": "Projétil de Poção do Furor Mágico",
+        "aegisName": "mana_plus_to_throw",
+        "type": "AMMO",
+        "price": 100,
+        "weight": 5,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        },
+        "ammoType": "THROWABLE"
+    },
+    "13272": {
+        "id": 13272,
+        "name": "Poção de Recuperação",
+        "displayName": "Poção de Recuperação",
+        "aegisName": "cure_free_to_throw",
+        "price": 100,
+        "weight": 5,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "AMMO",
+        "ammoType": "THROWABLE"
+    },
+    "13275": {
+        "id": 13275,
+        "name": "Poção Pequena de HP",
+        "displayName": "Poção Pequena de HP",
+        "aegisName": "hp_inc_pots_to_throw",
+        "price": 100,
+        "weight": 2,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "AMMO",
+        "ammoType": "THROWABLE"
+    },
+    "13276": {
+        "id": 13276,
+        "name": "Poção Média de HP",
+        "displayName": "Poção Média de HP",
+        "aegisName": "hp_inc_potm_to_throw",
+        "price": 100,
+        "weight": 4,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "AMMO",
+        "ammoType": "THROWABLE"
+    },
+    "13277": {
+        "id": 13277,
+        "name": "Poção Grande de HP",
+        "displayName": "Poção Grande de HP",
+        "aegisName": "hp_inc_potl_to_throw",
+        "price": 100,
+        "weight": 8,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "AMMO",
+        "ammoType": "THROWABLE"
+    },
+    "13278": {
+        "id": 13278,
+        "name": "Poção Pequena de SP",
+        "displayName": "Poção Pequena de SP",
+        "aegisName": "sp_inc_pots_to_throw",
+        "price": 100,
+        "weight": 2,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "AMMO",
+        "ammoType": "THROWABLE"
+    },
+    "13279": {
+        "id": 13279,
+        "name": "Poção Média de SP",
+        "displayName": "Poção Média de SP",
+        "aegisName": "sp_inc_potm_to_throw",
+        "price": 100,
+        "weight": 4,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "AMMO",
+        "ammoType": "THROWABLE"
+    },
+    "13280": {
+        "id": 13280,
+        "name": "Poção Grande de SP",
+        "displayName": "Poção Grande de SP",
+        "aegisName": "sp_inc_potl_to_throw",
+        "price": 100,
+        "weight": 8,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "AMMO",
+        "ammoType": "THROWABLE"
+    },
+    "13281": {
+        "id": 13281,
+        "name": "Poção Branca Especial",
+        "displayName": "Poção Branca Especial",
+        "aegisName": "en_white_potz_to_throw",
+        "price": 100,
+        "weight": 7,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "AMMO",
+        "ammoType": "THROWABLE"
+    },
+    "13282": {
+        "id": 13282,
+        "name": "Poção Vitata 500",
+        "displayName": "Poção Vitata 500",
+        "aegisName": "vitata500_to_throw",
+        "price": 100,
+        "weight": 5,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "AMMO",
+        "ammoType": "THROWABLE"
+    },
+    "13283": {
+        "id": 13283,
+        "name": "Suco Celular Enriquecido",
+        "displayName": "Suco Celular Enriquecido",
+        "aegisName": "en_cel_juice_to_throw",
+        "price": 100,
+        "weight": 5,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "AMMO",
+        "ammoType": "THROWABLE"
+    },
+    "13284": {
+        "id": 13284,
+        "name": "Churrasco de Selvagem",
+        "displayName": "Churrasco de Selvagem",
+        "aegisName": "savage_bbq_to_throw",
+        "price": 100,
+        "weight": 5,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "AMMO",
+        "ammoType": "THROWABLE"
+    },
+    "13285": {
+        "id": 13285,
+        "name": "Coquetel Uivante",
+        "displayName": "Coquetel Uivante",
+        "aegisName": "wug_cocktail_to_throw",
+        "price": 100,
+        "weight": 5,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "AMMO",
+        "ammoType": "THROWABLE"
+    },
+    "13286": {
+        "id": 13286,
+        "name": "Carne ao Vinho",
+        "displayName": "Carne ao Vinho",
+        "aegisName": "m_brisket_to_throw",
+        "price": 100,
+        "weight": 5,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "AMMO",
+        "ammoType": "THROWABLE"
+    },
+    "13287": {
+        "id": "13287",
+        "name": "Chá Gelado de Sinoma",
+        "displayName": "Chá Gelado de Sinoma",
+        "aegisName": "siroma_icetea_to_throw",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 100,
+        "weight": 5,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "13288": {
+        "id": 13288,
+        "name": "Cozido de Drosera",
+        "displayName": "Cozido de Drosera",
+        "aegisName": "drocera_stew_to_throw",
+        "price": 100,
+        "weight": 5,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "AMMO",
+        "ammoType": "THROWABLE"
+    },
+    "13289": {
+        "id": 13289,
+        "name": "Macarrão com Petite",
+        "displayName": "Macarrão com Petite",
+        "aegisName": "petti_noodle_to_throw",
+        "price": 100,
+        "weight": 5,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "AMMO",
+        "ammoType": "THROWABLE"
+    },
+    "13290": {
+        "id": 13290,
+        "name": "Gororoba Preta",
+        "displayName": "Gororoba Preta",
+        "aegisName": "black_thing_to_throw",
+        "price": 100,
+        "weight": 5,
+        "restrictions": {
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 99
+            }
+        },
+        "type": "AMMO",
+        "ammoType": "THROWABLE"
+    },
+    "13291": {
+        "id": "13291",
+        "name": "Estrela-do-mar",
+        "displayName": "Estrela-do-mar",
+        "aegisName": "starfish",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 0,
+        "weight": 0.5,
+        "restrictions": {
+            "job": {
+                "Ninja": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "13292": {
+        "id": "13292",
+        "name": "Lula Seca",
+        "displayName": "Lula Seca",
+        "aegisName": "dried_squid",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 10,
+        "weight": 2,
+        "restrictions": {
+            "job": {
+                "Ninja": true
+            }
+        }
+    },
+    "13293": {
+        "id": "13293",
+        "name": "Peixe Voador",
+        "displayName": "Peixe Voador",
+        "aegisName": "flying_fish",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 10,
+        "weight": 2,
+        "restrictions": {
+            "job": {
+                "Ninja": true
+            }
+        }
+    },
+    "13294": {
+        "id": "13294",
+        "name": "Kunai Explosiva",
+        "displayName": "Kunai Explosiva",
+        "aegisName": "explosive_kunai",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 100,
+        "weight": 3,
+        "restrictions": {
+            "job": {
+                "Ninja": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "13314": {
+        "id": "13314",
+        "name": "Shuriken da Nevasca",
+        "displayName": "Shuriken da Nevasca",
+        "aegisName": "huuma_fluttering_snow",
+        "type": "AMMO",
+        "ammoType": "THROWABLE",
+        "price": 100000,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 110
+            }
+        }
+    }
+}

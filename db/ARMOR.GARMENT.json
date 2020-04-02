@@ -1,0 +1,2632 @@
+{
+    "2501": {
+        "id": "2501",
+        "name": "Capuz",
+        "displayName": "Capuz",
+        "aegisName": "hood",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 4
+        },
+        "price": 1000,
+        "weight": 20
+    },
+    "2502": {
+        "id": "2502",
+        "name": "Capuz",
+        "displayName": "Capuz [1]",
+        "aegisName": "hood_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 4
+        },
+        "price": 1000,
+        "weight": 20
+    },
+    "2503": {
+        "id": "2503",
+        "name": "Sobrepeliz",
+        "displayName": "Sobrepeliz",
+        "aegisName": "muffler",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 8
+        },
+        "price": 5000,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2504": {
+        "id": "2504",
+        "name": "Sobrepeliz",
+        "displayName": "Sobrepeliz [1]",
+        "aegisName": "muffler_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 8
+        },
+        "price": 5000,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2505": {
+        "id": "2505",
+        "name": "Manteau",
+        "displayName": "Manteau",
+        "aegisName": "manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 13
+        },
+        "price": 32000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Taekwon": true,
+                "Star_Gladiator": true
+            }
+        }
+    },
+    "2506": {
+        "id": "2506",
+        "name": "Manteau",
+        "displayName": "Manteau [1]",
+        "aegisName": "manteau_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 13
+        },
+        "price": 32000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Taekwon": true,
+                "Star_Gladiator": true
+            }
+        }
+    },
+    "2507": {
+        "id": "2507",
+        "name": "Capa do Marquês",
+        "displayName": "Capa do Marquês",
+        "aegisName": "cape_of_ancient_lord",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 9
+        },
+        "price": 82000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2508": {
+        "id": "2508",
+        "name": "Capa Velha",
+        "displayName": "Capa Velha",
+        "aegisName": "ragamuffin_cape",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 4
+        },
+        "price": 56000,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2509": {
+        "id": "2509",
+        "name": "Capa do Sobrevivente",
+        "displayName": "Capa do Sobrevivente",
+        "aegisName": "clack_of_servival",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 20000,
+        "weight": 55,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "2510": {
+        "id": "2510",
+        "name": "Capuz do Aprendiz",
+        "displayName": "Capuz do Aprendiz",
+        "aegisName": "novice_hood",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": false,
+            "def": 4
+        },
+        "price": 1,
+        "weight": 0.1,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            }
+        }
+    },
+    "2511": {
+        "id": "2511",
+        "name": "Capa dos Mortos",
+        "displayName": "Capa dos Mortos",
+        "aegisName": "skeletons_cape",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 13
+        },
+        "price": 5000,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "2512": {
+        "id": "2512",
+        "name": "Manteau do Aprendiz",
+        "displayName": "Manteau do Aprendiz [1]",
+        "aegisName": "novice_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 7
+        },
+        "price": 50000,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2513": {
+        "id": "2513",
+        "name": "Robe da Donzela Celestial",
+        "displayName": "Robe da Donzela Celestial [1]",
+        "aegisName": "celestial_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 18
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2514": {
+        "id": "2514",
+        "name": "Ombreira",
+        "displayName": "Ombreira [1]",
+        "aegisName": "pauldron",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2515": {
+        "id": "2515",
+        "name": "Asa de Águia",
+        "displayName": "Asa de Águia [1]",
+        "aegisName": "wing_of_eagle",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 12
+        },
+        "price": 20000,
+        "weight": 30,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 85
+            }
+        }
+    },
+    "2516": {
+        "id": "2516",
+        "name": "Sobrepeliz do Falcão",
+        "displayName": "Sobrepeliz do Falcão",
+        "aegisName": "falcon_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 8
+        },
+        "price": 30000,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "2517": {
+        "id": "2517",
+        "name": "Manteau de Vali",
+        "displayName": "Manteau de Vali",
+        "aegisName": "valis_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 13
+        },
+        "price": 30000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "2518": {
+        "id": 2518,
+        "name": "Véu de Morpheus",
+        "displayName": "Véu de Morpheus",
+        "aegisName": "morpheuss_shawl",
+        "type": "ARMOR",
+        "price": 30000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 33
+            }
+        },
+        "equipData": {
+            "class": "GARMENT",
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 8
+        }
+    },
+    "2519": {
+        "id": "2519",
+        "name": "Manteau de Morrigane",
+        "displayName": "Manteau de Morrigane",
+        "aegisName": "morriganes_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 9
+        },
+        "price": 30000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 61
+            }
+        }
+    },
+    "2520": {
+        "id": "2520",
+        "name": "Ombreiras de Goibne",
+        "displayName": "Ombreiras de Goibne",
+        "aegisName": "goibnes_shoulder_arms",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 11
+        },
+        "price": 30000,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 54
+            }
+        }
+    },
+    "2521": {
+        "id": "2521",
+        "name": "Cardigã Angelical",
+        "displayName": "Cardigã Angelical [1]",
+        "aegisName": "angels_warmth",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 6
+        },
+        "price": 10000,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 20
+            }
+        }
+    },
+    "2522": {
+        "id": "2522",
+        "name": "Camiseta",
+        "displayName": "Camiseta",
+        "aegisName": "undershirt",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 5
+        },
+        "price": 20000,
+        "weight": 15
+    },
+    "2523": {
+        "id": "2523",
+        "name": "Camiseta",
+        "displayName": "Camiseta [1]",
+        "aegisName": "undershirt_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 5
+        },
+        "price": 20000,
+        "weight": 15
+    },
+    "2524": {
+        "id": "2524",
+        "name": "Manto das Valquírias",
+        "displayName": "Manto das Valquírias [1]",
+        "aegisName": "valkyrie_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 0,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2525": {
+        "id": "2525",
+        "name": "Capa do Marquês",
+        "displayName": "Capa do Marquês [1]",
+        "aegisName": "cape_of_ancient_lord_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 9
+        },
+        "price": 82000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2527": {
+        "id": "2527",
+        "name": "Sopro do Dragão",
+        "displayName": "Sopro do Dragão [1]",
+        "aegisName": "dragon_breath",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 16
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "2528": {
+        "id": "2528",
+        "name": "Cachecol de Lã",
+        "displayName": "Cachecol de Lã [1]",
+        "aegisName": "wool_scarf",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 11
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "2529": {
+        "id": "2529",
+        "name": "Insígnia do Cavaleiro",
+        "displayName": "Insígnia do Cavaleiro",
+        "aegisName": "rider_insignia",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 13
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "2530": {
+        "id": "2530",
+        "name": "Insígnia do Cavaleiro",
+        "displayName": "Insígnia do Cavaleiro [1]",
+        "aegisName": "rider_insignia_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 13
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "2531": {
+        "id": "2531",
+        "name": "Ulfhedinn",
+        "displayName": "Ulfhedinn [1]",
+        "aegisName": "ulfhedinn",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 13
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "2532": {
+        "id": "2532",
+        "name": "Manto de Mithril",
+        "displayName": "Manto de Mithril [1]",
+        "aegisName": "mithril_magic_cape",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 8
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Hunter": true,
+                "Monk": true,
+                "Sage": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "2536": {
+        "id": "2536",
+        "name": "Pele de Ventus",
+        "displayName": "Pele de Ventus [1]",
+        "aegisName": "skin_of_ventus",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 7
+        },
+        "price": 20,
+        "weight": 25,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "2537": {
+        "id": "2537",
+        "name": "Manteau de Diabolus",
+        "displayName": "Manteau de Diabolus [1]",
+        "aegisName": "diabolus_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 15
+        },
+        "price": 20,
+        "weight": 25,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2538": {
+        "id": "2538",
+        "name": "Manteau do Capitão",
+        "displayName": "Manteau do Capitão [1]",
+        "aegisName": "commander_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 28
+        },
+        "price": 10,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Taekwon": true,
+                "Star_Gladiator": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2539": {
+        "id": "2539",
+        "name": "Manteau do Comandante",
+        "displayName": "Manteau do Comandante [1]",
+        "aegisName": "commander_manteau_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 20
+        },
+        "price": 10,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Hunter": true,
+                "Monk": true,
+                "Sage": true,
+                "Bard": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2540": {
+        "id": "2540",
+        "name": "Manteau do Xerife",
+        "displayName": "Manteau do Xerife [1]",
+        "aegisName": "sheriff_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 20
+        },
+        "price": 10,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2541": {
+        "id": "2541",
+        "name": "Manto de Asfrika",
+        "displayName": "Manto de Asfrika",
+        "aegisName": "asprika",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": false,
+            "def": 40
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "level": {
+                "min": 94
+            }
+        }
+    },
+    "2542": {
+        "id": "2542",
+        "name": "Manteau de Chamas de Naght Sieger",
+        "displayName": "Manteau de Chamas de Naght Sieger [1]",
+        "aegisName": "flame_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 16
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "2543": {
+        "id": "2543",
+        "name": "Manteau das Sílfides [A]",
+        "displayName": "Manteau das Sílfides [A]",
+        "aegisName": "sylphid_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": false,
+            "def": 33
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "2544": {
+        "id": "2544",
+        "name": "Couro de Leão de Vinhas",
+        "displayName": "Couro de Leão de Vinhas [1]",
+        "aegisName": "leather_of_tendrilion",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 14
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2545": {
+        "id": "2545",
+        "name": "Mushika",
+        "displayName": "Mushika [1]",
+        "aegisName": "musika",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Priest": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "2546": {
+        "id": "2546",
+        "name": "Capuz de Praia",
+        "displayName": "Capuz de Praia [1]",
+        "aegisName": "beach_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 60
+    },
+    "2549": {
+        "id": "2549",
+        "name": "Sobrepeliz Gloriosa",
+        "displayName": "Sobrepeliz Gloriosa",
+        "aegisName": "krieger_muffler1",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 3
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2550": {
+        "id": "2550",
+        "name": "Sobrepeliz de Pescador",
+        "displayName": "Sobrepeliz de Pescador",
+        "aegisName": "fishers_muffler",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 20
+    },
+    "2553": {
+        "id": "2553",
+        "name": "Manteau do Dragão",
+        "displayName": "Manteau do Dragão [1]",
+        "aegisName": "dragon_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 14
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2554": {
+        "id": "2554",
+        "name": "Pedaço de Pele do Guardião",
+        "displayName": "Pedaço de Pele do Guardião [1]",
+        "aegisName": "piece_of_angent_skin",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 90
+            }
+        }
+    },
+    "2560": {
+        "id": "2560",
+        "name": "Capa Valhalla",
+        "displayName": "Capa Valhalla",
+        "aegisName": "para_team_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": false,
+            "def": 14
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "2561": {
+        "id": "2561",
+        "name": "Capuz Evoluído",
+        "displayName": "Capuz Evoluído [1]",
+        "aegisName": "upg_hood",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 9
+        },
+        "price": 0,
+        "weight": 10
+    },
+    "2562": {
+        "id": "2562",
+        "name": "Sobrepeliz Aprimorado",
+        "displayName": "Sobrepeliz Aprimorado [1]",
+        "aegisName": "upg_muffler",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 13
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2564": {
+        "id": "2564",
+        "name": "Cauda Feral",
+        "displayName": "Cauda Feral",
+        "aegisName": "feral_tail",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": false,
+            "def": 16
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "2565": {
+        "id": "2565",
+        "name": "Toalha de Praia",
+        "displayName": "Toalha de Praia [1]",
+        "aegisName": "beach_towel",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 2
+        },
+        "price": 20,
+        "weight": 10
+    },
+    "2568": {
+        "id": "2568",
+        "name": "Sobrepeliz Sombrio do Sicário",
+        "displayName": "Sobrepeliz Sombrio do Sicário",
+        "aegisName": "muffler_of_roki",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": false,
+            "def": 10
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2569": {
+        "id": "2569",
+        "name": "Xale da Afeição",
+        "displayName": "Xale da Afeição",
+        "aegisName": "shawl_of_affection",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 12
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Priest": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2570": {
+        "id": "2570",
+        "name": "Xale do Julgamento",
+        "displayName": "Xale do Julgamento",
+        "aegisName": "shawl_of_judgement",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 12
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Priest": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2571": {
+        "id": "2571",
+        "name": "Capa II do Grupo Éden",
+        "displayName": "Capa II do Grupo Éden",
+        "aegisName": "para_team_manteau2",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": false,
+            "def": 18
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "2573": {
+        "id": "2573",
+        "name": "Asas de Arcanjo",
+        "displayName": "Asas de Arcanjo [1]",
+        "aegisName": "archangel_wing",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 18
+        },
+        "price": 20,
+        "weight": 20
+    },
+    "2574": {
+        "id": "2574",
+        "name": "Manteau de Ur",
+        "displayName": "Manteau de Ur",
+        "aegisName": "ur_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 20
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2575": {
+        "id": "2575",
+        "name": "Manteau de Peuz",
+        "displayName": "Manteau de Peuz",
+        "aegisName": "peuz_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 16
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2576": {
+        "id": "2576",
+        "name": "Mochila da Aventura",
+        "displayName": "Mochila da Aventura [1]",
+        "aegisName": "bravery_bag",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 20
+        },
+        "price": 20,
+        "weight": 20
+    },
+    "2577": {
+        "id": "2577",
+        "name": "Capuz dos Manuks",
+        "displayName": "Capuz dos Manuks",
+        "aegisName": "sabah_hood",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 13
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2578": {
+        "id": "2578",
+        "name": "Capuz de Nab",
+        "displayName": "Capuz de Nab",
+        "aegisName": "nab_hood",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 13
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2579": {
+        "id": "2579",
+        "name": "Estola Mágica",
+        "displayName": "Estola Mágica [1]",
+        "aegisName": "magic_stole",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 8
+        },
+        "price": 20,
+        "weight": 70
+    },
+    "2580": {
+        "id": "2580",
+        "name": "Sobrepeliz das Asas da Luz",
+        "displayName": "Sobrepeliz das Asas da Luz",
+        "aegisName": "white_wing_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 15
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Hunter": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2581": {
+        "id": "2581",
+        "name": "Sobrepeliz das Asas das Sombras",
+        "displayName": "Sobrepeliz das Asas das Sombras",
+        "aegisName": "black_wing_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 15
+        },
+        "price": 20,
+        "weight": 20,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Hunter": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "2582": {
+        "id": "2582",
+        "name": "Capa Recuperada",
+        "displayName": "Capa Recuperada",
+        "aegisName": "salvage_cape",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 1
+        },
+        "price": 56000,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Priest": true,
+                "Wizard": true
+            },
+            "level": {
+                "min": 130
+            }
+        }
+    },
+    "2584": {
+        "id": "2584",
+        "name": "Manto do Andarilho",
+        "displayName": "Manto do Andarilho [1]",
+        "aegisName": "wanderer_outer",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 8
+        },
+        "price": 20,
+        "weight": 50
+    },
+    "2586": {
+        "id": "2586",
+        "name": "Manteau de Cerco",
+        "displayName": "Manteau de Cerco [1]",
+        "aegisName": "siege_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 32
+        },
+        "price": 10,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "2587": {
+        "id": "2587",
+        "name": "Sobrepeliz de Cerco",
+        "displayName": "Sobrepeliz de Cerco [1]",
+        "aegisName": "siege_muffler",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 15
+        },
+        "price": 10,
+        "weight": 40,
+        "restrictions": {
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "2589": {
+        "id": "2589",
+        "name": "Asas de Arcanjo Caído",
+        "displayName": "Asas de Arcanjo Caído [1]",
+        "aegisName": "fallen_angel_wing",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 18
+        },
+        "price": 20,
+        "weight": 20
+    },
+    "2590": {
+        "id": "2590",
+        "name": "Roupa de Aniagem de Buwaya",
+        "displayName": "Roupa de Aniagem de Buwaya",
+        "aegisName": "buwaya_cloth",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 8
+        },
+        "price": 20,
+        "weight": 20
+    },
+    "2591": {
+        "id": "2591",
+        "name": "Roupa de Aniagem de Buwaya Bayani",
+        "displayName": "Roupa de Aniagem de Buwaya Bayani [1]",
+        "aegisName": "bayani_buwaya_cloth",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 8
+        },
+        "price": 20,
+        "weight": 20
+    },
+    "20700": {
+        "id": "20700",
+        "name": "Manteau de Aegir",
+        "displayName": "Manteau de Aegir [1]",
+        "aegisName": "egir_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 200000,
+        "weight": 30,
+        "restrictions": {
+            "level": {
+                "min": 110
+            }
+        }
+    },
+    "20701": {
+        "id": "20701",
+        "name": "Manteau Solar",
+        "displayName": "Manteau Solar [1]",
+        "aegisName": "sol_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 70
+    },
+    "20702": {
+        "id": "20702",
+        "name": "Sobrepeliz TE",
+        "displayName": "Sobrepeliz TE",
+        "aegisName": "te_woe_muffler",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": false,
+            "def": 5
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "20703": {
+        "id": "20703",
+        "name": "Manteau TE",
+        "displayName": "Manteau TE",
+        "aegisName": "te_woe_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": false,
+            "def": 10
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "20704": {
+        "id": "20704",
+        "name": "Manteau Mágico TE",
+        "displayName": "Manteau Mágico TE",
+        "aegisName": "te_woe_magic_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": false,
+            "def": 5
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "20706": {
+        "id": "20706",
+        "name": "Mochila de Amistr",
+        "displayName": "Mochila de Amistr",
+        "aegisName": "amistr_bag",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 18
+        },
+        "price": 0,
+        "weight": 50
+    },
+    "20709": {
+        "id": "20709",
+        "name": "Manteau de Mana",
+        "displayName": "Manteau de Mana",
+        "aegisName": "mana_manteau",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 1,
+                "max": 100
+            }
+        }
+    },
+    "20710": {
+        "id": "20710",
+        "name": "Cardigã Arcangelical",
+        "displayName": "Cardigã Arcangelical [1]",
+        "aegisName": "impr_angels_warmth",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 6
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "20717": {
+        "id": "20717",
+        "name": "Pele da Rainha Verme",
+        "displayName": "Pele da Rainha Verme",
+        "aegisName": "faceworm_skin",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 38
+        },
+        "price": 20,
+        "weight": 40
+    },
+    "20718": {
+        "id": "20718",
+        "name": "Pele da Rainha Verme",
+        "displayName": "Pele da Rainha Verme [1]",
+        "aegisName": "faceworm_skin_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 38
+        },
+        "price": 20,
+        "weight": 40
+    },
+    "20721": {
+        "id": "20721",
+        "name": "Capa de Cinzas",
+        "displayName": "Capa de Cinzas [1]",
+        "aegisName": "cloak_of_gray",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 45
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "20725": {
+        "id": 20725,
+        "name": "Lacinho da Piamette",
+        "displayName": "Lacinho da Piamette [1]",
+        "aegisName": "ribbon_piamat",
+        "equipData": {
+            "slots": 1,
+            "class": "GARMENT",
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 0
+        },
+        "type": "ARMOR",
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "20732": {
+        "id": 20732,
+        "name": "Peça de VIT Suplementar",
+        "displayName": "Peça de VIT Suplementar [1]",
+        "aegisName": "supplement_part_con",
+        "equipData": {
+            "slots": 1,
+            "class": "GARMENT",
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 20
+        },
+        "type": "ARMOR",
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Blacksmith": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "20733": {
+        "id": 20733,
+        "name": "Autopeça - Motor",
+        "displayName": "Autopeça - Motor [1]",
+        "aegisName": "upgrade_part_engine",
+        "equipData": {
+            "slots": 1,
+            "class": "GARMENT",
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 25
+        },
+        "type": "ARMOR",
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Blacksmith": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "20773": {
+        "id": "20773",
+        "name": "Motor E.X.C.",
+        "displayName": "Motor E.X.C.",
+        "aegisName": "excelion_wing",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 0,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "20788": {
+        "id": "20788",
+        "name": "Manto Básico de Doram",
+        "displayName": "Manto Básico de Doram [1]",
+        "aegisName": "doram_only_cape",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 20
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "20789": {
+        "id": "20789",
+        "name": "Manto Elegante de Doram",
+        "displayName": "Manto Elegante de Doram [1]",
+        "aegisName": "doram_high_cape",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 140
+            }
+        }
+    },
+    "20790": {
+        "id": "20790",
+        "name": "Manto Luxuoso de Doram",
+        "displayName": "Manto Luxuoso de Doram [1]",
+        "aegisName": "doram_ele_cape",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 30
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 175
+            }
+        }
+    },
+    "20799": {
+        "id": "20799",
+        "name": "Toalha do Mochileiro",
+        "displayName": "Toalha do Mochileiro [1]",
+        "aegisName": "elemental_towel",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true
+        },
+        "weight": 40
+    },
+    "20806": {
+        "id": "20806",
+        "name": "Mochila de Amistr Explosiva",
+        "displayName": "Mochila de Amistr Explosiva [1]",
+        "aegisName": "amistrbag_magnum",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true
+        },
+        "price": 300000,
+        "weight": 20
+    },
+    "20815": {
+        "id": "20815",
+        "name": "Capa do Serafim Caído",
+        "displayName": "Capa do Serafim Caído [1]",
+        "aegisName": "seraphimrobe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true
+        },
+        "weight": 30
+    },
+    "20816": {
+        "id": "20816",
+        "name": "Echarpe Sombrio",
+        "displayName": "Echarpe Sombrio [1]",
+        "aegisName": "yoichi_muffler",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true
+        },
+        "weight": 30
+    },
+    "20842": {
+        "id": "20842",
+        "name": "Alforje Mágico do Antonio",
+        "displayName": "Alforje Mágico do Antonio [1]",
+        "aegisName": "bag_of_antonio_melee",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true
+        },
+        "weight": 20
+    },
+    "20843": {
+        "id": "20843",
+        "name": "Bolsa Mágica do Antonio",
+        "displayName": "Bolsa Mágica do Antonio [1]",
+        "aegisName": "bag_of_antonio_range",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true
+        },
+        "weight": 20
+    },
+    "20844": {
+        "id": "20844",
+        "name": "Sacola Mágica de Antonio",
+        "displayName": "Sacola Mágica de Antonio [1]",
+        "aegisName": "bag_of_antonio_magic",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true
+        },
+        "weight": 20
+    },
+    "20853": {
+        "id": "20853",
+        "name": "Asas de Rudo",
+        "displayName": "Asas de Rudo [1]",
+        "aegisName": "rudo_black_wings",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true
+        },
+        "weight": 60
+    },
+    "20904": {
+        "id": "20904",
+        "name": "Bata de Etran",
+        "displayName": "Bata de Etran [1]",
+        "aegisName": "etran_shirt_br",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true
+        }
+    },
+    "20908": {
+        "id": "20908",
+        "name": "Manto da Bruxa",
+        "displayName": "Manto da Bruxa [1]",
+        "aegisName": "jirant_cloak_br",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true
+        }
+    },
+    "20909": {
+        "id": "20909",
+        "name": "Haori de Batalha",
+        "displayName": "Haori de Batalha [1]",
+        "aegisName": "battlesurcoat_br",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true
+        }
+    },
+    "20922": {
+        "id": "20922",
+        "name": "Manto Leviatã",
+        "displayName": "Manto Leviatã [1]",
+        "aegisName": "leviathan_muffler",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true
+        },
+        "weight": 20
+    },
+    "20939": {
+        "id": "20939",
+        "name": "Manto do Senhor do Tempo",
+        "displayName": "Manto do Senhor do Tempo [1]",
+        "aegisName": "time_overload_hood",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 0
+    },
+    "20941": {
+        "id": "20941",
+        "name": "Manto Fênix",
+        "displayName": "Manto Fênix [1]",
+        "aegisName": "phoenix_muffler",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true
+        },
+        "weight": 20
+    },
+    "20963": {
+        "id": "20963",
+        "name": "Manto Temporal FOR",
+        "displayName": "Manto Temporal FOR [1]",
+        "aegisName": "temporal_m_str",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 40
+    },
+    "20964": {
+        "id": "20964",
+        "name": "Manto Temporal AGI",
+        "displayName": "Manto Temporal AGI [1]",
+        "aegisName": "temporal_m_agi",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 40
+    },
+    "20965": {
+        "id": "20965",
+        "name": "Manto Temporal VIT",
+        "displayName": "Manto Temporal VIT [1]",
+        "aegisName": "temporal_m_vit",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 40
+    },
+    "20966": {
+        "id": "20966",
+        "name": "Manto Temporal INT",
+        "displayName": "Manto Temporal INT [1]",
+        "aegisName": "temporal_m_int",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 40
+    },
+    "20967": {
+        "id": "20967",
+        "name": "Manto Temporal DES",
+        "displayName": "Manto Temporal DES [1]",
+        "aegisName": "temporal_m_dex",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 40
+    },
+    "20968": {
+        "id": "20968",
+        "name": "Manto Temporal SOR",
+        "displayName": "Manto Temporal SOR [1]",
+        "aegisName": "temporal_m_luk",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 40
+    },
+    "20973": {
+        "id": "20973",
+        "name": "Manto dos Espíritos",
+        "displayName": "Manto dos Espíritos [1]",
+        "aegisName": "spiritual_cloth",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "GARMENT",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true
+        },
+        "weight": 90
+    }
+}

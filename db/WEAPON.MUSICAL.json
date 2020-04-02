@@ -1,0 +1,966 @@
+{
+    "1900": {
+        "id": 1900,
+        "name": "Violino Sobrenatural",
+        "displayName": "Violino Sobrenatural [1]",
+        "aegisName": "violin_of_vicious_mind",
+        "equipData": {
+            "slots": 1,
+            "class": "MUSICAL",
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 130,
+            "matk": 50,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 20,
+        "weight": 130,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 160
+            }
+        }
+    },
+    "1901": {
+        "id": "1901",
+        "name": "Violino",
+        "displayName": "Violino [3]",
+        "aegisName": "violin",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 4000,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 2
+            }
+        }
+    },
+    "1902": {
+        "id": "1902",
+        "name": "Violino",
+        "displayName": "Violino [4]",
+        "aegisName": "violin_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 4,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 4000,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 2
+            }
+        }
+    },
+    "1903": {
+        "id": "1903",
+        "name": "Bandolin",
+        "displayName": "Bandolin [2]",
+        "aegisName": "mandolin",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 18000,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 14
+            }
+        }
+    },
+    "1904": {
+        "id": "1904",
+        "name": "Bandolin",
+        "displayName": "Bandolin [3]",
+        "aegisName": "mandolin_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 90,
+            "refinable": true
+        },
+        "price": 18000,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 14
+            }
+        }
+    },
+    "1905": {
+        "id": "1905",
+        "name": "Alaúde",
+        "displayName": "Alaúde [2]",
+        "aegisName": "lute",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 105,
+            "refinable": true
+        },
+        "price": 24500,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 14
+            }
+        }
+    },
+    "1906": {
+        "id": "1906",
+        "name": "Alaúde",
+        "displayName": "Alaúde [3]",
+        "aegisName": "lute_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 105,
+            "refinable": true
+        },
+        "price": 24500,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 14
+            }
+        }
+    },
+    "1907": {
+        "id": "1907",
+        "name": "Violão",
+        "displayName": "Violão",
+        "aegisName": "guitar",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 142,
+            "refinable": true
+        },
+        "price": 47000,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1908": {
+        "id": "1908",
+        "name": "Violão",
+        "displayName": "Violão [1]",
+        "aegisName": "guitar_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 142,
+            "refinable": true
+        },
+        "price": 47000,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1909": {
+        "id": "1909",
+        "name": "Harpa",
+        "displayName": "Harpa [1]",
+        "aegisName": "harp",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 114,
+            "refinable": true
+        },
+        "price": 62000,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1910": {
+        "id": "1910",
+        "name": "Harpa",
+        "displayName": "Harpa [2]",
+        "aegisName": "harp_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 114,
+            "refinable": true
+        },
+        "price": 62000,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1911": {
+        "id": "1911",
+        "name": "Gumoongoh",
+        "displayName": "Gumoongoh [1]",
+        "aegisName": "guh_moon_goh",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 126,
+            "refinable": true
+        },
+        "price": 54000,
+        "weight": 130,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1912": {
+        "id": "1912",
+        "name": "Gumoongoh",
+        "displayName": "Gumoongoh [2]",
+        "aegisName": "guh_moon_goh_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 126,
+            "refinable": true
+        },
+        "price": 54000,
+        "weight": 130,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1913": {
+        "id": "1913",
+        "name": "Guitarra Elétrica",
+        "displayName": "Guitarra Elétrica",
+        "aegisName": "electronic_guitar",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 180,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1914": {
+        "id": "1914",
+        "name": "Violão da Paixão Ardente",
+        "displayName": "Violão da Paixão Ardente",
+        "aegisName": "guitar_of_passion",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1915": {
+        "id": "1915",
+        "name": "Violão do Solitário",
+        "displayName": "Violão do Solitário",
+        "aegisName": "guitar_of_blue_solo",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1916": {
+        "id": "1916",
+        "name": "Violão da Mãe Terra",
+        "displayName": "Violão da Mãe Terra",
+        "aegisName": "guitar_of_vast_land",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1917": {
+        "id": "1917",
+        "name": "Violão da Brisa Gentil",
+        "displayName": "Violão da Brisa Gentil",
+        "aegisName": "guitar_of_gentle_breeze",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 27
+            }
+        }
+    },
+    "1918": {
+        "id": "1918",
+        "name": "Alaúde Oriental",
+        "displayName": "Alaúde Oriental",
+        "aegisName": "oriental_lute",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "1919": {
+        "id": "1919",
+        "name": "Contra-Baixo",
+        "displayName": "Contra-Baixo [1]",
+        "aegisName": "base_guitar",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1920": {
+        "id": "1920",
+        "name": "Guitarra Frenética",
+        "displayName": "Guitarra Frenética",
+        "aegisName": "berserk_guitar",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 10,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 180,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1922": {
+        "id": "1922",
+        "name": "Alaúde Oriental",
+        "displayName": "Alaúde Oriental [2]",
+        "aegisName": "oriental_lute_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "1923": {
+        "id": "1923",
+        "name": "Guitarra de Batalha A",
+        "displayName": "Guitarra de Batalha A",
+        "aegisName": "bf_instrument1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1924": {
+        "id": "1924",
+        "name": "Guitarra de Batalha B",
+        "displayName": "Guitarra de Batalha B",
+        "aegisName": "bf_instrument2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1925": {
+        "id": "1925",
+        "name": "Violoncelo",
+        "displayName": "Violoncelo [3]",
+        "aegisName": "cello",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1926": {
+        "id": "1926",
+        "name": "Harpa de Nepenthes",
+        "displayName": "Harpa de Nepenthes [2]",
+        "aegisName": "harp_of_nepenthes",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1927": {
+        "id": "1927",
+        "name": "Guitarra Gloriosa",
+        "displayName": "Guitarra Gloriosa",
+        "aegisName": "krieger_instrument1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1930": {
+        "id": "1930",
+        "name": "Flauta de Raiz",
+        "displayName": "Flauta de Raiz [1]",
+        "aegisName": "green_whistle",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 170,
+            "matk": 50,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 102
+            }
+        }
+    },
+    "1931": {
+        "id": "1931",
+        "name": "Guitarra I do Grupo Éden",
+        "displayName": "Guitarra I do Grupo Éden",
+        "aegisName": "p_string_inst1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 125,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1932": {
+        "id": "1932",
+        "name": "Violão TE",
+        "displayName": "Violão TE",
+        "aegisName": "te_woe_guitar",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 100,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1933": {
+        "id": "1933",
+        "name": "Violino de Cinzas",
+        "displayName": "Violino de Cinzas [1]",
+        "aegisName": "thanos_violin",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 200,
+            "matk": 130,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "1934": {
+        "id": "1934",
+        "name": "Contrabaixo",
+        "displayName": "Contrabaixo [2]",
+        "aegisName": "contabass",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 180,
+            "matk": 120,
+            "refinable": true
+        },
+        "price": 124000,
+        "weight": 25,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 130
+            }
+        }
+    },
+    "1935": {
+        "id": "1935",
+        "name": "Ukulele do Novo Oz",
+        "displayName": "Ukulele do Novo Oz [2]",
+        "aegisName": "ukulele_of_newoz",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 160,
+            "refinable": true
+        },
+        "price": 124000,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 130
+            }
+        }
+    },
+    "1939": {
+        "id": "1939",
+        "name": "Violino Rubi",
+        "displayName": "Violino Rubi [2]",
+        "aegisName": "scarlet_viollin",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "16051": {
+        "id": "16051",
+        "name": "Maça da Valquíria Mágica",
+        "displayName": "Maça da Valquíria Mágica [4]",
+        "aegisName": "valkyrie_hammer",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 4,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 50,
+            "refinable": true
+        },
+        "weight": 10
+    },
+    "570002": {
+        "id": "570002",
+        "name": "Violino Ancestral",
+        "displayName": "Violino Ancestral [2]",
+        "aegisName": "trumpet_shell_k",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "MUSICAL",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 160,
+            "refinable": true
+        },
+        "weight": 70
+    }
+}

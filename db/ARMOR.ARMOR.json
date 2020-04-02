@@ -1,0 +1,4709 @@
+{
+    "2301": {
+        "id": "2301",
+        "name": "Camisa de Algodão",
+        "displayName": "Camisa de Algodão",
+        "aegisName": "cotton_shirt",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 10,
+        "weight": 10
+    },
+    "2302": {
+        "id": "2302",
+        "name": "Camisa de Algodão",
+        "displayName": "Camisa de Algodão [1]",
+        "aegisName": "cotton_shirt_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 10,
+        "weight": 10
+    },
+    "2303": {
+        "id": "2303",
+        "name": "Gibão",
+        "displayName": "Gibão",
+        "aegisName": "leather_jacket",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 15
+        },
+        "price": 200,
+        "weight": 20
+    },
+    "2304": {
+        "id": "2304",
+        "name": "Gibão",
+        "displayName": "Gibão [1]",
+        "aegisName": "leather_jacket_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 15
+        },
+        "price": 200,
+        "weight": 20
+    },
+    "2305": {
+        "id": "2305",
+        "name": "Túnica",
+        "displayName": "Túnica",
+        "aegisName": "adventure_suit",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 20
+        },
+        "price": 1000,
+        "weight": 30
+    },
+    "2306": {
+        "id": "2306",
+        "name": "Túnica",
+        "displayName": "Túnica [1]",
+        "aegisName": "adventureres_suit_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 20
+        },
+        "price": 1000,
+        "weight": 30
+    },
+    "2307": {
+        "id": "2307",
+        "name": "Capote",
+        "displayName": "Capote",
+        "aegisName": "mantle",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 37
+        },
+        "price": 10000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2308": {
+        "id": "2308",
+        "name": "Capote",
+        "displayName": "Capote [1]",
+        "aegisName": "mantle_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 37
+        },
+        "price": 10000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2309": {
+        "id": "2309",
+        "name": "Casaco",
+        "displayName": "Casaco",
+        "aegisName": "coat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 42
+        },
+        "price": 22000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2310": {
+        "id": "2310",
+        "name": "Casaco",
+        "displayName": "Casaco [1]",
+        "aegisName": "coat_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 42
+        },
+        "price": 22000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2311": {
+        "id": "2311",
+        "name": "Casaco de Pele",
+        "displayName": "Casaco de Pele [1]",
+        "aegisName": "mink_coat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 30
+        },
+        "price": 20,
+        "weight": 230,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "2312": {
+        "id": "2312",
+        "name": "Armadura Acolchoada",
+        "displayName": "Armadura Acolchoada",
+        "aegisName": "padded_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 35
+        },
+        "price": 48000,
+        "weight": 280,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            }
+        }
+    },
+    "2313": {
+        "id": "2313",
+        "name": "Armadura Acolchoada",
+        "displayName": "Armadura Acolchoada [1]",
+        "aegisName": "padded_armor_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 35
+        },
+        "price": 48000,
+        "weight": 280,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            }
+        }
+    },
+    "2314": {
+        "id": "2314",
+        "name": "Cota de Malha",
+        "displayName": "Cota de Malha",
+        "aegisName": "chain_mail",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 55
+        },
+        "price": 65000,
+        "weight": 330,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            }
+        }
+    },
+    "2315": {
+        "id": "2315",
+        "name": "Cota de Malha",
+        "displayName": "Cota de Malha [1]",
+        "aegisName": "chain_mail_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 55
+        },
+        "price": 65000,
+        "weight": 330,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            }
+        }
+    },
+    "2316": {
+        "id": "2316",
+        "name": "Armadura Metálica",
+        "displayName": "Armadura Metálica",
+        "aegisName": "plate_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 70
+        },
+        "price": 80000,
+        "weight": 450,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2317": {
+        "id": "2317",
+        "name": "Armadura Metálica",
+        "displayName": "Armadura Metálica [1]",
+        "aegisName": "plate_armor_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 70
+        },
+        "price": 80000,
+        "weight": 450,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2318": {
+        "id": "2318",
+        "name": "Vestimental Nobre",
+        "displayName": "Vestimental Nobre [1]",
+        "aegisName": "clothes_of_the_lord",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 59
+        },
+        "price": 20,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Merchant": true,
+                "Blacksmith": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "2319": {
+        "id": "2319",
+        "name": "Jaqueta Brilhante",
+        "displayName": "Jaqueta Brilhante [1]",
+        "aegisName": "glittering_clothes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 58
+        },
+        "price": 20,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "2320": {
+        "id": "2320",
+        "name": "Paletó",
+        "displayName": "Paletó [1]",
+        "aegisName": "formal_suit",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2321": {
+        "id": "2321",
+        "name": "Manto de Seda",
+        "displayName": "Manto de Seda",
+        "aegisName": "silk_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 20
+        },
+        "price": 8000,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Alchemist": true,
+                "Soul_Linker": true
+            }
+        }
+    },
+    "2322": {
+        "id": "2322",
+        "name": "Manto de Seda",
+        "displayName": "Manto de Seda [1]",
+        "aegisName": "silk_robe_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 20
+        },
+        "price": 8000,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Alchemist": true,
+                "Soul_Linker": true
+            }
+        }
+    },
+    "2323": {
+        "id": "2323",
+        "name": "Escapulário",
+        "displayName": "Escapulário",
+        "aegisName": "scapulare",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 24
+        },
+        "price": 6500,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            }
+        }
+    },
+    "2324": {
+        "id": "2324",
+        "name": "Escapulário",
+        "displayName": "Escapulário [1]",
+        "aegisName": "scapulare_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 24
+        },
+        "price": 6500,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            }
+        }
+    },
+    "2325": {
+        "id": "2325",
+        "name": "Manto Sagrado",
+        "displayName": "Manto Sagrado",
+        "aegisName": "saint_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 50
+        },
+        "price": 54000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Merchant": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Monk": true,
+                "Alchemist": true
+            }
+        }
+    },
+    "2326": {
+        "id": "2326",
+        "name": "Manto Sagrado",
+        "displayName": "Manto Sagrado [1]",
+        "aegisName": "saint_robe_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 50
+        },
+        "price": 54000,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Merchant": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Monk": true,
+                "Alchemist": true
+            }
+        }
+    },
+    "2327": {
+        "id": "2327",
+        "name": "Batina",
+        "displayName": "Batina",
+        "aegisName": "holy_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 57
+        },
+        "price": 20,
+        "weight": 170,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "2328": {
+        "id": "2328",
+        "name": "Armadura de Madeira",
+        "displayName": "Armadura de Madeira",
+        "aegisName": "wooden_mail",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 5500,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            }
+        }
+    },
+    "2329": {
+        "id": "2329",
+        "name": "Armadura de Madeira",
+        "displayName": "Armadura de Madeira [1]",
+        "aegisName": "wooden_mail_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 5500,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            }
+        }
+    },
+    "2330": {
+        "id": "2330",
+        "name": "Malha",
+        "displayName": "Malha",
+        "aegisName": "tights",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 27
+        },
+        "price": 71000,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 45
+            }
+        }
+    },
+    "2331": {
+        "id": "2331",
+        "name": "Malha",
+        "displayName": "Malha [1]",
+        "aegisName": "tights_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 27
+        },
+        "price": 71000,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 45
+            }
+        }
+    },
+    "2332": {
+        "id": "2332",
+        "name": "Manto Prateado",
+        "displayName": "Manto Prateado",
+        "aegisName": "silver_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 23
+        },
+        "price": 7000,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            }
+        }
+    },
+    "2333": {
+        "id": "2333",
+        "name": "Manto Prateado",
+        "displayName": "Manto Prateado [1]",
+        "aegisName": "silver_robe_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 23
+        },
+        "price": 7000,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            }
+        }
+    },
+    "2334": {
+        "id": "2334",
+        "name": "Vestimenta Arcana",
+        "displayName": "Vestimenta Arcana",
+        "aegisName": "mage_coat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "2335": {
+        "id": "2335",
+        "name": "Traje de Gatuno",
+        "displayName": "Traje de Gatuno",
+        "aegisName": "thief_clothes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 74000,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Thief": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Ninja": true,
+                "Kagerou": true
+            }
+        }
+    },
+    "2336": {
+        "id": "2336",
+        "name": "Traje de Gatuno",
+        "displayName": "Traje de Gatuno [1]",
+        "aegisName": "thief_clothes_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 74000,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Thief": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Ninja": true,
+                "Kagerou": true
+            }
+        }
+    },
+    "2337": {
+        "id": "2337",
+        "name": "Indumentária Ninja",
+        "displayName": "Indumentária Ninja",
+        "aegisName": "ninja_suit",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 58
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Thief": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "2338": {
+        "id": "2338",
+        "name": "Vestido de Casamento",
+        "displayName": "Vestido de Casamento",
+        "aegisName": "wedding_dress",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 43000,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2339": {
+        "id": "2339",
+        "name": "Roupa de Baixo",
+        "displayName": "Roupa de Baixo",
+        "aegisName": "g_strings",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 22
+        },
+        "price": 1000,
+        "weight": 10
+    },
+    "2340": {
+        "id": "2340",
+        "name": "Armadura de Aprendiz",
+        "displayName": "Armadura de Aprendiz [1]",
+        "aegisName": "novice_breast",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 32
+        },
+        "price": 89000,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 10
+            }
+        }
+    },
+    "2341": {
+        "id": "2341",
+        "name": "Armadura Legionária",
+        "displayName": "Armadura Legionária",
+        "aegisName": "full_plate_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 79
+        },
+        "price": 94000,
+        "weight": 550,
+        "restrictions": {
+            "job": {
+                "Crusader": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "2342": {
+        "id": "2342",
+        "name": "Armadura Legionária",
+        "displayName": "Armadura Legionária [1]",
+        "aegisName": "full_plate_armor_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 79
+        },
+        "price": 102500,
+        "weight": 550,
+        "restrictions": {
+            "job": {
+                "Crusader": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "2343": {
+        "id": "2343",
+        "name": "Manto da Conjuração",
+        "displayName": "Manto da Conjuração",
+        "aegisName": "robe_of_casting",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 124800,
+        "weight": 110,
+        "restrictions": {
+            "job": {
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "2344": {
+        "id": "2344",
+        "name": "Couraça da Fúria Flamejante",
+        "displayName": "Couraça da Fúria Flamejante",
+        "aegisName": "flame_sprits_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 136000,
+        "weight": 220,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 45
+            }
+        }
+    },
+    "2345": {
+        "id": "2345",
+        "name": "Couraça da Fúria Flamejante",
+        "displayName": "Couraça da Fúria Flamejante [1]",
+        "aegisName": "flame_sprits_armor_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 136000,
+        "weight": 220,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 45
+            }
+        }
+    },
+    "2346": {
+        "id": "2346",
+        "name": "Couraça da Submissão Oceânica",
+        "displayName": "Couraça da Submissão Oceânica",
+        "aegisName": "water_sprits_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 136000,
+        "weight": 220,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 45
+            }
+        }
+    },
+    "2347": {
+        "id": "2347",
+        "name": "Couraça da Submissão Oceânica",
+        "displayName": "Couraça da Submissão Oceânica [1]",
+        "aegisName": "water_sprits_armor_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 136000,
+        "weight": 220,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 45
+            }
+        }
+    },
+    "2348": {
+        "id": "2348",
+        "name": "Couraça da Liberdade Celestial",
+        "displayName": "Couraça da Liberdade Celestial",
+        "aegisName": "wind_sprits_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 136000,
+        "weight": 220,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 45
+            }
+        }
+    },
+    "2349": {
+        "id": "2349",
+        "name": "Couraça da Liberdade Celestial",
+        "displayName": "Couraça da Liberdade Celestial [1]",
+        "aegisName": "wind_sprits_armor_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 136000,
+        "weight": 220,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 45
+            }
+        }
+    },
+    "2350": {
+        "id": "2350",
+        "name": "Couraça da Perseverança Continental",
+        "displayName": "Couraça da Perseverança Continental",
+        "aegisName": "earth_sprits_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 136000,
+        "weight": 220,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 45
+            }
+        }
+    },
+    "2351": {
+        "id": "2351",
+        "name": "Couraça da Perseverança Continental",
+        "displayName": "Couraça da Perseverança Continental [1]",
+        "aegisName": "earth_sprits_armor_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 136000,
+        "weight": 220,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 45
+            }
+        }
+    },
+    "2352": {
+        "id": "2352",
+        "name": "Traje do Aprendiz",
+        "displayName": "Traje do Aprendiz",
+        "aegisName": "novice_plate",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": false,
+            "def": 25
+        },
+        "price": 1,
+        "weight": 0.1,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            }
+        }
+    },
+    "2353": {
+        "id": "2353",
+        "name": "Bênção de Odin",
+        "displayName": "Bênção de Odin [1]",
+        "aegisName": "odins_blessing",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 53
+        },
+        "price": 30000,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "2354": {
+        "id": "2354",
+        "name": "Armadura de Goibne",
+        "displayName": "Armadura de Goibne",
+        "aegisName": "goibnes_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 58
+        },
+        "price": 50000,
+        "weight": 350,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 54
+            }
+        }
+    },
+    "2355": {
+        "id": "2355",
+        "name": "Proteção Angelical",
+        "displayName": "Proteção Angelical [1]",
+        "aegisName": "angels_protection",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 10000,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "2356": {
+        "id": "2356",
+        "name": "Batina da Fé",
+        "displayName": "Batina da Fé [1]",
+        "aegisName": "vestment_of_grace",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 45
+        },
+        "price": 20,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "2357": {
+        "id": "2357",
+        "name": "Armadura das Valquírias",
+        "displayName": "Armadura das Valquírias [1]",
+        "aegisName": "valkyrie_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 55
+        },
+        "price": 0,
+        "weight": 280,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2358": {
+        "id": "2358",
+        "name": "Vestimenta Angelical",
+        "displayName": "Vestimenta Angelical",
+        "aegisName": "dress_of_angel",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": false,
+            "def": 5
+        },
+        "price": 20,
+        "weight": 100
+    },
+    "2359": {
+        "id": "2359",
+        "name": "Indumentária Ninja",
+        "displayName": "Indumentária Ninja [1]",
+        "aegisName": "ninja_suit_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 58
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Thief": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "2360": {
+        "id": "2360",
+        "name": "Manto da Conjuração",
+        "displayName": "Manto da Conjuração [1]",
+        "aegisName": "robe_of_casting_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 124800,
+        "weight": 110,
+        "restrictions": {
+            "job": {
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "2364": {
+        "id": "2364",
+        "name": "Armadura de Meteo",
+        "displayName": "Armadura de Meteo [1]",
+        "aegisName": "meteo_plate_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 85
+        },
+        "price": 20,
+        "weight": 300,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "2365": {
+        "id": "2365",
+        "name": "Bata de Orleans",
+        "displayName": "Bata de Orleans [1]",
+        "aegisName": "orleans_gown",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 15
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "2366": {
+        "id": "2366",
+        "name": "Vestimenta Divina",
+        "displayName": "Vestimenta Divina [1]",
+        "aegisName": "divine_cloth",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 50
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "2367": {
+        "id": "2367",
+        "name": "Traje de Atirador",
+        "displayName": "Traje de Atirador [1]",
+        "aegisName": "sniping_suit",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 42
+        },
+        "price": 20,
+        "weight": 75,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Hunter": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "2371": {
+        "id": "2371",
+        "name": "Roupa de Baixo",
+        "displayName": "Roupa de Baixo [1]",
+        "aegisName": "g_strings_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 22
+        },
+        "price": 1000,
+        "weight": 10
+    },
+    "2372": {
+        "id": "2372",
+        "name": "Vestimenta Arcana",
+        "displayName": "Vestimenta Arcana [1]",
+        "aegisName": "mage_coat_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "2373": {
+        "id": "2373",
+        "name": "Batina",
+        "displayName": "Batina [1]",
+        "aegisName": "holy_robe_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 57
+        },
+        "price": 20,
+        "weight": 170,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "2374": {
+        "id": "2374",
+        "name": "Manto de Diabolus",
+        "displayName": "Manto de Diabolus [1]",
+        "aegisName": "diabolus_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 57
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Hunter": true,
+                "Monk": true,
+                "Sage": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "2375": {
+        "id": "2375",
+        "name": "Armadura de Diabolus",
+        "displayName": "Armadura de Diabolus [1]",
+        "aegisName": "diabolus_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 79
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "2376": {
+        "id": "2376",
+        "name": "Armadura de Assalto",
+        "displayName": "Armadura de Assalto [1]",
+        "aegisName": "assaulter_plate",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 57
+        },
+        "price": 10,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true,
+                "Taekwon": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2377": {
+        "id": "2377",
+        "name": "Armadura de Elite",
+        "displayName": "Armadura de Elite [1]",
+        "aegisName": "elite_engineer_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 50
+        },
+        "price": 10,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Merchant": true,
+                "Blacksmith": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2378": {
+        "id": "2378",
+        "name": "Manto do Mercenário",
+        "displayName": "Manto do Mercenário [1]",
+        "aegisName": "assassin_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 41
+        },
+        "price": 10,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Thief": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2379": {
+        "id": "2379",
+        "name": "Manto de Batalha do Feiticeiro",
+        "displayName": "Manto de Batalha do Feiticeiro [1]",
+        "aegisName": "warlock_battle_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 36
+        },
+        "price": 10,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Magician": true,
+                "Wizard": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2380": {
+        "id": "2380",
+        "name": "Manto do Médico",
+        "displayName": "Manto do Médico [1]",
+        "aegisName": "medic_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 10,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2381": {
+        "id": "2381",
+        "name": "Túnica do Arqueiro de Elite",
+        "displayName": "Túnica do Arqueiro de Elite [1]",
+        "aegisName": "elite_archer_suit",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 35
+        },
+        "price": 10,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2382": {
+        "id": "2382",
+        "name": "Túnica do Artilheiro de Elite",
+        "displayName": "Túnica do Artilheiro de Elite [1]",
+        "aegisName": "elite_shooter_suit",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 10,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Gunslinger": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "2383": {
+        "id": "2383",
+        "name": "Armadura de Brynhildr",
+        "displayName": "Armadura de Brynhildr",
+        "aegisName": "brynhild",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": false,
+            "def": 120
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "level": {
+                "min": 94
+            }
+        }
+    },
+    "2384": {
+        "id": "2384",
+        "name": "Túnica Espiritual [A]",
+        "displayName": "Túnica Espiritual [A]",
+        "aegisName": "spritual_tunic",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": false,
+            "def": 38
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "2385": {
+        "id": "2385",
+        "name": "Armadura Vampira [A]",
+        "displayName": "Armadura Vampira [A]",
+        "aegisName": "recuperative_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": false,
+            "def": 67
+        },
+        "price": 20,
+        "weight": 0
+    },
+    "2386": {
+        "id": "2386",
+        "name": "Armadura Camaleão",
+        "displayName": "Armadura Camaleão",
+        "aegisName": "chameleon_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 55
+        },
+        "price": 20,
+        "weight": 170,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "2387": {
+        "id": "2387",
+        "name": "Armadura de Corrida",
+        "displayName": "Armadura de Corrida [1]",
+        "aegisName": "sprint_mail",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 20
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2388": {
+        "id": "2388",
+        "name": "Kandura",
+        "displayName": "Kandura [1]",
+        "aegisName": "kandura",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 36
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "2389": {
+        "id": "2389",
+        "name": "Cota de Escamas de Naga",
+        "displayName": "Cota de Escamas de Naga [1]",
+        "aegisName": "armor_of_naga",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 45
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "2390": {
+        "id": "2390",
+        "name": "Malha Aprimorada",
+        "displayName": "Malha Aprimorada [1]",
+        "aegisName": "improved_tights",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 38
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "2391": {
+        "id": "2391",
+        "name": "Armadura Vital",
+        "displayName": "Armadura Vital [1]",
+        "aegisName": "life_link",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 75
+        },
+        "price": 20,
+        "weight": 350,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 82
+            }
+        }
+    },
+    "2393": {
+        "id": "2393",
+        "name": "Túnica de Iniciante",
+        "displayName": "Túnica de Iniciante [1]",
+        "aegisName": "n_adventurers_suit",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": false,
+            "def": 45
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "2394": {
+        "id": "2394",
+        "name": "Túnica Gloriosa",
+        "displayName": "Túnica Gloriosa",
+        "aegisName": "krieger_suit1",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 81
+            }
+        }
+    },
+    "2395": {
+        "id": "2395",
+        "name": "Túnica Gloriosa Industrializada",
+        "displayName": "Túnica Gloriosa Industrializada",
+        "aegisName": "krieger_suit2",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 61
+            }
+        }
+    },
+    "2396": {
+        "id": "2396",
+        "name": "Túnica Gloriosa Barata",
+        "displayName": "Túnica Gloriosa Barata",
+        "aegisName": "krieger_suit3",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2397": {
+        "id": "2397",
+        "name": "Capa da Corporação",
+        "displayName": "Capa da Corporação",
+        "aegisName": "incredible_coat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 10,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "2399": {
+        "id": "2399",
+        "name": "Colete do Dragão",
+        "displayName": "Colete do Dragão [1]",
+        "aegisName": "dragon_vest",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 20
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            }
+        }
+    },
+    "15000": {
+        "id": "15000",
+        "name": "Armadura de Placas de Ossos",
+        "displayName": "Armadura de Placas de Ossos [1]",
+        "aegisName": "bone_plate",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 60
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            }
+        }
+    },
+    "15002": {
+        "id": "15002",
+        "name": "Armadura Rúnica",
+        "displayName": "Armadura Rúnica [1]",
+        "aegisName": "rune_plate",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 95
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "15009": {
+        "id": "15009",
+        "name": "Uniforme Valhalla Iniciante",
+        "displayName": "Uniforme Valhalla Iniciante",
+        "aegisName": "para_team_uniform1",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": false,
+            "def": 35
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "15010": {
+        "id": "15010",
+        "name": "Uniforme Valhalla Intermediário",
+        "displayName": "Uniforme Valhalla Intermediário",
+        "aegisName": "para_team_uniform2",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": false,
+            "def": 46
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 26
+            }
+        }
+    },
+    "15011": {
+        "id": "15011",
+        "name": "Uniforme Valhalla Avançado",
+        "displayName": "Uniforme Valhalla Avançado",
+        "aegisName": "para_team_uniform3",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": false,
+            "def": 58
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "15012": {
+        "id": "15012",
+        "name": "Robe Puente",
+        "displayName": "Robe Puente [1]",
+        "aegisName": "puente_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 42
+        },
+        "price": 12000,
+        "weight": 40,
+        "restrictions": {
+            "level": {
+                "min": 22
+            }
+        }
+    },
+    "15013": {
+        "id": "15013",
+        "name": "Trajes Claire",
+        "displayName": "Trajes Claire [1]",
+        "aegisName": "claire_suits",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 58
+        },
+        "price": 28000,
+        "weight": 280,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 22
+            }
+        }
+    },
+    "15014": {
+        "id": "15014",
+        "name": "Armadura Ébano",
+        "displayName": "Armadura Ébano [1]",
+        "aegisName": "ebone_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 93
+        },
+        "price": 40000,
+        "weight": 450,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "15015": {
+        "id": "15015",
+        "name": "Túnica Evoluída",
+        "displayName": "Túnica Evoluída [1]",
+        "aegisName": "upg_adv_suit",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 20,
+        "weight": 15
+    },
+    "15016": {
+        "id": "15016",
+        "name": "Casaco Evoluído",
+        "displayName": "Casaco Evoluído [1]",
+        "aegisName": "upg_coat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 47
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "15017": {
+        "id": "15017",
+        "name": "Manto Sagrado Evoluído",
+        "displayName": "Manto Sagrado Evoluído [1]",
+        "aegisName": "upg_saint_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 55
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "job": {
+                "Acolyte": true,
+                "Merchant": true,
+                "Priest": true,
+                "Blacksmith": true,
+                "Monk": true,
+                "Alchemist": true
+            }
+        }
+    },
+    "15018": {
+        "id": "15018",
+        "name": "Malha Evoluída",
+        "displayName": "Malha Evoluída [1]",
+        "aegisName": "upg_tights",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 32
+        },
+        "price": 20,
+        "weight": 25,
+        "restrictions": {
+            "job": {
+                "Archer": true,
+                "Hunter": true,
+                "Bard": true
+            }
+        }
+    },
+    "15019": {
+        "id": "15019",
+        "name": "Traje de Gatuno Evoluído",
+        "displayName": "Traje de Gatuno Evoluído [1]",
+        "aegisName": "upg_thief_cloth",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 45
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Thief": true,
+                "Assassin": true,
+                "Rogue": true,
+                "Ninja": true,
+                "Kagerou": true
+            }
+        }
+    },
+    "15020": {
+        "id": "15020",
+        "name": "Cota de Malha Evoluída",
+        "displayName": "Cota de Malha Evoluída [1]",
+        "aegisName": "upg_mail",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 60
+        },
+        "price": 20,
+        "weight": 165,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            }
+        }
+    },
+    "15021": {
+        "id": "15021",
+        "name": "Paletó Evoluído",
+        "displayName": "Paletó Evoluído [1]",
+        "aegisName": "upg_formal_dress",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 45
+        },
+        "price": 20,
+        "weight": 15,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "15022": {
+        "id": "15022",
+        "name": "Roupa de Mergulho",
+        "displayName": "Roupa de Mergulho",
+        "aegisName": "brazil_swimsuit",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 1
+        },
+        "price": 20,
+        "weight": 10
+    },
+    "15024": {
+        "id": "15024",
+        "name": "Acolchoamento Militar",
+        "displayName": "Acolchoamento Militar",
+        "aegisName": "army_padding",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 10
+        },
+        "price": 0,
+        "weight": 1
+    },
+    "15025": {
+        "id": "15025",
+        "name": "Manto do Açoite de Ouro",
+        "displayName": "Manto do Açoite de Ouro",
+        "aegisName": "golden_rod_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "15026": {
+        "id": "15026",
+        "name": "Manto Aquático",
+        "displayName": "Manto Aquático",
+        "aegisName": "aqua_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "15027": {
+        "id": "15027",
+        "name": "Manto Vermelho",
+        "displayName": "Manto Vermelho",
+        "aegisName": "crimson_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "15028": {
+        "id": "15028",
+        "name": "Manto Florestal",
+        "displayName": "Manto Florestal",
+        "aegisName": "forest_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Wizard": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "15029": {
+        "id": "15029",
+        "name": "Túnica da Afeição",
+        "displayName": "Túnica da Afeição",
+        "aegisName": "robe_of_affection",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 22
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Priest": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "15030": {
+        "id": "15030",
+        "name": "Túnica do Julgamento",
+        "displayName": "Túnica do Julgamento",
+        "aegisName": "robe_of_judgement",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 22
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Priest": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "15031": {
+        "id": "15031",
+        "name": "Armadura do Grupo Éden",
+        "displayName": "Armadura do Grupo Éden",
+        "aegisName": "para_team_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": false,
+            "def": 70
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "15032": {
+        "id": "15032",
+        "name": "Tidung",
+        "displayName": "Tidung [1]",
+        "aegisName": "tidung",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 2
+        },
+        "price": 10,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            }
+        }
+    },
+    "15033": {
+        "id": "15033",
+        "name": "Capote do Tutorial",
+        "displayName": "Capote do Tutorial",
+        "aegisName": "tutorial_mattle",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": false,
+            "def": 37
+        },
+        "price": 0,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "All": false
+            }
+        }
+    },
+    "15034": {
+        "id": "15034",
+        "name": "Capote do Tutorial",
+        "displayName": "Capote do Tutorial [1]",
+        "aegisName": "tutorial_mattle_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": false,
+            "def": 37
+        },
+        "price": 0,
+        "weight": 60,
+        "restrictions": {
+            "job": {
+                "All": false
+            }
+        }
+    },
+    "15036": {
+        "id": "15036",
+        "name": "Armadura de Ur",
+        "displayName": "Armadura de Ur",
+        "aegisName": "ur_plate",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 110
+        },
+        "price": 20,
+        "weight": 300,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "15037": {
+        "id": "15037",
+        "name": "Armadura de Peuz",
+        "displayName": "Armadura de Peuz",
+        "aegisName": "peuz_plate",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 110
+        },
+        "price": 20,
+        "weight": 300,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "15038": {
+        "id": "15038",
+        "name": "Vestimenta dos Manuks",
+        "displayName": "Vestimenta dos Manuks [1]",
+        "aegisName": "sabah_cloth",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 45
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "15039": {
+        "id": "15039",
+        "name": "Vestimenta de Nab",
+        "displayName": "Vestimenta de Nab [1]",
+        "aegisName": "nab_cloth",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 45
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Assassin": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "15040": {
+        "id": "15040",
+        "name": "Uniforme de Presidiário",
+        "displayName": "Uniforme de Presidiário",
+        "aegisName": "prison_uniform",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 5
+        },
+        "price": 10,
+        "weight": 150,
+        "restrictions": {
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "15041": {
+        "id": "15041",
+        "name": "Couraça de Boitatá",
+        "displayName": "Couraça de Boitatá [1]",
+        "aegisName": "boitata_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 45
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "15042": {
+        "id": "15042",
+        "name": "Malha das Asas da Luz",
+        "displayName": "Malha das Asas da Luz [1]",
+        "aegisName": "white_wing_suits",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 45
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Hunter": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "15043": {
+        "id": "15043",
+        "name": "Malha das Asas das Sombras",
+        "displayName": "Malha das Asas das Sombras [1]",
+        "aegisName": "black_wing_suits",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 45
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Hunter": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "15044": {
+        "id": "15044",
+        "name": "Bata de Operação Verde",
+        "displayName": "Bata de Operação Verde [1]",
+        "aegisName": "green_operation_coat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 66
+        },
+        "price": 56000,
+        "weight": 66,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Alchemist": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "15046": {
+        "id": "15046",
+        "name": "Placa de Cerco",
+        "displayName": "Placa de Cerco [1]",
+        "aegisName": "siege_plate",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 85
+        },
+        "price": 10,
+        "weight": 330,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true,
+                "Taekwon": true,
+                "Star_Gladiator": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "15047": {
+        "id": "15047",
+        "name": "Túnica de Cerco",
+        "displayName": "Túnica de Cerco [1]",
+        "aegisName": "siege_suits",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 50
+        },
+        "price": 10,
+        "weight": 75,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true,
+                "Taekwon": true,
+                "Star_Gladiator": true,
+                "Gunslinger": true,
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "15048": {
+        "id": "15048",
+        "name": "Manto de Cerco",
+        "displayName": "Manto de Cerco [1]",
+        "aegisName": "siege_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 10,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "15049": {
+        "id": "15049",
+        "name": "Armadura da Fé de Odin",
+        "displayName": "Armadura da Fé de Odin",
+        "aegisName": "armor_of_faith",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "15051": {
+        "id": "15051",
+        "name": "Armadura de Escamas de Bakonawa",
+        "displayName": "Armadura de Escamas de Bakonawa",
+        "aegisName": "bakonawa_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 55
+        },
+        "price": 20,
+        "weight": 50
+    },
+    "15052": {
+        "id": "15052",
+        "name": "Armadura de Escamas de Bakonawa Bayani",
+        "displayName": "Armadura de Escamas de Bakonawa Bayani [1]",
+        "aegisName": "bayani_bakonawa_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 55
+        },
+        "price": 20,
+        "weight": 50
+    },
+    "15053": {
+        "id": "15053",
+        "name": "Indumentária Ninja Especial",
+        "displayName": "Indumentária Ninja Especial",
+        "aegisName": "special_ninja_suit",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 70
+        },
+        "price": 10000,
+        "weight": 120,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "15054": {
+        "id": "15054",
+        "name": "Armadura de Escamas do Ninja",
+        "displayName": "Armadura de Escamas do Ninja [1]",
+        "aegisName": "ninja_scale_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 90
+        },
+        "price": 10000,
+        "weight": 180,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "15055": {
+        "id": "15055",
+        "name": "Armadura do Rei das Sombras",
+        "displayName": "Armadura do Rei das Sombras [1]",
+        "aegisName": "tenebris_latitantes",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 60
+        },
+        "price": 10000,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "15056": {
+        "id": "15056",
+        "name": "Indumentária Ninja Especial",
+        "displayName": "Indumentária Ninja Especial [1]",
+        "aegisName": "special_ninja_suit_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 70
+        },
+        "price": 10000,
+        "weight": 120,
+        "restrictions": {
+            "jobMasks": "NORMAL",
+            "job": {
+                "Ninja": true,
+                "Kagerou": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "15058": {
+        "id": "15058",
+        "name": "Jaqueta de Motociclista",
+        "displayName": "Jaqueta de Motociclista [1]",
+        "aegisName": "rider_suit",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Magician": true,
+                "Archer": true,
+                "Acolyte": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Priest": true,
+                "Wizard": true,
+                "Blacksmith": true,
+                "Hunter": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Monk": true,
+                "Sage": true,
+                "Rogue": true,
+                "Alchemist": true,
+                "Bard": true
+            },
+            "level": {
+                "min": 55
+            }
+        }
+    },
+    "15061": {
+        "id": "15061",
+        "name": "Armadura de Aegir",
+        "displayName": "Armadura de Aegir [1]",
+        "aegisName": "egir_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 55
+        },
+        "price": 200000,
+        "weight": 260,
+        "restrictions": {
+            "level": {
+                "min": 110
+            }
+        }
+    },
+    "15062": {
+        "id": "15062",
+        "name": "Casaco TE",
+        "displayName": "Casaco TE",
+        "aegisName": "te_woe_coat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": false,
+            "def": 15
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "15063": {
+        "id": "15063",
+        "name": "Cota de Malha TE",
+        "displayName": "Cota de Malha TE",
+        "aegisName": "te_woe_chain_mail",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": false,
+            "def": 25
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "15064": {
+        "id": "15064",
+        "name": "Casaco Mágico TE",
+        "displayName": "Casaco Mágico TE",
+        "aegisName": "te_woe_mage_coat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": false,
+            "def": 5
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true,
+                "Soul_Linker": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "15066": {
+        "id": "15066",
+        "name": "Armadura Filigranada",
+        "displayName": "Armadura Filigranada [1]",
+        "aegisName": "engraved_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 120
+        },
+        "price": 110000,
+        "weight": 300,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 150
+            }
+        }
+    },
+    "15067": {
+        "id": "15067",
+        "name": "Manto de Rune",
+        "displayName": "Manto de Rune",
+        "aegisName": "rune_suit",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "level": {
+                "min": 1,
+                "max": 100
+            }
+        }
+    },
+    "15068": {
+        "id": "15068",
+        "name": "Proteção Arcangelical",
+        "displayName": "Proteção Arcangelical [1]",
+        "aegisName": "im_angels_protection",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 10000,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "15073": {
+        "id": "15073",
+        "name": "Traje Anti-Magia",
+        "displayName": "Traje Anti-Magia [1]",
+        "aegisName": "anti_magic_suit",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 50
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "15074": {
+        "id": "15074",
+        "name": "Manto Mágico de Geffen",
+        "displayName": "Manto Mágico de Geffen [1]",
+        "aegisName": "geffen_mage_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "15088": {
+        "id": "15088",
+        "name": "Uniforme Escolar",
+        "displayName": "Uniforme Escolar [1]",
+        "aegisName": "school_uniform",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50
+    },
+    "15089": {
+        "id": "15089",
+        "name": "Fraque",
+        "displayName": "Fraque",
+        "aegisName": "lounge_suit",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "15090": {
+        "id": "15090",
+        "name": "Armadura de Cinzas",
+        "displayName": "Armadura de Cinzas [1]",
+        "aegisName": "armor_of_gray",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 90
+        },
+        "price": 0,
+        "weight": 240,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Archer": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "15091": {
+        "id": "15091",
+        "name": "Manto de Cinzas",
+        "displayName": "Manto de Cinzas [1]",
+        "aegisName": "gray_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 55
+        },
+        "price": 0,
+        "weight": 130,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Magician": true,
+                "Acolyte": true,
+                "Priest": true,
+                "Wizard": true,
+                "Monk": true,
+                "Sage": true
+            },
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "15093": {
+        "id": "15093",
+        "name": "Placas Heroicas",
+        "displayName": "Placas Heroicas [1]",
+        "aegisName": "hero_plate",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 400
+    },
+    "15094": {
+        "id": "15094",
+        "name": "Traje Heroico da Magia",
+        "displayName": "Traje Heroico da Magia [1]",
+        "aegisName": "hero_magic_coat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 80
+    },
+    "15095": {
+        "id": "15095",
+        "name": "Traje Heroico do Julgamento",
+        "displayName": "Traje Heroico do Julgamento [1]",
+        "aegisName": "hero_judgement_shawl",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 50
+    },
+    "15096": {
+        "id": "15096",
+        "name": "Malha Heroica do Comércio",
+        "displayName": "Malha Heroica do Comércio [1]",
+        "aegisName": "hero_trade_mail",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 50
+    },
+    "15097": {
+        "id": "15097",
+        "name": "Traje Heroico da Ocultação",
+        "displayName": "Traje Heroico da Ocultação [1]",
+        "aegisName": "hero_hidden_cloth",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 20
+    },
+    "15098": {
+        "id": "15098",
+        "name": "Vestes Heroicas da Precisão",
+        "displayName": "Vestes Heroicas da Precisão [1]",
+        "aegisName": "hero_taget_suits",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 20
+    },
+    "15100": {
+        "id": "15100",
+        "name": "Peitoral Congelado",
+        "displayName": "Peitoral Congelado [1]",
+        "aegisName": "frozen_breastplate",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        },
+        "price": 25000,
+        "weight": 150
+    },
+    "15101": {
+        "id": "15101",
+        "name": "Peitoral Tectônico",
+        "displayName": "Peitoral Tectônico [1]",
+        "aegisName": "harden_breastplate",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        },
+        "price": 25000,
+        "weight": 150
+    },
+    "15110": {
+        "id": 15110,
+        "name": "Peça de FOR Suplementar",
+        "displayName": "Peça de FOR Suplementar",
+        "aegisName": null,
+        "price": 25000,
+        "weight": 200,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 80
+        }
+    },
+    "15111": {
+        "id": 15111,
+        "name": "Autopeça - Carburador",
+        "displayName": "Autopeça - Carburador",
+        "aegisName": null,
+        "price": 25000,
+        "weight": 300,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 110
+        }
+    },
+    "15126": {
+        "id": "15126",
+        "name": "Veste Básica de Doram",
+        "displayName": "Veste Básica de Doram [1]",
+        "aegisName": "doram_only_suit",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 80
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 100
+            }
+        }
+    },
+    "15128": {
+        "id": "15128",
+        "name": "Colete E.X.C.",
+        "displayName": "Colete E.X.C.",
+        "aegisName": "excelion_suit",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 100
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "level": {
+                "min": 99
+            }
+        }
+    },
+    "15129": {
+        "id": "15129",
+        "name": "Veste Elegante de Doram",
+        "displayName": "Veste Elegante de Doram [1]",
+        "aegisName": "doram_high_suit",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 100
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 140
+            }
+        }
+    },
+    "15136": {
+        "id": "15136",
+        "name": "Vestígio de Tatenashi",
+        "displayName": "Vestígio de Tatenashi [1]",
+        "aegisName": "tatenasi_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 60
+    },
+    "15146": {
+        "id": "15146",
+        "name": "Vestimenta Arrogante",
+        "displayName": "Vestimenta Arrogante [1]",
+        "aegisName": "robe_of_flattery",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        },
+        "price": 100000,
+        "weight": 10
+    },
+    "15147": {
+        "id": "15147",
+        "name": "Vestimenta Exuberante",
+        "displayName": "Vestimenta Exuberante [1]",
+        "aegisName": "robe_of_vituperation",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        },
+        "price": 100000,
+        "weight": 10
+    },
+    "15150": {
+        "id": "15150",
+        "name": "Camiseta Branca",
+        "displayName": "Camiseta Branca [1]",
+        "aegisName": "white_shirt",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 25
+        },
+        "price": 20,
+        "weight": 5,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 6
+            }
+        }
+    },
+    "15151": {
+        "id": "15151",
+        "name": "Camiseta Ecológica",
+        "displayName": "Camiseta Ecológica [1]",
+        "aegisName": "white_eco_shirt",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 40
+        },
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 15
+            }
+        }
+    },
+    "15156": {
+        "id": "15156",
+        "name": "Veste Luxuosa de Doram",
+        "displayName": "Veste Luxuosa de Doram [1]",
+        "aegisName": "doram_ele_suit",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 120
+        },
+        "price": 20,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Summoner": true
+            },
+            "level": {
+                "min": 175
+            }
+        }
+    },
+    "15166": {
+        "id": "15166",
+        "name": "Colar com Rosário",
+        "displayName": "Colar com Rosário",
+        "aegisName": "necklace_rosary",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 0,
+            "position": "ARMOR",
+            "refinable": true
+        },
+        "weight": 30
+    },
+    "15169": {
+        "id": "15169",
+        "name": "Manto do Kardui",
+        "displayName": "Manto do Kardui [1]",
+        "aegisName": "kardui_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        },
+        "weight": 80
+    },
+    "15186": {
+        "id": "15186",
+        "name": "Uniforme de Kafra",
+        "displayName": "Uniforme de Kafra [1]",
+        "aegisName": "kafra_suit",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        },
+        "weight": 50
+    },
+    "15206": {
+        "id": "15206",
+        "name": "Armadura Tatenashi",
+        "displayName": "Armadura Tatenashi [1]",
+        "aegisName": "tatenasi_armor_br",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        }
+    },
+    "15219": {
+        "id": "15219",
+        "name": "Vestes de Ghostring",
+        "displayName": "Vestes de Ghostring [1]",
+        "aegisName": "ghostring_suit_br",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        }
+    },
+    "15238": {
+        "id": "15238",
+        "name": "Cota do Dragão Maligno",
+        "displayName": "Cota do Dragão Maligno [1]",
+        "aegisName": "evildragon_armor_br",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        }
+    },
+    "15239": {
+        "id": "15239",
+        "name": "Vestes de Angeling",
+        "displayName": "Vestes de Angeling [1]",
+        "aegisName": "angeling_suit_br",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        }
+    },
+    "15240": {
+        "id": "15240",
+        "name": "Armadura do Dragão Vermelho",
+        "displayName": "Armadura do Dragão Vermelho [1]",
+        "aegisName": "armorofflamedragonbr",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        }
+    },
+    "15248": {
+        "id": "15248",
+        "name": "Traje de Wickebine",
+        "displayName": "Traje de Wickebine [1]",
+        "aegisName": "whikebain_suit_br",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        }
+    },
+    "15254": {
+        "id": "15254",
+        "name": "Vestido Abissal",
+        "displayName": "Vestido Abissal [1]",
+        "aegisName": "abyss_dress_br",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        }
+    },
+    "15272": {
+        "id": "15272",
+        "name": "Armadura da Khalitzburg",
+        "displayName": "Armadura da Khalitzburg [1]",
+        "aegisName": "khalitzburg_armor_br",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        }
+    },
+    "15278": {
+        "id": "15278",
+        "name": "Armadura do Herói Robusto",
+        "displayName": "Armadura do Herói Robusto [1]",
+        "aegisName": "overwhelm_str_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 200
+    },
+    "15279": {
+        "id": "15279",
+        "name": "Armadura do Herói Sábio",
+        "displayName": "Armadura do Herói Sábio [1]",
+        "aegisName": "overwhelm_int_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 90
+    },
+    "15345": {
+        "id": "15345",
+        "name": "Armadura do Dragão Azul",
+        "displayName": "Armadura do Dragão Azul [1]",
+        "aegisName": "armorofseadragonbr",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        }
+    },
+    "15346": {
+        "id": "15346",
+        "name": "Armadura do Herói Afortunado",
+        "displayName": "Armadura do Herói Afortunado [1]",
+        "aegisName": "overwhelm_luk_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 200
+    },
+    "15347": {
+        "id": "15347",
+        "name": "Armadura do Herói Vigoroso",
+        "displayName": "Armadura do Herói Vigoroso [1]",
+        "aegisName": "overwhelm_vit_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 200
+    },
+    "15353": {
+        "id": "15353",
+        "name": "Armadura do Herói Ágil",
+        "displayName": "Armadura do Herói Ágil [1]",
+        "aegisName": "overwhelm_agi_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 200
+    },
+    "15354": {
+        "id": "15354",
+        "name": "Armadura do Herói Astuto",
+        "displayName": "Armadura do Herói Astuto [1]",
+        "aegisName": "overwhelm_dex_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 200
+    },
+    "15371": {
+        "id": "15371",
+        "name": "Roupa de Natal do Antonio",
+        "displayName": "Roupa de Natal do Antonio [1]",
+        "aegisName": "antonio_coat_br",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        }
+    },
+    "15372": {
+        "id": "15372",
+        "name": "Vestes de Freeoni",
+        "displayName": "Vestes de Freeoni [1]",
+        "aegisName": "phreeoni_wing_br",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "GARMENT",
+            "refinable": true
+        }
+    },
+    "15374": {
+        "id": "15374",
+        "name": "Armadura Eclipse",
+        "displayName": "Armadura Eclipse [1]",
+        "aegisName": "lunar_eclipse_armor_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        },
+        "weight": 60
+    },
+    "15375": {
+        "id": "15375",
+        "name": "Armadura Eclipse Desgastada",
+        "displayName": "Armadura Eclipse Desgastada [1]",
+        "aegisName": "lunar_eclipse_armor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        },
+        "weight": 60
+    },
+    "15383": {
+        "id": "15383",
+        "name": "Sobretudo do Senhor do Tempo",
+        "displayName": "Sobretudo do Senhor do Tempo [1]",
+        "aegisName": "time_overload_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 0
+    },
+    "15421": {
+        "id": "15421",
+        "name": "Robe da Graça Divina",
+        "displayName": "Robe da Graça Divina [1]",
+        "aegisName": "triad_god_mail_j_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        },
+        "weight": 90
+    },
+    "15422": {
+        "id": "15422",
+        "name": "Robe Milagroso",
+        "displayName": "Robe Milagroso [1]",
+        "aegisName": "triad_god_mail_j",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        },
+        "weight": 90
+    },
+    "18863": {
+        "id": "18863",
+        "name": "Robe do Exorcista",
+        "displayName": "Robe do Exorcista [1]",
+        "aegisName": "exorcist_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 170
+    },
+    "19048": {
+        "id": "19048",
+        "name": "Traje de Luta Jogos Vorags",
+        "displayName": "Traje de Luta Jogos Vorags [1]",
+        "aegisName": "elemental_clothe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "position": "ARMOR",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 50
+    }
+}

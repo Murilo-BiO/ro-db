@@ -1,0 +1,429 @@
+{
+    "1301": {
+        "id": "1301",
+        "name": "Machado",
+        "displayName": "Machado [3]",
+        "aegisName": "axe",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HAXE",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 38,
+            "refinable": true
+        },
+        "price": 500,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 3
+            }
+        }
+    },
+    "1302": {
+        "id": "1302",
+        "name": "Machado",
+        "displayName": "Machado [4]",
+        "aegisName": "axe_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HAXE",
+            "slots": 4,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 38,
+            "refinable": true
+        },
+        "price": 500,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 3
+            }
+        }
+    },
+    "1303": {
+        "id": "1303",
+        "name": "Machado",
+        "displayName": "Machado",
+        "aegisName": "axe__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HAXE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 38,
+            "refinable": true
+        },
+        "price": 500,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 3
+            }
+        }
+    },
+    "1304": {
+        "id": "1304",
+        "name": "Machado dos Orcs",
+        "displayName": "Machado dos Orcs",
+        "aegisName": "orcish_axe",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HAXE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 75,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 3
+            }
+        }
+    },
+    "1305": {
+        "id": "1305",
+        "name": "Talhador",
+        "displayName": "Talhador",
+        "aegisName": "cleaver",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HAXE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 44
+            }
+        }
+    },
+    "1306": {
+        "id": "1306",
+        "name": "Machado de Combate",
+        "displayName": "Machado de Combate [1]",
+        "aegisName": "war_axe",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HAXE",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 420,
+        "restrictions": {
+            "job": {
+                "Blacksmith": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 76
+            }
+        }
+    },
+    "1307": {
+        "id": "1307",
+        "name": "Falcão do Vento",
+        "displayName": "Falcão do Vento",
+        "aegisName": "windhawk",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HAXE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 115,
+            "refinable": true
+        },
+        "price": 18000,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 14
+            }
+        }
+    },
+    "1308": {
+        "id": "1308",
+        "name": "Machado Dourado",
+        "displayName": "Machado Dourado",
+        "aegisName": "golden_axe",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HAXE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 170,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 300,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 45
+            }
+        }
+    },
+    "1309": {
+        "id": "1309",
+        "name": "Machado dos Orcs",
+        "displayName": "Machado dos Orcs [4]",
+        "aegisName": "orcish_axe_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HAXE",
+            "slots": 4,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 75,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 3
+            }
+        }
+    },
+    "1310": {
+        "id": "1310",
+        "name": "Retalhador Glorioso",
+        "displayName": "Retalhador Glorioso",
+        "aegisName": "krieger_onehand_axe1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HAXE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 130,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1311": {
+        "id": "1311",
+        "name": "Machado Vecer",
+        "displayName": "Machado Vecer [2]",
+        "aegisName": "vecer_axe",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HAXE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "1318": {
+        "id": "1318",
+        "name": "Tentáculo Afiado",
+        "displayName": "Tentáculo Afiado [2]",
+        "aegisName": "dofle_axe",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HAXE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 180,
+            "refinable": true
+        },
+        "price": 50000,
+        "weight": 180,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 105
+            }
+        }
+    },
+    "1319": {
+        "id": "1319",
+        "name": "Machado TE",
+        "displayName": "Machado TE",
+        "aegisName": "te_woe_axe",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HAXE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 100,
+            "refinable": false
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Novice": true,
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    }
+}

@@ -1,0 +1,1135 @@
+{
+    "1950": {
+        "id": "1950",
+        "name": "Cordel",
+        "displayName": "Cordel [3]",
+        "aegisName": "rope",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 2,
+            "atk": 45,
+            "refinable": true
+        },
+        "price": 2500,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 3
+            }
+        }
+    },
+    "1951": {
+        "id": "1951",
+        "name": "Cordel",
+        "displayName": "Cordel [4]",
+        "aegisName": "rope_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 4,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 2,
+            "atk": 45,
+            "refinable": true
+        },
+        "price": 2500,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 3
+            }
+        }
+    },
+    "1952": {
+        "id": "1952",
+        "name": "Cordame",
+        "displayName": "Cordame [2]",
+        "aegisName": "line",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 2,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 12000,
+        "weight": 30,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 16
+            }
+        }
+    },
+    "1953": {
+        "id": "1953",
+        "name": "Cordame",
+        "displayName": "Cordame [3]",
+        "aegisName": "line_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 2,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 12000,
+        "weight": 30,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 16
+            }
+        }
+    },
+    "1954": {
+        "id": "1954",
+        "name": "Açoite",
+        "displayName": "Açoite [2]",
+        "aegisName": "wire",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 2,
+            "atk": 95,
+            "refinable": true
+        },
+        "price": 17500,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 16
+            }
+        }
+    },
+    "1955": {
+        "id": "1955",
+        "name": "Açoite",
+        "displayName": "Açoite [3]",
+        "aegisName": "wire_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 2,
+            "atk": 95,
+            "refinable": true
+        },
+        "price": 17500,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 16
+            }
+        }
+    },
+    "1956": {
+        "id": "1956",
+        "name": "Azorrague",
+        "displayName": "Azorrague",
+        "aegisName": "rante",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 2,
+            "atk": 135,
+            "refinable": true
+        },
+        "price": 32000,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1957": {
+        "id": "1957",
+        "name": "Azorrague",
+        "displayName": "Azorrague [1]",
+        "aegisName": "rante_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 2,
+            "atk": 135,
+            "refinable": true
+        },
+        "price": 32000,
+        "weight": 90,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1958": {
+        "id": "1958",
+        "name": "Chibata",
+        "displayName": "Chibata [1]",
+        "aegisName": "tail",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 2,
+            "atk": 105,
+            "refinable": true
+        },
+        "price": 41000,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1959": {
+        "id": "1959",
+        "name": "Chibata",
+        "displayName": "Chibata [2]",
+        "aegisName": "tail_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 2,
+            "atk": 105,
+            "refinable": true
+        },
+        "price": 41000,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1960": {
+        "id": "1960",
+        "name": "Chicote",
+        "displayName": "Chicote [1]",
+        "aegisName": "whip",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 2,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 38000,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1961": {
+        "id": "1961",
+        "name": "Chicote",
+        "displayName": "Chicote [2]",
+        "aegisName": "whip_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 2,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 38000,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1962": {
+        "id": "1962",
+        "name": "Serpente",
+        "displayName": "Serpente",
+        "aegisName": "lariat",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 2,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 44
+            }
+        }
+    },
+    "1963": {
+        "id": "1963",
+        "name": "Rosa Fustigante",
+        "displayName": "Rosa Fustigante",
+        "aegisName": "rapture_rose",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 2,
+            "atk": 115,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 30,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 44
+            }
+        }
+    },
+    "1964": {
+        "id": "1964",
+        "name": "Chemeti",
+        "displayName": "Chemeti",
+        "aegisName": "chemeti",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 2,
+            "atk": 135,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 44
+            }
+        }
+    },
+    "1965": {
+        "id": "1965",
+        "name": "Chicote da Labareda Vermelha",
+        "displayName": "Chicote da Labareda Vermelha",
+        "aegisName": "whip_of_red_flame",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 2,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1966": {
+        "id": "1966",
+        "name": "Chicote de Gelo",
+        "displayName": "Chicote de Gelo",
+        "aegisName": "whip_of_ice_piece",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 2,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1967": {
+        "id": "1967",
+        "name": "Chicote de Gaia",
+        "displayName": "Chicote de Gaia",
+        "aegisName": "whip_of_earth",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 2,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1968": {
+        "id": "1968",
+        "name": "Corda de Pular",
+        "displayName": "Corda de Pular",
+        "aegisName": "jump_rope",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 2,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1969": {
+        "id": "1969",
+        "name": "Chicote Lâmina",
+        "displayName": "Chicote Lâmina",
+        "aegisName": "bladed_whip",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 2,
+            "atk": 140,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1970": {
+        "id": "1970",
+        "name": "Chicote da Rainha",
+        "displayName": "Chicote da Rainha",
+        "aegisName": "queens_whip",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 2,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 110,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "1971": {
+        "id": "1971",
+        "name": "Fio Elétrico",
+        "displayName": "Fio Elétrico",
+        "aegisName": "electric_wire",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 2,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "1972": {
+        "id": "1972",
+        "name": "Enguia Elétrica",
+        "displayName": "Enguia Elétrica [2]",
+        "aegisName": "electric_eel",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 2,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1973": {
+        "id": "1973",
+        "name": "Botas da Bruxa do Mar",
+        "displayName": "Botas da Bruxa do Mar [1]",
+        "aegisName": "sea_witch_foot",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 2,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1974": {
+        "id": "1974",
+        "name": "Chicote de Cenoura",
+        "displayName": "Chicote de Cenoura",
+        "aegisName": "carrot_whip",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 2,
+            "atk": 185,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 130,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1976": {
+        "id": "1976",
+        "name": "Chicote da Rainha",
+        "displayName": "Chicote da Rainha [2]",
+        "aegisName": "queens_whip_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 2,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 110,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "1977": {
+        "id": "1977",
+        "name": "Serpente de Batalha A",
+        "displayName": "Serpente de Batalha A",
+        "aegisName": "bf_whip1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 2,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1978": {
+        "id": "1978",
+        "name": "Serpente de Batalha B",
+        "displayName": "Serpente de Batalha B",
+        "aegisName": "bf_whip2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 2,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1979": {
+        "id": "1979",
+        "name": "Caule de Nepenthes",
+        "displayName": "Caule de Nepenthes [2]",
+        "aegisName": "stem_of_nepenthes",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 2,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1980": {
+        "id": "1980",
+        "name": "Chicote do Desequilíbrio",
+        "displayName": "Chicote do Desequilíbrio [3]",
+        "aegisName": "whip_of_balance",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 2,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1981": {
+        "id": "1981",
+        "name": "Chicote Glorioso",
+        "displayName": "Chicote Glorioso",
+        "aegisName": "krieger_whip1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 2,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1984": {
+        "id": "1984",
+        "name": "Chicote de Raiz",
+        "displayName": "Chicote de Raiz [1]",
+        "aegisName": "stem_whip",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 170,
+            "matk": 50,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 102
+            }
+        }
+    },
+    "1985": {
+        "id": "1985",
+        "name": "Chicote Caule de Rosa",
+        "displayName": "Chicote Caule de Rosa",
+        "aegisName": "rosebine",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 100,
+            "matk": 130,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 110
+            }
+        }
+    },
+    "1986": {
+        "id": "1986",
+        "name": "Chicote I do Grupo Éden",
+        "displayName": "Chicote I do Grupo Éden",
+        "aegisName": "p_tail1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 2,
+            "atk": 125,
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1987": {
+        "id": "1987",
+        "name": "Chicote TE",
+        "displayName": "Chicote TE",
+        "aegisName": "te_woe_rope",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 2,
+            "atk": 100,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1988": {
+        "id": "1988",
+        "name": "Chicote de Cinzas",
+        "displayName": "Chicote de Cinzas [1]",
+        "aegisName": "thanos_whip",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 2,
+            "atk": 200,
+            "matk": 130,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 220,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "1989": {
+        "id": "1989",
+        "name": "Fita Rítmica",
+        "displayName": "Fita Rítmica [2]",
+        "aegisName": "gymnastics_ribbon",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 2,
+            "atk": 150,
+            "matk": 120,
+            "refinable": true
+        },
+        "price": 124000,
+        "weight": 30,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 130
+            }
+        }
+    },
+    "1990": {
+        "id": "1990",
+        "name": "Microfone Floral de Igu",
+        "displayName": "Microfone Floral de Igu [2]",
+        "aegisName": "floral_mic_of_igu",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 2,
+            "atk": 160,
+            "refinable": true
+        },
+        "price": 124000,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 130
+            }
+        }
+    },
+    "1993": {
+        "id": "1993",
+        "name": "Concertina de Arame",
+        "displayName": "Concertina de Arame [1]",
+        "aegisName": "concertina_wire",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 120
+    },
+    "1995": {
+        "id": "1995",
+        "name": "Chicote Rubi",
+        "displayName": "Chicote Rubi [2]",
+        "aegisName": "scarlet_wire",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 2,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1996": {
+        "id": 1996,
+        "name": "Chicote Sobrenatural",
+        "displayName": "Chicote Sobrenatural [1]",
+        "aegisName": "wire_of_vicious_mind",
+        "equipData": {
+            "slots": 1,
+            "class": "WHIP",
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 2,
+            "atk": 130,
+            "matk": 50,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 20,
+        "weight": 130,
+        "restrictions": {
+            "job": {
+                "Bard": true
+            },
+            "level": {
+                "min": 160
+            }
+        }
+    },
+    "580002": {
+        "id": "580002",
+        "name": "Concertina Ancestral",
+        "displayName": "Concertina Ancestral [2]",
+        "aegisName": "barb_wire_k",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "WHIP",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 160,
+            "refinable": true
+        },
+        "weight": 70
+    }
+}

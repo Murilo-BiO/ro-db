@@ -1,0 +1,1311 @@
+{
+    "1410": {
+        "id": 1410,
+        "name": "Lança",
+        "displayName": "Lança",
+        "aegisName": "lance",
+        "price": 60000,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 33
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 3,
+            "atk": 185,
+            "refinable": true
+        }
+    },
+    "1411": {
+        "id": 1411,
+        "name": "Lança",
+        "displayName": "Lança",
+        "aegisName": "lance_",
+        "price": 60000,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 33
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 3,
+            "atk": 185,
+            "refinable": true
+        }
+    },
+    "1412": {
+        "id": 1412,
+        "name": "Lança",
+        "displayName": "Lança",
+        "aegisName": "lance__",
+        "price": 60000,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 33
+            }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 3,
+            "atk": 185,
+            "refinable": true
+        }
+    },
+    "1450": {
+        "id": "1450",
+        "name": "Arpão Sobrenatural",
+        "displayName": "Arpão Sobrenatural [1]",
+        "aegisName": "sinister_lance",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 225,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 225,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 160
+            }
+        }
+    },
+    "1451": {
+        "id": "1451",
+        "name": "Guisarme",
+        "displayName": "Guisarme [2]",
+        "aegisName": "guisarme",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 3,
+            "atk": 84,
+            "refinable": true
+        },
+        "price": 13000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "1452": {
+        "id": "1452",
+        "name": "Guisarme",
+        "displayName": "Guisarme [3]",
+        "aegisName": "guisarme_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 3,
+            "atk": 84,
+            "refinable": true
+        },
+        "price": 13000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "1453": {
+        "id": "1453",
+        "name": "Guisarme",
+        "displayName": "Guisarme",
+        "aegisName": "guisarme__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 3,
+            "atk": 84,
+            "refinable": true
+        },
+        "price": 13000,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "1454": {
+        "id": "1454",
+        "name": "Glaive",
+        "displayName": "Glaive [2]",
+        "aegisName": "glaive",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 3,
+            "atk": 104,
+            "refinable": true
+        },
+        "price": 20000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "1455": {
+        "id": "1455",
+        "name": "Glaive",
+        "displayName": "Glaive [3]",
+        "aegisName": "glaive_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 3,
+            "atk": 104,
+            "refinable": true
+        },
+        "price": 20000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "1456": {
+        "id": "1456",
+        "name": "Glaive",
+        "displayName": "Glaive",
+        "aegisName": "glaive__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 3,
+            "atk": 104,
+            "refinable": true
+        },
+        "price": 20000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "1457": {
+        "id": "1457",
+        "name": "Guerrilheira",
+        "displayName": "Guerrilheira [1]",
+        "aegisName": "partizan",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 3,
+            "atk": 124,
+            "refinable": true
+        },
+        "price": 27000,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "1458": {
+        "id": "1458",
+        "name": "Guerrilheira",
+        "displayName": "Guerrilheira [2]",
+        "aegisName": "partizan_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 3,
+            "atk": 124,
+            "refinable": true
+        },
+        "price": 27000,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 18
+            }
+        }
+    },
+    "1459": {
+        "id": "1459",
+        "name": "Guerrilheira",
+        "displayName": "Guerrilheira",
+        "aegisName": "partizan__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 3,
+            "atk": 124,
+            "refinable": true
+        },
+        "price": 27000,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1460": {
+        "id": "1460",
+        "name": "Tridente",
+        "displayName": "Tridente [2]",
+        "aegisName": "trident",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 3,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 51000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1461": {
+        "id": "1461",
+        "name": "Tridente",
+        "displayName": "Tridente [3]",
+        "aegisName": "trident_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 3,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 51000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1462": {
+        "id": "1462",
+        "name": "Tridente",
+        "displayName": "Tridente",
+        "aegisName": "trident__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 3,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 51000,
+        "weight": 120,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1463": {
+        "id": "1463",
+        "name": "Alabarda",
+        "displayName": "Alabarda [1]",
+        "aegisName": "halberd",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 3,
+            "atk": 165,
+            "refinable": true
+        },
+        "price": 54000,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1464": {
+        "id": "1464",
+        "name": "Alabarda",
+        "displayName": "Alabarda [2]",
+        "aegisName": "halberd_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 3,
+            "atk": 165,
+            "refinable": true
+        },
+        "price": 54000,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1465": {
+        "id": "1465",
+        "name": "Alabarda",
+        "displayName": "Alabarda",
+        "aegisName": "halberd__",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 3,
+            "atk": 165,
+            "refinable": true
+        },
+        "price": 54000,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 33
+            }
+        }
+    },
+    "1466": {
+        "id": "1466",
+        "name": "Foice",
+        "displayName": "Foice",
+        "aegisName": "crescent_scythe",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 180,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1467": {
+        "id": "1467",
+        "name": "Guisarme-Bico",
+        "displayName": "Guisarme-Bico",
+        "aegisName": "bill_guisarme",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 183,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1468": {
+        "id": "1468",
+        "name": "Zéfiro",
+        "displayName": "Zéfiro",
+        "aegisName": "zephyrus",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 170,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1469": {
+        "id": "1469",
+        "name": "Lança de Longiness",
+        "displayName": "Lança de Longiness",
+        "aegisName": "longinuss_spear",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 180,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1470": {
+        "id": "1470",
+        "name": "Brionac",
+        "displayName": "Brionac",
+        "aegisName": "brionac",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 190,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 300,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1471": {
+        "id": "1471",
+        "name": "Fogo Infernal",
+        "displayName": "Fogo Infernal",
+        "aegisName": "hell_fire",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 200,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 350,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1474": {
+        "id": "1474",
+        "name": "Gae Bolg",
+        "displayName": "Gae Bolg",
+        "aegisName": "gae_bolg",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 160,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1475": {
+        "id": "1475",
+        "name": "Lança Eqüestre",
+        "displayName": "Lança Eqüestre",
+        "aegisName": "horseback_lance",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 4,
+            "atk": 200,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 370,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "1476": {
+        "id": "1476",
+        "name": "Foice",
+        "displayName": "Foice [1]",
+        "aegisName": "crescent_scythe_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 180,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 250,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1477": {
+        "id": "1477",
+        "name": "Lança Espectral",
+        "displayName": "Lança Espectral",
+        "aegisName": "spectral_spear",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 170,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "1478": {
+        "id": "1478",
+        "name": "Ahlspiess",
+        "displayName": "Ahlspiess",
+        "aegisName": "ahlspiess",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 65
+            }
+        }
+    },
+    "1479": {
+        "id": "1479",
+        "name": "Lança Espectral",
+        "displayName": "Lança Espectral [1]",
+        "aegisName": "spectral_spear_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 170,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "1480": {
+        "id": "1480",
+        "name": "Gae Bolg",
+        "displayName": "Gae Bolg [2]",
+        "aegisName": "gae_bolg_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 160,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1481": {
+        "id": "1481",
+        "name": "Zéfiro",
+        "displayName": "Zéfiro [3]",
+        "aegisName": "zephyrus_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 170,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 200,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 48
+            }
+        }
+    },
+    "1482": {
+        "id": "1482",
+        "name": "Lança de Assalto de Duas Mãos",
+        "displayName": "Lança de Assalto de Duas Mãos",
+        "aegisName": "bf_lance1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 3,
+            "atk": 160,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1483": {
+        "id": "1483",
+        "name": "Lança de Marfim",
+        "displayName": "Lança de Marfim [1]",
+        "aegisName": "ivory_lance",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 3,
+            "atk": 160,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "1484": {
+        "id": "1484",
+        "name": "Pilares",
+        "displayName": "Pilares [1]",
+        "aegisName": "cardo",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 150,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 560,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1485": {
+        "id": "1485",
+        "name": "Tridente de Batalha",
+        "displayName": "Tridente de Batalha [4]",
+        "aegisName": "battle_fork",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 4,
+            "wieldType": "TWO_HANDED",
+            "level": 2,
+            "range": 3,
+            "atk": 112,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "1486": {
+        "id": "1486",
+        "name": "Lança de Duas Mãos Gloriosa",
+        "displayName": "Lança de Duas Mãos Gloriosa",
+        "aegisName": "krieger_twohand_spear1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 220,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1489": {
+        "id": "1489",
+        "name": "Agulhão",
+        "displayName": "Agulhão",
+        "aegisName": "spearfish_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 1,
+            "range": 3,
+            "atk": 220,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 50
+            }
+        }
+    },
+    "1490": {
+        "id": "1490",
+        "name": "Lança Gigante",
+        "displayName": "Lança Gigante",
+        "aegisName": "giant_lance",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 20,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 2000,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Knight": true
+            },
+            "level": {
+                "min": 140
+            }
+        }
+    },
+    "1491": {
+        "id": "1491",
+        "name": "Lança Aprimorada de Duas Mãos",
+        "displayName": "Lança Aprimorada de Duas Mãos [1]",
+        "aegisName": "upg_lance",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 3,
+            "atk": 105,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            }
+        }
+    },
+    "1492": {
+        "id": "1492",
+        "name": "Glaive de Vellum",
+        "displayName": "Glaive de Vellum",
+        "aegisName": "velum_glaive",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 250,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 450,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "1494": {
+        "id": "1494",
+        "name": "Lança das Ondas",
+        "displayName": "Lança das Ondas [3]",
+        "aegisName": "undine_spear",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 190,
+            "refinable": true
+        },
+        "price": 50000,
+        "weight": 380,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 105
+            }
+        }
+    },
+    "1495": {
+        "id": "1495",
+        "name": "Lança TE",
+        "displayName": "Lança TE",
+        "aegisName": "te_woe_lance",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 0,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 3,
+            "atk": 150,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1496": {
+        "id": "1496",
+        "name": "Lança Dupla de Cinzas",
+        "displayName": "Lança Dupla de Cinzas [1]",
+        "aegisName": "thanos_long_spear",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 3,
+            "atk": 250,
+            "matk": 50,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 375,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "1498": {
+        "id": "1498",
+        "name": "Lança Rubi",
+        "displayName": "Lança Rubi [2]",
+        "aegisName": "scarlet_lance",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSPEAR",
+            "slots": 2,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 3,
+            "atk": 175,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 175,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    }
+}
