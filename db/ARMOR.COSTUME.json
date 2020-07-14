@@ -1,32 +1,4 @@
 {
-    "5909": {
-        "id": "5909",
-        "name": "Bravura dos Einherjar",
-        "displayName": "Bravura dos Einherjar",
-        "aegisName": "c_valkyrie_circlet",
-        "type": "ARMOR",
-        "equipData": {
-            "class": "COSTUME",
-            "slots": 0,
-            "position": "COSTUME_TOP",
-            "refinable": true
-        },
-        "price": 0
-    },
-    "5914": {
-        "id": "5914",
-        "name": "Aura Esplêndida",
-        "displayName": "Aura Esplêndida",
-        "aegisName": "c_flutter_butterfly",
-        "type": "ARMOR",
-        "equipData": {
-            "class": "COSTUME",
-            "slots": 0,
-            "position": "COSTUME_LOW",
-            "refinable": true
-        },
-        "price": 0
-    },
     "5979": {
         "id": "5979",
         "name": "Penas Clampi ®",
@@ -98,6 +70,21 @@
             "refinable": true,
             "def": 0
         }
+    },
+    "19048": {
+        "id": "19048",
+        "name": "Traje de Luta Jogos Vorags",
+        "displayName": "Traje de Luta Jogos Vorags [1]",
+        "aegisName": "elemental_clothe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 1,
+            "position": "UNKNOWN",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 50
     },
     "19083": {
         "id": "19083",
@@ -364,6 +351,18 @@
             "refinable": true
         },
         "weight": 0
+    },
+    "19289": {
+        "id": "19289",
+        "name": "Tapa-Lua",
+        "displayName": "Tapa-Lua",
+        "aegisName": "c_moon_eyepatch",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true
+        }
     },
     "19290": {
         "id": "19290",
@@ -1259,7 +1258,7 @@
         "id": 19578,
         "name": "Óculos de Aviação",
         "displayName": "Óculos de Aviação",
-        "aegisName": null,
+        "aegisName": "c_goggle",
         "price": 0,
         "weight": 0,
         "type": "ARMOR",
@@ -1504,6 +1503,20 @@
         "price": 0,
         "weight": 0
     },
+    "19623": {
+        "id": "19623",
+        "name": "Pluma Arco-íris",
+        "displayName": "Pluma Arco-íris",
+        "aegisName": "c_bizofnil_wing_deco",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "position": "COSTUME_TOP",
+            "refinable": true,
+            "def": 0
+        }
+    },
     "19627": {
         "id": "19627",
         "name": "Tiara Satélite",
@@ -1549,6 +1562,35 @@
             "refinable": true,
             "def": 0
         }
+    },
+    "19634": {
+        "id": 19634,
+        "name": "Máscara de Segurança",
+        "displayName": "Máscara de Segurança",
+        "aegisName": "c_flu_mask",
+        "type": "ARMOR",
+        "price": 1000,
+        "equipData": {
+            "class": "COSTUME",
+            "position": "COSTUME_TOP",
+            "refinable": true,
+            "def": 0
+        }
+    },
+    "19636": {
+        "id": "19636",
+        "name": "Nariz de Pierrot",
+        "displayName": "Nariz de Pierrot",
+        "aegisName": "c_pierrot_nose",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "position": "COSTUME_TOP",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 1000
     },
     "19637": {
         "id": 19637,
@@ -1680,6 +1722,20 @@
         "price": 0,
         "weight": 0
     },
+    "19655": {
+        "id": 19655,
+        "name": "Cartorta",
+        "displayName": "Cartorta",
+        "aegisName": "c_tiraya_bonnet",
+        "type": "ARMOR",
+        "price": 20,
+        "equipData": {
+            "class": "COSTUME",
+            "position": "COSTUME_TOP",
+            "refinable": false,
+            "def": 0
+        }
+    },
     "19656": {
         "id": "19656",
         "name": "Chapéu do Bardo Verde",
@@ -1754,6 +1810,22 @@
             "class": "COSTUME",
             "slots": 0,
             "position": "COSTUME_MID",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "19670": {
+        "id": "19670",
+        "name": "Joia do Sul",
+        "displayName": "Joia do Sul",
+        "aegisName": "c_southern_cross",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "position": "COSTUME_TOP",
             "refinable": true,
             "def": 0
         },
@@ -1971,6 +2043,20 @@
         "price": 1000,
         "weight": 0
     },
+    "19690": {
+        "id": "19690",
+        "name": "Capelo do Equilíbrio",
+        "displayName": "Capelo do Equilíbrio",
+        "aegisName": "c_dark_snake_lord_hat_j",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "position": "COSTUME_TOP",
+            "refinable": true,
+            "def": 0
+        }
+    },
     "19697": {
         "id": "19697",
         "name": "Gorro de Natal do Rudolph",
@@ -2023,7 +2109,7 @@
         "id": 19703,
         "name": "Peruca Afro Blackpower",
         "displayName": "Peruca Afro Blackpower",
-        "aegisName": null,
+        "aegisName": "afro_wig_black",
         "price": 0,
         "type": "ARMOR",
         "equipData": {
@@ -2037,7 +2123,7 @@
         "id": 19704,
         "name": "Peruca Afro Ruiva",
         "displayName": "Peruca Afro Ruiva",
-        "aegisName": null,
+        "aegisName": "c_afro_wig_red",
         "price": 0,
         "type": "ARMOR",
         "equipData": {
@@ -2051,7 +2137,7 @@
         "id": 19705,
         "name": "Peruca Afro Loira",
         "displayName": "Peruca Afro Loira",
-        "aegisName": null,
+        "aegisName": "c_afro_wig_yellow",
         "price": 0,
         "type": "ARMOR",
         "equipData": {
@@ -2300,6 +2386,21 @@
         "price": 1000,
         "weight": 0
     },
+    "19739": {
+        "id": "19739",
+        "name": "Chapéu Ronronante",
+        "displayName": "Chapéu Ronronante",
+        "aegisName": "c_sleeping_kitty_cat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "position": "COSTUME_TOP",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 1000
+    },
     "19742": {
         "id": "19742",
         "name": "Milagre de Asgard",
@@ -2314,6 +2415,22 @@
             "def": 0
         },
         "price": 0,
+        "weight": 0
+    },
+    "19744": {
+        "id": "19744",
+        "name": "Laço Delicado",
+        "displayName": "Laço Delicado",
+        "aegisName": "c_black_tail_ribbon",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "position": "COSTUME_TOP",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 20,
         "weight": 0
     },
     "19746": {
@@ -2384,6 +2501,20 @@
         "price": 0,
         "weight": 0
     },
+    "19753": {
+        "id": "19753",
+        "name": "Chapéu da Grande Caçada",
+        "displayName": "Chapéu da Grande Caçada",
+        "aegisName": "c_celestial_hat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "position": "COSTUME_TOP",
+            "refinable": true,
+            "def": 0
+        }
+    },
     "19756": {
         "id": "19756",
         "name": "Chapéu do Amor Materno",
@@ -2399,6 +2530,19 @@
         },
         "price": 0,
         "weight": 0
+    },
+    "19758": {
+        "id": 19758,
+        "name": "Chapéu do Sapo Rei",
+        "displayName": "Chapéu do Sapo Rei",
+        "aegisName": "c_frog_king_hat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "position": "COSTUME_TOP",
+            "refinable": true,
+            "def": 0
+        }
     },
     "19759": {
         "id": "19759",
@@ -2536,11 +2680,12 @@
         "name": "Touca de Abelha",
         "displayName": "Touca de Abelha",
         "aegisName": "c_honeybee_hat",
-        "type": "ARMOR",
         "price": 0,
         "weight": 0,
+        "type": "ARMOR",
         "equipData": {
             "class": "COSTUME",
+            "slots": 0,
             "position": "COSTUME_TOP",
             "refinable": true,
             "def": 0
@@ -2850,6 +2995,20 @@
         },
         "price": 0,
         "weight": 0
+    },
+    "19812": {
+        "id": "19812",
+        "name": "Hibiscus Desabrochado",
+        "displayName": "Hibiscus Desabrochado",
+        "aegisName": "c_large_hibiscus",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "position": "COSTUME_TOP",
+            "refinable": true,
+            "def": 0
+        }
     },
     "19816": {
         "id": "19816",
@@ -3516,6 +3675,20 @@
         "price": 0,
         "weight": 0
     },
+    "19908": {
+        "id": "19908",
+        "name": "Chapéu do Bobo da Corte",
+        "displayName": "Chapéu do Bobo da Corte",
+        "aegisName": "c_joker_jester_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "position": "COSTUME_TOP",
+            "refinable": true,
+            "def": 0
+        }
+    },
     "19910": {
         "id": "19910",
         "name": "Chapéu de Bruxa Brilhante",
@@ -4008,6 +4181,62 @@
         "price": 20,
         "weight": 0
     },
+    "19977": {
+        "id": "19977",
+        "name": "Sinal dos Apressados",
+        "displayName": "Sinal dos Apressados",
+        "aegisName": "c_golden_exclamation",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "position": "COSTUME_TOP",
+            "refinable": true,
+            "def": 0
+        }
+    },
+    "19978": {
+        "id": "19978",
+        "name": "Sinal dos Desesperados",
+        "displayName": "Sinal dos Desesperados",
+        "aegisName": "c_silver_exclamation",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "position": "COSTUME_TOP",
+            "refinable": true,
+            "def": 0
+        }
+    },
+    "19979": {
+        "id": "19979",
+        "name": "Sinal dos Curiosos",
+        "displayName": "Sinal dos Curiosos",
+        "aegisName": "c_golden_question",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "position": "COSTUME_TOP",
+            "refinable": true,
+            "def": 0
+        }
+    },
+    "19980": {
+        "id": "19980",
+        "name": "Sinal dos Esquecidos",
+        "displayName": "Sinal dos Esquecidos",
+        "aegisName": "c_silver_question",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "position": "COSTUME_TOP",
+            "refinable": true,
+            "def": 0
+        }
+    },
     "19984": {
         "id": "19984",
         "name": "Chapéu Visual de Inverno",
@@ -4189,6 +4418,20 @@
         "price": 0,
         "weight": 0
     },
+    "20007": {
+        "id": "20007",
+        "name": "Elmo de Tyr",
+        "displayName": "Elmo de Tyr",
+        "aegisName": "c_bullock_helm_j",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "position": "COSTUME_TOP",
+            "refinable": true,
+            "def": 0
+        }
+    },
     "20010": {
         "id": "20010",
         "name": "Orelhas Solares",
@@ -4314,6 +4557,20 @@
         },
         "price": 0,
         "weight": 0
+    },
+    "20031": {
+        "id": "20031",
+        "name": "Tiara Pomposa",
+        "displayName": "Tiara Pomposa",
+        "aegisName": "c_bunny_head_dress",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "position": "COSTUME_TOP",
+            "refinable": true,
+            "def": 0
+        }
     },
     "20032": {
         "id": "20032",
@@ -4904,6 +5161,20 @@
         "price": 0,
         "weight": 0
     },
+    "20164": {
+        "id": "20164",
+        "name": "Possessão de Duneyrr",
+        "displayName": "Possessão de Duneyrr",
+        "aegisName": "c_duneyrr_helm",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "position": "COSTUME_TOP",
+            "refinable": true,
+            "def": 0
+        }
+    },
     "20166": {
         "id": "20166",
         "name": "Máscara do Jay Zon",
@@ -5070,6 +5341,20 @@
         "weight": 0,
         "equipData": {
             "class": "COSTUME",
+            "position": "COSTUME_TOP",
+            "refinable": true,
+            "def": 0
+        }
+    },
+    "20190": {
+        "id": "20190",
+        "name": "Cocoricuca",
+        "displayName": "Cocoricuca",
+        "aegisName": "c_chicken_hat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
             "position": "COSTUME_TOP",
             "refinable": true,
             "def": 0
@@ -5315,6 +5600,20 @@
         },
         "price": 0,
         "weight": 0
+    },
+    "20224": {
+        "id": "20224",
+        "name": "Laço Vermelho Delicado",
+        "displayName": "Laço Vermelho Delicado",
+        "aegisName": "c_red_tailed_ribbon",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "position": "COSTUME_TOP",
+            "refinable": true,
+            "def": 0
+        }
     },
     "20231": {
         "id": "20231",
@@ -5870,6 +6169,24 @@
         "price": 0,
         "weight": 0
     },
+    "20299": {
+        "id": 20299,
+        "name": "Torta de Baunilha",
+        "displayName": "Torta de Baunilha",
+        "aegisName": "c_face_crusher",
+        "type": "ARMOR",
+        "price": 0,
+        "weight": 0,
+        "equipData": {
+            "class": "COSTUME",
+            "position": [
+                "COSTUME_MID",
+                "COSTUME_LOW"
+            ],
+            "refinable": true,
+            "def": 0
+        }
+    },
     "20300": {
         "id": "20300",
         "name": "Máscara Vento da Colina",
@@ -6118,7 +6435,7 @@
         "id": 20328,
         "name": "Carpa Dourada de Cospobre",
         "displayName": "Carpa Dourada de Cospobre",
-        "aegisName": null,
+        "aegisName": "c_mackerel_pike",
         "price": 0,
         "weight": 100,
         "type": "ARMOR",
@@ -6521,7 +6838,7 @@
         "id": 20372,
         "name": "Chapéu Delicado de Cospobre",
         "displayName": "Chapéu Delicado de Cospobre",
-        "aegisName": null,
+        "aegisName": "c_ribbon_hat",
         "price": 0,
         "weight": 120,
         "type": "ARMOR",
@@ -6726,7 +7043,7 @@
         "id": 20401,
         "name": "Espírito angelical",
         "displayName": "Espírito angelical",
-        "aegisName": null,
+        "aegisName": "c_angel_guidance",
         "weight": 0,
         "type": "ARMOR",
         "equipData": {
@@ -6862,6 +7179,21 @@
         },
         "weight": 0
     },
+    "20434": {
+        "id": 20434,
+        "name": "Guardiã dos Penteados",
+        "displayName": "Guardiã dos Penteados",
+        "aegisName": "c_drooping_gunslinger",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "position": "COSTUME_TOP",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
     "20435": {
         "id": "20435",
         "name": "Pingente Lunar",
@@ -6894,7 +7226,7 @@
         "id": 20440,
         "name": "Laço com Guizo",
         "displayName": "Laço com Guizo",
-        "aegisName": null,
+        "aegisName": "c_tone_of_gold",
         "weight": 0,
         "type": "ARMOR",
         "equipData": {
@@ -7174,11 +7506,115 @@
         },
         "weight": 0
     },
+    "20502": {
+        "id": "20502",
+        "name": "Asa de Morcego Mutante",
+        "displayName": "Asa de Morcego Mutante",
+        "aegisName": "c_devil_wing",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true
+        }
+    },
+    "20504": {
+        "id": "20504",
+        "name": "Asas da Sarakura",
+        "displayName": "Asas da Sarakura",
+        "aegisName": "c_cupid_wing_pink",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "position": "UNKNOWN",
+            "refinable": true
+        },
+        "weight": 0
+    },
+    "20515": {
+        "id": "20515",
+        "name": "Círculo de Conjuração",
+        "displayName": "Círculo de Conjuração",
+        "aegisName": "c_magic_circle",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "position": "UNKNOWN",
+            "refinable": true,
+            "def": 0
+        }
+    },
+    "20522": {
+        "id": "20522",
+        "name": "Miaura",
+        "displayName": "Miaura",
+        "aegisName": "c_blessings_of_soul",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true
+        }
+    },
+    "20546": {
+        "id": "20546",
+        "name": "Sino Espalhafatoso",
+        "displayName": "Sino Espalhafatoso",
+        "aegisName": "c_backside_ribbon_bell",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true,
+            "def": 0
+        }
+    },
+    "20570": {
+        "id": "20570",
+        "name": "Mochocochila",
+        "displayName": "Mochocochila",
+        "aegisName": "c_heartchocobag",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true,
+            "def": 0
+        }
+    },
+    "20575": {
+        "id": "20575",
+        "name": "Mochila do Aluno Esperto",
+        "displayName": "Mochila do Aluno Esperto",
+        "aegisName": "c_school_bag_bl",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "position": "UNKNOWN",
+            "refinable": true
+        },
+        "weight": 0
+    },
+    "20594": {
+        "id": "20594",
+        "name": "Laço Pomposo",
+        "displayName": "Laço Pomposo",
+        "aegisName": "c_big_ribbon_cloak",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true
+        }
+    },
     "20798": {
         "id": 20798,
         "name": "Traje do Ceifeiro",
         "displayName": "Traje do Ceifeiro",
-        "aegisName": null,
+        "aegisName": "grimreaper_protection",
         "type": "ARMOR",
         "equipData": {
             "class": "COSTUME",
@@ -7204,7 +7640,7 @@
         "id": 31028,
         "name": "Sobrepeliz de Gatinho",
         "displayName": "Sobrepeliz de Gatinho",
-        "aegisName": null,
+        "aegisName": "c_black_cat_hood",
         "type": "ARMOR",
         "equipData": {
             "class": "COSTUME",
@@ -7242,6 +7678,21 @@
             "refinable": true
         }
     },
+    "31039": {
+        "id": 31039,
+        "name": "Coroa de Folhas do Outono",
+        "displayName": "Coroa de Folhas do Outono",
+        "aegisName": "c_crown_of_old_fing_red",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "position": "COSTUME_TOP",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
     "31040": {
         "id": "31040",
         "name": "Tiara das Plumas Mágicas",
@@ -7252,6 +7703,18 @@
             "class": "COSTUME",
             "slots": 0,
             "position": "COSTUME_TOP",
+            "refinable": true
+        }
+    },
+    "31042": {
+        "id": "31042",
+        "name": "Diadema Delicado",
+        "displayName": "Diadema Delicado",
+        "aegisName": "c_survive_circlet",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
             "refinable": true
         }
     },
@@ -7343,7 +7806,7 @@
         "id": 31054,
         "name": "Chapéu do Sting Vitorioso",
         "displayName": "Chapéu do Sting Vitorioso",
-        "aegisName": null,
+        "aegisName": "c_sting_hat",
         "weight": 0,
         "type": "ARMOR",
         "equipData": {
@@ -7552,6 +8015,18 @@
         },
         "weight": 0
     },
+    "31092": {
+        "id": "31092",
+        "name": "Chapéu do Coelho Elegante",
+        "displayName": "Chapéu do Coelho Elegante",
+        "aegisName": "c_rabbit_ribbon",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true
+        }
+    },
     "31093": {
         "id": "31093",
         "name": "Lanterna das Fadas",
@@ -7622,7 +8097,7 @@
         "id": 31112,
         "name": "Balão de Fala (Hue Hue Br)",
         "displayName": "Balão de Fala (Hue Hue Br)",
-        "aegisName": null,
+        "aegisName": "demi_magic_box",
         "type": "ARMOR",
         "equipData": {
             "class": "COSTUME",
@@ -7648,6 +8123,18 @@
             "refinable": true
         },
         "weight": 0
+    },
+    "31119": {
+        "id": "31119",
+        "name": "Chapéu Cone Arcano",
+        "displayName": "Chapéu Cone Arcano",
+        "aegisName": "c_blue_wizardry_hat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true
+        }
     },
     "31120": {
         "id": "31120",
@@ -7723,7 +8210,7 @@
         "id": 31132,
         "name": "Guirlanda Natalina",
         "displayName": "Guirlanda Natalina",
-        "aegisName": null,
+        "aegisName": "c_christmas_wreath",
         "weight": 0,
         "type": "ARMOR",
         "equipData": {
@@ -7807,7 +8294,7 @@
         "id": 31151,
         "name": "Orelhas Felpudas",
         "displayName": "Orelhas Felpudas",
-        "aegisName": null,
+        "aegisName": "c_chasher_ear",
         "weight": 0,
         "type": "ARMOR",
         "equipData": {
@@ -7978,7 +8465,7 @@
         "id": 31176,
         "name": "Boina de Ursinho",
         "displayName": "Boina de Ursinho",
-        "aegisName": null,
+        "aegisName": "c_looking",
         "weight": 0,
         "type": "ARMOR",
         "equipData": {
@@ -8042,6 +8529,21 @@
             "position": "COSTUME_TOP",
             "refinable": true
         },
+        "weight": 0
+    },
+    "31182": {
+        "id": 31182,
+        "name": "Boina de Marinheiro Aposentado",
+        "displayName": "Boina de Marinheiro Aposentado",
+        "aegisName": "c_side_cap",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "position": "COSTUME_TOP",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
         "weight": 0
     },
     "31183": {
@@ -8147,7 +8649,7 @@
         "id": 31193,
         "name": "Chapéu de Ahat",
         "displayName": "Chapéu de Ahat",
-        "aegisName": null,
+        "aegisName": "c_tare_ahat",
         "weight": 0,
         "type": "ARMOR",
         "equipData": {
@@ -8232,7 +8734,7 @@
         "id": 31203,
         "name": "Churrasquelmo",
         "displayName": "Churrasquelmo",
-        "aegisName": null,
+        "aegisName": "c_charcoal_stove",
         "weight": 0,
         "type": "ARMOR",
         "equipData": {
@@ -8682,6 +9184,18 @@
         },
         "weight": 0
     },
+    "31259": {
+        "id": "31259",
+        "name": "Tiara dos ArchAngeling",
+        "displayName": "Tiara dos ArchAngeling",
+        "aegisName": "c_bubble_a_angel_h",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true
+        }
+    },
     "31260": {
         "id": "31260",
         "name": "Rastreador Sofisticado",
@@ -8767,11 +9281,38 @@
         },
         "weight": 0
     },
+    "31293": {
+        "id": 31293,
+        "name": "Coroa de Pétalas de Lavanda",
+        "displayName": "Coroa de Pétalas de Lavanda",
+        "aegisName": "c_kings_crown_purple",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "position": "COSTUME_TOP",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "31295": {
+        "id": "31295",
+        "name": "Boina Emplumada",
+        "displayName": "Boina Emplumada",
+        "aegisName": "c_priest_hat_j",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true
+        }
+    },
     "31299": {
         "id": 31299,
         "name": "Coelhinho Branco",
         "displayName": "Coelhinho Branco",
-        "aegisName": null,
+        "aegisName": "c_white_rabbit",
         "weight": 0,
         "type": "ARMOR",
         "equipData": {
@@ -9000,6 +9541,36 @@
         },
         "weight": 0
     },
+    "31368": {
+        "id": 31368,
+        "name": "Fogaréu",
+        "displayName": "Fogaréu",
+        "aegisName": "harvest_festa_hat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "position": "COSTUME_TOP",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "31373": {
+        "id": 31373,
+        "name": "Coroa de Ramos Verdejantes",
+        "displayName": "Coroa de Ramos Verdejantes",
+        "aegisName": "c_crown_of_ancient_king",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "position": "COSTUME_TOP",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
     "31381": {
         "id": "31381",
         "name": "Gola Diabólica",
@@ -9098,6 +9669,19 @@
             "refinable": true
         }
     },
+    "31389": {
+        "id": "31389",
+        "name": "Rosas Aladas de Hermes",
+        "displayName": "Rosas Aladas de Hermes",
+        "aegisName": "c_white_bird_rose",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true,
+            "def": 0
+        }
+    },
     "31390": {
         "id": "31390",
         "name": "Chapéu da Nevasca",
@@ -9117,7 +9701,7 @@
         "id": 31391,
         "name": "Cristal Exuberante",
         "displayName": "Cristal Exuberante",
-        "aegisName": null,
+        "aegisName": "c_floating_stone_of_sage",
         "weight": 0,
         "type": "ARMOR",
         "equipData": {
@@ -9203,7 +9787,7 @@
         "id": 31399,
         "name": "Véu da Madrugada",
         "displayName": "Véu da Madrugada",
-        "aegisName": null,
+        "aegisName": "c_darkness_veil",
         "weight": 0,
         "type": "ARMOR",
         "equipData": {
@@ -9212,6 +9796,20 @@
             "refinable": true,
             "def": 0
         }
+    },
+    "31405": {
+        "id": "31405",
+        "name": "Peruca Dourada de Eleanor",
+        "displayName": "Peruca Dourada de Eleanor",
+        "aegisName": "c_eleanor_wig_yl",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "position": "COSTUME_TOP",
+            "refinable": true
+        },
+        "weight": 0
     },
     "31406": {
         "id": "31406",
@@ -9470,6 +10068,18 @@
             "refinable": true
         }
     },
+    "31473": {
+        "id": "31473",
+        "name": "Marcas do Envergonhado",
+        "displayName": "Marcas do Envergonhado",
+        "aegisName": "c_tipsy",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true
+        }
+    },
     "31474": {
         "id": "31474",
         "name": "Cabelo Longo Preto",
@@ -9679,6 +10289,19 @@
         },
         "weight": 0
     },
+    "31512": {
+        "id": "31512",
+        "name": "Coelhinho Malhado",
+        "displayName": "Coelhinho Malhado",
+        "aegisName": "c_panda_rabbit",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true,
+            "def": 0
+        }
+    },
     "31513": {
         "id": "31513",
         "name": "Orelhas do Coelho Minguante",
@@ -9721,6 +10344,19 @@
         },
         "weight": 0
     },
+    "31529": {
+        "id": "31529",
+        "name": "Laçarote das Orelhas Pontudas",
+        "displayName": "Laçarote das Orelhas Pontudas",
+        "aegisName": "c_happy_rabbit_ribbon",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true,
+            "def": 0
+        }
+    },
     "31530": {
         "id": "31530",
         "name": "Elmo de Áries",
@@ -9747,6 +10383,18 @@
             "refinable": true
         },
         "weight": 0
+    },
+    "31533": {
+        "id": "31533",
+        "name": "Gatchecol da Sorte",
+        "displayName": "Gatchecol da Sorte",
+        "aegisName": "c_warm_cat_muffler_bl",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true
+        }
     },
     "31538": {
         "id": "31538",
@@ -9940,6 +10588,21 @@
         },
         "weight": 0
     },
+    "31571": {
+        "id": 31571,
+        "name": "Chipéu",
+        "displayName": "Chipéu",
+        "aegisName": null,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "position": "COSTUME_TOP",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
     "31572": {
         "id": "31572",
         "name": "Auréolas Digitais",
@@ -10124,6 +10787,18 @@
         },
         "weight": 0
     },
+    "31607": {
+        "id": "31607",
+        "name": "Chapéu da Bruxa Doram",
+        "displayName": "Chapéu da Bruxa Doram",
+        "aegisName": "c_b_earwitchhat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true
+        }
+    },
     "31609": {
         "id": "31609",
         "name": "Máscara do Aristocrata",
@@ -10210,6 +10885,18 @@
         },
         "weight": 0
     },
+    "31620": {
+        "id": "31620",
+        "name": "Raposa Glacial",
+        "displayName": "Raposa Glacial",
+        "aegisName": "c_snow_fox_tw",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true
+        }
+    },
     "31625": {
         "id": "31625",
         "name": "Cachecol Celestial",
@@ -10238,6 +10925,18 @@
             "refinable": true
         },
         "weight": 0
+    },
+    "31630": {
+        "id": "31630",
+        "name": "Paraquedas dos Baphomet Jrs.",
+        "displayName": "Paraquedas dos Baphomet Jrs.",
+        "aegisName": "c_baphoj_parachute_jp",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true
+        }
     },
     "31635": {
         "id": "31635",
@@ -10724,6 +11423,21 @@
             "refinable": true
         }
     },
+    "31732": {
+        "id": 31732,
+        "name": "Balão do Urso Carinhoso",
+        "displayName": "Balão do Urso Carinhoso",
+        "aegisName": null,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "position": "COSTUME_LOW",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
     "31735": {
         "id": "31735",
         "name": "Gargalheira de Yawata",
@@ -10734,6 +11448,30 @@
             "class": "COSTUME",
             "slots": 0,
             "position": "COSTUME_LOW",
+            "refinable": true
+        }
+    },
+    "31762": {
+        "id": "31762",
+        "name": "Ás de Copas",
+        "displayName": "Ás de Copas",
+        "aegisName": "c_heart_card_in_mouth",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true
+        }
+    },
+    "31788": {
+        "id": "31788",
+        "name": "Peruca Prateada da Piamette",
+        "displayName": "Peruca Prateada da Piamette",
+        "aegisName": "c_piamette_roll_hair_sv",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
             "refinable": true
         }
     },
@@ -10820,5 +11558,119 @@
             "refinable": true
         },
         "weight": 0
+    },
+    "31831": {
+        "id": "31831",
+        "name": "Manto do Disfarce",
+        "displayName": "Manto do Disfarce",
+        "aegisName": "c_disguise_mantle",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true
+        }
+    },
+    "31833": {
+        "id": "31833",
+        "name": "Peruca Curta de Gatinha Má",
+        "displayName": "Peruca Curta de Gatinha Má",
+        "aegisName": "c_halloween_cat_short",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true
+        }
+    },
+    "31844": {
+        "id": 31844,
+        "name": "Lenço do Disfarce",
+        "displayName": "Lenço do Disfarce",
+        "aegisName": null,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "position": "COSTUME_LOW",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "31846": {
+        "id": "31846",
+        "name": "Penteado Duplo Laço",
+        "displayName": "Penteado Duplo Laço",
+        "aegisName": "c_lovely_ribbon_hair",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true
+        }
+    },
+    "31905": {
+        "id": "31905",
+        "name": "Peruca das Asinhas Celestes",
+        "displayName": "Peruca das Asinhas Celestes",
+        "aegisName": "c_blanc_neige_prince",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true
+        }
+    },
+    "31906": {
+        "id": "31906",
+        "name": "Gorro do Gatinho Amoroso",
+        "displayName": "Gorro do Gatinho Amoroso",
+        "aegisName": "c_pgstone_knit_hat_pk",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true
+        }
+    },
+    "31932": {
+        "id": "31932",
+        "name": "Gravata-Paletó",
+        "displayName": "Gravata-Paletó",
+        "aegisName": "c_suit_sollar",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true
+        }
+    },
+    "410005": {
+        "id": 410005,
+        "name": "Aparato Flutuante",
+        "displayName": "Aparato Flutuante",
+        "aegisName": null,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "position": "COSTUME_MID",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "440002": {
+        "id": "440002",
+        "name": "Felina Cauda-Longa",
+        "displayName": "Felina Cauda-Longa",
+        "aegisName": "c_happy_cat_tw",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "COSTUME",
+            "slots": 0,
+            "refinable": true
+        }
     }
 }

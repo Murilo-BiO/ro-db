@@ -1264,9 +1264,9 @@
         "name": "Carta Kobold",
         "displayName": "Carta Kobold",
         "aegisName": "kobold_card",
-        "type": "SLOT_ITEM",
         "price": 20,
         "weight": 1,
+        "type": "SLOT_ITEM",
         "slotItemData": {
             "class": "CARD",
             "target": "ACCESSORY",
@@ -2230,9 +2230,9 @@
         "name": "Carta Zumbi Atirador",
         "displayName": "Carta Zumbi Atirador",
         "aegisName": "antique_firelock_card",
-        "type": "SLOT_ITEM",
         "price": 20,
         "weight": 1,
+        "type": "SLOT_ITEM",
         "slotItemData": {
             "class": "CARD",
             "target": "SHOES",
@@ -4064,9 +4064,9 @@
         "name": "Carta Líder Kobold",
         "displayName": "Carta Líder Kobold",
         "aegisName": "kobold_leader_card",
-        "type": "SLOT_ITEM",
         "price": 20,
         "weight": 1,
+        "type": "SLOT_ITEM",
         "slotItemData": {
             "class": "CARD",
             "target": "WEAPON",
@@ -4078,9 +4078,9 @@
         "name": "Carta Kobold Arqueiro",
         "displayName": "Carta Kobold Arqueiro",
         "aegisName": "kobold_archer_card",
-        "type": "SLOT_ITEM",
         "price": 20,
         "weight": 1,
+        "type": "SLOT_ITEM",
         "slotItemData": {
             "class": "CARD",
             "target": "WEAPON",
@@ -4288,9 +4288,9 @@
         "name": "Carta Encouraçado",
         "displayName": "Carta Encouraçado",
         "aegisName": "kind_of_beetle_card",
-        "type": "SLOT_ITEM",
         "price": 20,
         "weight": 1,
+        "type": "SLOT_ITEM",
         "slotItemData": {
             "class": "CARD",
             "target": "WEAPON",
@@ -4918,9 +4918,9 @@
         "name": "Carta Espadachim Egnigem",
         "displayName": "Carta Espadachim Egnigem",
         "aegisName": "b_ygnizem_card",
-        "type": "SLOT_ITEM",
         "price": 20,
         "weight": 1,
+        "type": "SLOT_ITEM",
         "slotItemData": {
             "class": "CARD",
             "target": "SHOES",
@@ -6304,9 +6304,9 @@
         "name": "Carta Entweihen Crothen",
         "displayName": "Carta Entweihen Crothen",
         "aegisName": "ant_buyanne_card",
-        "type": "SLOT_ITEM",
         "price": 20,
         "weight": 1,
+        "type": "SLOT_ITEM",
         "slotItemData": {
             "class": "CARD",
             "target": "ARMOR",
@@ -7401,6 +7401,7 @@
         "weight": 1,
         "slotItemData": {
             "class": "CARD",
+            "target": "HAT",
             "nameModifier": "Novice"
         }
     },
@@ -7764,6 +7765,7 @@
         "weight": 1,
         "slotItemData": {
             "class": "CARD",
+            "target": "HAT",
             "nameModifier": "da Energia Vital"
         }
     },
@@ -7777,6 +7779,7 @@
         "weight": 1,
         "slotItemData": {
             "class": "CARD",
+            "target": "HAT",
             "nameModifier": "da Vinha Venenosa"
         }
     },
@@ -7818,6 +7821,7 @@
         "weight": 1,
         "slotItemData": {
             "class": "CARD",
+            "target": "HAT",
             "nameModifier": "do Zéfiro"
         }
     },
@@ -7971,6 +7975,7 @@
         "weight": 1,
         "slotItemData": {
             "class": "CARD",
+            "target": "HAT",
             "nameModifier": "Borbulhante"
         }
     },
@@ -7984,6 +7989,7 @@
         "weight": 1,
         "slotItemData": {
             "class": "CARD",
+            "target": "HAT",
             "nameModifier": "Espectral"
         }
     },
@@ -7997,6 +8003,7 @@
         "weight": 1,
         "slotItemData": {
             "class": "CARD",
+            "target": "HAT",
             "nameModifier": "Ardente"
         }
     },
@@ -8010,6 +8017,7 @@
         "weight": 1,
         "slotItemData": {
             "class": "CARD",
+            "target": "HAT",
             "nameModifier": "Brotante"
         }
     },

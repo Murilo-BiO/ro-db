@@ -1381,7 +1381,7 @@
         "id": 10040,
         "name": "Coleira Vermelha com Sino",
         "displayName": "Coleira Vermelha com Sino",
-        "aegisName": null,
+        "aegisName": "red_chorker_bell",
         "type": "ARMOR",
         "equipData": {
             "class": "PET"

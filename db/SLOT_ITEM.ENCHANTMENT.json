@@ -2303,6 +2303,26 @@
         },
         "price": 0
     },
+    "4928": {
+        "id": 4928,
+        "name": "SP + 10",
+        "displayName": "SP + 10",
+        "aegisName": "sp10",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT"
+        }
+    },
+    "4929": {
+        "id": 4929,
+        "name": "SP + 1%",
+        "displayName": "SP + 1%",
+        "aegisName": "msp1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT"
+        }
+    },
     "4933": {
         "id": "4933",
         "name": "Neutralidade 1",
@@ -2604,6 +2624,26 @@
         "price": 0,
         "weight": 1
     },
+    "4992": {
+        "id": 4992,
+        "name": "Absorção de HP",
+        "displayName": "Absorção de HP",
+        "aegisName": "hpdrain1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT"
+        }
+    },
+    "4993": {
+        "id": 4993,
+        "name": "Absorção de SP",
+        "displayName": "Absorção de SP",
+        "aegisName": "spdrain1",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT"
+        }
+    },
     "4994": {
         "id": "4994",
         "name": "Runa do Poder 1",
@@ -2808,6 +2848,16 @@
             "nameModifier": null
         }
     },
+    "29047": {
+        "id": 29047,
+        "name": "Mortal 1",
+        "displayName": "Mortal 1",
+        "aegisName": "fatal0",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT"
+        }
+    },
     "29135": {
         "id": "29135",
         "name": "Faro Aguçado 1",
@@ -2850,6 +2900,46 @@
         "slotItemData": {
             "class": "ENCHANTMENT",
             "nameModifier": null
+        }
+    },
+    "29139": {
+        "id": 29139,
+        "name": "Faro Aguçado 5",
+        "displayName": "Faro Aguçado 5",
+        "aegisName": null,
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT"
+        }
+    },
+    "29359": {
+        "id": 29359,
+        "name": "Mortal 2",
+        "displayName": "Mortal 2",
+        "aegisName": "fatal_top",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT"
+        }
+    },
+    "29360": {
+        "id": 29360,
+        "name": "Mortal 3",
+        "displayName": "Mortal 3",
+        "aegisName": "fatal_bottom",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT"
+        }
+    },
+    "29361": {
+        "id": 29361,
+        "name": "Mortal 4",
+        "displayName": "Mortal 4",
+        "aegisName": "fatal_robe",
+        "type": "SLOT_ITEM",
+        "slotItemData": {
+            "class": "ENCHANTMENT"
         }
     }
 }

@@ -434,7 +434,6 @@
         "name": "Véu de Morpheus",
         "displayName": "Véu de Morpheus",
         "aegisName": "morpheuss_shawl",
-        "type": "ARMOR",
         "price": 30000,
         "weight": 60,
         "restrictions": {
@@ -446,8 +445,10 @@
                 "min": 33
             }
         },
+        "type": "ARMOR",
         "equipData": {
             "class": "GARMENT",
+            "slots": 0,
             "position": "GARMENT",
             "refinable": true,
             "def": 8

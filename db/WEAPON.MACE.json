@@ -2220,7 +2220,7 @@
         "id": 16033,
         "name": "Braço Robótico",
         "displayName": "Braço Robótico [2]",
-        "aegisName": null,
+        "aegisName": "robots_arm",
         "equipData": {
             "slots": 2,
             "class": "MACE",
@@ -2342,7 +2342,7 @@
         "id": 16056,
         "name": "Martelo Veterano",
         "displayName": "Martelo Veterano [3]",
-        "aegisName": null,
+        "aegisName": "veteran_hammer_",
         "equipData": {
             "slots": 3,
             "class": "MACE",

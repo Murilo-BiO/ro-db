@@ -2229,7 +2229,7 @@
         "id": 15368,
         "name": "Saltos da Rainha Scaraba",
         "displayName": "Saltos da Rainha Scaraba [1]",
-        "aegisName": null,
+        "aegisName": "scaraba_high_heels",
         "equipData": {
             "slots": 1,
             "class": "SHOES",
@@ -3023,7 +3023,7 @@
         "id": 22107,
         "name": "Botas Modificadas FOR",
         "displayName": "Botas Modificadas FOR",
-        "aegisName": null,
+        "aegisName": "modified_str_boots",
         "weight": 60,
         "restrictions": {
             "level": {
@@ -3042,7 +3042,7 @@
         "id": 22108,
         "name": "Botas Modificadas INT",
         "displayName": "Botas Modificadas INT",
-        "aegisName": null,
+        "aegisName": "modified_int_boots",
         "weight": 60,
         "restrictions": {
             "level": {
@@ -3061,7 +3061,7 @@
         "id": 22109,
         "name": "Botas Modificadas AGI",
         "displayName": "Botas Modificadas AGI",
-        "aegisName": null,
+        "aegisName": "modified_agi_boots",
         "weight": 60,
         "restrictions": {
             "level": {
@@ -3080,7 +3080,7 @@
         "id": 22110,
         "name": "Botas Modificadas VIT",
         "displayName": "Botas Modificadas VIT",
-        "aegisName": null,
+        "aegisName": "modified_vit_boots",
         "weight": 60,
         "restrictions": {
             "level": {
@@ -3099,7 +3099,7 @@
         "id": 22111,
         "name": "Botas Modificadas DES",
         "displayName": "Botas Modificadas DES",
-        "aegisName": null,
+        "aegisName": "modified_dex_boots",
         "weight": 60,
         "restrictions": {
             "level": {
@@ -3118,7 +3118,7 @@
         "id": 22112,
         "name": "Botas Modificadas SOR",
         "displayName": "Botas Modificadas SOR",
-        "aegisName": null,
+        "aegisName": "modified_luk_boots",
         "weight": 60,
         "restrictions": {
             "level": {
@@ -3137,7 +3137,7 @@
         "id": 22113,
         "name": "Botas Modificadas FOR",
         "displayName": "Botas Modificadas FOR [1]",
-        "aegisName": null,
+        "aegisName": "modified_str_boots_",
         "equipData": {
             "slots": 1,
             "class": "SHOES",
@@ -3157,7 +3157,7 @@
         "id": 22114,
         "name": "Botas Modificadas INT",
         "displayName": "Botas Modificadas INT [1]",
-        "aegisName": null,
+        "aegisName": "modified_int_boots_",
         "equipData": {
             "slots": 1,
             "class": "SHOES",
@@ -3177,7 +3177,7 @@
         "id": 22115,
         "name": "Botas Modificadas AGI",
         "displayName": "Botas Modificadas AGI [1]",
-        "aegisName": null,
+        "aegisName": "modified_agi_boots_",
         "equipData": {
             "slots": 1,
             "class": "SHOES",
@@ -3197,7 +3197,7 @@
         "id": 22116,
         "name": "Botas Modificadas VIT",
         "displayName": "Botas Modificadas VIT [1]",
-        "aegisName": null,
+        "aegisName": "modified_vit_boots_",
         "equipData": {
             "slots": 1,
             "class": "SHOES",
@@ -3217,7 +3217,7 @@
         "id": 22117,
         "name": "Botas Modificadas DES",
         "displayName": "Botas Modificadas DES [1]",
-        "aegisName": null,
+        "aegisName": "modified_dex_boots_",
         "equipData": {
             "slots": 1,
             "class": "SHOES",
@@ -3237,7 +3237,7 @@
         "id": 22118,
         "name": "Botas Modificadas SOR",
         "displayName": "Botas Modificadas SOR [1]",
-        "aegisName": null,
+        "aegisName": "modified_luk_boots_",
         "equipData": {
             "slots": 1,
             "class": "SHOES",
@@ -3290,7 +3290,7 @@
         "id": 22138,
         "name": "Botas do Ocultista",
         "displayName": "Botas do Ocultista",
-        "aegisName": null,
+        "aegisName": "demonist_shoes",
         "weight": 50,
         "restrictions": {
             "level": {

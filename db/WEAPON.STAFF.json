@@ -1953,7 +1953,7 @@
         "id": 1675,
         "name": "Cajado do Cavalheiro",
         "displayName": "Cajado do Cavalheiro [3]",
-        "aegisName": null,
+        "aegisName": "walking_stick_",
         "equipData": {
             "slots": 3,
             "class": "STAFF",
@@ -1975,7 +1975,7 @@
         "id": 1676,
         "name": "Cajado Demoníaco",
         "displayName": "Cajado Demoníaco [2]",
-        "aegisName": null,
+        "aegisName": "baculum_daemonicum",
         "equipData": {
             "slots": 2,
             "class": "STAFF",
@@ -1995,7 +1995,7 @@
         "id": 1679,
         "name": "Cajado dos Esplêndidos",
         "displayName": "Cajado dos Esplêndidos [2]",
-        "aegisName": null,
+        "aegisName": "rafini_staff_s",
         "equipData": {
             "slots": 2,
             "class": "STAFF",

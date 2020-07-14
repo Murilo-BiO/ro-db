@@ -3254,6 +3254,31 @@
             }
         }
     },
+    "5054": {
+        "id": 5054,
+        "name": "Máscara do Sicário",
+        "displayName": "Máscara do Sicário",
+        "aegisName": "assasin_mask",
+        "price": 20,
+        "weight": 10,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Assassin": true
+            },
+            "level": {
+                "min": 70
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "HAT",
+            "slots": 0,
+            "position": "HAT_LOW",
+            "refinable": false,
+            "def": 0
+        }
+    },
     "5055": {
         "id": "5055",
         "name": "Chapéu de Ovo do Aprendiz",
@@ -5088,6 +5113,38 @@
             "level": {
                 "min": 30
             }
+        }
+    },
+    "5142": {
+        "id": 5142,
+        "name": "Elmo de Samurai",
+        "displayName": "Elmo de Samurai [1]",
+        "aegisName": "crescent_helm",
+        "price": 48000,
+        "weight": 300,
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Crusader": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 50
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "HAT",
+            "slots": 1,
+            "position": [
+                "HAT_TOP",
+                "HAT_MID"
+            ],
+            "refinable": true,
+            "def": 20
         }
     },
     "5143": {
@@ -7120,16 +7177,16 @@
         "name": "Chapéu de Deviling",
         "displayName": "Chapéu de Deviling [1]",
         "aegisName": "deviling_hat",
+        "price": 20,
+        "weight": 50,
+        "type": "ARMOR",
         "equipData": {
-            "slots": 1,
             "class": "HAT",
+            "slots": 1,
             "position": "HAT_TOP",
             "refinable": true,
             "def": 6
-        },
-        "type": "ARMOR",
-        "price": 20,
-        "weight": 50
+        }
     },
     "5255": {
         "id": "5255",
@@ -8126,16 +8183,16 @@
         "name": "Chapéu de ArchAngeling",
         "displayName": "Chapéu de ArchAngeling [1]",
         "aegisName": "hellomother_hat",
+        "price": 20,
+        "weight": 20,
+        "type": "ARMOR",
         "equipData": {
-            "slots": 1,
             "class": "HAT",
+            "slots": 1,
             "position": "HAT_TOP",
             "refinable": true,
             "def": 3
-        },
-        "type": "ARMOR",
-        "price": 20,
-        "weight": 20
+        }
     },
     "5322": {
         "id": "5322",
@@ -8304,16 +8361,16 @@
         "name": "Gorro de Angeling Encantado",
         "displayName": "Gorro de Angeling Encantado [1]",
         "aegisName": "angeling_wanna_fly",
+        "price": 0,
+        "weight": 70,
+        "type": "ARMOR",
         "equipData": {
-            "slots": 1,
             "class": "HAT",
+            "slots": 1,
             "position": "HAT_TOP",
             "refinable": true,
             "def": 5
-        },
-        "type": "ARMOR",
-        "price": 0,
-        "weight": 70
+        }
     },
     "5335": {
         "id": "5335",
@@ -9368,16 +9425,16 @@
         "name": "Coroa de Jaspe",
         "displayName": "Coroa de Jaspe [1]",
         "aegisName": "jasper_crest",
+        "price": 20,
+        "weight": 70,
+        "type": "ARMOR",
         "equipData": {
-            "slots": 1,
             "class": "HAT",
+            "slots": 1,
             "position": "HAT_TOP",
             "refinable": true,
             "def": 6
-        },
-        "type": "ARMOR",
-        "price": 20,
-        "weight": 70
+        }
     },
     "5397": {
         "id": "5397",
@@ -9752,6 +9809,35 @@
             "level": {
                 "min": 18
             }
+        }
+    },
+    "5420": {
+        "id": 5420,
+        "name": "Máscara do Ifrit",
+        "displayName": "Máscara do Ifrit [1]",
+        "aegisName": "mask_of_ifrit",
+        "price": 20,
+        "weight": 80,
+        "restrictions": {
+            "job": {
+                "All": true,
+                "Novice": false
+            },
+            "level": {
+                "min": 50
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "HAT",
+            "slots": 1,
+            "position": [
+                "HAT_LOW",
+                "HAT_TOP",
+                "HAT_MID"
+            ],
+            "refinable": false,
+            "def": 12
         }
     },
     "5421": {
@@ -10199,6 +10285,22 @@
         "price": 20,
         "weight": 50
     },
+    "5457": {
+        "id": 5457,
+        "name": "Coelhinho de Cabeça",
+        "displayName": "Coelhinho de Cabeça [1]",
+        "aegisName": "spring_rabbit_hat",
+        "price": 20,
+        "weight": 30,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "HAT",
+            "slots": 1,
+            "position": "HAT_TOP",
+            "refinable": true,
+            "def": 2
+        }
+    },
     "5462": {
         "id": "5462",
         "name": "Máscara do Exterminador",
@@ -10619,16 +10721,16 @@
         "name": "Bênção de Thor",
         "displayName": "Bênção de Thor [1]",
         "aegisName": "power_of_thor",
+        "price": 20,
+        "weight": 10,
+        "type": "ARMOR",
         "equipData": {
-            "slots": 1,
             "class": "HAT",
+            "slots": 1,
             "position": "HAT_TOP",
             "refinable": true,
             "def": 5
-        },
-        "type": "ARMOR",
-        "price": 20,
-        "weight": 10
+        }
     },
     "5496": {
         "id": "5496",
@@ -10671,6 +10773,30 @@
                 "All": true,
                 "Novice": false
             }
+        }
+    },
+    "5498": {
+        "id": 5498,
+        "name": "Elmo do Lobo Errante",
+        "displayName": "Elmo do Lobo Errante [1]",
+        "aegisName": "wondering_wolf_helm",
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "level": {
+                "min": 20
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "HAT",
+            "slots": 1,
+            "position": [
+                "HAT_TOP",
+                "HAT_MID"
+            ],
+            "refinable": true,
+            "def": 5
         }
     },
     "5499": {
@@ -11170,6 +11296,25 @@
             "level": {
                 "min": 30
             }
+        }
+    },
+    "5529": {
+        "id": 5529,
+        "name": "Elmo do Rei Youkai",
+        "displayName": "Elmo do Rei Youkai [1]",
+        "aegisName": "evils_bone_hat",
+        "price": 20,
+        "weight": 60,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "HAT",
+            "slots": 1,
+            "position": [
+                "HAT_TOP",
+                "HAT_MID"
+            ],
+            "refinable": true,
+            "def": 12
         }
     },
     "5530": {
@@ -11952,20 +12097,20 @@
         "name": "Turbante Real",
         "displayName": "Turbante Real [1]",
         "aegisName": "desert_prince",
-        "equipData": {
-            "slots": 1,
-            "class": "HAT",
-            "position": "HAT_TOP",
-            "refinable": false,
-            "def": 3
-        },
-        "type": "ARMOR",
         "price": 20,
         "weight": 10,
         "restrictions": {
             "level": {
                 "min": 30
             }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "HAT",
+            "slots": 1,
+            "position": "HAT_TOP",
+            "refinable": false,
+            "def": 3
         }
     },
     "5592": {
@@ -12336,6 +12481,30 @@
             "level": {
                 "min": 70
             }
+        }
+    },
+    "5667": {
+        "id": 5667,
+        "name": "Capuz do Vazio",
+        "displayName": "Capuz do Vazio [1]",
+        "aegisName": "skull_hood",
+        "price": 20,
+        "weight": 70,
+        "restrictions": {
+            "level": {
+                "min": 30
+            }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "HAT",
+            "slots": 1,
+            "position": [
+                "HAT_TOP",
+                "HAT_MID"
+            ],
+            "refinable": true,
+            "def": 10
         }
     },
     "5668": {
@@ -14228,7 +14397,7 @@
         "id": 5880,
         "name": "Apito da Animação",
         "displayName": "Apito da Animação",
-        "aegisName": null,
+        "aegisName": "cheering_whistle_j",
         "price": 0,
         "weight": 30,
         "type": "ARMOR",
@@ -14325,7 +14494,7 @@
         "id": 5901,
         "name": "Boina de Vigia",
         "displayName": "Boina de Vigia [1]",
-        "aegisName": null,
+        "aegisName": "focus_beret",
         "equipData": {
             "slots": 1,
             "class": "HAT",
@@ -14341,7 +14510,7 @@
         "id": 5902,
         "name": "Chapéu de Jardinagem",
         "displayName": "Chapéu de Jardinagem [1]",
-        "aegisName": null,
+        "aegisName": "harvester_hat",
         "equipData": {
             "slots": 1,
             "class": "HAT",
@@ -14439,6 +14608,34 @@
                 "min": 100
             }
         }
+    },
+    "5909": {
+        "id": "5909",
+        "name": "Bravura dos Einherjar",
+        "displayName": "Bravura dos Einherjar",
+        "aegisName": "c_valkyrie_circlet",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "HAT",
+            "slots": 0,
+            "position": "HAT_TOP",
+            "refinable": true
+        },
+        "price": 0
+    },
+    "5914": {
+        "id": "5914",
+        "name": "Aura Esplêndida",
+        "displayName": "Aura Esplêndida",
+        "aegisName": "c_flutter_butterfly",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "HAT",
+            "slots": 0,
+            "position": "HAT_LOW",
+            "refinable": true
+        },
+        "price": 0
     },
     "5918": {
         "id": "5918",
@@ -14641,6 +14838,70 @@
             "refinable": true
         },
         "weight": 20
+    },
+    "12767": {
+        "id": "12767",
+        "name": "Chapéu do Torneio: Paixão",
+        "displayName": "Chapéu do Torneio: Paixão",
+        "aegisName": "passion_fb_hat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "HAT",
+            "slots": 0,
+            "position": "UNKNOWN",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "12768": {
+        "id": "12768",
+        "name": "Chapéu do Torneio: Coragem",
+        "displayName": "Chapéu do Torneio: Coragem",
+        "aegisName": "cool_fb_hat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "HAT",
+            "slots": 0,
+            "position": "UNKNOWN",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "12769": {
+        "id": "12769",
+        "name": "Chapéu do Torneio: Vitória",
+        "displayName": "Chapéu do Torneio: Vitória",
+        "aegisName": "victory_fb_hat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "HAT",
+            "slots": 0,
+            "position": "UNKNOWN",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "12770": {
+        "id": "12770",
+        "name": "Chapéu do Torneio: Honra",
+        "displayName": "Chapéu do Torneio: Honra",
+        "aegisName": "glory_fb_hat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "HAT",
+            "slots": 0,
+            "position": "UNKNOWN",
+            "refinable": true,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
     },
     "15370": {
         "id": "15370",
@@ -14940,20 +15201,20 @@
         "name": "Chapéu de Melancia",
         "displayName": "Chapéu de Melancia [1]",
         "aegisName": "watermelon_hat",
-        "equipData": {
-            "slots": 1,
-            "class": "HAT",
-            "position": "HAT_TOP",
-            "refinable": true,
-            "def": 4
-        },
-        "type": "ARMOR",
         "price": 20,
         "weight": 10,
         "restrictions": {
             "level": {
                 "min": 30
             }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "HAT",
+            "slots": 1,
+            "position": "HAT_TOP",
+            "refinable": true,
+            "def": 4
         }
     },
     "18527": {
@@ -15755,16 +16016,16 @@
         "name": "Coroa de Yggdrasil",
         "displayName": "Coroa de Yggdrasil [1]",
         "aegisName": "yggdrasil_crown",
+        "price": 20,
+        "weight": 20,
+        "type": "ARMOR",
         "equipData": {
-            "slots": 1,
             "class": "HAT",
+            "slots": 1,
             "position": "HAT_TOP",
             "refinable": true,
             "def": 3
-        },
-        "type": "ARMOR",
-        "price": 20,
-        "weight": 20
+        }
     },
     "18581": {
         "id": "18581",
@@ -16791,14 +17052,6 @@
         "name": "Lacinhos com Gatos",
         "displayName": "Lacinhos com Gatos [1]",
         "aegisName": "cat_lace_hairband",
-        "equipData": {
-            "slots": 1,
-            "class": "HAT",
-            "position": "HAT_TOP",
-            "refinable": false,
-            "def": 2
-        },
-        "type": "ARMOR",
         "price": 20,
         "weight": 50,
         "restrictions": {
@@ -16809,6 +17062,14 @@
             "level": {
                 "min": 60
             }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "HAT",
+            "slots": 1,
+            "position": "HAT_TOP",
+            "refinable": false,
+            "def": 2
         }
     },
     "18668": {
@@ -16816,16 +17077,16 @@
         "name": "Boneco da Lentidão",
         "displayName": "Boneco da Lentidão [1]",
         "aegisName": "droopy_turtle_hat",
+        "price": 20,
+        "weight": 30,
+        "type": "ARMOR",
         "equipData": {
-            "slots": 1,
             "class": "HAT",
+            "slots": 1,
             "position": "HAT_TOP",
             "refinable": true,
             "def": 1
-        },
-        "type": "ARMOR",
-        "price": 20,
-        "weight": 30
+        }
     },
     "18669": {
         "id": "18669",
@@ -17544,6 +17805,22 @@
         },
         "price": 20,
         "weight": 15
+    },
+    "18730": {
+        "id": 18730,
+        "name": "Chapéu de Calouro",
+        "displayName": "Chapéu de Calouro [1]",
+        "aegisName": "cryptura_academy_hat",
+        "equipData": {
+            "slots": 1,
+            "class": "HAT",
+            "position": "HAT_TOP",
+            "refinable": true,
+            "def": 2
+        },
+        "type": "ARMOR",
+        "price": 100,
+        "weight": 20
     },
     "18732": {
         "id": "18732",
@@ -18726,16 +19003,16 @@
         "name": "Chapéu de Dantos Sumont",
         "displayName": "Chapéu de Dantos Sumont [1]",
         "aegisName": "aviator_hat",
+        "price": 0,
+        "weight": 10,
+        "type": "ARMOR",
         "equipData": {
-            "slots": 1,
             "class": "HAT",
+            "slots": 1,
             "position": "HAT_LOW",
             "refinable": true,
             "def": 10
-        },
-        "type": "ARMOR",
-        "price": 0,
-        "weight": 10
+        }
     },
     "18856": {
         "id": "18856",
@@ -18797,6 +19074,21 @@
         },
         "price": 0,
         "weight": 5
+    },
+    "18863": {
+        "id": "18863",
+        "name": "Robe do Exorcista",
+        "displayName": "Robe do Exorcista [1]",
+        "aegisName": "exorcist_robe",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "HAT",
+            "slots": 1,
+            "position": "UNKNOWN",
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 170
     },
     "18864": {
         "id": "18864",
@@ -18881,7 +19173,7 @@
         "id": 18878,
         "name": "Chapéu da Guarda Real",
         "displayName": "Chapéu da Guarda Real [1]",
-        "aegisName": null,
+        "aegisName": "palace_guard_cap",
         "equipData": {
             "slots": 1,
             "class": "HAT",
@@ -19213,7 +19505,7 @@
         "id": 18907,
         "name": "Boneco de Panda",
         "displayName": "Boneco de Panda [1]",
-        "aegisName": null,
+        "aegisName": "drooping_panda",
         "equipData": {
             "slots": 1,
             "class": "HAT",
@@ -19375,7 +19667,7 @@
         "id": 18930,
         "name": "Boneco de Gorila",
         "displayName": "Boneco de Gorila [1]",
-        "aegisName": null,
+        "aegisName": "gorilla_model_hat",
         "equipData": {
             "slots": 1,
             "class": "HAT",
@@ -19391,7 +19683,7 @@
         "id": 18931,
         "name": "Boneco de Leãozinho",
         "displayName": "Boneco de Leãozinho [1]",
-        "aegisName": null,
+        "aegisName": "lion_model_hat",
         "equipData": {
             "slots": 1,
             "class": "HAT",
@@ -19402,6 +19694,39 @@
         "price": 0,
         "weight": 30,
         "type": "ARMOR"
+    },
+    "18932": {
+        "id": 18932,
+        "name": "Boneco de Rinoceronte",
+        "displayName": "Boneco de Rinoceronte [1]",
+        "aegisName": null,
+        "equipData": {
+            "class": "HAT",
+            "position": "HAT_TOP",
+            "slots": 1,
+            "refinable": true,
+            "def": 10
+        },
+        "restrictions": {
+            "level": {
+                "min": 30
+            }
+        },
+        "price": 0,
+        "weight": 30,
+        "type": "ARMOR"
+    },
+    "18933": {
+        "id": "18933",
+        "name": "Cartola das Engrenagens",
+        "displayName": "Cartola das Engrenagens [1]",
+        "aegisName": "mechanical_plant_hat",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "HAT",
+            "slots": 1,
+            "refinable": true
+        }
     },
     "18940": {
         "id": "18940",
@@ -19624,7 +19949,7 @@
         "id": 19039,
         "name": "Orelhas do 11º Aniversário do bRO",
         "displayName": "Orelhas do 11º Aniversário do bRO",
-        "aegisName": null,
+        "aegisName": "12_anniversary_elf_ears",
         "price": 0,
         "weight": 60,
         "type": "ARMOR",
@@ -19654,6 +19979,18 @@
             "level": {
                 "min": 30
             }
+        }
+    },
+    "19082": {
+        "id": "19082",
+        "name": "Óculos de Segurança",
+        "displayName": "Óculos de Segurança",
+        "aegisName": "bio_protector",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "HAT",
+            "slots": 0,
+            "refinable": true
         }
     },
     "19084": {
@@ -19716,7 +20053,7 @@
         "id": 19101,
         "name": "Familiar de Combate",
         "displayName": "Familiar de Combate",
-        "aegisName": null,
+        "aegisName": "glastheim_onlooker",
         "price": 0,
         "weight": 0,
         "type": "ARMOR",
@@ -19731,7 +20068,7 @@
         "id": 19104,
         "name": "Asas de Dragão",
         "displayName": "Asas de Dragão",
-        "aegisName": null,
+        "aegisName": "ydragon_skywing",
         "price": 0,
         "weight": 1,
         "type": "ARMOR",
@@ -19761,7 +20098,7 @@
         "id": 19106,
         "name": "Véu das Gemas Sagradas",
         "displayName": "Véu das Gemas Sagradas [1]",
-        "aegisName": null,
+        "aegisName": "magicstone_of_grace",
         "equipData": {
             "slots": 1,
             "class": "HAT",
@@ -19777,6 +20114,26 @@
         "weight": 1,
         "type": "ARMOR"
     },
+    "19109": {
+        "id": 19109,
+        "name": "Tiara de Popstar",
+        "displayName": "Tiara de Popstar",
+        "aegisName": "valhalla_idol",
+        "price": 0,
+        "weight": 30,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "HAT",
+            "position": "HAT_MID",
+            "refinable": false,
+            "def": 2
+        },
+        "restrictions": {
+            "level": {
+                "min": 70
+            }
+        }
+    },
     "19110": {
         "id": "19110",
         "name": "Tiara de Popstar",
@@ -19791,6 +20148,27 @@
         },
         "price": 0,
         "weight": 0
+    },
+    "19111": {
+        "id": 19111,
+        "name": "Olho da Cecil",
+        "displayName": "Olho da Cecil [1]",
+        "aegisName": "laser_of_eagle",
+        "equipData": {
+            "class": "HAT",
+            "position": "HAT_TOP",
+            "slots": 1,
+            "refinable": true,
+            "def": 5
+        },
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        },
+        "price": 0,
+        "weight": 40,
+        "type": "ARMOR"
     },
     "19112": {
         "id": "19112",
@@ -19824,14 +20202,14 @@
         "name": "Morango Suculento",
         "displayName": "Morango Suculento",
         "aegisName": "strawberry_in_mouth_",
+        "weight": 10,
         "type": "ARMOR",
         "equipData": {
             "class": "HAT",
-            "slots": 0,
             "position": "HAT_LOW",
-            "refinable": true
-        },
-        "weight": 10
+            "refinable": true,
+            "def": 0
+        }
     },
     "19138": {
         "id": "19138",
@@ -19947,6 +20325,45 @@
             "position": "HAT_TOP",
             "refinable": true
         }
+    },
+    "19238": {
+        "id": 19238,
+        "name": "Cebolinha",
+        "displayName": "Cebolinha",
+        "aegisName": null,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "HAT",
+            "position": "HAT_LOW",
+            "def": 0,
+            "refinable": false
+        },
+        "restrictions": {
+            "level": {
+                "min": 30
+            }
+        },
+        "price": 0,
+        "weight": 10
+    },
+    "19239": {
+        "id": 19239,
+        "name": "Cenourinha",
+        "displayName": "Cenourinha",
+        "aegisName": null,
+        "equipData": {
+            "class": "HAT",
+            "position": "HAT_LOW",
+            "def": 0,
+            "refinable": false
+        },
+        "restrictions": {
+            "level": {
+                "min": 30
+            }
+        },
+        "price": 0,
+        "weight": 10
     },
     "19243": {
         "id": "19243",
@@ -20468,5 +20885,17 @@
             "refinable": true
         },
         "weight": 50
+    },
+    "410004": {
+        "id": "410004",
+        "name": "Marcas de Comodo",
+        "displayName": "Marcas de Comodo [1]",
+        "aegisName": "gambler_seal_",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "HAT",
+            "slots": 1,
+            "refinable": true
+        }
     }
 }

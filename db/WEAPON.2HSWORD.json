@@ -1744,6 +1744,33 @@
             }
         }
     },
+    "21024": {
+        "id": 21024,
+        "name": "Espada Veterana",
+        "displayName": "Espada Veterana [3]",
+        "aegisName": "veteran_sword_",
+        "equipData": {
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 180,
+            "refinable": true
+        },
+        "price": 10000,
+        "weight": 200,
+        "type": "WEAPON",
+        "restrictions": {
+            "job": {
+                "Swordsman": true,
+                "Knight": true,
+                "Crusader": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
     "21038": {
         "id": "21038",
         "name": "Espada Ancestral",
@@ -1765,6 +1792,19 @@
         "name": "Espada Onimaru",
         "displayName": "Espada Onimaru [1]",
         "aegisName": "onimaru_br",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "2HSWORD",
+            "slots": 1,
+            "wieldType": "TWO_HANDED",
+            "refinable": true
+        }
+    },
+    "21053": {
+        "id": "21053",
+        "name": "Espada Toda Poderosa",
+        "displayName": "Espada Toda Poderosa [1]",
+        "aegisName": "fullforce",
         "type": "WEAPON",
         "equipData": {
             "class": "2HSWORD",

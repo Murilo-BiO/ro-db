@@ -1,18 +1,4 @@
 {
-    "20504": {
-        "id": "20504",
-        "name": "Asas da Sarakura",
-        "displayName": "Asas da Sarakura",
-        "aegisName": "c_cupid_wing_pink",
-        "type": "ARMOR",
-        "equipData": {
-            "class": "SHADOW_GARMENT",
-            "slots": 0,
-            "position": "SHADOW_GARMENT",
-            "refinable": true
-        },
-        "weight": 0
-    },
     "20506": {
         "id": "20506",
         "name": "Manto Invisível",
@@ -91,20 +77,6 @@
             "class": "SHADOW_GARMENT",
             "slots": 0,
             "position": "COSTUME",
-            "refinable": true,
-            "def": 0
-        }
-    },
-    "20515": {
-        "id": "20515",
-        "name": "Círculo de Conjuração",
-        "displayName": "Círculo de Conjuração",
-        "aegisName": "c_magic_circle",
-        "type": "ARMOR",
-        "equipData": {
-            "class": "SHADOW_GARMENT",
-            "slots": 0,
-            "position": "SHADOW_GARMENT",
             "refinable": true,
             "def": 0
         }
@@ -246,25 +218,26 @@
         },
         "weight": 0
     },
+    "20572": {
+        "id": 20572,
+        "name": "Liberdade Amorosa",
+        "displayName": "Liberdade Amorosa",
+        "aegisName": "c_wingofheart",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "position": "SHADOW_GARMENT",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
     "20574": {
         "id": "20574",
         "name": "Mochila do Aluno Rebelde",
         "displayName": "Mochila do Aluno Rebelde",
         "aegisName": "c_school_bag_rd",
-        "type": "ARMOR",
-        "equipData": {
-            "class": "SHADOW_GARMENT",
-            "slots": 0,
-            "position": "SHADOW_GARMENT",
-            "refinable": true
-        },
-        "weight": 0
-    },
-    "20575": {
-        "id": "20575",
-        "name": "Mochila do Aluno Esperto",
-        "displayName": "Mochila do Aluno Esperto",
-        "aegisName": "c_school_bag_bl",
         "type": "ARMOR",
         "equipData": {
             "class": "SHADOW_GARMENT",
@@ -287,6 +260,93 @@
             "refinable": true,
             "def": 0
         },
+        "weight": 0
+    },
+    "20582": {
+        "id": "20582",
+        "name": "Mochila do Pimpão",
+        "displayName": "Mochila do Pimpão",
+        "aegisName": "c_t_bear_bag",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "slots": 0,
+            "refinable": true
+        }
+    },
+    "20586": {
+        "id": 20586,
+        "name": "Brilho da Lua Crescente",
+        "displayName": "Brilho da Lua Crescente",
+        "aegisName": null,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "position": "SHADOW_GARMENT",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "20589": {
+        "id": 20589,
+        "name": "Asa Mecânica",
+        "displayName": "Asa Mecânica",
+        "aegisName": null,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "position": "SHADOW_GARMENT",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "20590": {
+        "id": 20590,
+        "name": "Cruz do Druida Maligno",
+        "displayName": "Cruz do Druida Maligno",
+        "aegisName": null,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "position": "SHADOW_GARMENT",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "20593": {
+        "id": 20593,
+        "name": "Asas das Lágrimas de Gelo",
+        "displayName": "Asas das Lágrimas de Gelo",
+        "aegisName": null,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "position": "SHADOW_GARMENT",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
+        "weight": 0
+    },
+    "20599": {
+        "id": 20599,
+        "name": "Asas de Sakura",
+        "displayName": "Asas de Sakura",
+        "aegisName": null,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHADOW_GARMENT",
+            "position": "SHADOW_GARMENT",
+            "refinable": false,
+            "def": 0
+        },
+        "price": 0,
         "weight": 0
     },
     "20727": {

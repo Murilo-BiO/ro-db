@@ -2366,6 +2366,15 @@
         "price": 0,
         "weight": 1
     },
+    "6008": {
+        "id": 6008,
+        "name": "Madeira de Reparos",
+        "displayName": "Madeira de Reparos",
+        "aegisName": "wood",
+        "type": "MISCELLANEOUS",
+        "price": 0,
+        "weight": 1
+    },
     "6009": {
         "id": "6009",
         "name": "Grande Leque Mágico",
@@ -4333,9 +4342,9 @@
         "name": "Licença de Loja de Compras",
         "displayName": "Licença de Loja de Compras",
         "aegisName": "buy_market_permit",
-        "type": "MISCELLANEOUS",
         "price": 20,
-        "weight": 1
+        "weight": 1,
+        "type": "MISCELLANEOUS"
     },
     "6380": {
         "id": "6380",
@@ -5236,6 +5245,13 @@
         "price": 0,
         "weight": 0
     },
+    "6521": {
+        "id": 6521,
+        "name": "Item Não Implementado",
+        "displayName": "Item Não Implementado",
+        "aegisName": "royal_certificate",
+        "type": "MISCELLANEOUS"
+    },
     "6523": {
         "id": "6523",
         "name": "Peça de Espírito de Bakonawa",
@@ -5461,6 +5477,15 @@
         "price": 0,
         "weight": 1
     },
+    "6581": {
+        "id": 6581,
+        "name": "Pingente Sagrado",
+        "displayName": "Pingente Sagrado",
+        "aegisName": "holy_amulet",
+        "type": "MISCELLANEOUS",
+        "price": 20,
+        "weight": 1
+    },
     "6592": {
         "id": "6592",
         "name": "Caixote",
@@ -5469,6 +5494,15 @@
         "type": "MISCELLANEOUS",
         "price": 0,
         "weight": 1
+    },
+    "6593": {
+        "id": 6593,
+        "name": "Cupom de Cabeleireiro do Calouro",
+        "displayName": "Cupom de Cabeleireiro do Calouro",
+        "aegisName": "cryptura_hair_coupon",
+        "type": "MISCELLANEOUS",
+        "price": 0,
+        "weight": 0
     },
     "6594": {
         "id": "6594",
@@ -6120,7 +6154,7 @@
         "id": 6770,
         "name": "Tubarão",
         "displayName": "Tubarão",
-        "aegisName": null,
+        "aegisName": "shark",
         "price": 0,
         "weight": 1,
         "type": "MISCELLANEOUS"
@@ -6129,7 +6163,7 @@
         "id": 6772,
         "name": "Polvo",
         "displayName": "Polvo",
-        "aegisName": null,
+        "aegisName": "octopus",
         "price": 0,
         "weight": 1,
         "type": "MISCELLANEOUS"
@@ -6138,7 +6172,7 @@
         "id": 6773,
         "name": "Pargo",
         "displayName": "Pargo",
-        "aegisName": null,
+        "aegisName": "snapper",
         "price": 0,
         "weight": 1,
         "type": "MISCELLANEOUS"
@@ -6147,7 +6181,7 @@
         "id": 6774,
         "name": "Piranha",
         "displayName": "Piranha",
-        "aegisName": null,
+        "aegisName": "piranha",
         "price": 0,
         "weight": 1,
         "type": "MISCELLANEOUS"
@@ -6156,7 +6190,7 @@
         "id": 6775,
         "name": "Salmão",
         "displayName": "Salmão",
-        "aegisName": null,
+        "aegisName": "salmon",
         "price": 0,
         "weight": 1,
         "type": "MISCELLANEOUS"
@@ -6165,7 +6199,7 @@
         "id": 6778,
         "name": "Lula",
         "displayName": "Lula",
-        "aegisName": null,
+        "aegisName": "squid_2",
         "price": 0,
         "weight": 1,
         "type": "MISCELLANEOUS"
@@ -6281,7 +6315,7 @@
         "id": 6897,
         "name": "Baleia Azul",
         "displayName": "Baleia Azul",
-        "aegisName": null,
+        "aegisName": "blue_whale",
         "price": 0,
         "weight": 1,
         "type": "MISCELLANEOUS"
@@ -6290,7 +6324,7 @@
         "id": 6901,
         "name": "Esturjão",
         "displayName": "Esturjão",
-        "aegisName": null,
+        "aegisName": "sturgeon",
         "price": 0,
         "weight": 1,
         "type": "MISCELLANEOUS"
@@ -6299,7 +6333,7 @@
         "id": 6902,
         "name": "Camarão Rei",
         "displayName": "Camarão Rei",
-        "aegisName": null,
+        "aegisName": "king_lobster",
         "price": 0,
         "weight": 1,
         "type": "MISCELLANEOUS"
@@ -6344,7 +6378,7 @@
         "id": 6920,
         "name": "Pó de Runas",
         "displayName": "Pó de Runas",
-        "aegisName": null,
+        "aegisName": "rune_magic_powder",
         "price": 0,
         "weight": 1,
         "type": "MISCELLANEOUS"
@@ -6497,7 +6531,7 @@
         "id": 6937,
         "name": "Pele Macia",
         "displayName": "Pele Macia",
-        "aegisName": null,
+        "aegisName": "silicone_shell",
         "price": 1500,
         "weight": 1,
         "type": "MISCELLANEOUS"
@@ -6506,7 +6540,7 @@
         "id": 6938,
         "name": "Espinhos de Ouriço",
         "displayName": "Espinhos de Ouriço",
-        "aegisName": null,
+        "aegisName": "hedgehog_picks",
         "price": 1400,
         "weight": 1,
         "type": "MISCELLANEOUS"
@@ -6515,7 +6549,7 @@
         "id": 6939,
         "name": "Cinto Velho",
         "displayName": "Cinto Velho",
-        "aegisName": null,
+        "aegisName": "old_belt",
         "price": 1400,
         "weight": 1,
         "type": "MISCELLANEOUS"
@@ -6524,7 +6558,7 @@
         "id": 6940,
         "name": "Material Vivo",
         "displayName": "Material Vivo",
-        "aegisName": null,
+        "aegisName": "moving_dark_matter",
         "price": 2300,
         "weight": 1,
         "type": "MISCELLANEOUS"
@@ -6533,7 +6567,7 @@
         "id": 6941,
         "name": "Fragmento da Valquíria",
         "displayName": "Fragmento da Valquíria",
-        "aegisName": null,
+        "aegisName": "fragments_valkyrie_power",
         "price": 6000,
         "weight": 1,
         "type": "MISCELLANEOUS"
@@ -6542,7 +6576,7 @@
         "id": 6942,
         "name": "Desejo do Mestre",
         "displayName": "Desejo do Mestre",
-        "aegisName": null,
+        "aegisName": "will_master",
         "price": 1400,
         "weight": 1,
         "type": "MISCELLANEOUS"
@@ -6578,7 +6612,7 @@
         "id": 6960,
         "name": "Chave da Fortaleza",
         "displayName": "Chave da Fortaleza",
-        "aegisName": null,
+        "aegisName": "key_air_fortress",
         "price": 0,
         "weight": 1,
         "type": "MISCELLANEOUS"
@@ -9653,12 +9687,12 @@
         "weight": 1
     },
     "7338": {
-        "id": "7338",
-        "name": "Passagem só de Ida",
-        "displayName": "Passagem só de Ida",
+        "id": 7338,
+        "name": "Vale-Presente",
+        "displayName": "Vale-Presente",
         "aegisName": "ro_transportation_card",
-        "type": "MISCELLANEOUS",
-        "price": 0
+        "price": 0,
+        "type": "MISCELLANEOUS"
     },
     "7339": {
         "id": "7339",
@@ -10933,8 +10967,8 @@
         "name": "Cupom de Promoção",
         "displayName": "Cupom de Promoção",
         "aegisName": "invitation_ticket",
-        "type": "MISCELLANEOUS",
-        "price": 0
+        "price": 0,
+        "type": "MISCELLANEOUS"
     },
     "7561": {
         "id": "7561",
@@ -12355,15 +12389,6 @@
         "weight": 0,
         "type": "MISCELLANEOUS"
     },
-    "7928": {
-        "id": 7928,
-        "name": "Bandeira Nacional",
-        "displayName": "Bandeira Nacional",
-        "aegisName": "brazilian_flag_",
-        "price": 10,
-        "weight": 1,
-        "type": "MISCELLANEOUS"
-    },
     "7929": {
         "id": 7929,
         "name": "Moeda de Ouro",
@@ -12764,9 +12789,9 @@
         "name": "A Redenção de Grashnir",
         "displayName": "A Redenção de Grashnir",
         "aegisName": "adventure_story01",
-        "type": "MISCELLANEOUS",
         "price": 8000,
-        "weight": 1
+        "weight": 1,
+        "type": "MISCELLANEOUS"
     },
     "11002": {
         "id": "11002",
@@ -12809,18 +12834,18 @@
         "name": "A Maldição do Navio Itinerante",
         "displayName": "A Maldição do Navio Itinerante",
         "aegisName": "blood_flower01",
-        "type": "MISCELLANEOUS",
         "price": 8000,
-        "weight": 1
+        "weight": 1,
+        "type": "MISCELLANEOUS"
     },
     "11007": {
         "id": 11007,
         "name": "Boteco de Quinta Categoria",
         "displayName": "Boteco de Quinta Categoria",
         "aegisName": "blood_flower02",
-        "type": "MISCELLANEOUS",
         "price": 8000,
-        "weight": 1
+        "weight": 1,
+        "type": "MISCELLANEOUS"
     },
     "11008": {
         "id": "11008",
@@ -12836,9 +12861,9 @@
         "name": "Os invasores de Prontera",
         "displayName": "Os invasores de Prontera",
         "aegisName": "adventure_story02",
-        "type": "MISCELLANEOUS",
         "price": 8000,
-        "weight": 1
+        "weight": 1,
+        "type": "MISCELLANEOUS"
     },
     "11011": {
         "id": "11011",
@@ -12961,7 +12986,7 @@
         "id": 11061,
         "name": "Catálogo de Honra",
         "displayName": "Catálogo de Honra",
-        "aegisName": null,
+        "aegisName": "honor_proof_exchange_list",
         "price": 0,
         "type": "MISCELLANEOUS"
     },
@@ -13007,6 +13032,15 @@
         "type": "MISCELLANEOUS",
         "price": 1400,
         "weight": 5
+    },
+    "12846": {
+        "id": 12846,
+        "name": "Maçã Dura",
+        "displayName": "Maçã Dura",
+        "aegisName": "unripe_apple2",
+        "price": 10,
+        "weight": 5,
+        "type": "MISCELLANEOUS"
     },
     "12923": {
         "id": 12923,
@@ -13107,6 +13141,15 @@
         "weight": 1,
         "type": "MISCELLANEOUS"
     },
+    "13717": {
+        "id": 13717,
+        "name": "Caixa de Abrasivos [5]",
+        "displayName": "Caixa de Abrasivos [5]",
+        "aegisName": "abrasive_box5",
+        "price": 20,
+        "weight": 1,
+        "type": "MISCELLANEOUS"
+    },
     "13951": {
         "id": 13951,
         "name": "Caixa de Manteau das Sílfides",
@@ -13139,6 +13182,24 @@
         "name": "Caixa de Veneno Mortal [30]",
         "displayName": "Caixa de Veneno Mortal [30]",
         "aegisName": "poison_bottle_30_box",
+        "price": 20,
+        "weight": 1,
+        "type": "MISCELLANEOUS"
+    },
+    "13996": {
+        "id": 13996,
+        "name": "Cx Cogumelo Grelhado[100]",
+        "displayName": "Cx Cogumelo Grelhado[100]",
+        "aegisName": "big_bun_box100",
+        "price": 20,
+        "weight": 1,
+        "type": "MISCELLANEOUS"
+    },
+    "13997": {
+        "id": 13997,
+        "name": "Cx Cogumelo Grelhado[500]",
+        "displayName": "Cx Cogumelo Grelhado[500]",
+        "aegisName": "big_bun_box500",
         "price": 20,
         "weight": 1,
         "type": "MISCELLANEOUS"
@@ -13687,7 +13748,7 @@
         "id": 25251,
         "name": "Suco de Uva Fermentado",
         "displayName": "Suco de Uva Fermentado",
-        "aegisName": null,
+        "aegisName": "fermented_grapes",
         "price": 0,
         "weight": 0,
         "type": "MISCELLANEOUS"
@@ -13696,7 +13757,7 @@
         "id": 25252,
         "name": "Ramo de Azevinho",
         "displayName": "Ramo de Azevinho",
-        "aegisName": null,
+        "aegisName": "sprig_of_holly",
         "price": 0,
         "weight": 0,
         "type": "MISCELLANEOUS"
@@ -13705,7 +13766,7 @@
         "id": 25253,
         "name": "Caixa de Açúcar",
         "displayName": "Caixa de Açúcar",
-        "aegisName": null,
+        "aegisName": "sugar_box",
         "price": 0,
         "weight": 0,
         "type": "MISCELLANEOUS"
@@ -13714,7 +13775,7 @@
         "id": 25254,
         "name": "Lenha",
         "displayName": "Lenha",
-        "aegisName": null,
+        "aegisName": "firewood",
         "price": 0,
         "weight": 0,
         "type": "MISCELLANEOUS"
@@ -13753,6 +13814,33 @@
         "type": "MISCELLANEOUS",
         "price": 0,
         "weight": 0
+    },
+    "25358": {
+        "id": 25358,
+        "name": "Cartão de Acesso",
+        "displayName": "Cartão de Acesso",
+        "aegisName": "retrieve_datacard",
+        "type": "MISCELLANEOUS",
+        "price": 0,
+        "weight": 20
+    },
+    "25359": {
+        "id": 25359,
+        "name": "Caixa Desgastada",
+        "displayName": "Caixa Desgastada",
+        "aegisName": "slightly_ald_bax",
+        "type": "MISCELLANEOUS",
+        "price": 0,
+        "weight": 20
+    },
+    "25360": {
+        "id": 25360,
+        "name": "Recibo",
+        "displayName": "Recibo",
+        "aegisName": "receipt",
+        "type": "MISCELLANEOUS",
+        "price": 0,
+        "weight": 20
     },
     "25401": {
         "id": "25401",

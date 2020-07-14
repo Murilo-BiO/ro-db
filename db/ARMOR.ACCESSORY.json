@@ -3612,14 +3612,6 @@
         "name": "Anel de Runa Mágica",
         "displayName": "Anel de Runa Mágica [1]",
         "aegisName": "magic_stone_ring",
-        "equipData": {
-            "slots": 1,
-            "class": "ACCESSORY",
-            "position": "ACCESSORY",
-            "refinable": false,
-            "def": 0
-        },
-        "type": "ARMOR",
         "price": 0,
         "weight": 0,
         "restrictions": {
@@ -3634,6 +3626,14 @@
             "level": {
                 "min": 99
             }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
         }
     },
     "2795": {
@@ -3760,14 +3760,6 @@
         "name": "Acelerador",
         "displayName": "Acelerador [1]",
         "aegisName": "accelerator",
-        "equipData": {
-            "slots": 1,
-            "class": "ACCESSORY",
-            "position": "ACCESSORY",
-            "refinable": false,
-            "def": 0
-        },
-        "type": "ARMOR",
         "price": 100000,
         "weight": 10,
         "restrictions": {
@@ -3782,6 +3774,14 @@
             "level": {
                 "min": 99
             }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
         }
     },
     "2801": {
@@ -3789,14 +3789,6 @@
         "name": "Planador",
         "displayName": "Planador [1]",
         "aegisName": "hovering_booster",
-        "equipData": {
-            "slots": 1,
-            "class": "ACCESSORY",
-            "position": "ACCESSORY",
-            "refinable": false,
-            "def": 0
-        },
-        "type": "ARMOR",
         "price": 100000,
         "weight": 200,
         "restrictions": {
@@ -3811,6 +3803,14 @@
             "level": {
                 "min": 99
             }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
         }
     },
     "2802": {
@@ -3818,14 +3818,6 @@
         "name": "Detonador",
         "displayName": "Detonador [1]",
         "aegisName": "suicidal_device",
-        "equipData": {
-            "slots": 1,
-            "class": "ACCESSORY",
-            "position": "ACCESSORY",
-            "refinable": false,
-            "def": 0
-        },
-        "type": "ARMOR",
         "price": 500000,
         "weight": 100,
         "restrictions": {
@@ -3840,6 +3832,14 @@
             "level": {
                 "min": 99
             }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
         }
     },
     "2803": {
@@ -3847,14 +3847,6 @@
         "name": "Reconfigurador",
         "displayName": "Reconfigurador [1]",
         "aegisName": "shape_shifter",
-        "equipData": {
-            "slots": 1,
-            "class": "ACCESSORY",
-            "position": "ACCESSORY",
-            "refinable": false,
-            "def": 0
-        },
-        "type": "ARMOR",
         "price": 100000,
         "weight": 50,
         "restrictions": {
@@ -3869,6 +3861,14 @@
             "level": {
                 "min": 99
             }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
         }
     },
     "2804": {
@@ -3876,14 +3876,6 @@
         "name": "Termoregulador",
         "displayName": "Termoregulador [1]",
         "aegisName": "cooling_device",
-        "equipData": {
-            "slots": 1,
-            "class": "ACCESSORY",
-            "position": "ACCESSORY",
-            "refinable": false,
-            "def": 0
-        },
-        "type": "ARMOR",
         "price": 100000,
         "weight": 250,
         "restrictions": {
@@ -3898,6 +3890,14 @@
             "level": {
                 "min": 99
             }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
         }
     },
     "2805": {
@@ -3905,14 +3905,6 @@
         "name": "Gerador de Magnetismo",
         "displayName": "Gerador de Magnetismo [1]",
         "aegisName": "mag_field_generator",
-        "equipData": {
-            "slots": 1,
-            "class": "ACCESSORY",
-            "position": "ACCESSORY",
-            "refinable": false,
-            "def": 0
-        },
-        "type": "ARMOR",
         "price": 100000,
         "weight": 600,
         "restrictions": {
@@ -3927,6 +3919,14 @@
             "level": {
                 "min": 99
             }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
         }
     },
     "2806": {
@@ -3934,14 +3934,6 @@
         "name": "Gerador de Barreira",
         "displayName": "Gerador de Barreira [1]",
         "aegisName": "barrier_builder",
-        "equipData": {
-            "slots": 1,
-            "class": "ACCESSORY",
-            "position": "ACCESSORY",
-            "refinable": false,
-            "def": 3
-        },
-        "type": "ARMOR",
         "price": 150000,
         "weight": 800,
         "restrictions": {
@@ -3956,6 +3948,14 @@
             "level": {
                 "min": 99
             }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 3
         }
     },
     "2807": {
@@ -3963,14 +3963,6 @@
         "name": "Kit de Reparação",
         "displayName": "Kit de Reparação [1]",
         "aegisName": "repair_kit",
-        "equipData": {
-            "slots": 1,
-            "class": "ACCESSORY",
-            "position": "ACCESSORY",
-            "refinable": false,
-            "def": 0
-        },
-        "type": "ARMOR",
         "price": 200000,
         "weight": 40,
         "restrictions": {
@@ -3985,6 +3977,14 @@
             "level": {
                 "min": 99
             }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
         }
     },
     "2808": {
@@ -3992,14 +3992,6 @@
         "name": "Gerador de Camuflagem",
         "displayName": "Gerador de Camuflagem [1]",
         "aegisName": "camouflage_generator",
-        "equipData": {
-            "slots": 1,
-            "class": "ACCESSORY",
-            "position": "ACCESSORY",
-            "refinable": false,
-            "def": 0
-        },
-        "type": "ARMOR",
         "price": 250000,
         "weight": 100,
         "restrictions": {
@@ -4014,6 +4006,14 @@
             "level": {
                 "min": 99
             }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
         }
     },
     "2809": {
@@ -4021,14 +4021,6 @@
         "name": "Resfriador Avançado",
         "displayName": "Resfriador Avançado [1]",
         "aegisName": "high_quality_cooler",
-        "equipData": {
-            "slots": 1,
-            "class": "ACCESSORY",
-            "position": "ACCESSORY",
-            "refinable": false,
-            "def": 0
-        },
-        "type": "ARMOR",
         "price": 100000,
         "weight": 250,
         "restrictions": {
@@ -4043,6 +4035,14 @@
             "level": {
                 "min": 99
             }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
         }
     },
     "2810": {
@@ -4050,14 +4050,6 @@
         "name": "Resfriador",
         "displayName": "Resfriador [1]",
         "aegisName": "special_cooler",
-        "equipData": {
-            "slots": 1,
-            "class": "ACCESSORY",
-            "position": "ACCESSORY",
-            "refinable": false,
-            "def": 0
-        },
-        "type": "ARMOR",
         "price": 100000,
         "weight": 250,
         "restrictions": {
@@ -4072,6 +4064,14 @@
             "level": {
                 "min": 99
             }
+        },
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 1,
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
         }
     },
     "2819": {
@@ -5542,6 +5542,96 @@
             }
         }
     },
+    "2940": {
+        "id": 2940,
+        "name": "Manual do Ninja",
+        "displayName": "Manual do Ninja",
+        "aegisName": "ninja_manual",
+        "type": "ARMOR",
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 1,
+                "max": 12
+            }
+        },
+        "equipData": {
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        }
+    },
+    "2941": {
+        "id": 2941,
+        "name": "Manual do Justiceiro",
+        "displayName": "Manual do Justiceiro",
+        "aegisName": "gunslinger_manual",
+        "type": "ARMOR",
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 1,
+                "max": 12
+            }
+        },
+        "equipData": {
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        }
+    },
+    "2942": {
+        "id": 2942,
+        "name": "Manual do Taekwon",
+        "displayName": "Manual do Taekwon",
+        "aegisName": "taekwon_manual",
+        "type": "ARMOR",
+        "weight": 10,
+        "restrictions": {
+            "jobMasks": [
+                "NORMAL",
+                "UPPER",
+                "BABY",
+                "THIRD",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Novice": true
+            },
+            "level": {
+                "min": 1,
+                "max": 12
+            }
+        },
+        "equipData": {
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        }
+    },
     "2944": {
         "id": "2944",
         "name": "Anel de Proteção TE",
@@ -6176,7 +6266,7 @@
         "id": 2995,
         "name": "Peça de DES Suplementar",
         "displayName": "Peça de DES Suplementar [1]",
-        "aegisName": null,
+        "aegisName": "supplement_part_dex",
         "equipData": {
             "slots": 1,
             "class": "ACCESSORY",
@@ -6197,7 +6287,7 @@
         "id": 2996,
         "name": "Autopeça - Exaustor",
         "displayName": "Autopeça - Exaustor [1]",
-        "aegisName": null,
+        "aegisName": "upgrade_part_gun_barrel",
         "equipData": {
             "slots": 1,
             "class": "ACCESSORY",
@@ -6258,6 +6348,27 @@
             "position": "ACCESSORY",
             "refinable": false,
             "def": 0
+        }
+    },
+    "28319": {
+        "id": 28319,
+        "name": "Cauda Demoníaca",
+        "displayName": "Cauda Demoníaca [1]",
+        "aegisName": "cauda_daemonica",
+        "equipData": {
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "slots": 1,
+            "refinable": false,
+            "def": 0
+        },
+        "price": 20,
+        "weight": 20,
+        "type": "ARMOR",
+        "restrictions": {
+            "level": {
+                "min": 80
+            }
         }
     },
     "28321": {
@@ -7074,16 +7185,58 @@
         "id": 28521,
         "name": "Proteção do Gigante",
         "displayName": "Proteção do Gigante [1]",
-        "aegisName": null,
+        "aegisName": "giant_protection",
         "equipData": {
             "slots": 1,
             "class": "ACCESSORY",
             "position": "ACCESSORY",
-            "refinable": true,
+            "refinable": false,
             "def": 0
         },
         "weight": 50,
         "type": "ARMOR"
+    },
+    "28522": {
+        "id": 28522,
+        "name": "Anel da Safira Tenaz",
+        "displayName": "Anel da Safira Tenaz",
+        "aegisName": null,
+        "type": "ARMOR",
+        "equipData": {
+            "slots": 0,
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "weight": 1,
+        "price": 0,
+        "restrictions": {
+            "level": {
+                "min": 10
+            }
+        }
+    },
+    "28523": {
+        "id": 28523,
+        "name": "Anel do Rubi Espiritual",
+        "displayName": "Anel do Rubi Espiritual",
+        "aegisName": null,
+        "type": "ARMOR",
+        "equipData": {
+            "slots": 0,
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "refinable": false,
+            "def": 0
+        },
+        "weight": 1,
+        "price": 0,
+        "restrictions": {
+            "level": {
+                "min": 10
+            }
+        }
     },
     "28531": {
         "id": "28531",
@@ -7350,6 +7503,27 @@
         },
         "weight": 10
     },
+    "32263": {
+        "id": 32263,
+        "name": "Anel da Égide",
+        "displayName": "Anel da Égide [1]",
+        "aegisName": null,
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "position": "ACCESSORY",
+            "slots": 1,
+            "def": 0,
+            "refinable": false
+        },
+        "weight": 40,
+        "price": 20,
+        "restrictions": {
+            "level": {
+                "min": 100
+            }
+        }
+    },
     "490013": {
         "id": "490013",
         "name": "Anel do Submundo",
@@ -7377,5 +7551,17 @@
             "refinable": true
         },
         "weight": 10
+    },
+    "490085": {
+        "id": "490085",
+        "name": "Anel da Evolução",
+        "displayName": "Anel da Evolução",
+        "aegisName": "start_ring",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ACCESSORY",
+            "slots": 0,
+            "refinable": true
+        }
     }
 }

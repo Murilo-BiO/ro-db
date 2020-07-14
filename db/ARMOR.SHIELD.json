@@ -1923,6 +1923,20 @@
         "price": 0,
         "weight": 30
     },
+    "2199": {
+        "id": 2199,
+        "name": "Ahura Mazda",
+        "displayName": "Ahura Mazda",
+        "aegisName": "ahura_mazda",
+        "type": "ARMOR",
+        "price": 1,
+        "weight": 1,
+        "equipData": {
+            "class": "SHIELD",
+            "refinable": false,
+            "def": 10000
+        }
+    },
     "28900": {
         "id": "28900",
         "name": "Égide da Realeza",
@@ -1943,6 +1957,21 @@
                 "min": 100
             }
         }
+    },
+    "28901": {
+        "id": "28901",
+        "name": "Coelho Macabro",
+        "displayName": "Coelho Macabro",
+        "aegisName": "mad_bunny_k",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "SHIELD",
+            "slots": 0,
+            "position": "SHIELD",
+            "refinable": true,
+            "def": 0
+        },
+        "weight": 10
     },
     "28902": {
         "id": "28902",

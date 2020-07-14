@@ -1806,16 +1806,6 @@
         "name": "Lâmina Gêmea Azul",
         "displayName": "Lâmina Gêmea Azul [3]",
         "aegisName": "twin_edge_b",
-        "equipData": {
-            "slots": 3,
-            "class": "1HSWORD",
-            "wieldType": "ONE_HANDED",
-            "level": 4,
-            "range": 1,
-            "atk": 150,
-            "refinable": true
-        },
-        "type": "WEAPON",
         "price": 20,
         "weight": 150,
         "restrictions": {
@@ -1839,13 +1829,47 @@
             "level": {
                 "min": 75
             }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 150,
+            "refinable": true
         }
     },
     "13413": {
-        "id": "13413",
+        "id": 13413,
         "name": "Lâmina Gêmea Vermelha",
         "displayName": "Lâmina Gêmea Vermelha [3]",
         "aegisName": "twin_edge_r",
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Swordsman": true,
+                "Merchant": true,
+                "Thief": true,
+                "Knight": true,
+                "Blacksmith": true,
+                "Assassin": true,
+                "Crusader": true,
+                "Rogue": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 75
+            }
+        },
         "type": "WEAPON",
         "equipData": {
             "class": "1HSWORD",
@@ -1855,30 +1879,6 @@
             "range": 1,
             "atk": 160,
             "refinable": true
-        },
-        "price": 20,
-        "weight": 150,
-        "restrictions": {
-            "jobMasks": [
-                "UPPER",
-                "THIRD",
-                "THIRDUPPER",
-                "THIRDBABY"
-            ],
-            "job": {
-                "Swordsman": true,
-                "Merchant": true,
-                "Thief": true,
-                "Knight": true,
-                "Blacksmith": true,
-                "Assassin": true,
-                "Crusader": true,
-                "Rogue": true,
-                "Alchemist": true
-            },
-            "level": {
-                "min": 75
-            }
         }
     },
     "13414": {
@@ -2274,7 +2274,7 @@
         "id": 13437,
         "name": "Espada Orc",
         "displayName": "Espada Orc [4]",
-        "aegisName": null,
+        "aegisName": "orcish_sword_",
         "equipData": {
             "slots": 4,
             "class": "1HSWORD",
@@ -2467,7 +2467,7 @@
         "id": 13447,
         "name": "Byeollungum",
         "displayName": "Byeollungum [2]",
-        "aegisName": null,
+        "aegisName": "byeorrun_gum_",
         "equipData": {
             "slots": 2,
             "class": "1HSWORD",
@@ -2573,7 +2573,7 @@
         "id": 13463,
         "name": "Excalibur",
         "displayName": "Excalibur [3]",
-        "aegisName": null,
+        "aegisName": "excalibur_",
         "equipData": {
             "slots": 3,
             "class": "1HSWORD",
@@ -2636,5 +2636,18 @@
             "refinable": true
         },
         "weight": 150
+    },
+    "500004": {
+        "id": "500004",
+        "name": "Lâmina Ancestral",
+        "displayName": "Lâmina Ancestral [2]",
+        "aegisName": "slate_sword",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "1HSWORD",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "refinable": true
+        }
     }
 }

@@ -1399,6 +1399,33 @@
             }
         }
     },
+    "28114": {
+        "id": 28114,
+        "name": "Machado Veterano",
+        "displayName": "Machado Veterano [3]",
+        "aegisName": "veteran_axe_",
+        "equipData": {
+            "slots": 3,
+            "wieldType": "TWO_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 250,
+            "refinable": true
+        },
+        "price": 10000,
+        "weight": 300,
+        "type": "WEAPON",
+        "restrictions": {
+            "job": {
+                "Merchant": true,
+                "Blacksmith": true,
+                "Alchemist": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
     "28130": {
         "id": "28130",
         "name": "Cutelo Ancestral",

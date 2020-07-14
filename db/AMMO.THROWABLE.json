@@ -328,7 +328,6 @@
         "name": "Projétil de Poção do Furor Físico",
         "displayName": "Projétil de Poção do Furor Físico",
         "aegisName": "full_swingk_to_throw",
-        "type": "AMMO",
         "price": 100,
         "weight": 5,
         "restrictions": {
@@ -339,6 +338,7 @@
                 "min": 99
             }
         },
+        "type": "AMMO",
         "ammoType": "THROWABLE"
     },
     "13271": {
@@ -346,7 +346,6 @@
         "name": "Projétil de Poção do Furor Mágico",
         "displayName": "Projétil de Poção do Furor Mágico",
         "aegisName": "mana_plus_to_throw",
-        "type": "AMMO",
         "price": 100,
         "weight": 5,
         "restrictions": {
@@ -357,6 +356,7 @@
                 "min": 99
             }
         },
+        "type": "AMMO",
         "ammoType": "THROWABLE"
     },
     "13272": {
@@ -730,6 +730,15 @@
                 "min": 100
             }
         }
+    },
+    "13295": {
+        "id": 13295,
+        "name": "Shuriken de Iniciante",
+        "displayName": "Shuriken de Iniciante",
+        "aegisName": "light_shuriken",
+        "type": "AMMO",
+        "weight": 0.5,
+        "ammoType": "THROWABLE"
     },
     "13314": {
         "id": "13314",

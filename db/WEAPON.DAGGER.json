@@ -2934,16 +2934,6 @@
         "name": "Destruidor de Malha",
         "displayName": "Destruidor de Malha [3]",
         "aegisName": "mail_breaker_",
-        "equipData": {
-            "slots": 3,
-            "class": "DAGGER",
-            "wieldType": "ONE_HANDED",
-            "level": 4,
-            "range": 1,
-            "atk": 70,
-            "refinable": true
-        },
-        "type": "WEAPON",
         "price": 20,
         "weight": 100,
         "restrictions": {
@@ -2970,6 +2960,16 @@
             "level": {
                 "min": 36
             }
+        },
+        "type": "WEAPON",
+        "equipData": {
+            "class": "DAGGER",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 70,
+            "refinable": true
         }
     },
     "13033": {

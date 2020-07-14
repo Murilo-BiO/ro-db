@@ -1,1 +1,974 @@
-{}
+{
+    "1800": {
+        "id": 1800,
+        "name": "Punho Sobrenatural",
+        "displayName": "Punho Sobrenatural [1]",
+        "aegisName": "fist_of_vicious_mind",
+        "equipData": {
+            "slots": 1,
+            "class": "KNUCKLE",
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 150,
+            "refinable": true
+        },
+        "type": "WEAPON",
+        "price": 20,
+        "weight": 150,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 160
+            }
+        }
+    },
+    "1801": {
+        "id": "1801",
+        "name": "Waghnak",
+        "displayName": "Waghnak [3]",
+        "aegisName": "waghnakh",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 30,
+            "refinable": true
+        },
+        "price": 8000,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            }
+        }
+    },
+    "1802": {
+        "id": "1802",
+        "name": "Waghnak",
+        "displayName": "Waghnak [4]",
+        "aegisName": "waghnakh_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 4,
+            "wieldType": "ONE_HANDED",
+            "level": 1,
+            "range": 1,
+            "atk": 30,
+            "refinable": true
+        },
+        "price": 8000,
+        "weight": 40,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            }
+        }
+    },
+    "1803": {
+        "id": "1803",
+        "name": "Soqueira",
+        "displayName": "Soqueira [2]",
+        "aegisName": "knuckle_duster",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 25000,
+        "weight": 45,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "1804": {
+        "id": "1804",
+        "name": "Soqueira",
+        "displayName": "Soqueira [3]",
+        "aegisName": "knuckle_duster_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 50,
+            "refinable": true
+        },
+        "price": 25000,
+        "weight": 45,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "1805": {
+        "id": "1805",
+        "name": "Soco Inglês",
+        "displayName": "Soco Inglês [2]",
+        "aegisName": "hora",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 65,
+            "refinable": true
+        },
+        "price": 32000,
+        "weight": 45,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "1806": {
+        "id": "1806",
+        "name": "Soco Inglês",
+        "displayName": "Soco Inglês [3]",
+        "aegisName": "hora_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 2,
+            "range": 1,
+            "atk": 65,
+            "refinable": true
+        },
+        "price": 32000,
+        "weight": 45,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 12
+            }
+        }
+    },
+    "1807": {
+        "id": "1807",
+        "name": "Punho",
+        "displayName": "Punho",
+        "aegisName": "fist",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 115,
+            "refinable": true
+        },
+        "price": 53000,
+        "weight": 65,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 24
+            }
+        }
+    },
+    "1808": {
+        "id": "1808",
+        "name": "Punho",
+        "displayName": "Punho [1]",
+        "aegisName": "fist_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 115,
+            "refinable": true
+        },
+        "price": 53000,
+        "weight": 65,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 24
+            }
+        }
+    },
+    "1809": {
+        "id": "1809",
+        "name": "Garra",
+        "displayName": "Garra [1]",
+        "aegisName": "claw",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 86,
+            "refinable": true
+        },
+        "price": 67000,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 24
+            }
+        }
+    },
+    "1810": {
+        "id": "1810",
+        "name": "Garra",
+        "displayName": "Garra [2]",
+        "aegisName": "claw_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 86,
+            "refinable": true
+        },
+        "price": 67000,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 24
+            }
+        }
+    },
+    "1811": {
+        "id": "1811",
+        "name": "Dedos Afiados",
+        "displayName": "Dedos Afiados [1]",
+        "aegisName": "finger",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 97,
+            "refinable": true
+        },
+        "price": 58000,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 24
+            }
+        }
+    },
+    "1812": {
+        "id": "1812",
+        "name": "Dedos Afiados",
+        "displayName": "Dedos Afiados [2]",
+        "aegisName": "finger_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 97,
+            "refinable": true
+        },
+        "price": 58000,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 24
+            }
+        }
+    },
+    "1813": {
+        "id": "1813",
+        "name": "Punho do Kaiser",
+        "displayName": "Punho do Kaiser",
+        "aegisName": "kaiser_knuckle",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 110,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 45,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 36
+            }
+        }
+    },
+    "1814": {
+        "id": "1814",
+        "name": "Fúria Insana",
+        "displayName": "Fúria Insana",
+        "aegisName": "berserk",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 36
+            }
+        }
+    },
+    "1815": {
+        "id": "1815",
+        "name": "Garra de Hatii",
+        "displayName": "Garra de Hatii [1]",
+        "aegisName": "claw_of_garm",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 152,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 55,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1816": {
+        "id": "1816",
+        "name": "Fúria Insana",
+        "displayName": "Fúria Insana [1]",
+        "aegisName": "berserk_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 120,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 36
+            }
+        }
+    },
+    "1817": {
+        "id": "1817",
+        "name": "Punho do Kaiser [A]",
+        "displayName": "Punho do Kaiser [A]",
+        "aegisName": "kaiser_knuckle_c",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 159,
+            "refinable": false
+        },
+        "price": 1,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            }
+        }
+    },
+    "1818": {
+        "id": "1818",
+        "name": "Punho de Magma",
+        "displayName": "Punho de Magma [3]",
+        "aegisName": "magma_fist",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 65,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "1819": {
+        "id": "1819",
+        "name": "Punho Gélido",
+        "displayName": "Punho Gélido [3]",
+        "aegisName": "icicle_fist",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 65,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "1820": {
+        "id": "1820",
+        "name": "Punho Voltaico",
+        "displayName": "Punho Voltaico [3]",
+        "aegisName": "electric_fist",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 65,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "1821": {
+        "id": "1821",
+        "name": "Punho Sísmico",
+        "displayName": "Punho Sísmico [3]",
+        "aegisName": "seismic_fist",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 80,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 65,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 75
+            }
+        }
+    },
+    "1822": {
+        "id": "1822",
+        "name": "Luva de Combo",
+        "displayName": "Luva de Combo [4]",
+        "aegisName": "combo_battle_glove",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 4,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 30,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1823": {
+        "id": "1823",
+        "name": "Punho de Batalha A",
+        "displayName": "Punho de Batalha A",
+        "aegisName": "bf_knuckle1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 30,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1824": {
+        "id": "1824",
+        "name": "Punho de Batalha B",
+        "displayName": "Punho de Batalha B",
+        "aegisName": "bf_knuckle2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 30,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1825": {
+        "id": "1825",
+        "name": "Espírito do Leão da Montanha",
+        "displayName": "Espírito do Leão da Montanha [3]",
+        "aegisName": "horn_of_hilthrion",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 95,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 60,
+        "restrictions": {
+            "jobMasks": [
+                "UPPER",
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Monk": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1826": {
+        "id": "1826",
+        "name": "Garra Gloriosa",
+        "displayName": "Garra Gloriosa",
+        "aegisName": "krieger_knuckle1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 30,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1827": {
+        "id": "1827",
+        "name": "Punho Glorioso",
+        "displayName": "Punho Glorioso",
+        "aegisName": "krieger_knuckle2",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 30,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 80
+            }
+        }
+    },
+    "1830": {
+        "id": "1830",
+        "name": "Punho Violento",
+        "displayName": "Punho Violento [1]",
+        "aegisName": "sura_rampage",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 142,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 50,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Monk": true
+            },
+            "level": {
+                "min": 102
+            }
+        }
+    },
+    "1831": {
+        "id": "1831",
+        "name": "Garra I do Grupo Éden",
+        "displayName": "Garra I do Grupo Éden",
+        "aegisName": "p_knuckle1",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 120,
+            "refinable": false
+        },
+        "price": 0,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 60
+            }
+        }
+    },
+    "1832": {
+        "id": "1832",
+        "name": "Garra de Vellum",
+        "displayName": "Garra de Vellum",
+        "aegisName": "velum_claw",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 160,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 65,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 95
+            }
+        }
+    },
+    "1834": {
+        "id": "1834",
+        "name": "Punho TE",
+        "displayName": "Punho TE",
+        "aegisName": "te_woe_fist",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 0,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 150,
+            "refinable": false
+        },
+        "price": 20,
+        "weight": 0,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 40
+            }
+        }
+    },
+    "1836": {
+        "id": "1836",
+        "name": "Punho de Cinzas",
+        "displayName": "Punho de Cinzas [1]",
+        "aegisName": "thanos_knuckle",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "range": 1,
+            "atk": 60,
+            "matk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 160,
+        "restrictions": {
+            "jobMasks": [
+                "THIRD",
+                "THIRDUPPER",
+                "THIRDBABY"
+            ],
+            "job": {
+                "Monk": true
+            },
+            "level": {
+                "min": 120
+            }
+        }
+    },
+    "1837": {
+        "id": "1837",
+        "name": "Garra de Ferro",
+        "displayName": "Garra de Ferro [1]",
+        "aegisName": "iron_nail",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 1,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 0,
+        "weight": 150
+    },
+    "1839": {
+        "id": "1839",
+        "name": "Garra Rubi",
+        "displayName": "Garra Rubi [2]",
+        "aegisName": "scarlet_knuckle",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 3,
+            "range": 1,
+            "atk": 100,
+            "refinable": true
+        },
+        "price": 20,
+        "weight": 100,
+        "restrictions": {
+            "job": {
+                "Priest": true,
+                "Monk": true
+            },
+            "level": {
+                "min": 70
+            }
+        }
+    },
+    "1841": {
+        "id": "1841",
+        "name": "Garra Prismática",
+        "displayName": "Garra Prismática [3]",
+        "aegisName": "claw_of_flash_",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 3,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 140,
+            "refinable": true
+        },
+        "weight": 40
+    },
+    "1847": {
+        "id": "1847",
+        "name": "Garra Ancestral",
+        "displayName": "Garra Ancestral [2]",
+        "aegisName": "iron_nail_k",
+        "type": "WEAPON",
+        "equipData": {
+            "class": "KNUCKLE",
+            "slots": 2,
+            "wieldType": "ONE_HANDED",
+            "level": 4,
+            "atk": 180,
+            "refinable": true
+        },
+        "weight": 100
+    }
+}

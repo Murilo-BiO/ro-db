@@ -731,6 +731,7 @@
     "601": {
         "id": "601",
         "name": "Asa de Mosca",
+        "displayName": "Asa de Mosca",
         "aegisName": "wing_of_fly",
         "type": "CONSUMABLE",
         "price": 60,
@@ -739,6 +740,7 @@
     "602": {
         "id": "602",
         "name": "Asa de Borboleta",
+        "displayName": "Asa de Borboleta",
         "aegisName": "wing_of_butterfly",
         "type": "CONSUMABLE",
         "price": 300,
@@ -747,6 +749,7 @@
     "603": {
         "id": "603",
         "name": "Velha Caixa Azul",
+        "displayName": "Velha Caixa Azul",
         "aegisName": "old_blue_box",
         "type": "CONSUMABLE",
         "price": 10000,
@@ -755,6 +758,7 @@
     "604": {
         "id": "604",
         "name": "Galho Seco",
+        "displayName": "Galho Seco",
         "aegisName": "branch_of_dead_tree",
         "type": "CONSUMABLE",
         "price": 50,
@@ -763,6 +767,7 @@
     "605": {
         "id": "605",
         "name": "Analgésico",
+        "displayName": "Analgésico",
         "aegisName": "anodyne",
         "type": "CONSUMABLE",
         "price": 2000,
@@ -771,6 +776,7 @@
     "606": {
         "id": "606",
         "name": "Aloe Vera",
+        "displayName": "Aloe Vera",
         "aegisName": "aloebera",
         "type": "CONSUMABLE",
         "price": 1500,
@@ -797,6 +803,7 @@
     "609": {
         "id": "609",
         "name": "Amuleto",
+        "displayName": "Amuleto",
         "aegisName": "amulet",
         "type": "CONSUMABLE",
         "price": 100,
@@ -805,6 +812,7 @@
     "610": {
         "id": "610",
         "name": "Folha de Yggdrasil",
+        "displayName": "Folha de Yggdrasil",
         "aegisName": "leaf_of_yggdrasil",
         "type": "CONSUMABLE",
         "price": 4000,
@@ -813,6 +821,7 @@
     "611": {
         "id": "611",
         "name": "Lupa",
+        "displayName": "Lupa",
         "aegisName": "spectacles",
         "type": "CONSUMABLE",
         "price": 40,
@@ -821,6 +830,7 @@
     "612": {
         "id": "612",
         "name": "Mini-Fornalha",
+        "displayName": "Mini-Fornalha",
         "aegisName": "portable_furnace",
         "type": "CONSUMABLE",
         "price": 150,
@@ -829,6 +839,7 @@
     "613": {
         "id": "613",
         "name": "Martelo de Ferro",
+        "displayName": "Martelo de Ferro",
         "aegisName": "iron_hammer",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -837,6 +848,7 @@
     "614": {
         "id": "614",
         "name": "Martelo de Ouro",
+        "displayName": "Martelo de Ouro",
         "aegisName": "golden_hammer",
         "type": "CONSUMABLE",
         "price": 3000,
@@ -845,6 +857,7 @@
     "615": {
         "id": "615",
         "name": "Martelo de Oridecon",
+        "displayName": "Martelo de Oridecon",
         "aegisName": "oridecon_hammer",
         "type": "CONSUMABLE",
         "price": 5000,
@@ -853,6 +866,7 @@
     "616": {
         "id": "616",
         "name": "Velho Álbum de Cartas",
+        "displayName": "Velho Álbum de Cartas",
         "aegisName": "old_card_album",
         "type": "CONSUMABLE",
         "price": 10000,
@@ -861,6 +875,7 @@
     "617": {
         "id": "617",
         "name": "Velha Caixa Roxa",
+        "displayName": "Velha Caixa Roxa",
         "aegisName": "old_violet_box",
         "type": "CONSUMABLE",
         "price": 10000,
@@ -869,6 +884,7 @@
     "618": {
         "id": "618",
         "name": "Pergaminho Desgastado",
+        "displayName": "Pergaminho Desgastado",
         "aegisName": "worn_out_scroll",
         "type": "CONSUMABLE",
         "price": 50,
@@ -877,6 +893,7 @@
     "619": {
         "id": "619",
         "name": "Maçã Verde",
+        "displayName": "Maçã Verde",
         "aegisName": "unripe_apple",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -885,6 +902,7 @@
     "620": {
         "id": "620",
         "name": "Suco de Laranja",
+        "displayName": "Suco de Laranja",
         "aegisName": "orange_juice",
         "type": "CONSUMABLE",
         "price": 1500,
@@ -893,6 +911,7 @@
     "621": {
         "id": "621",
         "name": "Erva Amarga",
+        "displayName": "Erva Amarga",
         "aegisName": "bitter_herb",
         "type": "CONSUMABLE",
         "price": 20,
@@ -901,6 +920,7 @@
     "622": {
         "id": "622",
         "name": "Cenoura Arco-Íris",
+        "displayName": "Cenoura Arco-Íris",
         "aegisName": "rainbow_carrot",
         "type": "CONSUMABLE",
         "price": 2500,
@@ -909,6 +929,7 @@
     "623": {
         "id": "623",
         "name": "Minhoca Boa-Pinta",
+        "displayName": "Minhoca Boa-Pinta",
         "aegisName": "earthworm_the_dude",
         "type": "CONSUMABLE",
         "price": 4000,
@@ -917,6 +938,7 @@
     "624": {
         "id": "624",
         "name": "Peixe Podre",
+        "displayName": "Peixe Podre",
         "aegisName": "rotten_fish",
         "type": "CONSUMABLE",
         "price": 2500,
@@ -925,6 +947,7 @@
     "625": {
         "id": "625",
         "name": "Ferro Enferrujado",
+        "displayName": "Ferro Enferrujado",
         "aegisName": "lusty_iron",
         "type": "CONSUMABLE",
         "price": 100,
@@ -933,6 +956,7 @@
     "626": {
         "id": "626",
         "name": "Suco de Monstro",
+        "displayName": "Suco de Monstro",
         "aegisName": "monster_juice",
         "type": "CONSUMABLE",
         "price": 1500,
@@ -941,6 +965,7 @@
     "627": {
         "id": "627",
         "name": "Leite Doce",
+        "displayName": "Leite Doce",
         "aegisName": "sweet_milk",
         "type": "CONSUMABLE",
         "price": 7000,
@@ -949,6 +974,7 @@
     "628": {
         "id": "628",
         "name": "Osso Seco",
+        "displayName": "Osso Seco",
         "aegisName": "well_dried_bone",
         "type": "CONSUMABLE",
         "price": 10000,
@@ -957,6 +983,7 @@
     "629": {
         "id": "629",
         "name": "Flor Cantante",
+        "displayName": "Flor Cantante",
         "aegisName": "singing_flower",
         "type": "CONSUMABLE",
         "price": 300,
@@ -965,6 +992,7 @@
     "630": {
         "id": "630",
         "name": "Musgo Encharcado",
+        "displayName": "Musgo Encharcado",
         "aegisName": "dew_laden_moss",
         "type": "CONSUMABLE",
         "price": 10,
@@ -973,6 +1001,7 @@
     "631": {
         "id": "631",
         "name": "Erva Letal",
+        "displayName": "Erva Letal",
         "aegisName": "deadly_noxious_herb",
         "type": "CONSUMABLE",
         "price": 20,
@@ -981,6 +1010,7 @@
     "632": {
         "id": "632",
         "name": "Minhoca Gorducha",
+        "displayName": "Minhoca Gorducha",
         "aegisName": "fatty_chubby_earthworm",
         "type": "CONSUMABLE",
         "price": 5000,
@@ -989,6 +1019,7 @@
     "633": {
         "id": "633",
         "name": "Batata Assada",
+        "displayName": "Batata Assada",
         "aegisName": "baked_yam",
         "type": "CONSUMABLE",
         "price": 20,
@@ -997,6 +1028,7 @@
     "634": {
         "id": "634",
         "name": "Banana Tropical",
+        "displayName": "Banana Tropical",
         "aegisName": "tropical_banana",
         "type": "CONSUMABLE",
         "price": 20,
@@ -1005,6 +1037,7 @@
     "635": {
         "id": "635",
         "name": "Horror da Tribo",
+        "displayName": "Horror da Tribo",
         "aegisName": "horror_of_tribe",
         "type": "CONSUMABLE",
         "price": 300,
@@ -1013,6 +1046,7 @@
     "636": {
         "id": "636",
         "name": "Sem Destinatário",
+        "displayName": "Sem Destinatário",
         "aegisName": "no_recipient",
         "type": "CONSUMABLE",
         "price": 100,
@@ -1021,6 +1055,7 @@
     "637": {
         "id": "637",
         "name": "Vassoura Velha",
+        "displayName": "Vassoura Velha",
         "aegisName": "old_broom",
         "type": "CONSUMABLE",
         "price": 350,
@@ -1029,6 +1064,7 @@
     "638": {
         "id": "638",
         "name": "Faca de Prata da Castidade",
+        "displayName": "Faca de Prata da Castidade",
         "aegisName": "silver_knife_of_chaste",
         "type": "CONSUMABLE",
         "price": 12000,
@@ -1037,6 +1073,7 @@
     "639": {
         "id": "639",
         "name": "Bracelete da Obediência",
+        "displayName": "Bracelete da Obediência",
         "aegisName": "armlet_of_obedience",
         "type": "CONSUMABLE",
         "price": 18000,
@@ -1045,6 +1082,7 @@
     "640": {
         "id": "640",
         "name": "Pedra Brilhante",
+        "displayName": "Pedra Brilhante",
         "aegisName": "shining_stone",
         "type": "CONSUMABLE",
         "price": 3000,
@@ -1053,6 +1091,7 @@
     "641": {
         "id": "641",
         "name": "Contratos das Sombras",
+        "displayName": "Contratos das Sombras",
         "aegisName": "contracts_in_shadow",
         "type": "CONSUMABLE",
         "price": 100,
@@ -1061,6 +1100,7 @@
     "642": {
         "id": "642",
         "name": "Livro do Diabo",
+        "displayName": "Livro do Diabo",
         "aegisName": "book_of_devil",
         "type": "CONSUMABLE",
         "price": 1800,
@@ -1069,6 +1109,7 @@
     "643": {
         "id": "643",
         "name": "Incubadora",
+        "displayName": "Incubadora",
         "aegisName": "pet_incubator",
         "type": "CONSUMABLE",
         "price": 3000,
@@ -1086,6 +1127,7 @@
     "645": {
         "id": "645",
         "name": "Poção da Concentração",
+        "displayName": "Poção da Concentração",
         "aegisName": "center_potion",
         "type": "CONSUMABLE",
         "price": 800,
@@ -1094,6 +1136,7 @@
     "656": {
         "id": "656",
         "name": "Poção do Despertar",
+        "displayName": "Poção do Despertar",
         "aegisName": "awakening_potion",
         "type": "CONSUMABLE",
         "price": 1500,
@@ -1136,6 +1179,7 @@
     "657": {
         "id": "657",
         "name": "Poção da Fúria Selvagem",
+        "displayName": "Poção da Fúria Selvagem",
         "aegisName": "berserk_potion",
         "type": "CONSUMABLE",
         "price": 3000,
@@ -1164,6 +1208,7 @@
     "658": {
         "id": "658",
         "name": "União da Tribo",
+        "displayName": "União da Tribo",
         "aegisName": "union_of_tribe",
         "type": "CONSUMABLE",
         "price": 2,
@@ -1172,6 +1217,7 @@
     "659": {
         "id": "659",
         "name": "Coração Apaixonado",
+        "displayName": "Coração Apaixonado",
         "aegisName": "heart_of_her",
         "type": "CONSUMABLE",
         "price": 500,
@@ -1180,6 +1226,7 @@
     "660": {
         "id": "660",
         "name": "Vela do Marquês de Sade",
+        "displayName": "Vela do Marquês de Sade",
         "aegisName": "prohibition_red_candle",
         "type": "CONSUMABLE",
         "price": 20000,
@@ -1188,6 +1235,7 @@
     "661": {
         "id": "661",
         "name": "Avental Elegante",
+        "displayName": "Avental Elegante",
         "aegisName": "sway_apron",
         "type": "CONSUMABLE",
         "price": 20000,
@@ -1196,6 +1244,7 @@
     "662": {
         "id": "662",
         "name": "Emblema Oficial",
+        "displayName": "Emblema Oficial",
         "aegisName": "inspector_certificate",
         "type": "CONSUMABLE",
         "price": 1450,
@@ -1213,6 +1262,7 @@
     "664": {
         "id": "664",
         "name": "Caixa de Presente 1",
+        "displayName": "Caixa de Presente 1",
         "aegisName": "gift_box_1",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -1221,6 +1271,7 @@
     "665": {
         "id": "665",
         "name": "Caixa de Presente 2",
+        "displayName": "Caixa de Presente 2",
         "aegisName": "gift_box_2",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -1229,6 +1280,7 @@
     "666": {
         "id": "666",
         "name": "Caixa de Presente 3",
+        "displayName": "Caixa de Presente 3",
         "aegisName": "gift_box_3",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -1237,6 +1289,7 @@
     "667": {
         "id": "667",
         "name": "Caixa de Presente 4",
+        "displayName": "Caixa de Presente 4",
         "aegisName": "gift_box_4",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -1254,6 +1307,7 @@
     "670": {
         "id": "670",
         "name": "Sacola de Moedas de Ouro",
+        "displayName": "Sacola de Moedas de Ouro",
         "aegisName": "gold_coin_moneybag",
         "type": "CONSUMABLE",
         "price": 100000,
@@ -1271,6 +1325,7 @@
     "672": {
         "id": "672",
         "name": "Sacola de Moedas de Bronze",
+        "displayName": "Sacola de Moedas de Bronze",
         "aegisName": "copper_coin_moneybag",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -1279,6 +1334,7 @@
     "673": {
         "id": "673",
         "name": "Moeda de Bronze",
+        "displayName": "Moeda de Bronze",
         "aegisName": "copper_coin",
         "type": "CONSUMABLE",
         "price": 100,
@@ -1287,6 +1343,7 @@
     "674": {
         "id": "674",
         "name": "Moeda de Mythril",
+        "displayName": "Moeda de Mythril",
         "aegisName": "mithril_coin",
         "type": "CONSUMABLE",
         "price": 5000,
@@ -1295,6 +1352,7 @@
     "675": {
         "id": "675",
         "name": "Moeda de Prata",
+        "displayName": "Moeda de Prata",
         "aegisName": "silver_coin",
         "type": "CONSUMABLE",
         "price": 5000,
@@ -1303,6 +1361,7 @@
     "676": {
         "id": "676",
         "name": "Sacola de Moedas de Prata",
+        "displayName": "Sacola de Moedas de Prata",
         "aegisName": "silver_coin_moneybag",
         "type": "CONSUMABLE",
         "price": 50000,
@@ -1311,6 +1370,7 @@
     "677": {
         "id": "677",
         "name": "Moeda de Platina",
+        "displayName": "Moeda de Platina",
         "aegisName": "white_gold_coin",
         "type": "CONSUMABLE",
         "price": 2000,
@@ -1319,6 +1379,7 @@
     "678": {
         "id": "678",
         "name": "Garrafa de Veneno",
+        "displayName": "Garrafa de Veneno",
         "aegisName": "poison_bottle",
         "type": "CONSUMABLE",
         "price": 5000,
@@ -1327,6 +1388,7 @@
     "679": {
         "id": "679",
         "name": "Pílula Dourada",
+        "displayName": "Pílula Dourada",
         "aegisName": "gold_pill",
         "type": "CONSUMABLE",
         "price": 5000,
@@ -1335,6 +1397,7 @@
     "681": {
         "id": "681",
         "name": "Álbum de Fotos de Casamento",
+        "displayName": "Álbum de Fotos de Casamento",
         "aegisName": "memory_of_wedding",
         "type": "CONSUMABLE",
         "price": 50000,
@@ -1343,6 +1406,7 @@
     "682": {
         "id": "682",
         "name": "Bebida de Realgar",
+        "displayName": "Bebida de Realgar",
         "aegisName": "realgar_wine",
         "type": "CONSUMABLE",
         "price": 0,
@@ -1351,6 +1415,7 @@
     "683": {
         "id": "683",
         "name": "Erva de Exorcismo",
+        "displayName": "Erva de Exorcismo",
         "aegisName": "exorcize_herb",
         "type": "CONSUMABLE",
         "price": 0,
@@ -1359,6 +1424,7 @@
     "684": {
         "id": "684",
         "name": "Jaca",
+        "displayName": "Jaca",
         "aegisName": "durian",
         "type": "CONSUMABLE",
         "price": 15000,
@@ -1367,6 +1433,7 @@
     "685": {
         "id": "685",
         "name": "Ramadan",
+        "displayName": "Ramadan",
         "aegisName": "ramadan",
         "type": "CONSUMABLE",
         "price": 5000,
@@ -1375,6 +1442,7 @@
     "686": {
         "id": "686",
         "name": "Coluna de Pedra Nível 3",
+        "displayName": "Coluna de Pedra Nível 3",
         "aegisName": "earth_scroll_1_3",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -1383,6 +1451,7 @@
     "687": {
         "id": "687",
         "name": "Coluna de Pedra Nível 5",
+        "displayName": "Coluna de Pedra Nível 5",
         "aegisName": "earth_scroll_1_5",
         "type": "CONSUMABLE",
         "price": 2000,
@@ -1391,6 +1460,7 @@
     "688": {
         "id": "688",
         "name": "Lanças de Gelo Nível 3",
+        "displayName": "Lanças de Gelo Nível 3",
         "aegisName": "cold_scroll_1_3",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -1399,6 +1469,7 @@
     "689": {
         "id": "689",
         "name": "Lanças de Gelo Nível 5",
+        "displayName": "Lanças de Gelo Nível 5",
         "aegisName": "cold_scroll_1_5",
         "type": "CONSUMABLE",
         "price": 2000,
@@ -1407,6 +1478,7 @@
     "690": {
         "id": "690",
         "name": "Lanças de Fogo Nível 3",
+        "displayName": "Lanças de Fogo Nível 3",
         "aegisName": "fire_scroll_1_3",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -1415,6 +1487,7 @@
     "691": {
         "id": "691",
         "name": "Lanças de Fogo Nível 5",
+        "displayName": "Lanças de Fogo Nível 5",
         "aegisName": "fire_scroll_1_5",
         "type": "CONSUMABLE",
         "price": 2000,
@@ -1423,6 +1496,7 @@
     "692": {
         "id": "692",
         "name": "Relâmpago Nível 3",
+        "displayName": "Relâmpago Nível 3",
         "aegisName": "wind_scroll_1_3",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -1431,6 +1505,7 @@
     "693": {
         "id": "693",
         "name": "Relâmpago Nível 5",
+        "displayName": "Relâmpago Nível 5",
         "aegisName": "wind_scroll_1_5",
         "type": "CONSUMABLE",
         "price": 2000,
@@ -1439,6 +1514,7 @@
     "694": {
         "id": "694",
         "name": "Espíritos Anciões Nível 3",
+        "displayName": "Espíritos Anciões Nível 3",
         "aegisName": "ghost_scroll_1_3",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -1447,6 +1523,7 @@
     "695": {
         "id": "695",
         "name": "Espíritos Anciões Nível 5",
+        "displayName": "Espíritos Anciões Nível 5",
         "aegisName": "ghost_scroll_1_5",
         "type": "CONSUMABLE",
         "price": 2000,
@@ -1455,6 +1532,7 @@
     "696": {
         "id": "696",
         "name": "Bolas de Fogo Nível 1",
+        "displayName": "Bolas de Fogo Nível 1",
         "aegisName": "fire_scroll_2_1",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -1463,6 +1541,7 @@
     "697": {
         "id": "697",
         "name": "Bolas de Fogo Nível 5",
+        "displayName": "Bolas de Fogo Nível 5",
         "aegisName": "fire_scroll_2_5",
         "type": "CONSUMABLE",
         "price": 2000,
@@ -1471,6 +1550,7 @@
     "698": {
         "id": "698",
         "name": "Barreira de Fogo Nível 1",
+        "displayName": "Barreira de Fogo Nível 1",
         "aegisName": "fire_scroll_3_1",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -1479,6 +1559,7 @@
     "699": {
         "id": "699",
         "name": "Barreira de Fogo Nível 5",
+        "displayName": "Barreira de Fogo Nível 5",
         "aegisName": "fire_scroll_3_5",
         "type": "CONSUMABLE",
         "price": 2000,
@@ -1487,6 +1568,7 @@
     "700": {
         "id": "700",
         "name": "Rajada Congelante Nível 1",
+        "displayName": "Rajada Congelante Nível 1",
         "aegisName": "cold_scroll_2_1",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -1878,6 +1960,15 @@
         "price": 0,
         "weight": 2
     },
+    "11569": {
+        "id": 11569,
+        "name": "Poção Laranja de Aprendiz",
+        "displayName": "Poção Laranja de Aprendiz",
+        "aegisName": "orange_potion_",
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 10
+    },
     "11575": {
         "id": 11575,
         "name": "Biscoito da Sorte",
@@ -1954,7 +2045,7 @@
         "id": 11600,
         "name": "Poção Sagrada",
         "displayName": "Poção Sagrada",
-        "aegisName": null,
+        "aegisName": "shining_holy_water",
         "price": 0,
         "weight": 1.5,
         "type": "CONSUMABLE"
@@ -1985,6 +2076,15 @@
         "type": "CONSUMABLE",
         "weight": 5
     },
+    "11613": {
+        "id": 11613,
+        "name": "Biscoito com Goiabada",
+        "displayName": "Biscoito com Goiabada",
+        "aegisName": "harvest_cookie",
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 3
+    },
     "11713": {
         "id": "11713",
         "name": "Doce da Joana",
@@ -1997,6 +2097,7 @@
     "12000": {
         "id": "12000",
         "name": "Rajada Congelante Nível 5",
+        "displayName": "Rajada Congelante Nível 5",
         "aegisName": "cold_scroll_2_5",
         "type": "CONSUMABLE",
         "price": 2000,
@@ -2005,6 +2106,7 @@
     "12001": {
         "id": "12001",
         "name": "Cura Nível 3",
+        "displayName": "Cura Nível 3",
         "aegisName": "holy_scroll_1_3",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -2013,6 +2115,7 @@
     "12002": {
         "id": "12002",
         "name": "Cura Nível 5",
+        "displayName": "Cura Nível 5",
         "aegisName": "holy_scroll_1_5",
         "type": "CONSUMABLE",
         "price": 2000,
@@ -2021,6 +2124,7 @@
     "12003": {
         "id": "12003",
         "name": "Teleporte Nível 1",
+        "displayName": "Teleporte Nível 1",
         "aegisName": "holy_scroll_2_1",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -2029,6 +2133,7 @@
     "12004": {
         "id": "12004",
         "name": "Aljave",
+        "displayName": "Aljave",
         "aegisName": "arrow_container",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2037,6 +2142,7 @@
     "12005": {
         "id": "12005",
         "name": "Aljave de Flechas de Ferro",
+        "displayName": "Aljave de Flechas de Ferro",
         "aegisName": "iron_arrow_container",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2045,6 +2151,7 @@
     "12006": {
         "id": "12006",
         "name": "Aljave de Flechas de Aço",
+        "displayName": "Aljave de Flechas de Aço",
         "aegisName": "steel_arrow_container",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2053,6 +2160,7 @@
     "12007": {
         "id": "12007",
         "name": "Aljave de Flechas de Oridecon",
+        "displayName": "Aljave de Flechas de Oridecon",
         "aegisName": "ori_arrow_container",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2061,6 +2169,7 @@
     "12008": {
         "id": "12008",
         "name": "Aljave de Flechas de Fogo",
+        "displayName": "Aljave de Flechas de Fogo",
         "aegisName": "fire_arrow_container",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2069,6 +2178,7 @@
     "12009": {
         "id": "12009",
         "name": "Aljave de Flechas de Prata",
+        "displayName": "Aljave de Flechas de Prata",
         "aegisName": "silver_arrow_container",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2077,6 +2187,7 @@
     "12010": {
         "id": "12010",
         "name": "Aljave de Flechas de Vento",
+        "displayName": "Aljave de Flechas de Vento",
         "aegisName": "wind_arrow_container",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2085,6 +2196,7 @@
     "12011": {
         "id": "12011",
         "name": "Aljave de Flechas de Pedra",
+        "displayName": "Aljave de Flechas de Pedra",
         "aegisName": "stone_arrow_container",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2093,6 +2205,7 @@
     "12012": {
         "id": "12012",
         "name": "Aljave de Flechas de Cristal",
+        "displayName": "Aljave de Flechas de Cristal",
         "aegisName": "crystal_arrow_container",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2101,6 +2214,7 @@
     "12013": {
         "id": "12013",
         "name": "Aljave de Flechas de Sombra",
+        "displayName": "Aljave de Flechas de Sombra",
         "aegisName": "shadow_arrow_container",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2109,6 +2223,7 @@
     "12014": {
         "id": "12014",
         "name": "Aljave de Flechas Imateriais",
+        "displayName": "Aljave de Flechas Imateriais",
         "aegisName": "imma_arrow_container",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2117,6 +2232,7 @@
     "12015": {
         "id": "12015",
         "name": "Aljave de Flechas Enferrujadas",
+        "displayName": "Aljave de Flechas Enferrujadas",
         "aegisName": "rusty_arrow_container",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2134,6 +2250,7 @@
     "12017": {
         "id": "12017",
         "name": "Poção da Lentidão",
+        "displayName": "Poção da Lentidão",
         "aegisName": "slow_down_potion",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2142,6 +2259,7 @@
     "12018": {
         "id": "12018",
         "name": "Fogo de Artifício",
+        "displayName": "Fogo de Artifício",
         "aegisName": "fire_cracker",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2150,6 +2268,7 @@
     "12019": {
         "id": "12019",
         "name": "Ovo Sagrado",
+        "displayName": "Ovo Sagrado",
         "aegisName": "holy_egg",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2158,6 +2277,7 @@
     "12020": {
         "id": "12020",
         "name": "Água Amaldiçoada",
+        "displayName": "Água Amaldiçoada",
         "aegisName": "water_of_darkness",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2193,6 +2313,7 @@
     "12024": {
         "id": "12024",
         "name": "Bolsa Vermelha",
+        "displayName": "Bolsa Vermelha",
         "aegisName": "red_pouch_of_surprise",
         "type": "CONSUMABLE",
         "price": 50,
@@ -2219,6 +2340,7 @@
     "12027": {
         "id": "12027",
         "name": "Caixa Risonha",
+        "displayName": "Caixa Risonha",
         "aegisName": "giggling_box",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -2227,6 +2349,7 @@
     "12028": {
         "id": "12028",
         "name": "Caixa do Trovão",
+        "displayName": "Caixa do Trovão",
         "aegisName": "box_of_thunder",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -2235,6 +2358,7 @@
     "12029": {
         "id": "12029",
         "name": "Caixa da Escuridão",
+        "displayName": "Caixa da Escuridão",
         "aegisName": "gloomy_box",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -2243,6 +2367,7 @@
     "12030": {
         "id": "12030",
         "name": "Caixa do Ressentimento",
+        "displayName": "Caixa do Ressentimento",
         "aegisName": "box_of_grudge",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -2251,6 +2376,7 @@
     "12031": {
         "id": "12031",
         "name": "Caixa da Sonolência",
+        "displayName": "Caixa da Sonolência",
         "aegisName": "sleepy_box",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -2259,6 +2385,7 @@
     "12032": {
         "id": "12032",
         "name": "Caixa da Tempestade",
+        "displayName": "Caixa da Tempestade",
         "aegisName": "box_of_storm",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -2267,6 +2394,7 @@
     "12033": {
         "id": "12033",
         "name": "Caixa da Luz do Sol",
+        "displayName": "Caixa da Luz do Sol",
         "aegisName": "box_of_sunlight",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -2275,6 +2403,7 @@
     "12034": {
         "id": "12034",
         "name": "Caixa do Arquejo",
+        "displayName": "Caixa do Arquejo",
         "aegisName": "painting_box",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -2283,6 +2412,7 @@
     "12040": {
         "id": "12040",
         "name": "Pedra do Sábio",
+        "displayName": "Pedra do Sábio",
         "aegisName": "stone_of_intelligence_",
         "type": "CONSUMABLE",
         "price": 100000,
@@ -2291,6 +2421,7 @@
     "12041": {
         "id": "12041",
         "name": "Pernas de Gafanhoto Fritas",
+        "displayName": "Pernas de Gafanhoto Fritas",
         "aegisName": "str_dish01",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2299,6 +2430,7 @@
     "12042": {
         "id": "12042",
         "name": "Palmípede Temperado",
+        "displayName": "Palmípede Temperado",
         "aegisName": "str_dish02",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2307,6 +2439,7 @@
     "12043": {
         "id": "12043",
         "name": "Bife Bombástico",
+        "displayName": "Bife Bombástico",
         "aegisName": "str_dish03",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2315,6 +2448,7 @@
     "12044": {
         "id": "12044",
         "name": "Bife Marinado com Ervas",
+        "displayName": "Bife Marinado com Ervas",
         "aegisName": "str_dish04",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2323,6 +2457,7 @@
     "12045": {
         "id": "12045",
         "name": "Panqueca de Lutie",
+        "displayName": "Panqueca de Lutie",
         "aegisName": "str_dish05",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2331,6 +2466,7 @@
     "12046": {
         "id": "12046",
         "name": "Chá de Ervas com Uvas",
+        "displayName": "Chá de Ervas com Uvas",
         "aegisName": "int_dish01",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2339,6 +2475,7 @@
     "12047": {
         "id": "12047",
         "name": "Chá Vermelho de Outono",
+        "displayName": "Chá Vermelho de Outono",
         "aegisName": "int_dish02",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2347,6 +2484,7 @@
     "12048": {
         "id": "12048",
         "name": "Chá de Ervas e Mel",
+        "displayName": "Chá de Ervas e Mel",
         "aegisName": "int_dish03",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2355,6 +2493,7 @@
     "12049": {
         "id": "12049",
         "name": "Vinho de Frutas de Morroc",
+        "displayName": "Vinho de Frutas de Morroc",
         "aegisName": "int_dish04",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2363,6 +2502,7 @@
     "12050": {
         "id": "12050",
         "name": "Vinho de Mastela",
+        "displayName": "Vinho de Mastela",
         "aegisName": "int_dish05",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2371,6 +2511,7 @@
     "12051": {
         "id": "12051",
         "name": "Garras de Caranguejo no Vapor",
+        "displayName": "Garras de Caranguejo no Vapor",
         "aegisName": "vit_dish01",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2379,6 +2520,7 @@
     "12052": {
         "id": "12052",
         "name": "Frutos do Mar Sortidos",
+        "displayName": "Frutos do Mar Sortidos",
         "aegisName": "vit_dish02",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2387,6 +2529,7 @@
     "12053": {
         "id": "12053",
         "name": "Sopa de Ostra",
+        "displayName": "Sopa de Ostra",
         "aegisName": "vit_dish03",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2395,6 +2538,7 @@
     "12054": {
         "id": "12054",
         "name": "Água-Viva Temperada",
+        "displayName": "Água-Viva Temperada",
         "aegisName": "vit_dish04",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2403,6 +2547,7 @@
     "12055": {
         "id": "12055",
         "name": "Pão de Carne Picante Frito",
+        "displayName": "Pão de Carne Picante Frito",
         "aegisName": "vit_dish05",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2411,6 +2556,7 @@
     "12056": {
         "id": "12056",
         "name": "Sopa de Tinta de Lula e Ovos de Sapo",
+        "displayName": "Sopa de Tinta de Lula e Ovos de Sapo",
         "aegisName": "agi_dish01",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2419,6 +2565,7 @@
     "12057": {
         "id": "12057",
         "name": "Macarrão Liso",
+        "displayName": "Macarrão Liso",
         "aegisName": "agi_dish02",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2427,6 +2574,7 @@
     "12058": {
         "id": "12058",
         "name": "Queijo Gratinado com Tentáculos",
+        "displayName": "Queijo Gratinado com Tentáculos",
         "aegisName": "agi_dish03",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2435,6 +2583,7 @@
     "12059": {
         "id": "12059",
         "name": "Macarrão Frio de Lutie",
+        "displayName": "Macarrão Frio de Lutie",
         "aegisName": "agi_dish04",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2443,6 +2592,7 @@
     "12060": {
         "id": "12060",
         "name": "Asa de Morcego com Abóbora no Vapor",
+        "displayName": "Asa de Morcego com Abóbora no Vapor",
         "aegisName": "agi_dish05",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2451,6 +2601,7 @@
     "12061": {
         "id": "12061",
         "name": "Suco de Uva e Mel",
+        "displayName": "Suco de Uva e Mel",
         "aegisName": "dex_dish01",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2459,6 +2610,7 @@
     "12062": {
         "id": "12062",
         "name": "Bolo-Mousse de Chocolate",
+        "displayName": "Bolo-Mousse de Chocolate",
         "aegisName": "dex_dish02",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2467,6 +2619,7 @@
     "12063": {
         "id": "12063",
         "name": "Salada de Frutas",
+        "displayName": "Salada de Frutas",
         "aegisName": "dex_dish03",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2475,6 +2628,7 @@
     "12064": {
         "id": "12064",
         "name": "Sanduíche Cremoso",
+        "displayName": "Sanduíche Cremoso",
         "aegisName": "dex_dish04",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2483,6 +2637,7 @@
     "12065": {
         "id": "12065",
         "name": "Salada Verde",
+        "displayName": "Salada Verde",
         "aegisName": "dex_dish05",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2491,6 +2646,7 @@
     "12066": {
         "id": "12066",
         "name": "Caudas de Macaco Fritas",
+        "displayName": "Caudas de Macaco Fritas",
         "aegisName": "luk_dish01",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2499,6 +2655,7 @@
     "12067": {
         "id": "12067",
         "name": "Suco Misto",
+        "displayName": "Suco Misto",
         "aegisName": "luk_dish02",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2507,6 +2664,7 @@
     "12068": {
         "id": "12068",
         "name": "Batata-Doce Frita",
+        "displayName": "Batata-Doce Frita",
         "aegisName": "luk_dish03",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2515,6 +2673,7 @@
     "12069": {
         "id": "12069",
         "name": "Lábios Fossilizados no Vapor",
+        "displayName": "Lábios Fossilizados no Vapor",
         "aegisName": "luk_dish04",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2523,6 +2682,7 @@
     "12070": {
         "id": "12070",
         "name": "Caudas de Escorpião Fritas",
+        "displayName": "Caudas de Escorpião Fritas",
         "aegisName": "luk_dish05",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2531,6 +2691,7 @@
     "12071": {
         "id": "12071",
         "name": "Bife Marinado Brilhante",
+        "displayName": "Bife Marinado Brilhante",
         "aegisName": "str_dish06",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2539,6 +2700,7 @@
     "12072": {
         "id": "12072",
         "name": "Assado Inteiro",
+        "displayName": "Assado Inteiro",
         "aegisName": "str_dish07",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2547,6 +2709,7 @@
     "12073": {
         "id": "12073",
         "name": "Pé de Urso Especial",
+        "displayName": "Pé de Urso Especial",
         "aegisName": "str_dish08",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2555,6 +2718,7 @@
     "12074": {
         "id": "12074",
         "name": "Saté de Tendões",
+        "displayName": "Saté de Tendões",
         "aegisName": "str_dish09",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2572,6 +2736,7 @@
     "12076": {
         "id": "12076",
         "name": "Vinho de Cogumelo Vermelho",
+        "displayName": "Vinho de Cogumelo Vermelho",
         "aegisName": "int_dish06",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2580,6 +2745,7 @@
     "12077": {
         "id": "12077",
         "name": "Chá de Ervas e Geléia Real Especial",
+        "displayName": "Chá de Ervas e Geléia Real Especial",
         "aegisName": "int_dish07",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2588,6 +2754,7 @@
     "12078": {
         "id": "12078",
         "name": "Chá da Família Real",
+        "displayName": "Chá da Família Real",
         "aegisName": "int_dish08",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2596,6 +2763,7 @@
     "12079": {
         "id": "12079",
         "name": "Tristam 12 Anos",
+        "displayName": "Tristam 12 Anos",
         "aegisName": "int_dish09",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2613,6 +2781,7 @@
     "12081": {
         "id": "12081",
         "name": "Bebida Amargosa",
+        "displayName": "Bebida Amargosa",
         "aegisName": "vit_dish06",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2621,6 +2790,7 @@
     "12082": {
         "id": "12082",
         "name": "Banquete Suntuoso",
+        "displayName": "Banquete Suntuoso",
         "aegisName": "vit_dish07",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2629,6 +2799,7 @@
     "12083": {
         "id": "12083",
         "name": "Burrito Gigante",
+        "displayName": "Burrito Gigante",
         "aegisName": "vit_dish08",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2637,6 +2808,7 @@
     "12084": {
         "id": "12084",
         "name": "Sopa de Dragão Ascendente",
+        "displayName": "Sopa de Dragão Ascendente",
         "aegisName": "vit_dish09",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2645,6 +2817,7 @@
     "12085": {
         "id": "12085",
         "name": "Cozido Imortal",
+        "displayName": "Cozido Imortal",
         "aegisName": "vit_dish10",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2653,6 +2826,7 @@
     "12086": {
         "id": "12086",
         "name": "Gratinado de Chilli e Camarão",
+        "displayName": "Gratinado de Chilli e Camarão",
         "aegisName": "agi_dish06",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2661,6 +2835,7 @@
     "12087": {
         "id": "12087",
         "name": "Crocodilo no Vapor com Vegetais",
+        "displayName": "Crocodilo no Vapor com Vegetais",
         "aegisName": "agi_dish07",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2669,6 +2844,7 @@
     "12088": {
         "id": "12088",
         "name": "Curry Incrivelmente Picante",
+        "displayName": "Curry Incrivelmente Picante",
         "aegisName": "agi_dish08",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2677,6 +2853,7 @@
     "12089": {
         "id": "12089",
         "name": "Cozido de Carne Especial",
+        "displayName": "Cozido de Carne Especial",
         "aegisName": "agi_dish09",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2685,6 +2862,7 @@
     "12090": {
         "id": "12090",
         "name": "Escorpiões do Deserto no Vapor",
+        "displayName": "Escorpiões do Deserto no Vapor",
         "aegisName": "agi_dish10",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2693,6 +2871,7 @@
     "12091": {
         "id": "12091",
         "name": "Bolo de Pêssego",
+        "displayName": "Bolo de Pêssego",
         "aegisName": "dex_dish06",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2701,6 +2880,7 @@
     "12092": {
         "id": "12092",
         "name": "Pão Doce Assombroso",
+        "displayName": "Pão Doce Assombroso",
         "aegisName": "dex_dish07",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2709,6 +2889,7 @@
     "12093": {
         "id": "12093",
         "name": "Torrada Especial",
+        "displayName": "Torrada Especial",
         "aegisName": "dex_dish08",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2717,6 +2898,7 @@
     "12094": {
         "id": "12094",
         "name": "Suco de Frutas Divino",
+        "displayName": "Suco de Frutas Divino",
         "aegisName": "dex_dish09",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2734,6 +2916,7 @@
     "12096": {
         "id": "12096",
         "name": "Sopa da Sorte",
+        "displayName": "Sopa da Sorte",
         "aegisName": "luk_dish06",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2742,6 +2925,7 @@
     "12097": {
         "id": "12097",
         "name": "Espetinho Sortido",
+        "displayName": "Espetinho Sortido",
         "aegisName": "luk_dish07",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2750,6 +2934,7 @@
     "12098": {
         "id": "12098",
         "name": "Bolinho de Arroz com Morango",
+        "displayName": "Bolinho de Arroz com Morango",
         "aegisName": "luk_dish08",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2758,6 +2943,7 @@
     "12099": {
         "id": "12099",
         "name": "Refrigerante Sangrento",
+        "displayName": "Refrigerante Sangrento",
         "aegisName": "luk_dish09",
         "type": "CONSUMABLE",
         "price": 0,
@@ -2775,6 +2961,7 @@
     "12103": {
         "id": "12103",
         "name": "Galho Sangrento",
+        "displayName": "Galho Sangrento",
         "aegisName": "bloody_dead_branch",
         "type": "CONSUMABLE",
         "price": 10000,
@@ -2783,6 +2970,7 @@
     "12104": {
         "id": "12104",
         "name": "Aljave Aleatório",
+        "displayName": "Aljave Aleatório",
         "aegisName": "random_quiver",
         "type": "CONSUMABLE",
         "price": 10000,
@@ -2791,6 +2979,7 @@
     "12105": {
         "id": "12105",
         "name": "Kit de Domesticação",
+        "displayName": "Kit de Domesticação",
         "aegisName": "set_of_taiming_item",
         "type": "CONSUMABLE",
         "price": 10000,
@@ -2799,6 +2988,7 @@
     "12106": {
         "id": "12106",
         "name": "Caixa de Jóias",
+        "displayName": "Caixa de Jóias",
         "aegisName": "accessory_box",
         "type": "CONSUMABLE",
         "price": 10000,
@@ -2807,6 +2997,7 @@
     "12107": {
         "id": "12107",
         "name": "Máscara Embrulhada",
+        "displayName": "Máscara Embrulhada",
         "aegisName": "wrapped_mask",
         "type": "CONSUMABLE",
         "price": 10000,
@@ -2815,6 +3006,7 @@
     "12108": {
         "id": "12108",
         "name": "Pacote de Pergaminho",
+        "displayName": "Pacote de Pergaminho",
         "aegisName": "bundle_of_magic_scroll",
         "type": "CONSUMABLE",
         "price": 10000,
@@ -2823,6 +3015,7 @@
     "12109": {
         "id": "12109",
         "name": "Caixa Poring",
+        "displayName": "Caixa Poring",
         "aegisName": "poring_box",
         "type": "CONSUMABLE",
         "price": 10000,
@@ -2831,6 +3024,7 @@
     "12110": {
         "id": "12110",
         "name": "Kit de Primeiros Socorros",
+        "displayName": "Kit de Primeiros Socorros",
         "aegisName": "first_aid_kit",
         "type": "CONSUMABLE",
         "price": 10000,
@@ -2839,6 +3033,7 @@
     "12111": {
         "id": "12111",
         "name": "Trouxa de Comida",
+        "displayName": "Trouxa de Comida",
         "aegisName": "food_package",
         "type": "CONSUMABLE",
         "price": 10000,
@@ -2847,6 +3042,7 @@
     "12112": {
         "id": "12112",
         "name": "Sograt Tropical",
+        "displayName": "Sograt Tropical",
         "aegisName": "tropical_sograt",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -2855,6 +3051,7 @@
     "12113": {
         "id": "12113",
         "name": "Escarlate Praiano",
+        "displayName": "Escarlate Praiano",
         "aegisName": "vermilion_the_beach",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -2863,6 +3060,7 @@
     "12114": {
         "id": "12114",
         "name": "Conversor Elemental Fogo",
+        "displayName": "Conversor Elemental Fogo",
         "aegisName": "elemental_fire",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2871,6 +3069,7 @@
     "12115": {
         "id": "12115",
         "name": "Conversor Elemental Água",
+        "displayName": "Conversor Elemental Água",
         "aegisName": "elemental_water",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2879,6 +3078,7 @@
     "12116": {
         "id": "12116",
         "name": "Conversor Elemental Terra",
+        "displayName": "Conversor Elemental Terra",
         "aegisName": "elemental_earth",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2887,6 +3087,7 @@
     "12117": {
         "id": "12117",
         "name": "Conversor Elemental Vento",
+        "displayName": "Conversor Elemental Vento",
         "aegisName": "elemental_wind",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2895,6 +3096,7 @@
     "12118": {
         "id": "12118",
         "name": "Poção Anti-Fogo",
+        "displayName": "Poção Anti-Fogo",
         "aegisName": "resist_fire",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2903,6 +3105,7 @@
     "12119": {
         "id": "12119",
         "name": "Poção Anti-Água",
+        "displayName": "Poção Anti-Água",
         "aegisName": "resist_water",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2911,6 +3114,7 @@
     "12120": {
         "id": "12120",
         "name": "Poção Anti-Terra",
+        "displayName": "Poção Anti-Terra",
         "aegisName": "resist_earth",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2919,6 +3123,7 @@
     "12121": {
         "id": "12121",
         "name": "Poção Anti-Vento",
+        "displayName": "Poção Anti-Vento",
         "aegisName": "resist_wind",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2927,6 +3132,7 @@
     "12122": {
         "id": "12122",
         "name": "Ovinhos Coloridos",
+        "displayName": "Ovinhos Coloridos",
         "aegisName": "sesame_pastry",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2935,6 +3141,7 @@
     "12123": {
         "id": "12123",
         "name": "Biscoito de Mel",
+        "displayName": "Biscoito de Mel",
         "aegisName": "honey_pastry",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2943,6 +3150,7 @@
     "12124": {
         "id": "12124",
         "name": "Bolo Arco-Íris",
+        "displayName": "Bolo Arco-Íris",
         "aegisName": "rainbow_cake",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2951,6 +3159,7 @@
     "12125": {
         "id": "12125",
         "name": "Kit de Culinária Portátil",
+        "displayName": "Kit de Culinária Portátil",
         "aegisName": "outdoor_cooking_kits",
         "type": "CONSUMABLE",
         "price": 500,
@@ -2959,6 +3168,7 @@
     "12126": {
         "id": "12126",
         "name": "Kit de Culinária Caseiro",
+        "displayName": "Kit de Culinária Caseiro",
         "aegisName": "indoor_cooking_kits",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -2967,6 +3177,7 @@
     "12127": {
         "id": "12127",
         "name": "Kit de Culinária Profissional",
+        "displayName": "Kit de Culinária Profissional",
         "aegisName": "high_end_cooking_kits",
         "type": "CONSUMABLE",
         "price": 2000,
@@ -2975,6 +3186,7 @@
     "12128": {
         "id": "12128",
         "name": "Kit de Culinária Real",
+        "displayName": "Kit de Culinária Real",
         "aegisName": "imperial_cooking_kits",
         "type": "CONSUMABLE",
         "price": 5000,
@@ -2983,6 +3195,7 @@
     "12129": {
         "id": "12129",
         "name": "Kit de Culinária Fantástico",
+        "displayName": "Kit de Culinária Fantástico",
         "aegisName": "fantastic_cooking_kits",
         "type": "CONSUMABLE",
         "price": 10000,
@@ -2991,6 +3204,7 @@
     "12130": {
         "id": "12130",
         "name": "Sacola de Biscoitos",
+        "displayName": "Sacola de Biscoitos",
         "aegisName": "cookie_bag",
         "type": "CONSUMABLE",
         "price": 2,
@@ -2999,6 +3213,7 @@
     "12131": {
         "id": "12131",
         "name": "Poção da Sorte",
+        "displayName": "Poção da Sorte",
         "aegisName": "lucky_potion",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3007,6 +3222,7 @@
     "12132": {
         "id": "12132",
         "name": "Bolsa de Papai Noel",
+        "displayName": "Bolsa de Papai Noel",
         "aegisName": "red_bag",
         "type": "CONSUMABLE",
         "price": 0,
@@ -3033,6 +3249,7 @@
     "12135": {
         "id": "12135",
         "name": "Energético da Sorte",
+        "displayName": "Energético da Sorte",
         "aegisName": "green_ale",
         "type": "CONSUMABLE",
         "price": 20,
@@ -3041,6 +3258,7 @@
     "12137": {
         "id": "12137",
         "name": "Primeiro Prêmio",
+        "displayName": "Primeiro Prêmio",
         "aegisName": "1st_stage_prize",
         "type": "CONSUMABLE",
         "price": 0
@@ -3048,6 +3266,7 @@
     "12138": {
         "id": "12138",
         "name": "Segundo Prêmio",
+        "displayName": "Segundo Prêmio",
         "aegisName": "2nd_stage_prize",
         "type": "CONSUMABLE",
         "price": 0
@@ -3055,6 +3274,7 @@
     "12139": {
         "id": "12139",
         "name": "Terceiro Prêmio",
+        "displayName": "Terceiro Prêmio",
         "aegisName": "3rd_stage_prize",
         "type": "CONSUMABLE",
         "price": 0
@@ -3062,6 +3282,7 @@
     "12140": {
         "id": "12140",
         "name": "Quarto Prêmio",
+        "displayName": "Quarto Prêmio",
         "aegisName": "4th_stage_prize",
         "type": "CONSUMABLE",
         "price": 0
@@ -3069,6 +3290,7 @@
     "12141": {
         "id": "12141",
         "name": "Quinto Prêmio",
+        "displayName": "Quinto Prêmio",
         "aegisName": "5th_stage_prize",
         "type": "CONSUMABLE",
         "price": 0
@@ -3076,6 +3298,7 @@
     "12144": {
         "id": "12144",
         "name": "Pacote de Esferas de Relâmpago",
+        "displayName": "Pacote de Esferas de Relâmpago",
         "aegisName": "sphere_case_wind",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3084,6 +3307,7 @@
     "12145": {
         "id": "12145",
         "name": "Pacote de Esferas Cegantes",
+        "displayName": "Pacote de Esferas Cegantes",
         "aegisName": "sphere_case_darkness",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3092,6 +3316,7 @@
     "12146": {
         "id": "12146",
         "name": "Pacote de Esferas Venenosas",
+        "displayName": "Pacote de Esferas Venenosas",
         "aegisName": "sphere_case_poison",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3100,6 +3325,7 @@
     "12147": {
         "id": "12147",
         "name": "Pacote de Esferas Congelantes",
+        "displayName": "Pacote de Esferas Congelantes",
         "aegisName": "sphere_case_water",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3108,6 +3334,7 @@
     "12148": {
         "id": "12148",
         "name": "Pacote de Esferas de Chamas",
+        "displayName": "Pacote de Esferas de Chamas",
         "aegisName": "sphere_case_fire",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3116,6 +3343,7 @@
     "12149": {
         "id": "12149",
         "name": "Carregador",
+        "displayName": "Carregador",
         "aegisName": "bullet_case",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3124,6 +3352,7 @@
     "12150": {
         "id": "12150",
         "name": "Carregador Sanguinário",
+        "displayName": "Carregador Sanguinário",
         "aegisName": "bullet_case_blood",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3132,6 +3361,7 @@
     "12151": {
         "id": "12151",
         "name": "Carregador de Prata",
+        "displayName": "Carregador de Prata",
         "aegisName": "bullet_case_silver",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3140,6 +3370,7 @@
     "12153": {
         "id": "12153",
         "name": "Pergaminho de Arqueiro 1",
+        "displayName": "Pergaminho de Arqueiro 1",
         "aegisName": "bow_mercenary_scroll1",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3148,6 +3379,7 @@
     "12154": {
         "id": "12154",
         "name": "Pergaminho de Arqueiro 2",
+        "displayName": "Pergaminho de Arqueiro 2",
         "aegisName": "bow_mercenary_scroll2",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3156,6 +3388,7 @@
     "12155": {
         "id": "12155",
         "name": "Pergaminho de Arqueiro 3",
+        "displayName": "Pergaminho de Arqueiro 3",
         "aegisName": "bow_mercenary_scroll3",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3164,6 +3397,7 @@
     "12156": {
         "id": "12156",
         "name": "Pergaminho de Arqueiro 4",
+        "displayName": "Pergaminho de Arqueiro 4",
         "aegisName": "bow_mercenary_scroll4",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3172,6 +3406,7 @@
     "12157": {
         "id": "12157",
         "name": "Pergaminho de Arqueiro 5",
+        "displayName": "Pergaminho de Arqueiro 5",
         "aegisName": "bow_mercenary_scroll5",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3180,6 +3415,7 @@
     "12158": {
         "id": "12158",
         "name": "Pergaminho de Arqueiro 6",
+        "displayName": "Pergaminho de Arqueiro 6",
         "aegisName": "bow_mercenary_scroll6",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3188,6 +3424,7 @@
     "12159": {
         "id": "12159",
         "name": "Pergaminho de Arqueiro 7",
+        "displayName": "Pergaminho de Arqueiro 7",
         "aegisName": "bow_mercenary_scroll7",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3196,6 +3433,7 @@
     "12160": {
         "id": "12160",
         "name": "Pergaminho de Arqueiro 8",
+        "displayName": "Pergaminho de Arqueiro 8",
         "aegisName": "bow_mercenary_scroll8",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3204,6 +3442,7 @@
     "12161": {
         "id": "12161",
         "name": "Pergaminho de Arqueiro 9",
+        "displayName": "Pergaminho de Arqueiro 9",
         "aegisName": "bow_mercenary_scroll9",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3212,6 +3451,7 @@
     "12162": {
         "id": "12162",
         "name": "Pergaminho de Arqueiro 10",
+        "displayName": "Pergaminho de Arqueiro 10",
         "aegisName": "bow_mercenary_scroll10",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3220,6 +3460,7 @@
     "12163": {
         "id": "12163",
         "name": "Pergaminho de Espadachim 1",
+        "displayName": "Pergaminho de Espadachim 1",
         "aegisName": "swordmercenary_scroll1",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3228,6 +3469,7 @@
     "12164": {
         "id": "12164",
         "name": "Pergaminho de Espadachim 2",
+        "displayName": "Pergaminho de Espadachim 2",
         "aegisName": "swordmercenary_scroll2",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3236,6 +3478,7 @@
     "12165": {
         "id": "12165",
         "name": "Pergaminho de Espadachim 3",
+        "displayName": "Pergaminho de Espadachim 3",
         "aegisName": "swordmercenary_scroll3",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3244,6 +3487,7 @@
     "12166": {
         "id": "12166",
         "name": "Pergaminho de Espadachim 4",
+        "displayName": "Pergaminho de Espadachim 4",
         "aegisName": "swordmercenary_scroll4",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3252,6 +3496,7 @@
     "12167": {
         "id": "12167",
         "name": "Pergaminho de Espadachim 5",
+        "displayName": "Pergaminho de Espadachim 5",
         "aegisName": "swordmercenary_scroll5",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3260,6 +3505,7 @@
     "12168": {
         "id": "12168",
         "name": "Pergaminho de Espadachim 6",
+        "displayName": "Pergaminho de Espadachim 6",
         "aegisName": "swordmercenary_scroll6",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3268,6 +3514,7 @@
     "12169": {
         "id": "12169",
         "name": "Pergaminho de Espadachim 7",
+        "displayName": "Pergaminho de Espadachim 7",
         "aegisName": "swordmercenary_scroll7",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3276,6 +3523,7 @@
     "12170": {
         "id": "12170",
         "name": "Pergaminho de Espadachim 8",
+        "displayName": "Pergaminho de Espadachim 8",
         "aegisName": "swordmercenary_scroll8",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3284,6 +3532,7 @@
     "12171": {
         "id": "12171",
         "name": "Pergaminho de Espadachim 9",
+        "displayName": "Pergaminho de Espadachim 9",
         "aegisName": "swordmercenary_scroll9",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3292,6 +3541,7 @@
     "12172": {
         "id": "12172",
         "name": "Pergaminho de Espadachim 10",
+        "displayName": "Pergaminho de Espadachim 10",
         "aegisName": "swordmercenary_scroll10",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3300,6 +3550,7 @@
     "12173": {
         "id": "12173",
         "name": "Pergaminho de Lanceiro 1",
+        "displayName": "Pergaminho de Lanceiro 1",
         "aegisName": "spearmercenary_scroll1",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3308,6 +3559,7 @@
     "12174": {
         "id": "12174",
         "name": "Pergaminho de Lanceiro 2",
+        "displayName": "Pergaminho de Lanceiro 2",
         "aegisName": "spearmercenary_scroll2",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3316,6 +3568,7 @@
     "12175": {
         "id": "12175",
         "name": "Pergaminho de Lanceiro 3",
+        "displayName": "Pergaminho de Lanceiro 3",
         "aegisName": "spearmercenary_scroll3",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3324,6 +3577,7 @@
     "12176": {
         "id": "12176",
         "name": "Pergaminho de Lanceiro 4",
+        "displayName": "Pergaminho de Lanceiro 4",
         "aegisName": "spearmercenary_scroll4",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3332,6 +3586,7 @@
     "12177": {
         "id": "12177",
         "name": "Pergaminho de Lanceiro 5",
+        "displayName": "Pergaminho de Lanceiro 5",
         "aegisName": "spearmercenary_scroll5",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3340,6 +3595,7 @@
     "12178": {
         "id": "12178",
         "name": "Pergaminho de Lanceiro 6",
+        "displayName": "Pergaminho de Lanceiro 6",
         "aegisName": "spearmercenary_scroll6",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3348,6 +3604,7 @@
     "12179": {
         "id": "12179",
         "name": "Pergaminho de Lanceiro 7",
+        "displayName": "Pergaminho de Lanceiro 7",
         "aegisName": "spearmercenary_scroll7",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3356,6 +3613,7 @@
     "12180": {
         "id": "12180",
         "name": "Pergaminho de Lanceiro 8",
+        "displayName": "Pergaminho de Lanceiro 8",
         "aegisName": "spearmercenary_scroll8",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3364,6 +3622,7 @@
     "12181": {
         "id": "12181",
         "name": "Pergaminho de Lanceiro 9",
+        "displayName": "Pergaminho de Lanceiro 9",
         "aegisName": "spearmercenary_scroll9",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3372,6 +3631,7 @@
     "12182": {
         "id": "12182",
         "name": "Pergaminho de Lanceiro 10",
+        "displayName": "Pergaminho de Lanceiro 10",
         "aegisName": "spearmercenary_scroll10",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3380,6 +3640,7 @@
     "12183": {
         "id": "12183",
         "name": "Aljave de Flechas Sagradas",
+        "displayName": "Aljave de Flechas Sagradas",
         "aegisName": "holy_arrow_quiver",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3415,6 +3676,7 @@
     "12190": {
         "id": "12190",
         "name": "Bolo Lunar",
+        "displayName": "Bolo Lunar",
         "aegisName": "moon_cake",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3423,6 +3685,7 @@
     "12191": {
         "id": "12191",
         "name": "Bolo Especial Lunar",
+        "displayName": "Bolo Especial Lunar",
         "aegisName": "special_moon_cake",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3440,10 +3703,20 @@
     "12194": {
         "id": "12194",
         "name": "Marmita da Mamãe",
+        "displayName": "Marmita da Mamãe",
         "aegisName": "hometown_gift",
         "type": "CONSUMABLE",
         "price": 20,
         "weight": 20
+    },
+    "12198": {
+        "id": 12198,
+        "name": "Pamonha",
+        "displayName": "Pamonha",
+        "aegisName": "lucky_rice_cake",
+        "type": "CONSUMABLE",
+        "price": 20,
+        "weight": 10
     },
     "12200": {
         "id": "12200",
@@ -3511,6 +3784,7 @@
     "12208": {
         "id": "12208",
         "name": "Manual de Combate",
+        "displayName": "Manual de Combate",
         "aegisName": "battle_manual",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3519,6 +3793,7 @@
     "12209": {
         "id": "12209",
         "name": "Seguro de Vida",
+        "displayName": "Seguro de Vida",
         "aegisName": "insurance",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3527,6 +3802,7 @@
     "12210": {
         "id": "12210",
         "name": "Goma de Mascar",
+        "displayName": "Goma de Mascar",
         "aegisName": "bubble_gum",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3535,6 +3811,7 @@
     "12211": {
         "id": "12211",
         "name": "Cartão Kafra",
+        "displayName": "Cartão Kafra",
         "aegisName": "kafra_card",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3543,6 +3820,7 @@
     "12212": {
         "id": "12212",
         "name": "Asa de Mosca Gigante",
+        "displayName": "Asa de Mosca Gigante",
         "aegisName": "giant_fly_wing",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3551,6 +3829,7 @@
     "12213": {
         "id": "12213",
         "name": "Neuralizador",
+        "displayName": "Neuralizador",
         "aegisName": "neuralizer",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3559,6 +3838,7 @@
     "12214": {
         "id": "12214",
         "name": "Espelho Convexo",
+        "displayName": "Espelho Convexo",
         "aegisName": "convex_mirror",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3567,6 +3847,7 @@
     "12215": {
         "id": "12215",
         "name": "Pergaminho da Bênção",
+        "displayName": "Pergaminho da Bênção",
         "aegisName": "blessing_10_scroll",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3575,6 +3856,7 @@
     "12216": {
         "id": "12216",
         "name": "Pergaminho para Aumentar Agilidade",
+        "displayName": "Pergaminho para Aumentar Agilidade",
         "aegisName": "inc_agi_10_scroll",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3583,6 +3865,7 @@
     "12217": {
         "id": "12217",
         "name": "Aspersio",
+        "displayName": "Aspersio",
         "aegisName": "aspersio_5_scroll",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3591,6 +3874,7 @@
     "12218": {
         "id": "12218",
         "name": "Pergaminho de Assumptio",
+        "displayName": "Pergaminho de Assumptio",
         "aegisName": "assumptio_5_scroll",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3599,6 +3883,7 @@
     "12219": {
         "id": "12219",
         "name": "Pergaminho do Vento",
+        "displayName": "Pergaminho do Vento",
         "aegisName": "wind_walk_10_scroll",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3607,6 +3892,7 @@
     "12220": {
         "id": "12220",
         "name": "Pergaminho de Adrenalina",
+        "displayName": "Pergaminho de Adrenalina",
         "aegisName": "adrenaline_scroll",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3615,6 +3901,7 @@
     "12221": {
         "id": "12221",
         "name": "Megafone",
+        "displayName": "Megafone",
         "aegisName": "megaphone_",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3623,6 +3910,7 @@
     "12225": {
         "id": "12225",
         "name": "Bengala Ultra-Doce",
+        "displayName": "Bengala Ultra-Doce",
         "aegisName": "sweet_candy_striper",
         "type": "CONSUMABLE",
         "price": 20,
@@ -3640,6 +3928,7 @@
     "12234": {
         "id": "12234",
         "name": "Cacau Extra Forte 99",
+        "displayName": "Cacau Extra Forte 99",
         "aegisName": "cacao99",
         "type": "CONSUMABLE",
         "price": 20,
@@ -3666,6 +3955,7 @@
     "12237": {
         "id": "12237",
         "name": "Quase um Chocolate",
+        "displayName": "Quase um Chocolate",
         "aegisName": "choco_lump",
         "type": "CONSUMABLE",
         "price": 0,
@@ -3674,6 +3964,7 @@
     "12238": {
         "id": "12238",
         "name": "Bolo de Ano Novo",
+        "displayName": "Bolo de Ano Novo",
         "aegisName": "new_year_rice_cake_1",
         "type": "CONSUMABLE",
         "price": 20,
@@ -3682,6 +3973,7 @@
     "12239": {
         "id": "12239",
         "name": "Doce de Ano Novo",
+        "displayName": "Doce de Ano Novo",
         "aegisName": "new_year_rice_cake_2",
         "type": "CONSUMABLE",
         "price": 20,
@@ -3690,6 +3982,7 @@
     "12241": {
         "id": "12241",
         "name": "Poção da Concentração para Assistentes",
+        "displayName": "Poção da Concentração para Assistentes",
         "aegisName": "m_center_potion",
         "type": "CONSUMABLE",
         "price": 800,
@@ -3698,6 +3991,7 @@
     "12242": {
         "id": "12242",
         "name": "Poção de Despertar para Assistentes",
+        "displayName": "Poção de Despertar para Assistentes",
         "aegisName": "m_awakening_potion",
         "type": "CONSUMABLE",
         "price": 1500,
@@ -3706,6 +4000,7 @@
     "12243": {
         "id": "12243",
         "name": "Poção da Fúria Selvagem para Assistentes",
+        "displayName": "Poção da Fúria Selvagem para Assistentes",
         "aegisName": "m_berserk_potion",
         "type": "CONSUMABLE",
         "price": 3000,
@@ -3714,6 +4009,7 @@
     "12244": {
         "id": "12244",
         "name": "Velha Caixa de Presentes",
+        "displayName": "Velha Caixa de Presentes",
         "aegisName": "old_gift_box",
         "type": "CONSUMABLE",
         "price": 20,
@@ -3722,6 +4018,7 @@
     "12245": {
         "id": "12245",
         "name": "Líquido Verde",
+        "displayName": "Líquido Verde",
         "aegisName": "green_ale_us",
         "type": "CONSUMABLE",
         "price": 5000,
@@ -3730,6 +4027,7 @@
     "12246": {
         "id": "12246",
         "name": "Álbum Mágico de Cartas",
+        "displayName": "Álbum Mágico de Cartas",
         "aegisName": "magic_card_album",
         "type": "CONSUMABLE",
         "price": 10000,
@@ -3738,6 +4036,7 @@
     "12247": {
         "id": "12247",
         "name": "Salada de Frutas Tropicais",
+        "displayName": "Salada de Frutas Tropicais",
         "aegisName": "halohalo",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3814,6 +4113,7 @@
     "12258": {
         "id": "12258",
         "name": "Capsula de Bombardeio",
+        "displayName": "Capsula de Bombardeio",
         "aegisName": "bombring_box",
         "type": "CONSUMABLE",
         "price": 0,
@@ -3822,6 +4122,7 @@
     "12259": {
         "id": "12259",
         "name": "Medicina Milagrosa",
+        "displayName": "Medicina Milagrosa",
         "aegisName": "miracle_medicine",
         "type": "CONSUMABLE",
         "price": 0,
@@ -3830,6 +4131,7 @@
     "12260": {
         "id": "12260",
         "name": "Roupas de Praia",
+        "displayName": "Roupas de Praia",
         "aegisName": "cool_summer_outfit",
         "type": "CONSUMABLE",
         "price": 0,
@@ -3838,6 +4140,7 @@
     "12261": {
         "id": "12261",
         "name": "Medicina Secreta",
+        "displayName": "Medicina Secreta",
         "aegisName": "secret_medicine",
         "type": "CONSUMABLE",
         "price": 0,
@@ -3846,6 +4149,7 @@
     "12263": {
         "id": "12263",
         "name": "Manual de Campo",
+        "displayName": "Manual de Campo",
         "aegisName": "comp_battle_manual",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3854,6 +4158,7 @@
     "12264": {
         "id": "12264",
         "name": "Chiclete",
+        "displayName": "Chiclete",
         "aegisName": "comp_bubble_gum",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3862,6 +4167,7 @@
     "12265": {
         "id": "12265",
         "name": "Ticket Seguro",
+        "displayName": "Ticket Seguro",
         "aegisName": "comp_insurance",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3870,6 +4176,7 @@
     "12266": {
         "id": "12266",
         "name": "Doces Freegells",
+        "displayName": "Doces Freegells",
         "aegisName": "sesame_pastry_",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3878,6 +4185,7 @@
     "12269": {
         "id": "12269",
         "name": "Ração Rosa Gostosa",
+        "displayName": "Ração Rosa Gostosa",
         "aegisName": "tasty_colonel",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3886,6 +4194,7 @@
     "12270": {
         "id": "12270",
         "name": "Ração Branca Gostosa",
+        "displayName": "Ração Branca Gostosa",
         "aegisName": "tasty_major",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3894,6 +4203,7 @@
     "12271": {
         "id": "12271",
         "name": "Ração Militar A",
+        "displayName": "Ração Militar A",
         "aegisName": "mre_a",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3902,6 +4212,7 @@
     "12272": {
         "id": "12272",
         "name": "Ração Militar B",
+        "displayName": "Ração Militar B",
         "aegisName": "mre_b",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3910,6 +4221,7 @@
     "12273": {
         "id": "12273",
         "name": "Ração Militar C",
+        "displayName": "Ração Militar C",
         "aegisName": "mre_c",
         "type": "CONSUMABLE",
         "price": 2,
@@ -3936,6 +4248,7 @@
     "12276": {
         "id": "12276",
         "name": "Assistente Mímico",
+        "displayName": "Assistente Mímico",
         "aegisName": "mimic_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -3944,6 +4257,7 @@
     "12277": {
         "id": "12277",
         "name": "Assistente Mascarado",
+        "displayName": "Assistente Mascarado",
         "aegisName": "disguise_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -3952,6 +4266,7 @@
     "12278": {
         "id": "12278",
         "name": "Assistente Alice",
+        "displayName": "Assistente Alice",
         "aegisName": "alice_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -3969,6 +4284,7 @@
     "12292": {
         "id": "12292",
         "name": "Fruto de Yggdrasil Amargo",
+        "displayName": "Fruto de Yggdrasil Amargo",
         "aegisName": "unripe_fruit",
         "type": "CONSUMABLE",
         "price": 500,
@@ -3986,6 +4302,7 @@
     "12298": {
         "id": "12298",
         "name": "Suco de Gato",
+        "displayName": "Suco de Gato",
         "aegisName": "sp_potion",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4003,6 +4320,7 @@
     "12300": {
         "id": "12300",
         "name": "Pergaminho de Rosa Selvagem",
+        "displayName": "Pergaminho de Rosa Selvagem",
         "aegisName": "wild_rose_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4011,6 +4329,7 @@
     "12301": {
         "id": "12301",
         "name": "Pergaminho de Doppelganger",
+        "displayName": "Pergaminho de Doppelganger",
         "aegisName": "doppelganger_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4019,6 +4338,7 @@
     "12302": {
         "id": "12302",
         "name": "Pergaminho de Egnigem Cenia",
+        "displayName": "Pergaminho de Egnigem Cenia",
         "aegisName": "ygnizem_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4027,6 +4347,7 @@
     "12310": {
         "id": "12310",
         "name": "Ramo de Cerejeira",
+        "displayName": "Ramo de Cerejeira",
         "aegisName": "spray_of_flowers",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4035,6 +4356,7 @@
     "12311": {
         "id": "12311",
         "name": "Enorme Galho de Cerejeira",
+        "displayName": "Enorme Galho de Cerejeira",
         "aegisName": "large_spray_of_flowers",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4043,6 +4365,7 @@
     "12312": {
         "id": "12312",
         "name": "Manual de Combate 60",
+        "displayName": "Manual de Combate 60",
         "aegisName": "thick_manual50",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4051,6 +4374,7 @@
     "12317": {
         "id": "12317",
         "name": "Punhado de Neve",
+        "displayName": "Punhado de Neve",
         "aegisName": "powder_snow",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4059,6 +4383,7 @@
     "12319": {
         "id": "12319",
         "name": "Bolo de Morango de Rune-Midgard",
+        "displayName": "Bolo de Morango de Rune-Midgard",
         "aegisName": "strawberry_cake",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4067,6 +4392,7 @@
     "12320": {
         "id": "12320",
         "name": "Jubileu de Abacaxi de Schwartzwald",
+        "displayName": "Jubileu de Abacaxi de Schwartzwald",
         "aegisName": "pineapple_juice",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4075,6 +4401,7 @@
     "12321": {
         "id": "12321",
         "name": "Sanduíche do Deserto de Arunafeltz",
+        "displayName": "Sanduíche do Deserto de Arunafeltz",
         "aegisName": "spicy_sandwich",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4092,6 +4419,7 @@
     "12323": {
         "id": "12323",
         "name": "Asa de Mosca de Iniciante",
+        "displayName": "Asa de Mosca de Iniciante",
         "aegisName": "n_fly_wing",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4100,6 +4428,7 @@
     "12324": {
         "id": "12324",
         "name": "Asa de Borboleta de Iniciante",
+        "displayName": "Asa de Borboleta de Iniciante",
         "aegisName": "n_butterfly_wing",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4108,6 +4437,7 @@
     "12325": {
         "id": "12325",
         "name": "Lupa de Iniciante",
+        "displayName": "Lupa de Iniciante",
         "aegisName": "n_magnifier",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4116,6 +4446,7 @@
     "12326": {
         "id": "12326",
         "name": "Fogos de Artifício Juninos",
+        "displayName": "Fogos de Artifício Juninos",
         "aegisName": "j_firecracker",
         "type": "CONSUMABLE",
         "price": 2,
@@ -4124,6 +4455,7 @@
     "12328": {
         "id": "12328",
         "name": "Amuleto Milagroso",
+        "displayName": "Amuleto Milagroso",
         "aegisName": "charm_of_happiness",
         "type": "CONSUMABLE",
         "price": 1800,
@@ -4141,6 +4473,7 @@
     "12341": {
         "id": "12341",
         "name": "Caixa de Armadilhas Especiais",
+        "displayName": "Caixa de Armadilhas Especiais",
         "aegisName": "special_alloy_trap_box",
         "type": "CONSUMABLE",
         "price": 30000,
@@ -4149,6 +4482,7 @@
     "12342": {
         "id": "12342",
         "name": "Oportunidade de Manuk",
+        "displayName": "Oportunidade de Manuk",
         "aegisName": "manuks_opportunity",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4157,6 +4491,7 @@
     "12343": {
         "id": "12343",
         "name": "Coragem de Manuk",
+        "displayName": "Coragem de Manuk",
         "aegisName": "manuks_courage",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4165,6 +4500,7 @@
     "12344": {
         "id": "12344",
         "name": "Geleia de Fruta de Pinguicula",
+        "displayName": "Geleia de Fruta de Pinguicula",
         "aegisName": "pinguiculas_fruit_jam",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4173,6 +4509,7 @@
     "12345": {
         "id": "12345",
         "name": "Geleia de Mel de Vagalume",
+        "displayName": "Geleia de Mel de Vagalume",
         "aegisName": "luciolas_honey_jam",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4181,6 +4518,7 @@
     "12346": {
         "id": "12346",
         "name": "Avelã Verde",
+        "displayName": "Avelã Verde",
         "aegisName": "unripe_acorn",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4189,6 +4527,7 @@
     "12347": {
         "id": "12347",
         "name": "Geleia de Avelã",
+        "displayName": "Geleia de Avelã",
         "aegisName": "acorn_jelly",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4197,6 +4536,7 @@
     "12348": {
         "id": "12348",
         "name": "Fé de Manuk",
+        "displayName": "Fé de Manuk",
         "aegisName": "manuks_faith",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4205,6 +4545,7 @@
     "12349": {
         "id": "12349",
         "name": "Lágrimas de Cornus",
+        "displayName": "Lágrimas de Cornus",
         "aegisName": "cornus_tears",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4213,6 +4554,7 @@
     "12350": {
         "id": "12350",
         "name": "Poção de Angeling",
+        "displayName": "Poção de Angeling",
         "aegisName": "angeling_potion",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4221,6 +4563,7 @@
     "12353": {
         "id": "12353",
         "name": "Garrafa Pequena",
+        "displayName": "Garrafa Pequena",
         "aegisName": "tiny_waterbottle",
         "type": "CONSUMABLE",
         "price": 600,
@@ -4229,6 +4572,7 @@
     "12354": {
         "id": "12354",
         "name": "Sobremesa de Noel",
+        "displayName": "Sobremesa de Noel",
         "aegisName": "buche_de_noel",
         "type": "CONSUMABLE",
         "price": 2,
@@ -4237,6 +4581,7 @@
     "12355": {
         "id": "12355",
         "name": "Presente de Natal",
+        "displayName": "Presente de Natal",
         "aegisName": "xmas_gift",
         "type": "CONSUMABLE",
         "price": 2,
@@ -4245,6 +4590,7 @@
     "12356": {
         "id": "12356",
         "name": "Caixa de Fantasia da Louise",
+        "displayName": "Caixa de Fantasia da Louise",
         "aegisName": "louise_costume_box",
         "type": "CONSUMABLE",
         "price": 2,
@@ -4253,6 +4599,7 @@
     "12358": {
         "id": "12358",
         "name": "Leque dos Ventos",
+        "displayName": "Leque dos Ventos",
         "aegisName": "fan_of_wind",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4261,6 +4608,7 @@
     "12359": {
         "id": "12359",
         "name": "Folha Macia",
+        "displayName": "Folha Macia",
         "aegisName": "very_soft_plant",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4269,6 +4617,7 @@
     "12360": {
         "id": "12360",
         "name": "Suco Vermelho-Sangue",
+        "displayName": "Suco Vermelho-Sangue",
         "aegisName": "very_red_juice",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4286,6 +4635,7 @@
     "12362": {
         "id": "12362",
         "name": "Kuloren",
+        "displayName": "Kuloren",
         "aegisName": "kuloren",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4294,6 +4644,7 @@
     "12363": {
         "id": "12363",
         "name": "Caixão Tenebroso",
+        "displayName": "Caixão Tenebroso",
         "aegisName": "fit_pipe",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4302,6 +4653,7 @@
     "12364": {
         "id": "12364",
         "name": "Cajado do Líder",
+        "displayName": "Cajado do Líder",
         "aegisName": "staff_of_leader",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4310,6 +4662,7 @@
     "12365": {
         "id": "12365",
         "name": "Flor de Lótus",
+        "displayName": "Flor de Lótus",
         "aegisName": "charming_lotus",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4318,6 +4671,7 @@
     "12366": {
         "id": "12366",
         "name": "Bonequinha Oriental",
+        "displayName": "Bonequinha Oriental",
         "aegisName": "gril_doll",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4326,6 +4680,7 @@
     "12367": {
         "id": "12367",
         "name": "Garrafa de Bebida",
+        "displayName": "Garrafa de Bebida",
         "aegisName": "luxury_whisky_bottle",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4334,6 +4689,7 @@
     "12368": {
         "id": "12368",
         "name": "Espelho de Mão",
+        "displayName": "Espelho de Mão",
         "aegisName": "splendid_mirror",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4342,6 +4698,7 @@
     "12369": {
         "id": "12369",
         "name": "Óleo de Coco",
+        "displayName": "Óleo de Coco",
         "aegisName": "oilpalm_coconut",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4350,6 +4707,7 @@
     "12370": {
         "id": "12370",
         "name": "Carta de Amor",
+        "displayName": "Carta de Amor",
         "aegisName": "grils_naivety",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4358,6 +4716,7 @@
     "12371": {
         "id": "12371",
         "name": "Tábula Mágica",
+        "displayName": "Tábula Mágica",
         "aegisName": "magical_lithography",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4366,6 +4725,7 @@
     "12372": {
         "id": "12372",
         "name": "Contrato Infernal",
+        "displayName": "Contrato Infernal",
         "aegisName": "hell_contract",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4374,6 +4734,7 @@
     "12373": {
         "id": "12373",
         "name": "Coração Puro",
+        "displayName": "Coração Puro",
         "aegisName": "boys_naivety",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4382,6 +4743,7 @@
     "12374": {
         "id": "12374",
         "name": "Chama Azulada",
+        "displayName": "Chama Azulada",
         "aegisName": "flaming_ice",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4390,6 +4752,7 @@
     "12375": {
         "id": "12375",
         "name": "Acarajé",
+        "displayName": "Acarajé",
         "aegisName": "acaraje",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4400,13 +4763,14 @@
         "name": "Biscoito da Papisa",
         "displayName": "Biscoito da Papisa",
         "aegisName": "popes_cookie",
-        "type": "CONSUMABLE",
         "price": 10,
-        "weight": 1
+        "weight": 1,
+        "type": "CONSUMABLE"
     },
     "12380": {
         "id": "12380",
         "name": "Flauta do Filhote de Lobo",
+        "displayName": "Flauta do Filhote de Lobo",
         "aegisName": "desert_wolf_babe_scroll",
         "type": "CONSUMABLE",
         "price": 10,
@@ -4433,6 +4797,7 @@
     "12383": {
         "id": "12383",
         "name": "Cartucho de Cápsulas Incandescentes",
+        "displayName": "Cartucho de Cápsulas Incandescentes",
         "aegisName": "vulcan_bullet_magazine",
         "type": "CONSUMABLE",
         "price": 13750,
@@ -4477,6 +4842,7 @@
     "12388": {
         "id": "12388",
         "name": "Runa Raido para Iniciantes",
+        "displayName": "Runa Raido para Iniciantes",
         "aegisName": "runstone_crush",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4485,6 +4851,7 @@
     "12389": {
         "id": "12389",
         "name": "Runa Wyrd para Iniciantes",
+        "displayName": "Runa Wyrd para Iniciantes",
         "aegisName": "runstone_storm",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4493,6 +4860,7 @@
     "12390": {
         "id": "12390",
         "name": "Runa Berkana para Iniciantes",
+        "displayName": "Runa Berkana para Iniciantes",
         "aegisName": "runstone_millennium",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4501,6 +4869,7 @@
     "12391": {
         "id": "12391",
         "name": "Ovo da Fauna",
+        "displayName": "Ovo da Fauna",
         "aegisName": "lucky_egg_c",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4551,6 +4920,7 @@
     "12395": {
         "id": "12395",
         "name": "Guloseima Recheada",
+        "displayName": "Guloseima Recheada",
         "aegisName": "tantanmen",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4577,6 +4947,7 @@
     "12399": {
         "id": "12399",
         "name": "Baú do Tesouro TE",
+        "displayName": "Baú do Tesouro TE",
         "aegisName": "castle_treasure_box",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4603,6 +4974,7 @@
     "12406": {
         "id": "12406",
         "name": "Pergaminho de Fantasma",
+        "displayName": "Pergaminho de Fantasma",
         "aegisName": "psychic_armors",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4611,6 +4983,7 @@
     "12408": {
         "id": "12408",
         "name": "Esfera de Captura",
+        "displayName": "Esfera de Captura",
         "aegisName": "leaf_cat_ball",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4619,6 +4992,7 @@
     "12409": {
         "id": "12409",
         "name": "Carne de Porco 1a Classe",
+        "displayName": "Carne de Porco 1a Classe",
         "aegisName": "pork_belly_h",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4627,6 +5001,7 @@
     "12410": {
         "id": "12410",
         "name": "Carne de Porco Gordurosa",
+        "displayName": "Carne de Porco Gordurosa",
         "aegisName": "spareribs_h",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4635,6 +5010,7 @@
     "12411": {
         "id": "12411",
         "name": "Enciclopédia de Combate",
+        "displayName": "Enciclopédia de Combate",
         "aegisName": "he_battle_manual",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4643,6 +5019,7 @@
     "12412": {
         "id": "12412",
         "name": "Chicle de Bola",
+        "displayName": "Chicle de Bola",
         "aegisName": "he_bubble_gum",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4651,6 +5028,7 @@
     "12413": {
         "id": "12413",
         "name": "Caixa de Cupom PC Bang",
+        "displayName": "Caixa de Cupom PC Bang",
         "aegisName": "pcbang_coupon_box2",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4659,6 +5037,7 @@
     "12414": {
         "id": "12414",
         "name": "Bala de Guaraná",
+        "displayName": "Bala de Guaraná",
         "aegisName": "guarana_candy",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4669,18 +5048,18 @@
         "name": "Poção do Furor Físico",
         "displayName": "Poção do Furor Físico",
         "aegisName": "full_swingk",
-        "type": "CONSUMABLE",
         "price": 100,
-        "weight": 5
+        "weight": 5,
+        "type": "CONSUMABLE"
     },
     "12419": {
         "id": 12419,
         "name": "Poção do Furor Mágico",
         "displayName": "Poção do Furor Mágico",
         "aegisName": "mana_plus",
-        "type": "CONSUMABLE",
         "price": 100,
-        "weight": 5
+        "weight": 5,
+        "type": "CONSUMABLE"
     },
     "12422": {
         "id": 12422,
@@ -4775,6 +5154,7 @@
     "12432": {
         "id": "12432",
         "name": "Chá Gelado de Siroma",
+        "displayName": "Chá Gelado de Siroma",
         "aegisName": "siroma_icetea",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -4837,6 +5217,7 @@
     "12490": {
         "id": "12490",
         "name": "Letra de Música Natalina",
+        "displayName": "Letra de Música Natalina",
         "aegisName": "vivid_notation",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4845,6 +5226,7 @@
     "12529": {
         "id": "12529",
         "name": "Cx Poção Compacta Branca",
+        "displayName": "Cx Poção Compacta Branca",
         "aegisName": "white_slim_potion_box",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4853,6 +5235,7 @@
     "12530": {
         "id": "12530",
         "name": "Caixa de Mastelas[200]",
+        "displayName": "Caixa de Mastelas[200]",
         "aegisName": "mastela_fruit_box",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4861,6 +5244,7 @@
     "12531": {
         "id": "12531",
         "name": "Caixa de Poções Brancas",
+        "displayName": "Caixa de Poções Brancas",
         "aegisName": "white_potion_box",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4869,6 +5253,7 @@
     "12532": {
         "id": "12532",
         "name": "Cx Geléia Real[100]",
+        "displayName": "Cx Geléia Real[100]",
         "aegisName": "royal_jelly_box2",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4877,6 +5262,7 @@
     "12533": {
         "id": "12533",
         "name": "Caixa de Ervas Azuis",
+        "displayName": "Caixa de Ervas Azuis",
         "aegisName": "blue_herb_box2",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4885,6 +5271,7 @@
     "12534": {
         "id": "12534",
         "name": "Cx Sementes Yggdrasil",
+        "displayName": "Cx Sementes Yggdrasil",
         "aegisName": "yggdrasil_seed_box",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4893,6 +5280,7 @@
     "12535": {
         "id": "12535",
         "name": "Caixa de Fruto de Yggdrasil",
+        "displayName": "Caixa de Fruto de Yggdrasil",
         "aegisName": "iggdrasilberry_box",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4901,6 +5289,7 @@
     "12536": {
         "id": "12536",
         "name": "Sopa de Arroz e Polvo",
+        "displayName": "Sopa de Arroz e Polvo",
         "aegisName": "ny_rice_cake_soup",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4909,6 +5298,7 @@
     "12537": {
         "id": "12537",
         "name": "Cesta de Presentes",
+        "displayName": "Cesta de Presentes",
         "aegisName": "solo_gift_basket",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -4917,6 +5307,7 @@
     "12538": {
         "id": "12538",
         "name": "Cesta de Fogos de Artifício",
+        "displayName": "Cesta de Fogos de Artifício",
         "aegisName": "couple_event_basket",
         "type": "CONSUMABLE",
         "price": 2000,
@@ -4925,6 +5316,7 @@
     "12539": {
         "id": "12539",
         "name": "Caixa Convidativa",
+        "displayName": "Caixa Convidativa",
         "aegisName": "splendid_box",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4933,6 +5325,7 @@
     "12545": {
         "id": "12545",
         "name": "Ovo da Primavera",
+        "displayName": "Ovo da Primavera",
         "aegisName": "lucky_egg_c5",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4941,6 +5334,7 @@
     "12546": {
         "id": "12546",
         "name": "Gororoba",
+        "displayName": "Gororoba",
         "aegisName": "suspicious_dish",
         "type": "CONSUMABLE",
         "price": 100,
@@ -4951,13 +5345,14 @@
         "name": "Licença Falsa de Loja",
         "displayName": "Licença Falsa de Loja",
         "aegisName": "buy_market_permit2",
-        "type": "CONSUMABLE",
         "price": 20,
-        "weight": 1
+        "weight": 1,
+        "type": "CONSUMABLE"
     },
     "12549": {
         "id": "12549",
         "name": "Caixa de Poção Branca Compacta [100]",
+        "displayName": "Caixa de Poção Branca Compacta [100]",
         "aegisName": "white_slim_pot_box2",
         "type": "CONSUMABLE",
         "price": 0,
@@ -4975,6 +5370,7 @@
     "12561": {
         "id": "12561",
         "name": "Semente Misteriosa",
+        "displayName": "Semente Misteriosa",
         "aegisName": "mysterious_seed",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4983,6 +5379,7 @@
     "12563": {
         "id": "12563",
         "name": "Compêndio de Batalha",
+        "displayName": "Compêndio de Batalha",
         "aegisName": "bm75",
         "type": "CONSUMABLE",
         "price": 2,
@@ -4991,6 +5388,7 @@
     "12573": {
         "id": "12573",
         "name": "Cesta de Frutas",
+        "displayName": "Cesta de Frutas",
         "aegisName": "fruit_basket",
         "type": "CONSUMABLE",
         "price": 20,
@@ -4999,6 +5397,7 @@
     "12574": {
         "id": "12574",
         "name": "Fruto de Mora",
+        "displayName": "Fruto de Mora",
         "aegisName": "mora_berry",
         "type": "CONSUMABLE",
         "price": 0,
@@ -5012,6 +5411,7 @@
     "12575": {
         "id": "12575",
         "name": "Aljava de Flechas Élficas",
+        "displayName": "Aljava de Flechas Élficas",
         "aegisName": "arrow_of_elf_cntr",
         "type": "CONSUMABLE",
         "price": 500,
@@ -5025,6 +5425,7 @@
     "12576": {
         "id": "12576",
         "name": "Aljava de Flechas de Caça",
+        "displayName": "Aljava de Flechas de Caça",
         "aegisName": "hunting_arrow_cntr",
         "type": "CONSUMABLE",
         "price": 500,
@@ -5033,6 +5434,7 @@
     "12580": {
         "id": "12580",
         "name": "Catálogo de Vendas Prata",
+        "displayName": "Catálogo de Vendas Prata",
         "aegisName": "vending_search_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -5041,6 +5443,7 @@
     "12581": {
         "id": "12581",
         "name": "Catálogo de Vendas Ouro",
+        "displayName": "Catálogo de Vendas Ouro",
         "aegisName": "vending_search_scroll2",
         "type": "CONSUMABLE",
         "price": 0,
@@ -5049,6 +5452,7 @@
     "12582": {
         "id": "12582",
         "name": "Cx Suprimentos do Cerco",
+        "displayName": "Cx Suprimentos do Cerco",
         "aegisName": "siege_supply_box",
         "type": "CONSUMABLE",
         "price": 0,
@@ -5057,6 +5461,7 @@
     "12591": {
         "id": "12591",
         "name": "Catálogo de Vendas Bronze",
+        "displayName": "Catálogo de Vendas Bronze",
         "aegisName": "uni_catalog_bz",
         "type": "CONSUMABLE",
         "price": 0,
@@ -5065,6 +5470,7 @@
     "12596": {
         "id": "12596",
         "name": "Doce Mágico",
+        "displayName": "Doce Mágico",
         "aegisName": "magic_candy",
         "type": "CONSUMABLE",
         "price": 0,
@@ -5073,6 +5479,7 @@
     "12608": {
         "id": "12608",
         "name": "Caixa Atrativa",
+        "displayName": "Caixa Atrativa",
         "aegisName": "splendid_box2",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5081,6 +5488,7 @@
     "12609": {
         "id": "12609",
         "name": "Caixa de Pedra Antiga",
+        "displayName": "Caixa de Pedra Antiga",
         "aegisName": "old_ore_box",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5089,6 +5497,7 @@
     "12612": {
         "id": "12612",
         "name": "Bolsa Gasta de Moedas",
+        "displayName": "Bolsa Gasta de Moedas",
         "aegisName": "old_coin_pocket",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5097,6 +5506,7 @@
     "12613": {
         "id": "12613",
         "name": "Bolsa de Moedas Sofisticada",
+        "displayName": "Bolsa de Moedas Sofisticada",
         "aegisName": "high_coin_pocket",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5105,6 +5515,7 @@
     "12614": {
         "id": "12614",
         "name": "Bolsa de Moedas",
+        "displayName": "Bolsa de Moedas",
         "aegisName": "mid_coin_pocket",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5113,6 +5524,7 @@
     "12615": {
         "id": "12615",
         "name": "Bolsa Inferior de Moedas",
+        "displayName": "Bolsa Inferior de Moedas",
         "aegisName": "low_coin_pocket",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5121,6 +5533,7 @@
     "12616": {
         "id": "12616",
         "name": "Bolsa Suprema de Moedas",
+        "displayName": "Bolsa Suprema de Moedas",
         "aegisName": "sgrade_pocket",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5129,6 +5542,7 @@
     "12617": {
         "id": "12617",
         "name": "Bolsa Tipo A",
+        "displayName": "Bolsa Tipo A",
         "aegisName": "agrade_pocket",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5137,6 +5551,7 @@
     "12618": {
         "id": "12618",
         "name": "Bolsa Tipo B",
+        "displayName": "Bolsa Tipo B",
         "aegisName": "bgrade_pocket",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5145,6 +5560,7 @@
     "12619": {
         "id": "12619",
         "name": "Bolsa Tipo C",
+        "displayName": "Bolsa Tipo C",
         "aegisName": "cgrade_pocket",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5153,6 +5569,7 @@
     "12620": {
         "id": "12620",
         "name": "Bolsa Tipo D",
+        "displayName": "Bolsa Tipo D",
         "aegisName": "dgrade_pocket",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5161,6 +5578,7 @@
     "12621": {
         "id": "12621",
         "name": "Bolsa Tipo E",
+        "displayName": "Bolsa Tipo E",
         "aegisName": "egrade_pocket",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5169,6 +5587,7 @@
     "12622": {
         "id": "12622",
         "name": "Rédea",
+        "displayName": "Rédea",
         "aegisName": "boarding_halter",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5177,6 +5596,7 @@
     "12623": {
         "id": "12623",
         "name": "Caixa das Melhores Armas",
+        "displayName": "Caixa das Melhores Armas",
         "aegisName": "high_weapon_box",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5194,6 +5614,7 @@
     "12633": {
         "id": "12633",
         "name": "Lata de Comida para Gatos",
+        "displayName": "Lata de Comida para Gatos",
         "aegisName": "malang_cat_can",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5202,6 +5623,7 @@
     "12636": {
         "id": "12636",
         "name": "Peixes Enlatados de Malangdo",
+        "displayName": "Peixes Enlatados de Malangdo",
         "aegisName": "malang_sp_can",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5210,6 +5632,7 @@
     "12637": {
         "id": "12637",
         "name": "Tatu Bola[200]",
+        "displayName": "Tatu Bola[200]",
         "aegisName": "gong_bug_pocket",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5218,6 +5641,7 @@
     "12638": {
         "id": "12638",
         "name": "Lula Seca[200]",
+        "displayName": "Lula Seca[200]",
         "aegisName": "dried_squid_box",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5226,6 +5650,7 @@
     "12639": {
         "id": "12639",
         "name": "Peixe Voador[200]",
+        "displayName": "Peixe Voador[200]",
         "aegisName": "flying_fish_box",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5234,6 +5659,7 @@
     "12640": {
         "id": "12640",
         "name": "Estrela-do-mar[200]",
+        "displayName": "Estrela-do-mar[200]",
         "aegisName": "starfish_box",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5242,6 +5668,7 @@
     "12641": {
         "id": "12641",
         "name": "Ovo Amaldiçoado",
+        "displayName": "Ovo Amaldiçoado",
         "aegisName": "lucky_egg_c8",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5250,6 +5677,7 @@
     "12642": {
         "id": "12642",
         "name": "Caixa de Mastelas[100]",
+        "displayName": "Caixa de Mastelas[100]",
         "aegisName": "fruit_of_mastela_box2",
         "type": "CONSUMABLE",
         "price": 0,
@@ -5258,6 +5686,7 @@
     "12643": {
         "id": "12643",
         "name": "Bolsa de Moedas E[50]",
+        "displayName": "Bolsa de Moedas E[50]",
         "aegisName": "e_coin_pack50",
         "type": "CONSUMABLE",
         "price": 0,
@@ -5266,6 +5695,7 @@
     "12646": {
         "id": "12646",
         "name": "Polvo Assado",
+        "displayName": "Polvo Assado",
         "aegisName": "takoyaki",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5274,6 +5704,7 @@
     "12647": {
         "id": "12647",
         "name": "Bola de Tinta de Polvo",
+        "displayName": "Bola de Tinta de Polvo",
         "aegisName": "ink_ball",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5282,6 +5713,7 @@
     "12658": {
         "id": "12658",
         "name": "Perg. Transformação: Deviruchi",
+        "displayName": "Perg. Transformação: Deviruchi",
         "aegisName": "trans_scroll_devi",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5290,6 +5722,7 @@
     "12659": {
         "id": "12659",
         "name": "Perg. Transformação: RaydricA.",
+        "displayName": "Perg. Transformação: RaydricA.",
         "aegisName": "trans_scroll_ray_arch",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5298,6 +5731,7 @@
     "12660": {
         "id": "12660",
         "name": "Perg. Transformação: Mavka",
+        "displayName": "Perg. Transformação: Mavka",
         "aegisName": "trans_scroll_mavka",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5306,6 +5740,7 @@
     "12661": {
         "id": "12661",
         "name": "Perg. Transformação: Marduk",
+        "displayName": "Perg. Transformação: Marduk",
         "aegisName": "trans_scroll_marduk",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5314,6 +5749,7 @@
     "12662": {
         "id": "12662",
         "name": "Perg. Transformação: Banshee",
+        "displayName": "Perg. Transformação: Banshee",
         "aegisName": "trans_scroll_banshee",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5322,6 +5758,7 @@
     "12663": {
         "id": "12663",
         "name": "Perg. Transformação: Poring",
+        "displayName": "Perg. Transformação: Poring",
         "aegisName": "trans_scroll_poring",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5330,6 +5767,7 @@
     "12664": {
         "id": "12664",
         "name": "Perg. Transformação: Golem",
+        "displayName": "Perg. Transformação: Golem",
         "aegisName": "trans_scroll_golem",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5338,6 +5776,7 @@
     "12673": {
         "id": "12673",
         "name": "Ovo da Páscoa",
+        "displayName": "Ovo da Páscoa",
         "aegisName": "lucky_egg_c10",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5346,6 +5785,7 @@
     "12674": {
         "id": "12674",
         "name": "Cx Materiais de Itens Divinos",
+        "displayName": "Cx Materiais de Itens Divinos",
         "aegisName": "god_material_box",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5354,6 +5794,7 @@
     "12675": {
         "id": "12675",
         "name": "Cx Suprimento de Armas de GdE",
+        "displayName": "Cx Suprimento de Armas de GdE",
         "aegisName": "sg_weapon_supply_box",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5371,6 +5812,7 @@
     "12677": {
         "id": "12677",
         "name": "Aljava de Flechas de GdE S",
+        "displayName": "Aljava de Flechas de GdE S",
         "aegisName": "siege_arrow_quiver_s",
         "type": "CONSUMABLE",
         "price": 2,
@@ -5384,6 +5826,7 @@
     "12678": {
         "id": "12678",
         "name": "Aljava de Flechas de GdE A",
+        "displayName": "Aljava de Flechas de GdE A",
         "aegisName": "siege_arrow_quiver_a",
         "type": "CONSUMABLE",
         "price": 2,
@@ -5397,6 +5840,7 @@
     "12679": {
         "id": "12679",
         "name": "Cx Poções Brancas de GdE[30]",
+        "displayName": "Cx Poções Brancas de GdE[30]",
         "aegisName": "sg_white_potion_box",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5405,6 +5849,7 @@
     "12680": {
         "id": "12680",
         "name": "Cx Poções Azuis de GdE[10]",
+        "displayName": "Cx Poções Azuis de GdE[10]",
         "aegisName": "sg_blue_potion_box",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5413,6 +5858,7 @@
     "12683": {
         "id": "12683",
         "name": "Cx Poções Violeta de GdE[200]",
+        "displayName": "Cx Poções Violeta de GdE[200]",
         "aegisName": "sg_vi_potion_box200",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5421,6 +5867,7 @@
     "12684": {
         "id": "12684",
         "name": "Poção de Ouro",
+        "displayName": "Poção de Ouro",
         "aegisName": "aspd_potion",
         "type": "CONSUMABLE",
         "price": 0,
@@ -5429,6 +5876,7 @@
     "12690": {
         "id": "12690",
         "name": "Álbum para Equipamento para Cabeça",
+        "displayName": "Álbum para Equipamento para Cabeça",
         "aegisName": "old_c_album_helm",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5437,6 +5885,7 @@
     "12691": {
         "id": "12691",
         "name": "Álbum para Vestimentas",
+        "displayName": "Álbum para Vestimentas",
         "aegisName": "old_c_album_armor",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5445,6 +5894,7 @@
     "12692": {
         "id": "12692",
         "name": "Álbum para Escudo",
+        "displayName": "Álbum para Escudo",
         "aegisName": "old_c_album_shield",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5453,6 +5903,7 @@
     "12693": {
         "id": "12693",
         "name": "Álbum para Capas",
+        "displayName": "Álbum para Capas",
         "aegisName": "old_c_album_garment",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5461,6 +5912,7 @@
     "12694": {
         "id": "12694",
         "name": "Álbum para Sapatos",
+        "displayName": "Álbum para Sapatos",
         "aegisName": "old_c_album_shoes",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5469,6 +5921,7 @@
     "12695": {
         "id": "12695",
         "name": "Álbum para Acessórios",
+        "displayName": "Álbum para Acessórios",
         "aegisName": "old_c_album_acc",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5477,6 +5930,7 @@
     "12696": {
         "id": "12696",
         "name": "Fogos artifício RWC2011 A",
+        "displayName": "Fogos artifício RWC2011 A",
         "aegisName": "rwc_cele_fire",
         "type": "CONSUMABLE",
         "price": 0,
@@ -5485,6 +5939,7 @@
     "12697": {
         "id": "12697",
         "name": "Fogos artifício RWC2011 B",
+        "displayName": "Fogos artifício RWC2011 B",
         "aegisName": "rwc_cele_fire2",
         "type": "CONSUMABLE",
         "price": 0,
@@ -5493,6 +5948,7 @@
     "12698": {
         "id": "12698",
         "name": "Álbum para Armas",
+        "displayName": "Álbum para Armas",
         "aegisName": "old_c_album_weapon",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5501,6 +5957,7 @@
     "12699": {
         "id": "12699",
         "name": "Cinturão de Tikbalang",
+        "displayName": "Cinturão de Tikbalang",
         "aegisName": "tikbalang_belt",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5509,6 +5966,7 @@
     "12700": {
         "id": "12700",
         "name": "Camiseta do Avesso",
+        "displayName": "Camiseta do Avesso",
         "aegisName": "insideout_shirt",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5517,6 +5975,7 @@
     "12702": {
         "id": "12702",
         "name": "Nova Velha Caixa Azul",
+        "displayName": "Nova Velha Caixa Azul",
         "aegisName": "old_bleu_box",
         "type": "CONSUMABLE",
         "price": 0,
@@ -5525,6 +5984,7 @@
     "12706": {
         "id": "12706",
         "name": "Biscoito da Sorte: Glória",
+        "displayName": "Biscoito da Sorte: Glória",
         "aegisName": "lucky_cookie01",
         "type": "CONSUMABLE",
         "price": 0,
@@ -5533,6 +5993,7 @@
     "12707": {
         "id": "12707",
         "name": "Biscoito da Sorte: Magnificat",
+        "displayName": "Biscoito da Sorte: Magnificat",
         "aegisName": "lucky_cookie02",
         "type": "CONSUMABLE",
         "price": 0,
@@ -5541,6 +6002,7 @@
     "12708": {
         "id": "12708",
         "name": "Biscoito da Sorte: Impositio Manus",
+        "displayName": "Biscoito da Sorte: Impositio Manus",
         "aegisName": "lucky_cookie03",
         "type": "CONSUMABLE",
         "price": 0,
@@ -5558,6 +6020,7 @@
     "12710": {
         "id": "12710",
         "name": "Poção de Guyak",
+        "displayName": "Poção de Guyak",
         "aegisName": "guyak_pudding",
         "type": "CONSUMABLE",
         "price": 0,
@@ -5566,6 +6029,7 @@
     "12717": {
         "id": "12717",
         "name": "Curare",
+        "displayName": "Curare",
         "aegisName": "poison_paralysis",
         "type": "CONSUMABLE",
         "price": 2,
@@ -5584,6 +6048,7 @@
     "12718": {
         "id": "12718",
         "name": "Vipera",
+        "displayName": "Vipera",
         "aegisName": "poison_leech",
         "type": "CONSUMABLE",
         "price": 2,
@@ -5602,6 +6067,7 @@
     "12719": {
         "id": "12719",
         "name": "Oblivium",
+        "displayName": "Oblivium",
         "aegisName": "poison_oblivion",
         "type": "CONSUMABLE",
         "price": 2,
@@ -5639,6 +6105,7 @@
     "12721": {
         "id": "12721",
         "name": "Cicuta",
+        "displayName": "Cicuta",
         "aegisName": "poison_numb",
         "type": "CONSUMABLE",
         "price": 2,
@@ -5657,6 +6124,7 @@
     "12722": {
         "id": "12722",
         "name": "Pirexia",
+        "displayName": "Pirexia",
         "aegisName": "poison_fever",
         "type": "CONSUMABLE",
         "price": 2,
@@ -5675,6 +6143,7 @@
     "12723": {
         "id": "12723",
         "name": "Waraitake",
+        "displayName": "Waraitake",
         "aegisName": "poison_laughing",
         "type": "CONSUMABLE",
         "price": 2,
@@ -5693,6 +6162,7 @@
     "12724": {
         "id": "12724",
         "name": "Beladona",
+        "displayName": "Beladona",
         "aegisName": "poison_fatigue",
         "type": "CONSUMABLE",
         "price": 2,
@@ -5730,6 +6200,7 @@
     "12726": {
         "id": "12726",
         "name": "Runa Raido",
+        "displayName": "Runa Raido",
         "aegisName": "runstone_rhydo",
         "type": "CONSUMABLE",
         "price": 2,
@@ -5748,6 +6219,7 @@
     "12727": {
         "id": "12727",
         "name": "Runa Berkana",
+        "displayName": "Runa Berkana",
         "aegisName": "runstone_verkana",
         "type": "CONSUMABLE",
         "price": 2,
@@ -5785,6 +6257,7 @@
     "12729": {
         "id": "12729",
         "name": "Runa Othila",
+        "displayName": "Runa Othila",
         "aegisName": "runstone_asir",
         "type": "CONSUMABLE",
         "price": 2,
@@ -5822,6 +6295,7 @@
     "12731": {
         "id": "12731",
         "name": "Runa Thurisaz",
+        "displayName": "Runa Thurisaz",
         "aegisName": "runstone_turisus",
         "type": "CONSUMABLE",
         "price": 2,
@@ -5840,6 +6314,7 @@
     "12732": {
         "id": "12732",
         "name": "Runa Wyrd",
+        "displayName": "Runa Wyrd",
         "aegisName": "runstone_pertz",
         "type": "CONSUMABLE",
         "price": 2,
@@ -5858,6 +6333,7 @@
     "12733": {
         "id": "12733",
         "name": "Runa Hagalaz",
+        "displayName": "Runa Hagalaz",
         "aegisName": "runstone_hagalas",
         "type": "CONSUMABLE",
         "price": 2,
@@ -5876,6 +6352,7 @@
     "12734": {
         "id": "12734",
         "name": "Runa Bruta Forte",
+        "displayName": "Runa Bruta Forte",
         "aegisName": "runstone_quality",
         "type": "CONSUMABLE",
         "price": 2,
@@ -5884,6 +6361,7 @@
     "12735": {
         "id": "12735",
         "name": "Runa Bruta Antiga",
+        "displayName": "Runa Bruta Antiga",
         "aegisName": "runstone_ancient",
         "type": "CONSUMABLE",
         "price": 2,
@@ -5892,6 +6370,7 @@
     "12736": {
         "id": "12736",
         "name": "Runa Bruta Mística",
+        "displayName": "Runa Bruta Mística",
         "aegisName": "runstone_mystic",
         "type": "CONSUMABLE",
         "price": 2,
@@ -5900,6 +6379,7 @@
     "12737": {
         "id": "12737",
         "name": "Runa Bruta Comum",
+        "displayName": "Runa Bruta Comum",
         "aegisName": "runstone_ordinary",
         "type": "CONSUMABLE",
         "price": 2,
@@ -5908,6 +6388,7 @@
     "12738": {
         "id": "12738",
         "name": "Runa Bruta Rara",
+        "displayName": "Runa Bruta Rara",
         "aegisName": "runstone_rare",
         "type": "CONSUMABLE",
         "price": 2,
@@ -5943,6 +6424,7 @@
     "12744": {
         "id": "12744",
         "name": "Cx Chocolates",
+        "displayName": "Cx Chocolates",
         "aegisName": "chocotate_box",
         "type": "CONSUMABLE",
         "price": 0,
@@ -5951,6 +6433,7 @@
     "12745": {
         "id": "12745",
         "name": "Anotação Vívida",
+        "displayName": "Anotação Vívida",
         "aegisName": "skull_scroll",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5959,6 +6442,7 @@
     "12746": {
         "id": "12746",
         "name": "Bola de Neve Misteriosa",
+        "displayName": "Bola de Neve Misteriosa",
         "aegisName": "destruction_scroll",
         "type": "CONSUMABLE",
         "price": 20,
@@ -5976,6 +6460,7 @@
     "12755": {
         "id": "12755",
         "name": "Fogos de Artifício Especiais",
+        "displayName": "Fogos de Artifício Especiais",
         "aegisName": "traditional_firecrack",
         "type": "CONSUMABLE",
         "price": 2,
@@ -5984,6 +6469,7 @@
     "12756": {
         "id": "12756",
         "name": "Envelope do Ano Novo Chinês",
+        "displayName": "Envelope do Ano Novo Chinês",
         "aegisName": "new_gift_envelope",
         "type": "CONSUMABLE",
         "price": 2,
@@ -5992,6 +6478,7 @@
     "12760": {
         "id": "12760",
         "name": "Buzzy Bol Hortelã",
+        "displayName": "Buzzy Bol Hortelã",
         "aegisName": "bubble_gum_green",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6000,6 +6487,7 @@
     "12761": {
         "id": "12761",
         "name": "Buzzy Bol Limão",
+        "displayName": "Buzzy Bol Limão",
         "aegisName": "bubble_gum_yellow",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6008,6 +6496,7 @@
     "12762": {
         "id": "12762",
         "name": "Buzzy Bol Laranja",
+        "displayName": "Buzzy Bol Laranja",
         "aegisName": "bubble_gum_orange",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6016,6 +6505,7 @@
     "12763": {
         "id": "12763",
         "name": "Buzzy Bol Morango",
+        "displayName": "Buzzy Bol Morango",
         "aegisName": "bubble_gum_red",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6024,46 +6514,16 @@
     "12766": {
         "id": "12766",
         "name": "Manual de Campo de Classe",
+        "displayName": "Manual de Campo de Classe",
         "aegisName": "reward_job_bm25",
         "type": "CONSUMABLE",
         "price": 0,
         "weight": 1
     },
-    "12767": {
-        "id": "12767",
-        "name": "Chapéu do Torneio: Paixão",
-        "aegisName": "passion_fb_hat",
-        "type": "CONSUMABLE",
-        "price": 0,
-        "weight": 0
-    },
-    "12768": {
-        "id": "12768",
-        "name": "Chapéu do Torneio: Coragem",
-        "aegisName": "cool_fb_hat",
-        "type": "CONSUMABLE",
-        "price": 0,
-        "weight": 0
-    },
-    "12769": {
-        "id": "12769",
-        "name": "Chapéu do Torneio: Vitória",
-        "aegisName": "victory_fb_hat",
-        "type": "CONSUMABLE",
-        "price": 0,
-        "weight": 0
-    },
-    "12770": {
-        "id": "12770",
-        "name": "Chapéu do Torneio: Honra",
-        "aegisName": "glory_fb_hat",
-        "type": "CONSUMABLE",
-        "price": 0,
-        "weight": 0
-    },
     "12771": {
         "id": "12771",
         "name": "Chapéu do Torneio: Paixão Total",
+        "displayName": "Chapéu do Torneio: Paixão Total",
         "aegisName": "passion_hat_box2",
         "type": "CONSUMABLE",
         "price": 0,
@@ -6072,6 +6532,7 @@
     "12772": {
         "id": "12772",
         "name": "Chapéu do Torneio: Coragem Definitiva",
+        "displayName": "Chapéu do Torneio: Coragem Definitiva",
         "aegisName": "cool_hat_box2",
         "type": "CONSUMABLE",
         "price": 0,
@@ -6080,6 +6541,7 @@
     "12773": {
         "id": "12773",
         "name": "Chapéu do Torneio: Vitória Triunfal",
+        "displayName": "Chapéu do Torneio: Vitória Triunfal",
         "aegisName": "victory_hat_box2",
         "type": "CONSUMABLE",
         "price": 0,
@@ -6088,6 +6550,7 @@
     "12775": {
         "id": "12775",
         "name": "Amuleto Superior do Espírito Ancião",
+        "displayName": "Amuleto Superior do Espírito Ancião",
         "aegisName": "ancient_spirit_agimat",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6096,6 +6559,7 @@
     "12778": {
         "id": "12778",
         "name": "Assistente Bafomé Jr",
+        "displayName": "Assistente Bafomé Jr",
         "aegisName": "bapho_jr_scroll",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6104,6 +6568,7 @@
     "12779": {
         "id": "12779",
         "name": "Assistente Galápago",
+        "displayName": "Assistente Galápago",
         "aegisName": "galapago_scroll",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6112,6 +6577,7 @@
     "12786": {
         "id": "12786",
         "name": "Cupom de Troca de Slot",
+        "displayName": "Cupom de Troca de Slot",
         "aegisName": "change_slot_card",
         "type": "CONSUMABLE",
         "price": 0,
@@ -6120,6 +6586,7 @@
     "12787": {
         "id": "12787",
         "name": "Pergaminho do Diabolik",
+        "displayName": "Pergaminho do Diabolik",
         "aegisName": "diabolic_scroll",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6128,6 +6595,7 @@
     "12790": {
         "id": "12790",
         "name": "Cartão de Troca de Nome",
+        "displayName": "Cartão de Troca de Nome",
         "aegisName": "change_name_card",
         "type": "CONSUMABLE",
         "price": 0,
@@ -6136,6 +6604,7 @@
     "12791": {
         "id": "12791",
         "name": "Pílula de Combate",
+        "displayName": "Pílula de Combate",
         "aegisName": "combat_pill",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6144,6 +6613,7 @@
     "12792": {
         "id": "12792",
         "name": "Grande Pílula de Combate",
+        "displayName": "Grande Pílula de Combate",
         "aegisName": "p_combat_pill",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6152,6 +6622,7 @@
     "12793": {
         "id": "12793",
         "name": "Pílula de Combate[10]",
+        "displayName": "Pílula de Combate[10]",
         "aegisName": "combat_pill_box10",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6160,6 +6631,7 @@
     "12794": {
         "id": "12794",
         "name": "Grande Pílula de Combate[10]",
+        "displayName": "Grande Pílula de Combate[10]",
         "aegisName": "p_combat_pill_box10",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6168,6 +6640,7 @@
     "12796": {
         "id": "12796",
         "name": "Elixir Rubro",
+        "displayName": "Elixir Rubro",
         "aegisName": "red_booster",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6176,6 +6649,7 @@
     "12797": {
         "id": "12797",
         "name": "Assistente Dama dos Desejos",
+        "displayName": "Assistente Dama dos Desejos",
         "aegisName": "wish_maiden_scroll",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6184,6 +6658,7 @@
     "12798": {
         "id": "12798",
         "name": "Assistente Jirtas",
+        "displayName": "Assistente Jirtas",
         "aegisName": "zealotus_scroll",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6192,6 +6667,7 @@
     "12800": {
         "id": "12800",
         "name": "Pergaminho do Ktullanux",
+        "displayName": "Pergaminho do Ktullanux",
         "aegisName": "ktullanux_scroll",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6200,6 +6676,7 @@
     "12801": {
         "id": "12801",
         "name": "Pergaminho do Eddga",
+        "displayName": "Pergaminho do Eddga",
         "aegisName": "eddga_scroll",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6208,6 +6685,7 @@
     "12812": {
         "id": "12812",
         "name": "Gardênia",
+        "displayName": "Gardênia",
         "aegisName": "snow_flip",
         "type": "CONSUMABLE",
         "price": 0,
@@ -6216,6 +6694,7 @@
     "12813": {
         "id": "12813",
         "name": "Peônia",
+        "displayName": "Peônia",
         "aegisName": "peony_mommy",
         "type": "CONSUMABLE",
         "price": 0,
@@ -6224,6 +6703,7 @@
     "12814": {
         "id": "12814",
         "name": "Erva-Mate",
+        "displayName": "Erva-Mate",
         "aegisName": "slapping_herb",
         "type": "CONSUMABLE",
         "price": 0,
@@ -6232,6 +6712,7 @@
     "12815": {
         "id": "12815",
         "name": "Pó de Yggdrasil",
+        "displayName": "Pó de Yggdrasil",
         "aegisName": "yggdrasil_dust",
         "type": "CONSUMABLE",
         "price": 0,
@@ -6249,6 +6730,7 @@
     "12826": {
         "id": "12826",
         "name": "Ovo do Tornado",
+        "displayName": "Ovo do Tornado",
         "aegisName": "wind_type_scroll",
         "type": "CONSUMABLE",
         "price": 20
@@ -6256,6 +6738,7 @@
     "12827": {
         "id": "12827",
         "name": "Ovo do Oceano",
+        "displayName": "Ovo do Oceano",
         "aegisName": "water_type_scroll",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6264,6 +6747,7 @@
     "12828": {
         "id": "12828",
         "name": "Ovo de Fogo",
+        "displayName": "Ovo de Fogo",
         "aegisName": "fire_type_scroll",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6272,6 +6756,7 @@
     "12829": {
         "id": "12829",
         "name": "Ovo da Cordilheira",
+        "displayName": "Ovo da Cordilheira",
         "aegisName": "earth_type_scroll",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6289,6 +6774,7 @@
     "12834": {
         "id": "12834",
         "name": "Ovo dos Mortos-Vivos",
+        "displayName": "Ovo dos Mortos-Vivos",
         "aegisName": "undead_egg",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6297,19 +6783,37 @@
     "12835": {
         "id": "12835",
         "name": "Coração Jovial",
+        "displayName": "Coração Jovial",
         "aegisName": "girls_heart",
         "type": "CONSUMABLE",
         "price": 20,
         "weight": 1
     },
+    "12845": {
+        "id": 12845,
+        "name": "Asa de Borboleta de Amatsu",
+        "displayName": "Asa de Borboleta de Amatsu",
+        "aegisName": "wob_amatsu",
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 0
+    },
     "12846": {
-        "id": "12846",
-        "name": "Não Funcional",
-        "displayName": "Não Funcional",
+        "id": 12846,
+        "name": "Maçã Dura",
+        "displayName": "Maçã Dura",
         "aegisName": "unripe_apple2",
         "type": "CONSUMABLE",
         "price": 10,
         "weight": 5
+    },
+    "12847": {
+        "id": 12847,
+        "name": "Caixa Velha de Equipamento",
+        "displayName": "Caixa Velha de Equipamento",
+        "aegisName": "old_equipment_box",
+        "type": "CONSUMABLE",
+        "weight": 1
     },
     "12849": {
         "id": "12849",
@@ -6323,6 +6827,7 @@
     "12850": {
         "id": "12850",
         "name": "Ovo Celeste",
+        "displayName": "Ovo Celeste",
         "aegisName": "heaven_scroll",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6331,6 +6836,7 @@
     "12851": {
         "id": "12851",
         "name": "Ovo Vocacional",
+        "displayName": "Ovo Vocacional",
         "aegisName": "vocation_scroll",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6348,6 +6854,7 @@
     "12853": {
         "id": "12853",
         "name": "Ovo Estelar",
+        "displayName": "Ovo Estelar",
         "aegisName": "patron_scroll",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6356,6 +6863,7 @@
     "12873": {
         "id": "12873",
         "name": "Caixa de Poções TE",
+        "displayName": "Caixa de Poções TE",
         "aegisName": "te_potion_box",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6364,6 +6872,7 @@
     "12874": {
         "id": "12874",
         "name": "Sangue de Gigante Congelado",
+        "displayName": "Sangue de Gigante Congelado",
         "aegisName": "frost_giant_blood",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6372,6 +6881,7 @@
     "12875": {
         "id": "12875",
         "name": "Núcleo Golem",
+        "displayName": "Núcleo Golem",
         "aegisName": "golem_stone",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6380,6 +6890,7 @@
     "12876": {
         "id": "12876",
         "name": "Lágrima de Fada (Atordoamento)",
+        "displayName": "Lágrima de Fada (Atordoamento)",
         "aegisName": "elf_tear_stun",
         "type": "CONSUMABLE",
         "price": 0,
@@ -6388,6 +6899,7 @@
     "12877": {
         "id": "12877",
         "name": "Lágrima de Fada (Petrificação)",
+        "displayName": "Lágrima de Fada (Petrificação)",
         "aegisName": "elf_tear_stone_curse",
         "type": "CONSUMABLE",
         "price": 0,
@@ -6396,6 +6908,7 @@
     "12878": {
         "id": "12878",
         "name": "Lágrima de Fada (Congelamento)",
+        "displayName": "Lágrima de Fada (Congelamento)",
         "aegisName": "elf_tear_freezing",
         "type": "CONSUMABLE",
         "price": 0,
@@ -6404,6 +6917,7 @@
     "12879": {
         "id": "12879",
         "name": "Lágrima de Fada (Sono)",
+        "displayName": "Lágrima de Fada (Sono)",
         "aegisName": "elf_tear_sleep",
         "type": "CONSUMABLE",
         "price": 0,
@@ -6412,6 +6926,7 @@
     "12880": {
         "id": "12880",
         "name": "Lágrima de Fada (Maldição)",
+        "displayName": "Lágrima de Fada (Maldição)",
         "aegisName": "elf_tear_curse",
         "type": "CONSUMABLE",
         "price": 0,
@@ -6420,6 +6935,7 @@
     "12881": {
         "id": "12881",
         "name": "Lágrima de Fada (Silêncio)",
+        "displayName": "Lágrima de Fada (Silêncio)",
         "aegisName": "elf_tear_silence",
         "type": "CONSUMABLE",
         "price": 0,
@@ -6428,6 +6944,7 @@
     "12882": {
         "id": "12882",
         "name": "Lágrima de Fada (Cegueira)",
+        "displayName": "Lágrima de Fada (Cegueira)",
         "aegisName": "elf_tear_blind",
         "type": "CONSUMABLE",
         "price": 0,
@@ -6436,6 +6953,7 @@
     "12883": {
         "id": "12883",
         "name": "Bolinho Divino",
+        "displayName": "Bolinho Divino",
         "aegisName": "almighty",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6444,6 +6962,7 @@
     "12887": {
         "id": "12887",
         "name": "Asa de Mosca Ilimitada",
+        "displayName": "Asa de Mosca Ilimitada",
         "aegisName": "c_wing_of_fly",
         "type": "CONSUMABLE",
         "price": 0,
@@ -6452,6 +6971,7 @@
     "12888": {
         "id": "12888",
         "name": "Caixa de Suprimentos TE",
+        "displayName": "Caixa de Suprimentos TE",
         "aegisName": "siege_kit_box",
         "type": "CONSUMABLE",
         "price": 20,
@@ -6676,6 +7196,7 @@
     "12928": {
         "id": "12928",
         "name": "Pergaminho de Aspersio",
+        "displayName": "Pergaminho de Aspersio",
         "aegisName": "j_aspersio_5_scroll",
         "type": "CONSUMABLE",
         "price": 2,
@@ -6963,6 +7484,7 @@
     "12968": {
         "id": "12968",
         "name": "Pergaminho de Chamado Urgente",
+        "displayName": "Pergaminho de Chamado Urgente",
         "aegisName": "emergency_scroll1",
         "type": "CONSUMABLE",
         "price": 2,
@@ -7025,6 +7547,7 @@
     "12977": {
         "id": "12977",
         "name": "Pergam. Teleporte 1",
+        "displayName": "Pergam. Teleporte 1",
         "aegisName": "teleport_scroll1",
         "type": "CONSUMABLE",
         "price": 2,
@@ -7033,6 +7556,7 @@
     "12978": {
         "id": "12978",
         "name": "Pergam. Teleporte 2",
+        "displayName": "Pergam. Teleporte 2",
         "aegisName": "teleport_scroll2",
         "type": "CONSUMABLE",
         "price": 2,
@@ -7041,6 +7565,7 @@
     "12979": {
         "id": "12979",
         "name": "Pergam. Teleporte 3",
+        "displayName": "Pergam. Teleporte 3",
         "aegisName": "teleport_scroll3",
         "type": "CONSUMABLE",
         "price": 2,
@@ -7049,6 +7574,7 @@
     "12980": {
         "id": "12980",
         "name": "Pergam. Teleporte 4",
+        "displayName": "Pergam. Teleporte 4",
         "aegisName": "teleport_scroll4",
         "type": "CONSUMABLE",
         "price": 2,
@@ -7057,6 +7583,7 @@
     "12981": {
         "id": "12981",
         "name": "Pergam. Teleporte 5",
+        "displayName": "Pergam. Teleporte 5",
         "aegisName": "teleport_scroll5",
         "type": "CONSUMABLE",
         "price": 2,
@@ -7065,6 +7592,7 @@
     "12982": {
         "id": "12982",
         "name": "Pergam. Teleporte 6",
+        "displayName": "Pergam. Teleporte 6",
         "aegisName": "teleport_scroll6",
         "type": "CONSUMABLE",
         "price": 2,
@@ -7246,9 +7774,9 @@
         "name": "Cx Cogumelo Grelhado[10]",
         "displayName": "Cx Cogumelo Grelhado[10]",
         "aegisName": "big_bun_box",
-        "type": "CONSUMABLE",
         "price": 20,
-        "weight": 1
+        "weight": 1,
+        "type": "CONSUMABLE"
     },
     "13549": {
         "id": "13549",
@@ -8964,7 +9492,7 @@
         "id": 14505,
         "name": "Ticket de Acesso (1h)",
         "displayName": "Ticket de Acesso (1h)",
-        "aegisName": null,
+        "aegisName": "dungeon_1_hour_ticket",
         "price": 20,
         "type": "CONSUMABLE"
     },
@@ -8972,13 +9500,14 @@
         "id": 14506,
         "name": "Ticket de Acesso",
         "displayName": "Ticket de Acesso",
-        "aegisName": null,
+        "aegisName": "dungeon_ticket",
         "price": 20,
         "type": "CONSUMABLE"
     },
     "14508": {
         "id": "14508",
         "name": "Ovo da Fortuna",
+        "displayName": "Ovo da Fortuna",
         "aegisName": "zeny_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -8987,6 +9516,7 @@
     "14509": {
         "id": "14509",
         "name": "Poção de Concentração Leve",
+        "displayName": "Poção de Concentração Leve",
         "aegisName": "light_center_pot",
         "type": "CONSUMABLE",
         "price": 800,
@@ -8995,6 +9525,7 @@
     "14511": {
         "id": "14511",
         "name": "Poção da Fúria Selvagem Leve",
+        "displayName": "Poção da Fúria Selvagem Leve",
         "aegisName": "light_berserk_pot",
         "type": "CONSUMABLE",
         "price": 3000,
@@ -9020,6 +9551,7 @@
     "14512": {
         "id": "14512",
         "name": "Pergam. Chuva de Meteoros",
+        "displayName": "Pergam. Chuva de Meteoros",
         "aegisName": "meteor_10_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9028,6 +9560,7 @@
     "14513": {
         "id": "14513",
         "name": "Pergam. Nevasca",
+        "displayName": "Pergam. Nevasca",
         "aegisName": "storm_10_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9036,6 +9569,7 @@
     "14514": {
         "id": "14514",
         "name": "Pergam. Ira de Thor",
+        "displayName": "Pergam. Ira de Thor",
         "aegisName": "vermilion_10_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9044,6 +9578,7 @@
     "14515": {
         "id": "14515",
         "name": "Pergaminho de Lex Aeterna",
+        "displayName": "Pergaminho de Lex Aeterna",
         "aegisName": "lex_aeterna_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9052,6 +9587,7 @@
     "14517": {
         "id": "14517",
         "name": "Pergaminho de Revestir Capacete",
+        "displayName": "Pergaminho de Revestir Capacete",
         "aegisName": "cp_helm_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9060,6 +9596,7 @@
     "14518": {
         "id": "14518",
         "name": "Pergaminho de Revestir Escudo",
+        "displayName": "Pergaminho de Revestir Escudo",
         "aegisName": "cp_shield_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9068,6 +9605,7 @@
     "14519": {
         "id": "14519",
         "name": "Pergaminho de Revestir Armadura",
+        "displayName": "Pergaminho de Revestir Armadura",
         "aegisName": "cp_armor_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9076,6 +9614,7 @@
     "14520": {
         "id": "14520",
         "name": "Pergaminho de Revestir Arma",
+        "displayName": "Pergaminho de Revestir Arma",
         "aegisName": "cp_weapon_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9084,6 +9623,7 @@
     "14521": {
         "id": "14521",
         "name": "Pergaminho de Reparar Arma",
+        "displayName": "Pergaminho de Reparar Arma",
         "aegisName": "repair_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9119,6 +9659,7 @@
     "14526": {
         "id": "14526",
         "name": "Bolo de Coco",
+        "displayName": "Bolo de Coco",
         "aegisName": "oriental_pastry",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9127,6 +9668,7 @@
     "14527": {
         "id": "14527",
         "name": "Pergaminho de Teleporte para Calabouço",
+        "displayName": "Pergaminho de Teleporte para Calabouço",
         "aegisName": "dun_tele_scroll1",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9135,6 +9677,7 @@
     "14528": {
         "id": "14528",
         "name": "Teleporte para PvP",
+        "displayName": "Teleporte para PvP",
         "aegisName": "pvp_tele_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9143,6 +9686,7 @@
     "14529": {
         "id": "14529",
         "name": "Pergaminho de Ganância",
+        "displayName": "Pergaminho de Ganância",
         "aegisName": "greed_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9151,6 +9695,7 @@
     "14530": {
         "id": "14530",
         "name": "Pergaminho de Esquiva 30",
+        "displayName": "Pergaminho de Esquiva 30",
         "aegisName": "flee_30_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9159,6 +9704,7 @@
     "14531": {
         "id": "14531",
         "name": "Perg. de Precisão Apurada",
+        "displayName": "Perg. de Precisão Apurada",
         "aegisName": "accuracy_30_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9167,6 +9713,7 @@
     "14532": {
         "id": "14532",
         "name": "Basic Field Manual",
+        "displayName": "Basic Field Manual",
         "aegisName": "battle_manual25",
         "type": "CONSUMABLE",
         "price": 2,
@@ -9175,6 +9722,7 @@
     "14533": {
         "id": "14533",
         "name": "Grimório de Combate",
+        "displayName": "Grimório de Combate",
         "aegisName": "battle_manual100",
         "type": "CONSUMABLE",
         "price": 2,
@@ -9201,6 +9749,7 @@
     "14536": {
         "id": "14536",
         "name": "Abrasivo",
+        "displayName": "Abrasivo",
         "aegisName": "abrasive",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9218,6 +9767,7 @@
     "14538": {
         "id": "14538",
         "name": "Cálice da Ilusão",
+        "displayName": "Cálice da Ilusão",
         "aegisName": "glass_of_illusion",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9226,6 +9776,7 @@
     "14539": {
         "id": "14539",
         "name": "Pergaminho de Armadura Sombria",
+        "displayName": "Pergaminho de Armadura Sombria",
         "aegisName": "shadow_armor_s",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9234,6 +9785,7 @@
     "14540": {
         "id": "14540",
         "name": "Pergaminho de Armadura Sagrada",
+        "displayName": "Pergaminho de Armadura Sagrada",
         "aegisName": "holy_armor_s",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9242,6 +9794,7 @@
     "14541": {
         "id": "14541",
         "name": "Poção Menor de Defesa",
+        "displayName": "Poção Menor de Defesa",
         "aegisName": "s_def_potion",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9250,6 +9803,7 @@
     "14542": {
         "id": "14542",
         "name": "Poção Maior de Defesa",
+        "displayName": "Poção Maior de Defesa",
         "aegisName": "b_def_potion",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9258,6 +9812,7 @@
     "14543": {
         "id": "14543",
         "name": "Poção Menor de Defesa Mágica",
+        "displayName": "Poção Menor de Defesa Mágica",
         "aegisName": "s_mdef_potion",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9266,6 +9821,7 @@
     "14544": {
         "id": "14544",
         "name": "Poção Maior de Defesa Mágica",
+        "displayName": "Poção Maior de Defesa Mágica",
         "aegisName": "b_mdef_potion",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9274,6 +9830,7 @@
     "14545": {
         "id": "14545",
         "name": "Diário de Aventuras",
+        "displayName": "Diário de Aventuras",
         "aegisName": "battle_manual_x3",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9282,6 +9839,7 @@
     "14546": {
         "id": "14546",
         "name": "Fogos de Artifício: Dia dos Namorados 1",
+        "displayName": "Fogos de Artifício: Dia dos Namorados 1",
         "aegisName": "fire_cracker_love",
         "type": "CONSUMABLE",
         "price": 2,
@@ -9290,6 +9848,7 @@
     "14547": {
         "id": "14547",
         "name": "Fogos de Artifício: Dia dos Namorados 2",
+        "displayName": "Fogos de Artifício: Dia dos Namorados 2",
         "aegisName": "fire_cracker_wday",
         "type": "CONSUMABLE",
         "price": 2,
@@ -9298,6 +9857,7 @@
     "14548": {
         "id": "14548",
         "name": "Fogos de Artifício: Dia dos Namorados 3",
+        "displayName": "Fogos de Artifício: Dia dos Namorados 3",
         "aegisName": "fire_cracker_vday",
         "type": "CONSUMABLE",
         "price": 2,
@@ -9306,6 +9866,7 @@
     "14549": {
         "id": "14549",
         "name": "Fogos de Artifício: Aniversário",
+        "displayName": "Fogos de Artifício: Aniversário",
         "aegisName": "fire_cracker_bday",
         "type": "CONSUMABLE",
         "price": 2,
@@ -9314,6 +9875,7 @@
     "14550": {
         "id": "14550",
         "name": "Fogos de Artifício: Natal",
+        "displayName": "Fogos de Artifício: Natal",
         "aegisName": "fire_cracker_xmas",
         "type": "CONSUMABLE",
         "price": 2,
@@ -9322,6 +9884,7 @@
     "14569": {
         "id": "14569",
         "name": "Anel de Goblin (Adaga)",
+        "displayName": "Anel de Goblin (Adaga)",
         "aegisName": "knife_goblin_ring",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9330,6 +9893,7 @@
     "14570": {
         "id": "14570",
         "name": "Anel de Goblin (Mangual)",
+        "displayName": "Anel de Goblin (Mangual)",
         "aegisName": "flail_goblin_ring",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9338,6 +9902,7 @@
     "14571": {
         "id": "14571",
         "name": "Anel de Goblin (Martelo)",
+        "displayName": "Anel de Goblin (Martelo)",
         "aegisName": "hammer_goblin_ring",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9346,6 +9911,7 @@
     "14572": {
         "id": "14572",
         "name": "Cristal de Âmbar",
+        "displayName": "Cristal de Âmbar",
         "aegisName": "holy_marble",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9354,6 +9920,7 @@
     "14573": {
         "id": "14573",
         "name": "Pedra Incandescente",
+        "displayName": "Pedra Incandescente",
         "aegisName": "red_burning_stone",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9362,6 +9929,7 @@
     "14574": {
         "id": "14574",
         "name": "Crânio do Andarilho",
+        "displayName": "Crânio do Andarilho",
         "aegisName": "skull_of_vagabond",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9370,6 +9938,7 @@
     "14586": {
         "id": "14586",
         "name": "Doce Hiper Açucarado",
+        "displayName": "Doce Hiper Açucarado",
         "aegisName": "spark_candy",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9378,6 +9947,7 @@
     "14587": {
         "id": "14587",
         "name": "Perg. de Reparar Arma",
+        "displayName": "Perg. de Reparar Arma",
         "aegisName": "repair_scroll_",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9386,6 +9956,7 @@
     "14588": {
         "id": "14588",
         "name": "Pergaminho Bênção em Grupo",
+        "displayName": "Pergaminho Bênção em Grupo",
         "aegisName": "pty_blessing_scroll",
         "type": "CONSUMABLE",
         "price": 10,
@@ -9394,6 +9965,7 @@
     "14589": {
         "id": "14589",
         "name": "Pergaminho Agilidade em Grupo",
+        "displayName": "Pergaminho Agilidade em Grupo",
         "aegisName": "pty_inc_agi_scroll",
         "type": "CONSUMABLE",
         "price": 10,
@@ -9402,6 +9974,7 @@
     "14590": {
         "id": "14590",
         "name": "Pergaminho Assumptio em Grupo",
+        "displayName": "Pergaminho Assumptio em Grupo",
         "aegisName": "pty_assumptio_scroll",
         "type": "CONSUMABLE",
         "price": 10,
@@ -9410,6 +9983,7 @@
     "14591": {
         "id": "14591",
         "name": "Pergaminho Para Feudos",
+        "displayName": "Pergaminho Para Feudos",
         "aegisName": "siege_teleport_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9418,6 +9992,7 @@
     "14592": {
         "id": "14592",
         "name": "Manual de Combate de Classe",
+        "displayName": "Manual de Combate de Classe",
         "aegisName": "job_manual50",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9426,6 +10001,7 @@
     "14593": {
         "id": "14593",
         "name": "Pergaminho de Amplificação Mística",
+        "displayName": "Pergaminho de Amplificação Mística",
         "aegisName": "magic_power_scroll",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9434,6 +10010,7 @@
     "14595": {
         "id": "14595",
         "name": "Pergaminho Mágico Aberto",
+        "displayName": "Pergaminho Mágico Aberto",
         "aegisName": "unsealed_magic_spell",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9442,6 +10019,7 @@
     "14596": {
         "id": "14596",
         "name": "Caixa do Tesouro de Pierre",
+        "displayName": "Caixa do Tesouro de Pierre",
         "aegisName": "pierre_treasurebox",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9450,6 +10028,7 @@
     "14598": {
         "id": "14598",
         "name": "Pergaminho de Ghostring",
+        "displayName": "Pergaminho de Ghostring",
         "aegisName": "ghostrings",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9458,6 +10037,7 @@
     "14600": {
         "id": "14600",
         "name": "Poção Mental",
+        "displayName": "Poção Mental",
         "aegisName": "mental_potion",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9466,6 +10046,7 @@
     "14601": {
         "id": "14601",
         "name": "Bênção de Tyr",
+        "displayName": "Bênção de Tyr",
         "aegisName": "tyrs_blessing",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9474,6 +10055,7 @@
     "14602": {
         "id": "14602",
         "name": "Pergaminho Tao Gunka",
+        "displayName": "Pergaminho Tao Gunka",
         "aegisName": "taogunkas",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9482,6 +10064,7 @@
     "14603": {
         "id": "14603",
         "name": "Pergaminho de Abelha Rainha",
+        "displayName": "Pergaminho de Abelha Rainha",
         "aegisName": "mistresss",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9490,6 +10073,7 @@
     "14604": {
         "id": "14604",
         "name": "Pergaminho de Orc Herói",
+        "displayName": "Pergaminho de Orc Herói",
         "aegisName": "orc_heros",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9498,6 +10082,7 @@
     "14605": {
         "id": "14605",
         "name": "Pergaminho de Senhor dos Orcs",
+        "displayName": "Pergaminho de Senhor dos Orcs",
         "aegisName": "orc_loads",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9506,6 +10091,7 @@
     "14611": {
         "id": "14611",
         "name": "Poção Média de Defesa Física RWC",
+        "displayName": "Poção Média de Defesa Física RWC",
         "aegisName": "m_def_potion",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9514,6 +10100,7 @@
     "14612": {
         "id": "14612",
         "name": "Poção Média de Defesa Mágica RWC",
+        "displayName": "Poção Média de Defesa Mágica RWC",
         "aegisName": "m_mdef_potion",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9522,6 +10109,7 @@
     "14613": {
         "id": "14613",
         "name": "Ovo do RWC",
+        "displayName": "Ovo do RWC",
         "aegisName": "rwc_scroll_2012",
         "type": "CONSUMABLE",
         "price": 20,
@@ -9530,6 +10118,7 @@
     "14614": {
         "id": "14614",
         "name": "Poção Especial de Defesa do RWC",
+        "displayName": "Poção Especial de Defesa do RWC",
         "aegisName": "ex_def_potion",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9538,6 +10127,7 @@
     "14616": {
         "id": "14616",
         "name": "Palitos de Laranja",
+        "displayName": "Palitos de Laranja",
         "aegisName": "str_biscuit_stick",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9555,6 +10145,7 @@
     "14618": {
         "id": "14618",
         "name": "Palitos de Baunilha",
+        "displayName": "Palitos de Baunilha",
         "aegisName": "agi_biscuit_stick",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9563,6 +10154,7 @@
     "14619": {
         "id": "14619",
         "name": "Palitos de Cassis",
+        "displayName": "Palitos de Cassis",
         "aegisName": "int_biscuit_stick",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9571,6 +10163,7 @@
     "14620": {
         "id": "14620",
         "name": "Palitos de Limão",
+        "displayName": "Palitos de Limão",
         "aegisName": "dex_biscuit_stick",
         "type": "CONSUMABLE",
         "price": 0,
@@ -9579,6 +10172,7 @@
     "14621": {
         "id": "14621",
         "name": "Palitos de Morango",
+        "displayName": "Palitos de Morango",
         "aegisName": "luk_biscuit_stick",
         "type": "CONSUMABLE",
         "price": 0,
@@ -10337,24 +10931,24 @@
         "name": "Cx Biscoito de Arroz [50]",
         "displayName": "Cx Biscoito de Arroz [50]",
         "aegisName": "superb_fish_box50",
-        "type": "CONSUMABLE",
-        "price": 20
+        "price": 20,
+        "type": "CONSUMABLE"
     },
     "17072": {
         "id": 17072,
         "name": "Cx Biscoito de Arroz [100]",
         "displayName": "Cx Biscoito de Arroz [100]",
         "aegisName": "superb_fish_box100",
-        "type": "CONSUMABLE",
-        "price": 20
+        "price": 20,
+        "type": "CONSUMABLE"
     },
     "17073": {
         "id": 17073,
         "name": "Cx Biscoito de Arroz [500]",
         "displayName": "Cx Biscoito de Arroz [500]",
         "aegisName": "superb_fish_box500",
-        "type": "CONSUMABLE",
-        "price": 20
+        "price": 20,
+        "type": "CONSUMABLE"
     },
     "17074": {
         "id": "17074",
@@ -10797,6 +11391,7 @@
     "22507": {
         "id": "22507",
         "name": "Velho Pergaminho",
+        "displayName": "Velho Pergaminho",
         "aegisName": "shabbyoldscroll",
         "type": "CONSUMABLE",
         "price": 1000,
@@ -10805,6 +11400,7 @@
     "22508": {
         "id": "22508",
         "name": "Emblema do Éden",
+        "displayName": "Emblema do Éden",
         "aegisName": "para_team_mark_",
         "type": "CONSUMABLE",
         "price": 0,
@@ -10813,6 +11409,7 @@
     "22511": {
         "id": "22511",
         "name": "Carta Fenris Fenrir",
+        "displayName": "Carta Fenris Fenrir",
         "aegisName": "fenrir_card__",
         "type": "CONSUMABLE",
         "price": 20,
@@ -10821,6 +11418,7 @@
     "22514": {
         "id": "22514",
         "name": "Porta-doces",
+        "displayName": "Porta-doces",
         "aegisName": "candy_holder",
         "type": "CONSUMABLE",
         "price": 20,
@@ -10829,6 +11427,7 @@
     "22515": {
         "id": "22515",
         "name": "Chave do Tempo Distorcido",
+        "displayName": "Chave do Tempo Distorcido",
         "aegisName": "key_of_twisted_time",
         "type": "CONSUMABLE",
         "price": 10,
@@ -10837,6 +11436,7 @@
     "22516": {
         "id": "22516",
         "name": "Gota das Trevas",
+        "displayName": "Gota das Trevas",
         "aegisName": "dark_red_clot",
         "type": "CONSUMABLE",
         "price": 1440,
@@ -10845,6 +11445,7 @@
     "22517": {
         "id": "22517",
         "name": "Pergaminho de Loki",
+        "displayName": "Pergaminho de Loki",
         "aegisName": "loki_summon_scroll",
         "type": "CONSUMABLE",
         "price": 0
@@ -10852,42 +11453,49 @@
     "22521": {
         "id": "22521",
         "name": "Caixa de Jornada Nv80",
+        "displayName": "Caixa de Jornada Nv80",
         "aegisName": "80lvup",
         "type": "CONSUMABLE"
     },
     "22522": {
         "id": "22522",
         "name": "Caixa de Jornada Nv100",
+        "displayName": "Caixa de Jornada Nv100",
         "aegisName": "100lvup",
         "type": "CONSUMABLE"
     },
     "22523": {
         "id": "22523",
         "name": "Caixa de Jornada Nv120",
+        "displayName": "Caixa de Jornada Nv120",
         "aegisName": "120lvup",
         "type": "CONSUMABLE"
     },
     "22524": {
         "id": "22524",
         "name": "Caixa de Jornada Nv130",
+        "displayName": "Caixa de Jornada Nv130",
         "aegisName": "130lvup",
         "type": "CONSUMABLE"
     },
     "22525": {
         "id": "22525",
         "name": "Caixa de Jornada Nv140",
+        "displayName": "Caixa de Jornada Nv140",
         "aegisName": "140lvup",
         "type": "CONSUMABLE"
     },
     "22526": {
         "id": "22526",
         "name": "Caixa de Jornada Nv150",
+        "displayName": "Caixa de Jornada Nv150",
         "aegisName": "150lvup",
         "type": "CONSUMABLE"
     },
     "22534": {
         "id": "22534",
         "name": "Caixa de Ferramentas Fechada",
+        "displayName": "Caixa de Ferramentas Fechada",
         "aegisName": "closedmind_box",
         "type": "CONSUMABLE",
         "price": 10,
@@ -10901,6 +11509,7 @@
     "22535": {
         "id": "22535",
         "name": "Pergaminho do Construtor",
+        "displayName": "Pergaminho do Construtor",
         "aegisName": "workerscroll_a",
         "type": "CONSUMABLE",
         "price": 0,
@@ -10909,6 +11518,7 @@
     "22536": {
         "id": "22536",
         "name": "Pergaminho da Construtora",
+        "displayName": "Pergaminho da Construtora",
         "aegisName": "workerscroll_b",
         "type": "CONSUMABLE",
         "price": 0,
@@ -10917,6 +11527,7 @@
     "22537": {
         "id": "22537",
         "name": "Prêmio do Herói",
+        "displayName": "Prêmio do Herói",
         "aegisName": "prizeofhero",
         "type": "CONSUMABLE",
         "price": 0,
@@ -10930,6 +11541,7 @@
     "22538": {
         "id": "22538",
         "name": "Bolsa Hanbok",
+        "displayName": "Bolsa Hanbok",
         "aegisName": "hanbok_bag",
         "type": "CONSUMABLE",
         "price": 0,
@@ -10938,6 +11550,7 @@
     "22540": {
         "id": "22540",
         "name": "Runa Luxanima",
+        "displayName": "Runa Luxanima",
         "aegisName": "runstone_lux",
         "type": "CONSUMABLE",
         "price": 2,
@@ -10956,6 +11569,7 @@
     "22549": {
         "id": "22549",
         "name": "Garrafa de Veneno Especial",
+        "displayName": "Garrafa de Veneno Especial",
         "aegisName": "poison_bottle_b",
         "type": "CONSUMABLE",
         "price": 0,
@@ -10964,6 +11578,7 @@
     "22566": {
         "id": "22566",
         "name": "Cristal Congelado",
+        "displayName": "Cristal Congelado",
         "aegisName": "frost_crystal",
         "type": "CONSUMABLE",
         "price": 0,
@@ -10972,6 +11587,7 @@
     "22567": {
         "id": "22567",
         "name": "Prêmio de Esquadrão",
+        "displayName": "Prêmio de Esquadrão",
         "aegisName": "squad_prize",
         "type": "CONSUMABLE",
         "price": 0,
@@ -10980,6 +11596,7 @@
     "22568": {
         "id": "22568",
         "name": "Pergaminho de Invocação de Nidhogg",
+        "displayName": "Pergaminho de Invocação de Nidhogg",
         "aegisName": "nyd_summon_scroll",
         "type": "CONSUMABLE",
         "price": 0
@@ -10987,6 +11604,7 @@
     "22611": {
         "id": "22611",
         "name": "Envelope Surpresa",
+        "displayName": "Envelope Surpresa",
         "aegisName": "packing_envelope",
         "type": "CONSUMABLE",
         "price": 0,
@@ -10995,6 +11613,7 @@
     "22652": {
         "id": "22652",
         "name": "Caixa de Chapéu",
+        "displayName": "Caixa de Chapéu",
         "aegisName": "brilliant_hat_box",
         "type": "CONSUMABLE",
         "price": 0,
@@ -11003,6 +11622,7 @@
     "22669": {
         "id": "22669",
         "name": "Caixa do Halloween",
+        "displayName": "Caixa do Halloween",
         "aegisName": "halloween_g_box",
         "type": "CONSUMABLE",
         "price": 0,
@@ -11011,6 +11631,7 @@
     "22670": {
         "id": "22670",
         "name": "Convite Sombrio",
+        "displayName": "Convite Sombrio",
         "aegisName": "dark_invitation",
         "type": "CONSUMABLE",
         "price": 10,
@@ -11019,6 +11640,7 @@
     "22685": {
         "id": "22685",
         "name": "Presente de Natal dos Solteiros",
+        "displayName": "Presente de Natal dos Solteiros",
         "aegisName": "solo_christmas_gift",
         "type": "CONSUMABLE",
         "price": 0,
@@ -11036,6 +11658,7 @@
     "22691": {
         "id": "22691",
         "name": "Registro do 1º dia",
+        "displayName": "Registro do 1º dia",
         "aegisName": "piece_of_record1",
         "type": "CONSUMABLE",
         "price": 0,
@@ -11044,6 +11667,7 @@
     "22692": {
         "id": "22692",
         "name": "Registro do 30º dia",
+        "displayName": "Registro do 30º dia",
         "aegisName": "piece_of_record2",
         "type": "CONSUMABLE",
         "price": 0,
@@ -11052,6 +11676,7 @@
     "22693": {
         "id": "22693",
         "name": "Registro do 32º dia",
+        "displayName": "Registro do 32º dia",
         "aegisName": "piece_of_record3",
         "type": "CONSUMABLE",
         "price": 0,
@@ -11060,6 +11685,7 @@
     "22694": {
         "id": "22694",
         "name": "Registro do 40º dia",
+        "displayName": "Registro do 40º dia",
         "aegisName": "piece_of_record4",
         "type": "CONSUMABLE",
         "price": 0,
@@ -11068,6 +11694,7 @@
     "22695": {
         "id": "22695",
         "name": "Registro do 50º dia",
+        "displayName": "Registro do 50º dia",
         "aegisName": "piece_of_record5",
         "type": "CONSUMABLE",
         "price": 0,
@@ -11076,6 +11703,7 @@
     "22699": {
         "id": "22699",
         "name": "Reagente de Teste",
+        "displayName": "Reagente de Teste",
         "aegisName": "test_reagent",
         "type": "CONSUMABLE",
         "price": 0,
@@ -11211,7 +11839,7 @@
         "id": 22819,
         "name": "Elixir Ultra Milagroso",
         "displayName": "Elixir Ultra Milagroso",
-        "aegisName": null,
+        "aegisName": "g_almighty",
         "weight": 1,
         "type": "CONSUMABLE"
     },
@@ -11219,13 +11847,14 @@
         "id": 22822,
         "name": "Bolsa com Roupa de Banho",
         "displayName": "Bolsa com Roupa de Banho",
-        "aegisName": null,
+        "aegisName": "summer_vacation_costumes",
         "weight": 10,
         "type": "CONSUMABLE"
     },
     "22838": {
         "id": "22838",
         "name": "Sacola de Doces Misteriosa",
+        "displayName": "Sacola de Doces Misteriosa",
         "aegisName": "something_candy_holder",
         "type": "CONSUMABLE",
         "price": 20,
@@ -11235,7 +11864,7 @@
         "id": 22847,
         "name": "Passaporte para Prontera",
         "displayName": "Passaporte para Prontera",
-        "aegisName": null,
+        "aegisName": "prontera_medal",
         "weight": 1,
         "type": "CONSUMABLE"
     },
@@ -11243,7 +11872,7 @@
         "id": 22848,
         "name": "Chaves da Prisão",
         "displayName": "Chaves da Prisão",
-        "aegisName": null,
+        "aegisName": "prison_key",
         "weight": 1,
         "type": "CONSUMABLE"
     },
@@ -11251,7 +11880,7 @@
         "id": 22849,
         "name": "Cristal de Prontera",
         "displayName": "Cristal de Prontera",
-        "aegisName": null,
+        "aegisName": "prontera_time_crystal",
         "weight": 1,
         "type": "CONSUMABLE"
     },
@@ -11266,6 +11895,7 @@
     "22881": {
         "id": "22881",
         "name": "Corda de Caça",
+        "displayName": "Corda de Caça",
         "aegisName": "binding_rope",
         "type": "CONSUMABLE",
         "weight": 0
@@ -11274,7 +11904,7 @@
         "id": 22899,
         "name": "Mapa da Cidade",
         "displayName": "Mapa da Cidade",
-        "aegisName": null,
+        "aegisName": "parchment_city",
         "weight": 0,
         "type": "CONSUMABLE"
     },
@@ -11282,7 +11912,7 @@
         "id": 22901,
         "name": "Caixa Azul Misteriosa",
         "displayName": "Caixa Azul Misteriosa",
-        "aegisName": null,
+        "aegisName": "question_old_blue_box",
         "weight": 0,
         "type": "CONSUMABLE"
     },
@@ -11315,12 +11945,13 @@
         "id": 23012,
         "name": "Poção Menor de Mana",
         "displayName": "Poção Menor de Mana",
-        "aegisName": null,
+        "aegisName": "s_small_mana_potion",
         "type": "CONSUMABLE"
     },
     "23044": {
         "id": "23044",
         "name": "Doce de Elvira",
+        "displayName": "Doce de Elvira",
         "aegisName": "elvira_candy",
         "type": "CONSUMABLE",
         "weight": 1
@@ -11345,7 +11976,7 @@
         "id": 23123,
         "name": "Cartucho de Projétil de Fogo",
         "displayName": "Cartucho de Projétil de Fogo",
-        "aegisName": null,
+        "aegisName": "bullet_case_flare",
         "weight": 25,
         "type": "CONSUMABLE"
     },
@@ -11353,7 +11984,7 @@
         "id": 23124,
         "name": "Cartucho de Projétil Relâmpago",
         "displayName": "Cartucho de Projétil Relâmpago",
-        "aegisName": null,
+        "aegisName": "bullet_case_lighting",
         "weight": 25,
         "type": "CONSUMABLE"
     },
@@ -11361,7 +11992,7 @@
         "id": 23125,
         "name": "Cartucho de Projétil Congelante",
         "displayName": "Cartucho de Projétil Congelante",
-        "aegisName": null,
+        "aegisName": "bullet_case_ice",
         "weight": 25,
         "type": "CONSUMABLE"
     },
@@ -11369,7 +12000,7 @@
         "id": 23126,
         "name": "Cartucho de Projétil Venenoso",
         "displayName": "Cartucho de Projétil Venenoso",
-        "aegisName": null,
+        "aegisName": "bullet_case_poison",
         "weight": 25,
         "type": "CONSUMABLE"
     },
@@ -11377,7 +12008,7 @@
         "id": 23127,
         "name": "Cartucho de Projétil Cegante",
         "displayName": "Cartucho de Projétil Cegante",
-        "aegisName": null,
+        "aegisName": "bullet_case_blind",
         "weight": 25,
         "type": "CONSUMABLE"
     },
@@ -11385,7 +12016,7 @@
         "id": 23177,
         "name": "Cartão Kafra Especial",
         "displayName": "Cartão Kafra Especial",
-        "aegisName": null,
+        "aegisName": "kafra_card_",
         "weight": 1,
         "type": "CONSUMABLE"
     },
@@ -11393,7 +12024,7 @@
         "id": 23202,
         "name": "Quentão",
         "displayName": "Quentão",
-        "aegisName": null,
+        "aegisName": "vin_chaud",
         "weight": 4,
         "type": "CONSUMABLE"
     },
@@ -11420,6 +12051,191 @@
         "aegisName": "macaron",
         "type": "CONSUMABLE",
         "weight": 10
+    },
+    "23302": {
+        "id": 23302,
+        "name": "Baú Poring",
+        "displayName": "Baú Poring",
+        "aegisName": null,
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 20,
+        "restrictions": {
+            "level": {
+                "min": 30
+            }
+        }
+    },
+    "23342": {
+        "id": 23342,
+        "name": "Passe de Venda (Básico) 1 Dia",
+        "displayName": "Passe de Venda (Básico) 1 Dia",
+        "aegisName": "vend_arbeit1_1lv",
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 1
+    },
+    "23343": {
+        "id": 23343,
+        "name": "Passe de Venda (Médio) 1 Dia",
+        "displayName": "Passe de Venda (Médio) 1 Dia",
+        "aegisName": "vend_arbeit1_2lv",
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 1
+    },
+    "23344": {
+        "id": 23344,
+        "name": "Passe de Venda (Avançado) 1 Dia",
+        "displayName": "Passe de Venda (Avançado) 1 Dia",
+        "aegisName": "vend_arbeit1_3lv",
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 1
+    },
+    "23345": {
+        "id": 23345,
+        "name": "Passe de Compra (Básico) 1 Dia",
+        "displayName": "Passe de Compra (Básico) 1 Dia",
+        "aegisName": "buy_arbeit1_1lv",
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 1
+    },
+    "23346": {
+        "id": 23346,
+        "name": "Passe de Compra (Médio) 1 Dia",
+        "displayName": "Passe de Compra (Médio) 1 Dia",
+        "aegisName": "buy_arbeit1_2lv",
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 1
+    },
+    "23347": {
+        "id": 23347,
+        "name": "Passe de Compra (Avançado) 1 Dia",
+        "displayName": "Passe de Compra (Avançado) 1 Dia",
+        "aegisName": "buy_arbeit1_3lv",
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 1
+    },
+    "23348": {
+        "id": 23348,
+        "name": "Licença de Venda (Básica)",
+        "displayName": "Licença de Venda (Básica)",
+        "aegisName": "vend_arbeit_1lv",
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 1
+    },
+    "23349": {
+        "id": 23349,
+        "name": "Licença de Venda (Média)",
+        "displayName": "Licença de Venda (Média)",
+        "aegisName": "vend_arbeit_2lv",
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 1
+    },
+    "23350": {
+        "id": 23350,
+        "name": "Licença de Venda (Avançada)",
+        "displayName": "Licença de Venda (Avançada)",
+        "aegisName": "vend_arbeit_3lv",
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 1
+    },
+    "23351": {
+        "id": 23351,
+        "name": "Licença de Compra (Básica)",
+        "displayName": "Licença de Compra (Básica)",
+        "aegisName": "buy_arbeit_1lv",
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 1
+    },
+    "23352": {
+        "id": 23352,
+        "name": "Licença de Compra (Média)",
+        "displayName": "Licença de Compra (Média)",
+        "aegisName": "buy_arbeit_2lv",
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 1
+    },
+    "23353": {
+        "id": 23353,
+        "name": "Licença de Compra (Avançada)",
+        "displayName": "Licença de Compra (Avançada)",
+        "aegisName": "buy_arbeit_3lv",
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 1
+    },
+    "23354": {
+        "id": 23354,
+        "name": "Passe de Venda (Básico) 3 Dias",
+        "displayName": "Passe de Venda (Básico) 3 Dias",
+        "aegisName": "vend_arbeit1_1lv_",
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 1
+    },
+    "23355": {
+        "id": 23355,
+        "name": "Passe de Venda (Médio) 3 Dias",
+        "displayName": "Passe de Venda (Médio) 3 Dias",
+        "aegisName": "vend_arbeit1_2lv_",
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 1
+    },
+    "23356": {
+        "id": 23356,
+        "name": "Passe de Venda (Avançado) 3 Dias",
+        "displayName": "Passe de Venda (Avançado) 3 Dias",
+        "aegisName": "vend_arbeit1_3lv_",
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 1
+    },
+    "23357": {
+        "id": 23357,
+        "name": "Passe de Compra (Básico) 3 Dias",
+        "displayName": "Passe de Compra (Básico) 3 Dias",
+        "aegisName": "buy_arbeit1_1lv_",
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 1
+    },
+    "23358": {
+        "id": 23358,
+        "name": "Passe de Compra (Médio) 3 Dias",
+        "displayName": "Passe de Compra (Médio) 3 Dias",
+        "aegisName": "buy_arbeit1_2lv_",
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 1
+    },
+    "23359": {
+        "id": 23359,
+        "name": "Passe de Compra (Avançado) 3 Dias",
+        "displayName": "Passe de Compra (Avançado) 3 Dias",
+        "aegisName": "buy_arbeit1_3lv_",
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 1
+    },
+    "23368": {
+        "id": 23368,
+        "name": "Catálogo de Lojas",
+        "displayName": "Catálogo de Lojas",
+        "aegisName": "store_search1",
+        "type": "CONSUMABLE",
+        "price": 0,
+        "weight": 1
     },
     "23548": {
         "id": "23548",

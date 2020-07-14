@@ -843,7 +843,7 @@
         "id": 1449,
         "name": "Gelerdria",
         "displayName": "Gelerdria [3]",
-        "aegisName": null,
+        "aegisName": "gelerdria_",
         "equipData": {
             "slots": 3,
             "class": "1HSPEAR",

@@ -4108,7 +4108,7 @@
         "id": 15110,
         "name": "Peça de FOR Suplementar",
         "displayName": "Peça de FOR Suplementar",
-        "aegisName": null,
+        "aegisName": "supplement_part_str",
         "price": 25000,
         "weight": 200,
         "restrictions": {
@@ -4128,7 +4128,7 @@
         "id": 15111,
         "name": "Autopeça - Carburador",
         "displayName": "Autopeça - Carburador",
-        "aegisName": null,
+        "aegisName": "upgrade_part_plate",
         "price": 25000,
         "weight": 300,
         "restrictions": {
@@ -4506,6 +4506,18 @@
         },
         "weight": 90
     },
+    "15283": {
+        "id": "15283",
+        "name": "Couraça de Senshi",
+        "displayName": "Couraça de Senshi [1]",
+        "aegisName": "armor_of_rosary",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "refinable": true
+        }
+    },
     "15345": {
         "id": "15345",
         "name": "Armadura do Dragão Azul",
@@ -4648,6 +4660,30 @@
         },
         "weight": 0
     },
+    "15407": {
+        "id": "15407",
+        "name": "Armadura do Cavaleiro Branco",
+        "displayName": "Armadura do Cavaleiro Branco [1]",
+        "aegisName": "whiteknightarmor",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "refinable": true
+        }
+    },
+    "15419": {
+        "id": "15419",
+        "name": "Armadura Yoroi",
+        "displayName": "Armadura Yoroi [1]",
+        "aegisName": "armor_of_white_thread",
+        "type": "ARMOR",
+        "equipData": {
+            "class": "ARMOR",
+            "slots": 1,
+            "refinable": true
+        }
+    },
     "15421": {
         "id": "15421",
         "name": "Robe da Graça Divina",
@@ -4676,34 +4712,16 @@
         },
         "weight": 90
     },
-    "18863": {
-        "id": "18863",
-        "name": "Robe do Exorcista",
-        "displayName": "Robe do Exorcista [1]",
-        "aegisName": "exorcist_robe",
+    "20932": {
+        "id": "20932",
+        "name": "Manto de Morroc",
+        "displayName": "Manto de Morroc [1]",
+        "aegisName": "old_moc_shawl",
         "type": "ARMOR",
         "equipData": {
             "class": "ARMOR",
             "slots": 1,
-            "position": "ARMOR",
             "refinable": true
-        },
-        "price": 0,
-        "weight": 170
-    },
-    "19048": {
-        "id": "19048",
-        "name": "Traje de Luta Jogos Vorags",
-        "displayName": "Traje de Luta Jogos Vorags [1]",
-        "aegisName": "elemental_clothe",
-        "type": "ARMOR",
-        "equipData": {
-            "class": "ARMOR",
-            "slots": 1,
-            "position": "ARMOR",
-            "refinable": true
-        },
-        "price": 0,
-        "weight": 50
+        }
     }
 }
